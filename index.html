@@ -63,16 +63,13 @@
     gap: 0.6rem;
   }
   .logo .ev { color: var(--accent); }
-
   .logo-text-wrap {
     display: flex;
     flex-direction: column;
     justify-content: center;
     line-height: 1;
   }
-
   .logo-name { display: block; line-height: 1; }
-
   .logo-tagline {
     font-family: 'DM Mono', monospace;
     font-size: 0.5rem;
@@ -81,10 +78,7 @@
     text-transform: uppercase;
     display: block;
     margin-top: 3px;
-    font-weight: 400;
   }
-
-  /* SVG logo mark */
   .logo-mark { flex-shrink: 0; display: block; }
 
   nav {
@@ -92,7 +86,6 @@
     gap: 0.2rem;
     align-items: center;
   }
-
   nav a {
     font-size: 0.76rem;
     font-weight: 500;
@@ -154,7 +147,7 @@
   }
   .ticker-track {
     display: flex;
-    animation: ticker 38s linear infinite;
+    animation: ticker 42s linear infinite;
     white-space: nowrap;
   }
   .ticker-track span { font-size: 0.72rem; color: var(--muted); padding: 0 2.5rem; }
@@ -164,7 +157,7 @@
     100% { transform: translateX(-50%); }
   }
 
-  /* ── ABOUT STRIP (AdSense: meaningful site description) ── */
+  /* ── ABOUT STRIP ── */
   .about-strip {
     background: linear-gradient(90deg, rgba(0,212,255,0.04) 0%, transparent 60%);
     border-bottom: 1px solid var(--border);
@@ -273,11 +266,7 @@
     cursor: pointer;
   }
   .card:hover { background: var(--surface2); }
-
-  .card.featured {
-    grid-column: span 2;
-    grid-row: span 2;
-  }
+  .card.featured { grid-column: span 2; grid-row: span 2; }
 
   .card-img {
     width: 100%;
@@ -289,10 +278,8 @@
   }
   .card.featured .card-img { aspect-ratio: 16/10; }
   .card:hover .card-img { filter: brightness(1.02); transform: scale(1.025); }
-
   .card-img-wrap { overflow: hidden; position: relative; }
 
-  /* ── TAGS ── */
   .card-tag {
     position: absolute;
     top: 0.75rem;
@@ -312,9 +299,9 @@
   .tag-charging { background: #9b6bff;        color: #0d0024; }
   .tag-deep     { background: #ffd700;        color: #1a1400; }
   .tag-solar    { background: var(--solar);   color: #1a0b00; }
+  .tag-used     { background: #e879f9;        color: #1a0020; }
   .tag-sponsored{ background: var(--surface2); color: var(--muted); border: 1px solid var(--border); }
 
-  /* ── CARD BODY ── */
   .card-body { padding: 1rem 1.2rem 1.2rem; flex: 1; display: flex; flex-direction: column; gap: 0.5rem; }
   .card.featured .card-body { padding: 1.4rem 1.6rem 1.6rem; }
 
@@ -326,7 +313,6 @@
     color: var(--muted);
   }
 
-  /* Title as link (above the overlay via z-index) */
   .card-title {
     font-weight: 600;
     font-size: 0.95rem;
@@ -359,14 +345,12 @@
     padding-top: 0.75rem;
     border-top: 1px solid var(--border);
   }
-
   .card-time {
     font-family: 'DM Mono', monospace;
     font-size: 0.59rem;
     color: var(--muted);
     letter-spacing: 0.05em;
   }
-
   .card-arrow {
     width: 28px; height: 28px;
     border: 1px solid var(--border);
@@ -378,19 +362,13 @@
   .card-arrow svg { width: 12px; height: 12px; stroke: var(--muted); transition: stroke 0.2s; }
   .card:hover .card-arrow svg { stroke: var(--accent); }
 
-  /* Full-card clickable overlay (z-index 1, below title links at z-index 2) */
-  .card-link {
-    position: absolute;
-    inset: 0;
-    z-index: 1;
-  }
+  .card-link { position: absolute; inset: 0; z-index: 1; }
 
   /* ── AD UNIT ── */
   .ad-card {
     background: var(--surface);
     display: flex; align-items: center; justify-content: center;
-    flex-direction: column; gap: 0.5rem;
-    min-height: 220px;
+    flex-direction: column; gap: 0.5rem; min-height: 220px;
   }
   .ad-card > span {
     font-family: 'DM Mono', monospace;
@@ -406,20 +384,17 @@
   /* ── FOOTER ── */
   footer {
     border-top: 1px solid var(--border);
-    padding: 2rem 2rem 3rem;
-    text-align: center;
+    padding: 2rem 2rem 3rem; text-align: center;
   }
   footer p {
     font-family: 'DM Mono', monospace;
-    font-size: 0.64rem;
-    color: var(--muted);
-    letter-spacing: 0.06em;
-    line-height: 1.8;
+    font-size: 0.64rem; color: var(--muted);
+    letter-spacing: 0.06em; line-height: 1.8;
   }
   footer a { color: var(--accent); text-decoration: none; }
   footer a:hover { text-decoration: underline; }
 
-  /* ── NEWSLETTER MODAL ── */
+  /* ── MODAL ── */
   .modal-bg {
     display: none; position: fixed; inset: 0;
     background: rgba(0,0,0,0.72); z-index: 200;
@@ -486,24 +461,14 @@
 </head>
 <body>
 
-<!-- ══════════════════════════════════════════
-     HEADER
-══════════════════════════════════════════ -->
+<!-- HEADER -->
 <header>
-  <a class="logo" href="nexusev.html" aria-label="nexusEV home">
-
-    <!-- Logo Mark: hexagonal nexus with lightning bolt -->
-    <svg class="logo-mark" width="36" height="40" viewBox="0 0 36 40" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-      <!-- Outer hexagon glow layer -->
-      <polygon points="18,2 34,11 34,29 18,38 2,29 2,11"
-               fill="rgba(0,212,255,0.07)" stroke="rgba(0,212,255,0.35)" stroke-width="1"/>
-      <!-- Main hexagon border -->
-      <polygon points="18,4 32,12 32,28 18,36 4,28 4,12"
-               fill="rgba(0,212,255,0.1)" stroke="#00d4ff" stroke-width="1.5"/>
-      <!-- Lightning bolt -->
+  <a class="logo" href="index.html" aria-label="nexusEV home">
+    <svg class="logo-mark" width="36" height="40" viewBox="0 0 36 40" fill="none" aria-hidden="true">
+      <polygon points="18,2 34,11 34,29 18,38 2,29 2,11" fill="rgba(0,212,255,0.07)" stroke="rgba(0,212,255,0.35)" stroke-width="1"/>
+      <polygon points="18,4 32,12 32,28 18,36 4,28 4,12" fill="rgba(0,212,255,0.1)" stroke="#00d4ff" stroke-width="1.5"/>
       <path d="M22 9L12 22H20L14 32L26 18H18L22 9Z" fill="#00d4ff"/>
     </svg>
-
     <div class="logo-text-wrap">
       <span class="logo-name">NEXUS<span class="ev">EV</span></span>
       <span class="logo-tagline">EV &amp; Renewable Energy</span>
@@ -511,7 +476,7 @@
   </a>
 
   <nav>
-    <a href="nexusev.html" class="active">Latest</a>
+    <a href="index.html" class="active">Latest</a>
     <a href="#">Reviews</a>
     <a href="#">Battery Tech</a>
     <a href="#">Charging</a>
@@ -524,29 +489,28 @@
   </div>
 </header>
 
-<!-- ══════════════════════════════════════════
-     LIVE TICKER
-══════════════════════════════════════════ -->
+<!-- TICKER -->
 <div class="ticker-wrap" aria-hidden="true">
   <div class="ticker-label">⚡ Live</div>
   <div class="ticker-track">
-    <span><b>Rivian R4/R5</b> — RJ Scaringe on the mass-market EV strategy</span>
-    <span><b>Tesla Solar</b> — MKBHD delivers his honest one-year verdict</span>
-    <span><b>Solid-State Batteries</b> — Physics Today cuts through manufacturer hype</span>
-    <span><b>Oil Prices</b> — Iran tensions push petrol &amp; diesel to new highs</span>
-    <span><b>Rivian Autonomy</b> — Sarah Guo and RJ Scaringe map the road ahead</span>
-    <span><b>Rivian R4/R5</b> — RJ Scaringe on the mass-market EV strategy</span>
-    <span><b>Tesla Solar</b> — MKBHD delivers his honest one-year verdict</span>
-    <span><b>Solid-State Batteries</b> — Physics Today cuts through manufacturer hype</span>
-    <span><b>Oil Prices</b> — Iran tensions push petrol &amp; diesel to new highs</span>
-    <span><b>Rivian Autonomy</b> — Sarah Guo and RJ Scaringe map the road ahead</span>
+    <span><b>Doug DeMuro</b> — Full Rivian R2 review is here</span>
+    <span><b>Slate Truck</b> — Jay Leno drives the budget EV everyone's talking about</span>
+    <span><b>Audi e-tron GT</b> — Used prices finally within reach</span>
+    <span><b>Home Charging</b> — The best Level 2 chargers of 2025 ranked</span>
+    <span><b>Rivian R4/R5</b> — RJ Scaringe on the mass-market strategy</span>
+    <span><b>Tesla Solar</b> — MKBHD's honest one-year verdict</span>
+    <span><b>Solid-State Batteries</b> — Physics Today cuts through the hype</span>
+    <span><b>Doug DeMuro</b> — Full Rivian R2 review is here</span>
+    <span><b>Slate Truck</b> — Jay Leno drives the budget EV everyone's talking about</span>
+    <span><b>Audi e-tron GT</b> — Used prices finally within reach</span>
+    <span><b>Home Charging</b> — The best Level 2 chargers of 2025 ranked</span>
+    <span><b>Rivian R4/R5</b> — RJ Scaringe on the mass-market strategy</span>
+    <span><b>Tesla Solar</b> — MKBHD's honest one-year verdict</span>
+    <span><b>Solid-State Batteries</b> — Physics Today cuts through the hype</span>
   </div>
 </div>
 
-<!-- ══════════════════════════════════════════
-     ABOUT STRIP  — required for AdSense
-     (meaningful description of what the site is)
-══════════════════════════════════════════ -->
+<!-- ABOUT STRIP -->
 <div class="about-strip">
   <p>
     <strong>nexusEV</strong> is an independent news aggregator dedicated to
@@ -557,9 +521,7 @@
   </p>
 </div>
 
-<!-- ══════════════════════════════════════════
-     HERO
-══════════════════════════════════════════ -->
+<!-- HERO -->
 <div class="hero-strip">
   <div>
     <div class="hero-date">Tuesday, March 3 · 2026</div>
@@ -569,12 +531,10 @@
       <span>Solar &amp; renewables</span>
     </div>
   </div>
-  <div class="hero-count">5 new posts today</div>
+  <div class="hero-count">9 new posts today</div>
 </div>
 
-<!-- ══════════════════════════════════════════
-     CATEGORY FILTER PILLS
-══════════════════════════════════════════ -->
+<!-- CATEGORY PILLS -->
 <div class="cats" role="navigation" aria-label="Filter by category">
   <button class="cat active">All</button>
   <button class="cat">Reviews</button>
@@ -593,7 +553,126 @@
 ══════════════════════════════════════════ -->
 <main class="grid-wrap" id="cardGrid">
 
-  <!-- ═══ 1. SARAH GUO + RJ SCARINGE (newest → featured) ═══ -->
+  <!-- ═══ NEW: DOUG DeMURO — Rivian R2 (newest → will become featured) ═══ -->
+  <article class="card" data-category="reviews" data-ts="2026-03-03T18:00:00">
+    <a class="card-link" href="https://youtu.be/xUl_0087dyM" target="_blank" rel="noopener"
+       aria-label="Watch: Doug DeMuro reviews the Rivian R2"></a>
+    <div class="card-img-wrap">
+      <span class="card-tag tag-review">Review</span>
+      <img class="card-img"
+           src="https://img.youtube.com/vi/xUl_0087dyM/maxresdefault.jpg"
+           alt="Doug DeMuro reviews the Rivian R2 — every quirk and feature"
+           loading="lazy">
+    </div>
+    <div class="card-body">
+      <div class="card-source">Doug DeMuro / YouTube</div>
+      <div class="card-title">
+        <a href="https://youtu.be/xUl_0087dyM" target="_blank" rel="noopener">
+          Doug DeMuro Does His Thing With the Rivian R2
+        </a>
+      </div>
+      <div class="card-blurb">
+        Nobody breaks down a new car like Doug. Every quirk, every feature, a full Doug Score — and the honest answer to whether Rivian's most affordable truck actually delivers on its $45k promise. Add your commentary here.
+      </div>
+      <div class="card-footer">
+        <span class="card-time">Today</span>
+        <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
+      </div>
+    </div>
+  </article>
+
+  <!-- ═══ NEW: HOME EV CHARGERS 2025 ═══ -->
+  <article class="card" data-category="charging" data-ts="2026-03-03T17:00:00">
+    <a class="card-link" href="https://youtu.be/sBTxLK1QC6M" target="_blank" rel="noopener"
+       aria-label="Watch: Best home EV chargers of 2025"></a>
+    <div class="card-img-wrap">
+      <span class="card-tag tag-charging">Charging</span>
+      <img class="card-img"
+           src="https://img.youtube.com/vi/sBTxLK1QC6M/maxresdefault.jpg"
+           alt="Best home EV chargers of 2025 — Level 2 EVSE comparison"
+           loading="lazy">
+    </div>
+    <div class="card-body">
+      <div class="card-source">YouTube</div>
+      <div class="card-title">
+        <a href="https://youtu.be/sBTxLK1QC6M" target="_blank" rel="noopener">
+          Charging at Home? The Highest-Rated Level 2 Chargers of 2025
+        </a>
+      </div>
+      <div class="card-blurb">
+        If you own an EV and still use a regular wall outlet overnight, you're leaving serious convenience on the table. This breakdown covers the top-rated home Level 2 chargers — what to look for, what to avoid. Add your commentary here.
+      </div>
+      <div class="card-footer">
+        <span class="card-time">Today</span>
+        <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
+      </div>
+    </div>
+  </article>
+
+  <!-- ═══ NEW: JAY LENO — SLATE TRUCK ═══ -->
+  <article class="card" data-category="trucks-suvs" data-ts="2026-03-03T16:00:00">
+    <a class="card-link" href="https://youtu.be/L6_9_HHLOSY" target="_blank" rel="noopener"
+       aria-label="Watch: Jay Leno reviews the Slate electric truck"></a>
+    <div class="card-img-wrap">
+      <span class="card-tag tag-review">Review</span>
+      <img class="card-img"
+           src="https://img.youtube.com/vi/L6_9_HHLOSY/maxresdefault.jpg"
+           alt="Jay Leno reviews the Slate electric truck — affordable EV pickup"
+           loading="lazy">
+    </div>
+    <div class="card-body">
+      <div class="card-source">Jay Leno's Garage / YouTube</div>
+      <div class="card-title">
+        <a href="https://youtu.be/L6_9_HHLOSY" target="_blank" rel="noopener">
+          Jay Leno Reviews the Slate Truck — The Affordable EV We've Been Waiting For?
+        </a>
+      </div>
+      <div class="card-blurb">
+        The Slate truck is gunning to be the everyday person's electric pickup — stripped back, practical, and priced to actually compete. Jay Leno gets behind the wheel and gives his verdict. Add your commentary here.
+      </div>
+      <div class="card-footer">
+        <span class="card-time">Today</span>
+        <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
+      </div>
+    </div>
+  </article>
+
+  <!-- ═══ NEW: USED AUDI E-TRON GT — InsideEVs ═══ -->
+  <article class="card" data-category="used-evs" data-ts="2026-03-03T15:00:00">
+    <a class="card-link" href="https://insideevs.com/news/786900/e-tron-gt-used-deals/"
+       target="_blank" rel="noopener"
+       aria-label="Read: Used Audi e-tron GT deals — InsideEVs"></a>
+    <div class="card-img-wrap">
+      <span class="card-tag tag-used">Used EVs</span>
+      <!-- Stock photo used — not pulling images from InsideEVs -->
+      <img class="card-img"
+           src="https://images.unsplash.com/photo-1617469767053-d3b523a0b982?w=900&q=80"
+           alt="Audi e-tron GT electric sports car — luxury EV now available used"
+           loading="lazy">
+    </div>
+    <div class="card-body">
+      <div class="card-source">InsideEVs</div>
+      <div class="card-title">
+        <a href="https://insideevs.com/news/786900/e-tron-gt-used-deals/"
+           target="_blank" rel="noopener">
+          Always Wanted an Audi e-tron GT? Used Deals Are Finally Making It Realistic
+        </a>
+      </div>
+      <div class="card-blurb">
+        The e-tron GT was the Audi nobody could afford when new. The used market tells a different story now — InsideEVs breaks down where the deals are and what to watch out for before you buy. Add your commentary here.
+      </div>
+      <div class="card-footer">
+        <span class="card-time">Today</span>
+        <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
+      </div>
+    </div>
+  </article>
+
+  <!-- ═══════════════════════════════
+       ORIGINAL 5 ARTICLES BELOW
+  ═══════════════════════════════ -->
+
+  <!-- SARAH GUO + RJ SCARINGE -->
   <article class="card" data-category="deep-dives" data-ts="2026-03-03T14:00:00">
     <a class="card-link" href="https://youtu.be/OScO1It9V5g" target="_blank" rel="noopener"
        aria-label="Watch: Sarah Guo and RJ Scaringe on the future of autonomy and Rivian"></a>
@@ -612,9 +691,7 @@
         </a>
       </div>
       <div class="card-blurb">
-        Rivian CEO RJ Scaringe joins Conviction's Sarah Guo to unpack where autonomous driving
-        is actually headed, Rivian's software roadmap, and what a future of self-driving electric
-        trucks looks like. Add your commentary here.
+        Rivian CEO RJ Scaringe joins Conviction's Sarah Guo to unpack where autonomous driving is actually headed, Rivian's software roadmap, and what a future of self-driving electric trucks looks like. Add your commentary here.
       </div>
       <div class="card-footer">
         <span class="card-time">Today</span>
@@ -623,7 +700,15 @@
     </div>
   </article>
 
-  <!-- ═══ 2. RJ AND TOSH ═══ -->
+  <!-- AD PLACEHOLDER — pinned after article #6 -->
+  <div class="card ad-card" data-ad="true" aria-hidden="true">
+    <span>Advertisement</span>
+    <div class="ad-card-inner">
+      <span style="font-family:'DM Mono',monospace;font-size:0.58rem;letter-spacing:0.1em;color:var(--border);">300 × 250 AD UNIT</span>
+    </div>
+  </div>
+
+  <!-- RJ AND TOSH -->
   <article class="card" data-category="news" data-ts="2026-03-03T13:00:00">
     <a class="card-link" href="https://youtu.be/JYMAbCmrBhs" target="_blank" rel="noopener"
        aria-label="Watch: RJ and Tosh talk Rivian, surfing, and R4/R5"></a>
@@ -642,8 +727,7 @@
         </a>
       </div>
       <div class="card-blurb">
-        Rivian's CEO RJ Scaringe and Tosh get candid about surfing, life outside the office, and
-        what's coming next for the R4 and R5 — Rivian's most anticipated models yet. Add your commentary here.
+        Rivian's CEO RJ Scaringe and Tosh get candid about surfing, life outside the office, and what's coming next for the R4 and R5 — Rivian's most anticipated models yet. Add your commentary here.
       </div>
       <div class="card-footer">
         <span class="card-time">Today</span>
@@ -652,11 +736,10 @@
     </div>
   </article>
 
-  <!-- ═══ 3. SOLID-STATE BATTERIES — Physics Today ═══ -->
+  <!-- SOLID-STATE BATTERIES -->
   <article class="card" data-category="battery-tech" data-ts="2026-03-03T11:00:00">
     <a class="card-link" href="https://physicstoday.aip.org/features/solid-state-batteries-hype-hopes-and-hurdles"
-       target="_blank" rel="noopener"
-       aria-label="Read: Solid-State Batteries: Hype, Hopes and Hurdles — Physics Today"></a>
+       target="_blank" rel="noopener"></a>
     <div class="card-img-wrap">
       <span class="card-tag tag-tech">Battery Tech</span>
       <img class="card-img"
@@ -673,9 +756,7 @@
         </a>
       </div>
       <div class="card-blurb">
-        Physics Today takes a sober look at solid-state battery technology — where the science
-        actually stands, what manufacturers are overpromising, and the realistic timeline for cells
-        that could double EV range overnight. Add your commentary here.
+        Physics Today takes a sober look at solid-state battery technology — where the science actually stands, what manufacturers are overpromising, and the realistic timeline for cells that could double EV range overnight. Add your commentary here.
       </div>
       <div class="card-footer">
         <span class="card-time">Today</span>
@@ -684,24 +765,15 @@
     </div>
   </article>
 
-  <!-- ═══ AD PLACEHOLDER (pinned after article #3) ═══ -->
-  <div class="card ad-card" data-ad="true" aria-hidden="true">
-    <span>Advertisement</span>
-    <div class="ad-card-inner">
-      <span style="font-family:'DM Mono',monospace;font-size:0.58rem;letter-spacing:0.1em;color:var(--border);">300 × 250 AD UNIT</span>
-    </div>
-  </div>
-
-  <!-- ═══ 4. BBC — SOLAR / IRAN OIL PRICES ═══ -->
+  <!-- BBC — SOLAR -->
   <article class="card" data-category="solar" data-ts="2026-03-03T10:00:00">
     <a class="card-link" href="https://www.bbc.com/news/articles/c20zgjzz0e4o"
-       target="_blank" rel="noopener"
-       aria-label="Read: Is it time to go Solar? Petrol and Diesel spike — BBC News"></a>
+       target="_blank" rel="noopener"></a>
     <div class="card-img-wrap">
       <span class="card-tag tag-solar">Solar</span>
       <img class="card-img"
            src="https://images.unsplash.com/photo-1509391366360-2e959784a276?w=900&q=80"
-           alt="Residential solar panels installed on rooftop — renewable energy for homes"
+           alt="Residential solar panels on rooftop — renewable energy for homes"
            loading="lazy">
     </div>
     <div class="card-body">
@@ -712,9 +784,7 @@
         </a>
       </div>
       <div class="card-blurb">
-        As geopolitical tensions push petrol and diesel prices sharply higher, the BBC examines
-        whether now is the moment millions of households finally make the switch to solar.
-        The cost-benefit numbers may surprise you. Add your commentary here.
+        As geopolitical tensions push petrol and diesel prices sharply higher, the BBC examines whether now is the moment millions of households finally make the switch to solar. The cost-benefit numbers may surprise you. Add your commentary here.
       </div>
       <div class="card-footer">
         <span class="card-time">Today</span>
@@ -723,7 +793,7 @@
     </div>
   </article>
 
-  <!-- ═══ 5. MKBHD — TESLA SOLAR ═══ -->
+  <!-- MKBHD — TESLA SOLAR -->
   <article class="card" data-category="solar" data-ts="2026-03-03T09:00:00">
     <a class="card-link" href="https://youtu.be/UJeSWbR6W04" target="_blank" rel="noopener"
        aria-label="Watch: Was Tesla Solar Worth It? — MKBHD"></a>
@@ -742,9 +812,7 @@
         </a>
       </div>
       <div class="card-blurb">
-        Marques Brownlee shares his candid one-year verdict on Tesla Solar — the real cost,
-        what the app is actually like to live with daily, and whether the energy savings
-        genuinely justify the installation price. Add your commentary here.
+        Marques Brownlee shares his candid one-year verdict on Tesla Solar — the real cost, what the app is actually like to live with daily, and whether the energy savings genuinely justify the installation price. Add your commentary here.
       </div>
       <div class="card-footer">
         <span class="card-time">Today</span>
@@ -755,21 +823,16 @@
 
 </main>
 
-<!-- NO RESULTS MESSAGE -->
 <div class="no-results" id="noResults">No posts in this category yet — check back soon.</div>
 
-<!-- ══════════════════════════════════════════
-     FOOTER
-══════════════════════════════════════════ -->
+<!-- FOOTER -->
 <footer>
   <p>© 2026 nexusEV &nbsp;·&nbsp; <a href="about.html">About</a> &nbsp;·&nbsp; <a href="advertise.html">Advertise</a> &nbsp;·&nbsp; <a href="#">Submit a Link</a> &nbsp;·&nbsp; <a href="privacy.html">Privacy Policy</a></p>
   <p>Independent EV and renewable energy news. Not affiliated with any manufacturer. All article links go to original sources.</p>
 </footer>
 
-<!-- ══════════════════════════════════════════
-     NEWSLETTER MODAL
-══════════════════════════════════════════ -->
-<div class="modal-bg" onclick="if(event.target===this)this.classList.remove('open')" role="dialog" aria-modal="true" aria-label="Newsletter sign-up">
+<!-- NEWSLETTER MODAL -->
+<div class="modal-bg" onclick="if(event.target===this)this.classList.remove('open')" role="dialog" aria-modal="true">
   <div class="modal">
     <button class="modal-close" onclick="document.querySelector('.modal-bg').classList.remove('open')" aria-label="Close">✕</button>
     <h2>THE <span>NEXUS</span> BRIEF</h2>
@@ -780,9 +843,6 @@
   </div>
 </div>
 
-<!-- ══════════════════════════════════════════
-     JAVASCRIPT — filter, sort, featured logic
-══════════════════════════════════════════ -->
 <script>
   const categoryMap = {
     'All':                  null,
@@ -813,7 +873,7 @@
     const reordered = [];
     articles.forEach((el, i) => {
       reordered.push(el);
-      if (i === 2 && adCards.length) reordered.push(...adCards);
+      if (i === 5 && adCards.length) reordered.push(...adCards);
     });
     reordered.forEach(el => grid.appendChild(el));
   }
