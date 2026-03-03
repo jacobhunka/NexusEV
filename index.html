@@ -485,7 +485,7 @@
   </nav>
 
   <div class="header-right">
-    <button class="newsletter-btn" onclick="document.querySelector('.modal-bg').classList.add('open')">Get the Newsletter</button>
+    <button class="newsletter-btn" onclick="document.querySelector('.modal-bg').classList.add('open')">Newsletter — Coming Soon</button>
   </div>
 </header>
 
@@ -836,10 +836,12 @@
   <div class="modal">
     <button class="modal-close" onclick="document.querySelector('.modal-bg').classList.remove('open')" aria-label="Close">✕</button>
     <h2>THE <span>NEXUS</span> BRIEF</h2>
-    <p>The week's best EV and renewable energy content in one clean email. No spam, no fluff — just the stories that matter, every Friday morning.</p>
-    <input type="email" placeholder="your@email.com" aria-label="Email address" />
-    <button class="modal-submit">Subscribe Free →</button>
-    <p class="modal-fine">Unsubscribe anytime. We don't sell your data.</p>
+    <p>The week's best EV and renewable energy content in one clean email — every Friday morning.</p>
+    <p style="background:rgba(0,212,255,0.07);border:1px solid rgba(0,212,255,0.2);border-radius:4px;padding:1rem;font-size:0.85rem;color:var(--text);margin-bottom:1rem;">
+      ⚡ <strong>Newsletter launching soon.</strong> We're setting up the mailing list now. Check back shortly — or email <a href="mailto:nexusevnews@gmail.com" style="color:var(--accent);">nexusevnews@gmail.com</a> to be notified when it goes live.
+    </p>
+    <button class="modal-submit" onclick="document.querySelector('.modal-bg').classList.remove('open')">Got It →</button>
+    <p class="modal-fine">No spam. Ever.</p>
   </div>
 </div>
 
