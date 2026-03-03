@@ -1,0 +1,864 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>nexusEV — EV &amp; Renewable Energy News</title>
+<meta name="description" content="nexusEV is your daily source for electric vehicle and renewable energy news. Curated videos, articles, and deep dives from across the web — updated daily.">
+<meta property="og:title" content="nexusEV — EV &amp; Renewable Energy News">
+<meta property="og:description" content="Electric vehicles. Solar. Renewable energy. The stories that matter, curated daily.">
+<meta name="robots" content="index, follow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #0a0b0f;
+    --surface: #111318;
+    --surface2: #1a1d24;
+    --border: #1f2330;
+    --accent: #00d4ff;
+    --accent2: #7fff6e;
+    --solar: #f59e0b;
+    --text: #e8eaf0;
+    --muted: #6b7280;
+    --tag-bg: #0f1a2e;
+  }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* ── HEADER ── */
+  header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: rgba(10,11,15,0.94);
+    backdrop-filter: blur(14px);
+    border-bottom: 1px solid var(--border);
+    padding: 0 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 62px;
+  }
+
+  .logo {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.85rem;
+    letter-spacing: 0.06em;
+    color: var(--text);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+  .logo .ev { color: var(--accent); }
+
+  .logo-text-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 1;
+  }
+
+  .logo-name { display: block; line-height: 1; }
+
+  .logo-tagline {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.5rem;
+    letter-spacing: 0.14em;
+    color: var(--muted);
+    text-transform: uppercase;
+    display: block;
+    margin-top: 3px;
+    font-weight: 400;
+  }
+
+  /* SVG logo mark */
+  .logo-mark { flex-shrink: 0; display: block; }
+
+  nav {
+    display: flex;
+    gap: 0.2rem;
+    align-items: center;
+  }
+
+  nav a {
+    font-size: 0.76rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--muted);
+    text-decoration: none;
+    padding: 0.35rem 0.7rem;
+    border-radius: 4px;
+    transition: color 0.2s, background 0.2s;
+  }
+  nav a:hover { color: var(--text); background: var(--surface2); }
+  nav a.active { color: var(--accent); }
+  nav a.solar-nav { color: #c47d0a; }
+  nav a.solar-nav:hover { color: var(--solar); background: rgba(245,158,11,0.08); }
+
+  .header-right { display: flex; align-items: center; gap: 0.75rem; }
+
+  .newsletter-btn {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.76rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    background: var(--accent);
+    color: #000;
+    border: none;
+    padding: 0.45rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: opacity 0.2s;
+  }
+  .newsletter-btn:hover { opacity: 0.85; }
+
+  /* ── TICKER ── */
+  .ticker-wrap {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    overflow: hidden;
+    height: 32px;
+    display: flex;
+    align-items: center;
+  }
+  .ticker-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.65rem;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    background: var(--tag-bg);
+    padding: 0 1rem;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    flex-shrink: 0;
+    border-right: 1px solid var(--border);
+  }
+  .ticker-track {
+    display: flex;
+    animation: ticker 38s linear infinite;
+    white-space: nowrap;
+  }
+  .ticker-track span { font-size: 0.72rem; color: var(--muted); padding: 0 2.5rem; }
+  .ticker-track span b { color: var(--text); font-weight: 500; }
+  @keyframes ticker {
+    0%   { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+
+  /* ── ABOUT STRIP (AdSense: meaningful site description) ── */
+  .about-strip {
+    background: linear-gradient(90deg, rgba(0,212,255,0.04) 0%, transparent 60%);
+    border-bottom: 1px solid var(--border);
+    padding: 0.75rem 2rem;
+  }
+  .about-strip p {
+    font-size: 0.8rem;
+    color: var(--muted);
+    max-width: 1000px;
+    margin: 0 auto;
+    line-height: 1.55;
+    text-align: center;
+  }
+  .about-strip strong { color: var(--text); }
+  .about-strip a { color: var(--accent); text-decoration: none; }
+  .about-strip a:hover { text-decoration: underline; }
+
+  /* ── HERO STRIP ── */
+  .hero-strip {
+    padding: 2.5rem 2rem 0;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  .hero-date {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.12em;
+    color: var(--muted);
+    text-transform: uppercase;
+    margin-bottom: 0.4rem;
+  }
+  .hero-headline {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: clamp(2.2rem, 5vw, 4.5rem);
+    line-height: 0.95;
+    letter-spacing: 0.02em;
+  }
+  .hero-headline em { color: var(--accent); font-style: normal; }
+  .hero-sub {
+    font-size: 0.82rem;
+    color: var(--muted);
+    margin-top: 0.55rem;
+    letter-spacing: 0.01em;
+  }
+  .hero-sub span { color: var(--solar); }
+  .hero-count {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.7rem;
+    color: var(--muted);
+    letter-spacing: 0.08em;
+    padding-bottom: 0.2rem;
+  }
+
+  /* ── CATEGORY PILLS ── */
+  .cats {
+    max-width: 1400px;
+    margin: 1.5rem auto 0;
+    padding: 0 2rem;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .cat {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.67rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 0.3rem 0.85rem;
+    border-radius: 2px;
+    border: 1px solid var(--border);
+    color: var(--muted);
+    cursor: pointer;
+    transition: all 0.15s;
+    background: transparent;
+  }
+  .cat:hover, .cat.active { border-color: var(--accent); color: var(--accent); background: var(--tag-bg); }
+  .cat.solar-cat:hover, .cat.solar-cat.active {
+    border-color: var(--solar);
+    color: var(--solar);
+    background: rgba(245,158,11,0.07);
+  }
+
+  /* ── GRID ── */
+  .grid-wrap {
+    max-width: 1400px;
+    margin: 2rem auto;
+    padding: 0 2rem 4rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+  }
+
+  /* ── CARD ── */
+  .card {
+    background: var(--surface);
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+    transition: background 0.2s;
+    cursor: pointer;
+  }
+  .card:hover { background: var(--surface2); }
+
+  .card.featured {
+    grid-column: span 2;
+    grid-row: span 2;
+  }
+
+  .card-img {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    display: block;
+    filter: brightness(0.88);
+    transition: filter 0.3s, transform 0.4s;
+  }
+  .card.featured .card-img { aspect-ratio: 16/10; }
+  .card:hover .card-img { filter: brightness(1.02); transform: scale(1.025); }
+
+  .card-img-wrap { overflow: hidden; position: relative; }
+
+  /* ── TAGS ── */
+  .card-tag {
+    position: absolute;
+    top: 0.75rem;
+    left: 0.75rem;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.59rem;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 0.2rem 0.55rem;
+    border-radius: 2px;
+    z-index: 2;
+  }
+  .tag-review   { background: var(--accent2); color: #0a200a; }
+  .tag-tech     { background: var(--accent);  color: #001a24; }
+  .tag-news     { background: #ff6b35;        color: #1a0a00; }
+  .tag-charging { background: #9b6bff;        color: #0d0024; }
+  .tag-deep     { background: #ffd700;        color: #1a1400; }
+  .tag-solar    { background: var(--solar);   color: #1a0b00; }
+  .tag-sponsored{ background: var(--surface2); color: var(--muted); border: 1px solid var(--border); }
+
+  /* ── CARD BODY ── */
+  .card-body { padding: 1rem 1.2rem 1.2rem; flex: 1; display: flex; flex-direction: column; gap: 0.5rem; }
+  .card.featured .card-body { padding: 1.4rem 1.6rem 1.6rem; }
+
+  .card-source {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.61rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  /* Title as link (above the overlay via z-index) */
+  .card-title {
+    font-weight: 600;
+    font-size: 0.95rem;
+    line-height: 1.35;
+    position: relative;
+    z-index: 2;
+  }
+  .card.featured .card-title { font-size: 1.35rem; }
+
+  .card-title a {
+    color: var(--text);
+    text-decoration: none;
+    transition: color 0.15s;
+  }
+  .card-title a:hover { color: var(--accent); }
+
+  .card-blurb {
+    font-size: 0.82rem;
+    line-height: 1.6;
+    color: var(--muted);
+    flex: 1;
+  }
+  .card.featured .card-blurb { font-size: 0.9rem; }
+
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 0.25rem;
+    padding-top: 0.75rem;
+    border-top: 1px solid var(--border);
+  }
+
+  .card-time {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.59rem;
+    color: var(--muted);
+    letter-spacing: 0.05em;
+  }
+
+  .card-arrow {
+    width: 28px; height: 28px;
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    display: flex; align-items: center; justify-content: center;
+    transition: border-color 0.2s, background 0.2s;
+  }
+  .card:hover .card-arrow { border-color: var(--accent); background: var(--tag-bg); }
+  .card-arrow svg { width: 12px; height: 12px; stroke: var(--muted); transition: stroke 0.2s; }
+  .card:hover .card-arrow svg { stroke: var(--accent); }
+
+  /* Full-card clickable overlay (z-index 1, below title links at z-index 2) */
+  .card-link {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+  }
+
+  /* ── AD UNIT ── */
+  .ad-card {
+    background: var(--surface);
+    display: flex; align-items: center; justify-content: center;
+    flex-direction: column; gap: 0.5rem;
+    min-height: 220px;
+  }
+  .ad-card > span {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.58rem; letter-spacing: 0.12em;
+    color: var(--border); text-transform: uppercase;
+  }
+  .ad-card-inner {
+    width: 80%; height: 130px;
+    border: 1px dashed var(--border); border-radius: 4px;
+    display: flex; align-items: center; justify-content: center;
+  }
+
+  /* ── FOOTER ── */
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 2rem 2rem 3rem;
+    text-align: center;
+  }
+  footer p {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.64rem;
+    color: var(--muted);
+    letter-spacing: 0.06em;
+    line-height: 1.8;
+  }
+  footer a { color: var(--accent); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+
+  /* ── NEWSLETTER MODAL ── */
+  .modal-bg {
+    display: none; position: fixed; inset: 0;
+    background: rgba(0,0,0,0.72); z-index: 200;
+    align-items: center; justify-content: center;
+  }
+  .modal-bg.open { display: flex; }
+  .modal {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    padding: 2.5rem; max-width: 420px; width: 90%;
+    border-radius: 6px; position: relative;
+  }
+  .modal-close {
+    position: absolute; top: 1rem; right: 1rem;
+    background: none; border: none;
+    color: var(--muted); font-size: 1.2rem; cursor: pointer;
+  }
+  .modal h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2rem; letter-spacing: 0.05em; margin-bottom: 0.5rem;
+  }
+  .modal h2 span { color: var(--accent); }
+  .modal p { font-size: 0.85rem; color: var(--muted); margin-bottom: 1.5rem; line-height: 1.6; }
+  .modal input {
+    width: 100%; background: var(--bg);
+    border: 1px solid var(--border); color: var(--text);
+    padding: 0.65rem 1rem; border-radius: 4px;
+    font-family: 'DM Sans', sans-serif; font-size: 0.9rem;
+    margin-bottom: 0.75rem; outline: none; transition: border-color 0.2s;
+  }
+  .modal input:focus { border-color: var(--accent); }
+  .modal-submit {
+    width: 100%; background: var(--accent); color: #000;
+    border: none; padding: 0.7rem;
+    font-family: 'DM Sans', sans-serif; font-weight: 700;
+    font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase;
+    border-radius: 4px; cursor: pointer; transition: opacity 0.2s;
+  }
+  .modal-submit:hover { opacity: 0.85; }
+  .modal-fine { font-size: 0.7rem !important; margin-top: 0.75rem !important; margin-bottom: 0 !important; }
+
+  .card.hidden { display: none; }
+  .card.fade-in { animation: fadeIn 0.25s ease forwards; }
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(6px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  .no-results {
+    grid-column: 1 / -1;
+    padding: 4rem 2rem; text-align: center;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.75rem; letter-spacing: 0.1em;
+    color: var(--muted); text-transform: uppercase; display: none;
+  }
+
+  @media (max-width: 700px) {
+    .card.featured { grid-column: span 1; grid-row: span 1; }
+    nav { display: none; }
+    .hero-headline { font-size: 2rem; }
+    .grid-wrap { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════
+     HEADER
+══════════════════════════════════════════ -->
+<header>
+  <a class="logo" href="nexusev.html" aria-label="nexusEV home">
+
+    <!-- Logo Mark: hexagonal nexus with lightning bolt -->
+    <svg class="logo-mark" width="36" height="40" viewBox="0 0 36 40" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <!-- Outer hexagon glow layer -->
+      <polygon points="18,2 34,11 34,29 18,38 2,29 2,11"
+               fill="rgba(0,212,255,0.07)" stroke="rgba(0,212,255,0.35)" stroke-width="1"/>
+      <!-- Main hexagon border -->
+      <polygon points="18,4 32,12 32,28 18,36 4,28 4,12"
+               fill="rgba(0,212,255,0.1)" stroke="#00d4ff" stroke-width="1.5"/>
+      <!-- Lightning bolt -->
+      <path d="M22 9L12 22H20L14 32L26 18H18L22 9Z" fill="#00d4ff"/>
+    </svg>
+
+    <div class="logo-text-wrap">
+      <span class="logo-name">NEXUS<span class="ev">EV</span></span>
+      <span class="logo-tagline">EV &amp; Renewable Energy</span>
+    </div>
+  </a>
+
+  <nav>
+    <a href="nexusev.html" class="active">Latest</a>
+    <a href="#">Reviews</a>
+    <a href="#">Battery Tech</a>
+    <a href="#">Charging</a>
+    <a href="#" class="solar-nav">Solar ☀</a>
+    <a href="#">Deep Dives</a>
+  </nav>
+
+  <div class="header-right">
+    <button class="newsletter-btn" onclick="document.querySelector('.modal-bg').classList.add('open')">Get the Newsletter</button>
+  </div>
+</header>
+
+<!-- ══════════════════════════════════════════
+     LIVE TICKER
+══════════════════════════════════════════ -->
+<div class="ticker-wrap" aria-hidden="true">
+  <div class="ticker-label">⚡ Live</div>
+  <div class="ticker-track">
+    <span><b>Rivian R4/R5</b> — RJ Scaringe on the mass-market EV strategy</span>
+    <span><b>Tesla Solar</b> — MKBHD delivers his honest one-year verdict</span>
+    <span><b>Solid-State Batteries</b> — Physics Today cuts through manufacturer hype</span>
+    <span><b>Oil Prices</b> — Iran tensions push petrol &amp; diesel to new highs</span>
+    <span><b>Rivian Autonomy</b> — Sarah Guo and RJ Scaringe map the road ahead</span>
+    <span><b>Rivian R4/R5</b> — RJ Scaringe on the mass-market EV strategy</span>
+    <span><b>Tesla Solar</b> — MKBHD delivers his honest one-year verdict</span>
+    <span><b>Solid-State Batteries</b> — Physics Today cuts through manufacturer hype</span>
+    <span><b>Oil Prices</b> — Iran tensions push petrol &amp; diesel to new highs</span>
+    <span><b>Rivian Autonomy</b> — Sarah Guo and RJ Scaringe map the road ahead</span>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════
+     ABOUT STRIP  — required for AdSense
+     (meaningful description of what the site is)
+══════════════════════════════════════════ -->
+<div class="about-strip">
+  <p>
+    <strong>nexusEV</strong> is an independent news aggregator dedicated to
+    <strong>electric vehicles and renewable energy</strong>. We surface the best videos,
+    articles, and deep dives from YouTube creators, automotive journalists, and energy
+    researchers — updated daily. Not affiliated with any manufacturer.
+    <a href="about.html">About us →</a>
+  </p>
+</div>
+
+<!-- ══════════════════════════════════════════
+     HERO
+══════════════════════════════════════════ -->
+<div class="hero-strip">
+  <div>
+    <div class="hero-date">Tuesday, March 3 · 2026</div>
+    <div class="hero-headline">THE EV WORLD,<br><em>CONNECTED.</em></div>
+    <div class="hero-sub">
+      Electric vehicles &middot; Battery tech &middot; Charging &middot;
+      <span>Solar &amp; renewables</span>
+    </div>
+  </div>
+  <div class="hero-count">5 new posts today</div>
+</div>
+
+<!-- ══════════════════════════════════════════
+     CATEGORY FILTER PILLS
+══════════════════════════════════════════ -->
+<div class="cats" role="navigation" aria-label="Filter by category">
+  <button class="cat active">All</button>
+  <button class="cat">Reviews</button>
+  <button class="cat">Battery Tech</button>
+  <button class="cat">Charging</button>
+  <button class="cat solar-cat">Solar &amp; Renewables</button>
+  <button class="cat">Deep Dives</button>
+  <button class="cat">Trucks &amp; SUVs</button>
+  <button class="cat">Used EVs</button>
+  <button class="cat">Policy</button>
+  <button class="cat">News</button>
+</div>
+
+<!-- ══════════════════════════════════════════
+     ARTICLE GRID
+══════════════════════════════════════════ -->
+<main class="grid-wrap" id="cardGrid">
+
+  <!-- ═══ 1. SARAH GUO + RJ SCARINGE (newest → featured) ═══ -->
+  <article class="card" data-category="deep-dives" data-ts="2026-03-03T14:00:00">
+    <a class="card-link" href="https://youtu.be/OScO1It9V5g" target="_blank" rel="noopener"
+       aria-label="Watch: Sarah Guo and RJ Scaringe on the future of autonomy and Rivian"></a>
+    <div class="card-img-wrap">
+      <span class="card-tag tag-deep">Deep Dive</span>
+      <img class="card-img"
+           src="https://img.youtube.com/vi/OScO1It9V5g/maxresdefault.jpg"
+           alt="Sarah Guo interviews Rivian CEO RJ Scaringe about autonomous driving and Rivian's future"
+           loading="lazy">
+    </div>
+    <div class="card-body">
+      <div class="card-source">Conviction / YouTube</div>
+      <div class="card-title">
+        <a href="https://youtu.be/OScO1It9V5g" target="_blank" rel="noopener">
+          Sarah Guo &amp; RJ Scaringe: The Future of Autonomy and Rivian
+        </a>
+      </div>
+      <div class="card-blurb">
+        Rivian CEO RJ Scaringe joins Conviction's Sarah Guo to unpack where autonomous driving
+        is actually headed, Rivian's software roadmap, and what a future of self-driving electric
+        trucks looks like. Add your commentary here.
+      </div>
+      <div class="card-footer">
+        <span class="card-time">Today</span>
+        <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
+      </div>
+    </div>
+  </article>
+
+  <!-- ═══ 2. RJ AND TOSH ═══ -->
+  <article class="card" data-category="news" data-ts="2026-03-03T13:00:00">
+    <a class="card-link" href="https://youtu.be/JYMAbCmrBhs" target="_blank" rel="noopener"
+       aria-label="Watch: RJ and Tosh talk Rivian, surfing, and R4/R5"></a>
+    <div class="card-img-wrap">
+      <span class="card-tag tag-news">News</span>
+      <img class="card-img"
+           src="https://img.youtube.com/vi/JYMAbCmrBhs/maxresdefault.jpg"
+           alt="Rivian CEO RJ Scaringe and Tosh discuss R4, R5 and life outside the office"
+           loading="lazy">
+    </div>
+    <div class="card-body">
+      <div class="card-source">Rivian / YouTube</div>
+      <div class="card-title">
+        <a href="https://youtu.be/JYMAbCmrBhs" target="_blank" rel="noopener">
+          RJ and Tosh Talk Rivian, Surfing, and the R4/R5
+        </a>
+      </div>
+      <div class="card-blurb">
+        Rivian's CEO RJ Scaringe and Tosh get candid about surfing, life outside the office, and
+        what's coming next for the R4 and R5 — Rivian's most anticipated models yet. Add your commentary here.
+      </div>
+      <div class="card-footer">
+        <span class="card-time">Today</span>
+        <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
+      </div>
+    </div>
+  </article>
+
+  <!-- ═══ 3. SOLID-STATE BATTERIES — Physics Today ═══ -->
+  <article class="card" data-category="battery-tech" data-ts="2026-03-03T11:00:00">
+    <a class="card-link" href="https://physicstoday.aip.org/features/solid-state-batteries-hype-hopes-and-hurdles"
+       target="_blank" rel="noopener"
+       aria-label="Read: Solid-State Batteries: Hype, Hopes and Hurdles — Physics Today"></a>
+    <div class="card-img-wrap">
+      <span class="card-tag tag-tech">Battery Tech</span>
+      <img class="card-img"
+           src="https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=900&q=80"
+           alt="Close-up of battery cell technology used in next-generation electric vehicles"
+           loading="lazy">
+    </div>
+    <div class="card-body">
+      <div class="card-source">Physics Today</div>
+      <div class="card-title">
+        <a href="https://physicstoday.aip.org/features/solid-state-batteries-hype-hopes-and-hurdles"
+           target="_blank" rel="noopener">
+          Solid-State Batteries: Hype, Hopes, and Hurdles
+        </a>
+      </div>
+      <div class="card-blurb">
+        Physics Today takes a sober look at solid-state battery technology — where the science
+        actually stands, what manufacturers are overpromising, and the realistic timeline for cells
+        that could double EV range overnight. Add your commentary here.
+      </div>
+      <div class="card-footer">
+        <span class="card-time">Today</span>
+        <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
+      </div>
+    </div>
+  </article>
+
+  <!-- ═══ AD PLACEHOLDER (pinned after article #3) ═══ -->
+  <div class="card ad-card" data-ad="true" aria-hidden="true">
+    <span>Advertisement</span>
+    <div class="ad-card-inner">
+      <span style="font-family:'DM Mono',monospace;font-size:0.58rem;letter-spacing:0.1em;color:var(--border);">300 × 250 AD UNIT</span>
+    </div>
+  </div>
+
+  <!-- ═══ 4. BBC — SOLAR / IRAN OIL PRICES ═══ -->
+  <article class="card" data-category="solar" data-ts="2026-03-03T10:00:00">
+    <a class="card-link" href="https://www.bbc.com/news/articles/c20zgjzz0e4o"
+       target="_blank" rel="noopener"
+       aria-label="Read: Is it time to go Solar? Petrol and Diesel spike — BBC News"></a>
+    <div class="card-img-wrap">
+      <span class="card-tag tag-solar">Solar</span>
+      <img class="card-img"
+           src="https://images.unsplash.com/photo-1509391366360-2e959784a276?w=900&q=80"
+           alt="Residential solar panels installed on rooftop — renewable energy for homes"
+           loading="lazy">
+    </div>
+    <div class="card-body">
+      <div class="card-source">BBC News</div>
+      <div class="card-title">
+        <a href="https://www.bbc.com/news/articles/c20zgjzz0e4o" target="_blank" rel="noopener">
+          Is It Time to Go Solar? Petrol and Diesel Spike as Iran Tensions Rise
+        </a>
+      </div>
+      <div class="card-blurb">
+        As geopolitical tensions push petrol and diesel prices sharply higher, the BBC examines
+        whether now is the moment millions of households finally make the switch to solar.
+        The cost-benefit numbers may surprise you. Add your commentary here.
+      </div>
+      <div class="card-footer">
+        <span class="card-time">Today</span>
+        <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
+      </div>
+    </div>
+  </article>
+
+  <!-- ═══ 5. MKBHD — TESLA SOLAR ═══ -->
+  <article class="card" data-category="solar" data-ts="2026-03-03T09:00:00">
+    <a class="card-link" href="https://youtu.be/UJeSWbR6W04" target="_blank" rel="noopener"
+       aria-label="Watch: Was Tesla Solar Worth It? — MKBHD"></a>
+    <div class="card-img-wrap">
+      <span class="card-tag tag-solar">Solar</span>
+      <img class="card-img"
+           src="https://img.youtube.com/vi/UJeSWbR6W04/maxresdefault.jpg"
+           alt="MKBHD Tesla Solar panel and Powerwall home energy system review"
+           loading="lazy">
+    </div>
+    <div class="card-body">
+      <div class="card-source">MKBHD / YouTube</div>
+      <div class="card-title">
+        <a href="https://youtu.be/UJeSWbR6W04" target="_blank" rel="noopener">
+          Was Tesla Solar Worth It? MKBHD's Honest One-Year Review
+        </a>
+      </div>
+      <div class="card-blurb">
+        Marques Brownlee shares his candid one-year verdict on Tesla Solar — the real cost,
+        what the app is actually like to live with daily, and whether the energy savings
+        genuinely justify the installation price. Add your commentary here.
+      </div>
+      <div class="card-footer">
+        <span class="card-time">Today</span>
+        <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
+      </div>
+    </div>
+  </article>
+
+</main>
+
+<!-- NO RESULTS MESSAGE -->
+<div class="no-results" id="noResults">No posts in this category yet — check back soon.</div>
+
+<!-- ══════════════════════════════════════════
+     FOOTER
+══════════════════════════════════════════ -->
+<footer>
+  <p>© 2026 nexusEV &nbsp;·&nbsp; <a href="about.html">About</a> &nbsp;·&nbsp; <a href="advertise.html">Advertise</a> &nbsp;·&nbsp; <a href="#">Submit a Link</a> &nbsp;·&nbsp; <a href="privacy.html">Privacy Policy</a></p>
+  <p>Independent EV and renewable energy news. Not affiliated with any manufacturer. All article links go to original sources.</p>
+</footer>
+
+<!-- ══════════════════════════════════════════
+     NEWSLETTER MODAL
+══════════════════════════════════════════ -->
+<div class="modal-bg" onclick="if(event.target===this)this.classList.remove('open')" role="dialog" aria-modal="true" aria-label="Newsletter sign-up">
+  <div class="modal">
+    <button class="modal-close" onclick="document.querySelector('.modal-bg').classList.remove('open')" aria-label="Close">✕</button>
+    <h2>THE <span>NEXUS</span> BRIEF</h2>
+    <p>The week's best EV and renewable energy content in one clean email. No spam, no fluff — just the stories that matter, every Friday morning.</p>
+    <input type="email" placeholder="your@email.com" aria-label="Email address" />
+    <button class="modal-submit">Subscribe Free →</button>
+    <p class="modal-fine">Unsubscribe anytime. We don't sell your data.</p>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════
+     JAVASCRIPT — filter, sort, featured logic
+══════════════════════════════════════════ -->
+<script>
+  const categoryMap = {
+    'All':                  null,
+    'Reviews':              'reviews',
+    'Battery Tech':         'battery-tech',
+    'Charging':             'charging',
+    'Solar & Renewables':   'solar',
+    'Deep Dives':           'deep-dives',
+    'Trucks & SUVs':        'trucks-suvs',
+    'Used EVs':             'used-evs',
+    'Policy':               'policy',
+    'News':                 'news',
+  };
+
+  const grid      = document.getElementById('cardGrid');
+  const noResults = document.getElementById('noResults');
+  const pills     = document.querySelectorAll('.cat');
+
+  function getTs(card) {
+    return card.dataset.ts ? new Date(card.dataset.ts).getTime() : -1;
+  }
+
+  function sortGrid() {
+    const allChildren = Array.from(grid.children);
+    const adCards     = allChildren.filter(el => el.dataset.ad);
+    const articles    = allChildren.filter(el => el.dataset.ts);
+    articles.sort((a, b) => getTs(b) - getTs(a));
+    const reordered = [];
+    articles.forEach((el, i) => {
+      reordered.push(el);
+      if (i === 2 && adCards.length) reordered.push(...adCards);
+    });
+    reordered.forEach(el => grid.appendChild(el));
+  }
+
+  function setFeatured(filteredCategory) {
+    const articles = Array.from(grid.querySelectorAll('article[data-ts]'));
+    articles.forEach(c => c.classList.remove('featured'));
+    if (filteredCategory) return;
+    const candidates = articles.filter(c => !c.classList.contains('hidden'));
+    if (!candidates.length) return;
+    candidates.sort((a, b) => getTs(b) - getTs(a));
+    candidates[0].classList.add('featured');
+  }
+
+  function filterCards(category) {
+    const articles = Array.from(grid.querySelectorAll('article[data-ts]'));
+    let visible = 0;
+    articles.forEach(card => {
+      const match = !category || card.dataset.category === category;
+      if (match) {
+        card.classList.remove('hidden');
+        card.classList.remove('fade-in');
+        void card.offsetWidth;
+        card.classList.add('fade-in');
+        visible++;
+      } else {
+        card.classList.add('hidden');
+      }
+    });
+    setFeatured(category);
+    noResults.style.display = visible === 0 ? 'block' : 'none';
+  }
+
+  sortGrid();
+  setFeatured(null);
+
+  pills.forEach(btn => {
+    btn.addEventListener('click', () => {
+      pills.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const key      = btn.textContent.trim().replace(/\s+/g, ' ');
+      const category = categoryMap[key] ?? null;
+      filterCards(category);
+    });
+  });
+</script>
+</body>
+</html>
