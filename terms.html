@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terms of Service — nexusEV</title>
+<meta name="description" content="nexusEV Terms of Service. Read our terms covering use of the site, third-party links, intellectual property, disclaimers, and limitations of liability.">
+<meta name="robots" content="index, follow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #0a0b0f; --surface: #111318; --surface2: #1a1d24;
+    --border: #1f2330; --accent: #00d4ff; --text: #e8eaf0;
+    --muted: #6b7280; --warn: #f59e0b;
+  }
+  html { scroll-behavior: smooth; }
+  body { font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+
+  header {
+    position: sticky; top: 0; z-index: 100;
+    background: rgba(10,11,15,0.94); backdrop-filter: blur(14px);
+    border-bottom: 1px solid var(--border);
+    padding: 0 2rem; display: flex; align-items: center;
+    justify-content: space-between; height: 62px;
+  }
+  .logo {
+    font-family: 'Bebas Neue', sans-serif; font-size: 1.85rem;
+    letter-spacing: 0.06em; color: var(--text); text-decoration: none;
+    display: flex; align-items: center; gap: 0.6rem;
+  }
+  .logo .ev { color: var(--accent); }
+  .logo-text-wrap { display: flex; flex-direction: column; line-height: 1; }
+  .logo-name { line-height: 1; }
+  .logo-tagline {
+    font-family: 'DM Mono', monospace; font-size: 0.5rem;
+    letter-spacing: 0.14em; color: var(--muted); text-transform: uppercase; margin-top: 3px;
+  }
+  .back-btn {
+    font-family: 'DM Sans', sans-serif; font-size: 0.76rem; font-weight: 600;
+    letter-spacing: 0.05em; text-transform: uppercase;
+    background: var(--surface2); color: var(--text);
+    border: 1px solid var(--border); padding: 0.45rem 1rem;
+    border-radius: 4px; text-decoration: none; transition: border-color 0.2s, color 0.2s;
+  }
+  .back-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+  /* ── SUMMARY BOX ── */
+  .plain-english {
+    background: rgba(0,212,255,0.05);
+    border: 1px solid rgba(0,212,255,0.2);
+    border-radius: 6px;
+    padding: 1.75rem 2rem;
+    margin-bottom: 3rem;
+  }
+  .plain-english .pe-label {
+    font-family: 'DM Mono', monospace; font-size: 0.62rem;
+    letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--accent); margin-bottom: 0.75rem; display: block;
+  }
+  .plain-english p {
+    font-size: 0.9rem; line-height: 1.75; color: var(--text);
+    margin-bottom: 0.5rem;
+  }
+  .plain-english p:last-child { margin-bottom: 0; }
+
+  /* ── PAGE CONTENT ── */
+  .page-wrap { max-width: 800px; margin: 0 auto; padding: 4rem 2rem 6rem; }
+
+  .eyebrow {
+    font-family: 'DM Mono', monospace; font-size: 0.65rem;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    color: var(--accent); margin-bottom: 1.25rem; display: block;
+  }
+  .last-updated {
+    font-family: 'DM Mono', monospace; font-size: 0.62rem;
+    color: var(--muted); letter-spacing: 0.08em; margin-bottom: 2.5rem; display: block;
+  }
+
+  h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: clamp(2.8rem, 6vw, 5rem);
+    line-height: 0.92; letter-spacing: 0.02em; margin-bottom: 1rem;
+  }
+  h1 em { color: var(--accent); font-style: normal; }
+
+  h2 {
+    font-family: 'Bebas Neue', sans-serif; font-size: 1.55rem;
+    letter-spacing: 0.04em; margin-top: 0; margin-bottom: 0.75rem;
+    color: var(--text);
+  }
+
+  .section-block {
+    padding: 2rem 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .section-block:last-of-type { border-bottom: none; }
+
+  .section-num {
+    font-family: 'DM Mono', monospace; font-size: 0.6rem;
+    letter-spacing: 0.12em; color: var(--muted);
+    text-transform: uppercase; margin-bottom: 0.4rem; display: block;
+  }
+
+  p { font-size: 0.93rem; line-height: 1.78; color: var(--muted); margin-bottom: 0.9rem; }
+  p:last-child { margin-bottom: 0; }
+  p strong { color: var(--text); }
+
+  ul, ol { margin: 0.5rem 0 0.9rem 1.5rem; }
+  li { font-size: 0.91rem; line-height: 1.72; color: var(--muted); margin-bottom: 0.3rem; }
+  li strong { color: var(--text); }
+
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  /* ── CALLOUT (big disclaimer box) ── */
+  .callout {
+    background: rgba(245,158,11,0.06);
+    border: 1px solid rgba(245,158,11,0.3);
+    border-radius: 6px;
+    padding: 1.5rem 1.75rem;
+    margin: 1rem 0;
+  }
+  .callout p { color: var(--text); font-size: 0.9rem; margin-bottom: 0; }
+  .callout-label {
+    font-family: 'DM Mono', monospace; font-size: 0.6rem;
+    letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--warn); margin-bottom: 0.5rem; display: block;
+  }
+
+  /* ── TOC ── */
+  .toc {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 1.5rem 1.75rem;
+    margin-bottom: 3rem;
+  }
+  .toc-label {
+    font-family: 'DM Mono', monospace; font-size: 0.62rem;
+    letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--muted); margin-bottom: 0.75rem; display: block;
+  }
+  .toc ol { margin: 0 0 0 1.25rem; }
+  .toc li { font-size: 0.85rem; line-height: 1.8; margin-bottom: 0; }
+  .toc a { color: var(--muted); }
+  .toc a:hover { color: var(--accent); }
+
+  /* ── FOOTER ── */
+  footer {
+    border-top: 1px solid var(--border); padding: 2rem; text-align: center;
+  }
+  footer p {
+    font-family: 'DM Mono', monospace; font-size: 0.64rem;
+    color: var(--muted); letter-spacing: 0.06em; line-height: 1.8;
+  }
+  footer a { color: var(--accent); }
+  footer a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+  <a class="logo" href="index.html">
+    <svg width="36" height="40" viewBox="0 0 36 40" fill="none" aria-hidden="true">
+      <polygon points="18,2 34,11 34,29 18,38 2,29 2,11" fill="rgba(0,212,255,0.07)" stroke="rgba(0,212,255,0.35)" stroke-width="1"/>
+      <polygon points="18,4 32,12 32,28 18,36 4,28 4,12" fill="rgba(0,212,255,0.1)" stroke="#00d4ff" stroke-width="1.5"/>
+      <path d="M22 9L12 22H20L14 32L26 18H18L22 9Z" fill="#00d4ff"/>
+    </svg>
+    <div class="logo-text-wrap">
+      <span class="logo-name">NEXUS<span class="ev">EV</span></span>
+      <span class="logo-tagline">EV &amp; Renewable Energy</span>
+    </div>
+  </a>
+  <a class="back-btn" href="index.html">← Back to Latest</a>
+</header>
+
+<!-- PAGE -->
+<div class="page-wrap">
+
+  <span class="eyebrow">Legal</span>
+  <h1>TERMS OF<br><em>SERVICE</em></h1>
+  <span class="last-updated">Last updated: March 3, 2026 &nbsp;·&nbsp; Effective immediately</span>
+
+  <!-- PLAIN ENGLISH SUMMARY -->
+  <div class="plain-english">
+    <span class="pe-label">⚡ Plain English Summary — read this first</span>
+    <p><strong>nexusEV is a news aggregator.</strong> We find interesting EV and renewable energy content from around the web and link to it. We don't produce the original articles or videos — we point you to them.</p>
+    <p>By using this site you agree to these terms. The short version: don't misuse the site, understand that we're not responsible for the content on the sites we link to, and know that everything here is provided as-is without warranties.</p>
+    <p>The full legal detail is below. It exists to protect both you and us.</p>
+  </div>
+
+  <!-- TABLE OF CONTENTS -->
+  <div class="toc">
+    <span class="toc-label">Contents</span>
+    <ol>
+      <li><a href="#acceptance">Acceptance of Terms</a></li>
+      <li><a href="#description">Description of Service</a></li>
+      <li><a href="#ip">Intellectual Property</a></li>
+      <li><a href="#third-party">Third-Party Links &amp; Content</a></li>
+      <li><a href="#dmca">Copyright / DMCA Policy</a></li>
+      <li><a href="#advertising">Advertising &amp; Sponsored Content</a></li>
+      <li><a href="#disclaimer">Disclaimers</a></li>
+      <li><a href="#liability">Limitation of Liability</a></li>
+      <li><a href="#conduct">Acceptable Use</a></li>
+      <li><a href="#indemnification">Indemnification</a></li>
+      <li><a href="#termination">Termination</a></li>
+      <li><a href="#governing">Governing Law</a></li>
+      <li><a href="#changes">Changes to These Terms</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ol>
+  </div>
+
+  <!-- ═══ 1. ACCEPTANCE ═══ -->
+  <div class="section-block" id="acceptance">
+    <span class="section-num">Section 01</span>
+    <h2>ACCEPTANCE OF TERMS</h2>
+    <p>
+      By accessing or using the nexusEV website located at <strong>nexusev.com</strong>
+      (the "Site"), you confirm that you have read, understood, and agree to be bound by
+      these Terms of Service ("Terms") and our <a href="privacy.html">Privacy Policy</a>,
+      which is incorporated herein by reference.
+    </p>
+    <p>
+      If you do not agree to these Terms in their entirety, you must immediately stop using
+      the Site. Your continued use of the Site following any modifications to these Terms
+      constitutes your acceptance of the revised Terms.
+    </p>
+    <p>
+      These Terms apply to all visitors, users, and others who access or use the Site.
+      You represent that you are at least 13 years of age and have the legal capacity to
+      enter into these Terms.
+    </p>
+  </div>
+
+  <!-- ═══ 2. DESCRIPTION ═══ -->
+  <div class="section-block" id="description">
+    <span class="section-num">Section 02</span>
+    <h2>DESCRIPTION OF SERVICE</h2>
+    <p>
+      nexusEV is an independent news aggregation website. The Site curates and links to
+      publicly available content — including articles, videos, and reports — published by
+      third-party sources across the internet, with a focus on electric vehicles, battery
+      technology, charging infrastructure, solar energy, and the broader renewable energy
+      transition.
+    </p>
+    <p>
+      <strong>nexusEV does not claim to be the original publisher of any third-party
+      content it links to.</strong> All article titles displayed on the Site function
+      as hyperlinks directing users to the original source material. We do not reproduce
+      full articles, videos, or other copyrighted works.
+    </p>
+    <p>
+      The Site may also contain original editorial commentary written by nexusEV. This
+      original commentary is clearly distinguished from linked third-party content and
+      represents the opinion of nexusEV only.
+    </p>
+    <p>
+      We reserve the right to modify, suspend, or discontinue the Site or any part of it
+      at any time, with or without notice, without liability to you.
+    </p>
+  </div>
+
+  <!-- ═══ 3. INTELLECTUAL PROPERTY ═══ -->
+  <div class="section-block" id="ip">
+    <span class="section-num">Section 03</span>
+    <h2>INTELLECTUAL PROPERTY</h2>
+    <p>
+      <strong>Our content.</strong> The nexusEV name, logo, site design, original written
+      commentary, and all other original materials created by nexusEV (collectively,
+      "nexusEV Content") are owned by nexusEV and protected by applicable copyright,
+      trademark, and intellectual property laws. You may not reproduce, distribute,
+      modify, create derivative works of, publicly display, or exploit any nexusEV Content
+      without our prior written permission.
+    </p>
+    <p>
+      <strong>Third-party content.</strong> All articles, videos, images, and other
+      materials that belong to third-party publishers remain the exclusive intellectual
+      property of their respective owners. nexusEV makes no claim of ownership over
+      any third-party content. The presence of a link to third-party content on this
+      Site does not constitute an endorsement of, or claim to, that content.
+    </p>
+    <p>
+      <strong>YouTube thumbnails.</strong> Where thumbnail images sourced from YouTube's
+      public image delivery network are displayed on this Site as previews for linked
+      YouTube videos, their use is consistent with YouTube's Terms of Service and
+      standard web practice. nexusEV claims no ownership of these images.
+    </p>
+    <p>
+      <strong>Stock photography.</strong> Some images on this Site are sourced from
+      licensed stock photography providers (including Unsplash) and are used in
+      accordance with their respective licences.
+    </p>
+    <p>
+      <strong>Trademarks.</strong> Any third-party brand names, product names, and
+      trademarks referenced or appearing on this Site (including but not limited to
+      Rivian, Tesla, Audi, Toyota, Hyundai, and others) are the property of their
+      respective owners. Their appearance on this Site does not imply any affiliation
+      with, endorsement by, or sponsorship from those trademark owners.
+    </p>
+  </div>
+
+  <!-- ═══ 4. THIRD-PARTY LINKS ═══ -->
+  <div class="section-block" id="third-party">
+    <span class="section-num">Section 04</span>
+    <h2>THIRD-PARTY LINKS &amp; CONTENT</h2>
+    <div class="callout">
+      <span class="callout-label">⚠ Important</span>
+      <p>When you click a link on nexusEV, you leave our Site and enter a third-party website. nexusEV has no control over, and assumes no responsibility for, the content, privacy policies, practices, or terms of any third-party website.</p>
+    </div>
+    <p>
+      nexusEV provides links to third-party websites and content solely as a convenience
+      to users. The inclusion of any link does not imply that nexusEV has reviewed,
+      endorses, or is affiliated with the linked website or its operators.
+    </p>
+    <p>
+      You acknowledge and agree that nexusEV shall not be responsible or liable, directly
+      or indirectly, for any damage or loss caused or alleged to be caused by or in
+      connection with your use of or reliance on any content, goods, or services available
+      on or through any third-party website.
+    </p>
+    <p>
+      We strongly encourage you to read the terms of service and privacy policies of any
+      third-party websites you visit.
+    </p>
+  </div>
+
+  <!-- ═══ 5. DMCA ═══ -->
+  <div class="section-block" id="dmca">
+    <span class="section-num">Section 05</span>
+    <h2>COPYRIGHT / DMCA POLICY</h2>
+    <p>
+      nexusEV respects the intellectual property rights of others and expects users of
+      the Site to do the same. It is our policy to respond to notices of alleged copyright
+      infringement that comply with the Digital Millennium Copyright Act ("DMCA").
+    </p>
+    <p>
+      <strong>If you believe that your copyrighted work has been used on this Site in a
+      way that constitutes copyright infringement</strong>, please send a written notice
+      to our designated agent containing the following information:
+    </p>
+    <ul>
+      <li>A physical or electronic signature of the copyright owner or authorised agent</li>
+      <li>Identification of the copyrighted work claimed to have been infringed</li>
+      <li>Identification of the material on our Site that is claimed to be infringing, with enough detail for us to locate it</li>
+      <li>Your contact information (name, address, telephone number, and email address)</li>
+      <li>A statement that you have a good-faith belief that the use is not authorised by the copyright owner, its agent, or the law</li>
+      <li>A statement, made under penalty of perjury, that the information in the notice is accurate and that you are the copyright owner or authorised to act on their behalf</li>
+    </ul>
+    <p>
+      DMCA notices should be sent via the contact form on our
+      <a href="advertise.html#contact">contact page</a>. We will respond promptly and,
+      where appropriate, remove or disable access to the material in question.
+    </p>
+    <p>
+      <strong>Counter-notification.</strong> If you believe material was removed or
+      disabled by mistake or misidentification, you may submit a counter-notification
+      with the information required under the DMCA. We will process counter-notifications
+      in accordance with DMCA procedures.
+    </p>
+  </div>
+
+  <!-- ═══ 6. ADVERTISING ═══ -->
+  <div class="section-block" id="advertising">
+    <span class="section-num">Section 06</span>
+    <h2>ADVERTISING &amp; SPONSORED CONTENT</h2>
+    <p>
+      nexusEV displays third-party advertisements, including those served through
+      <strong>Google AdSense</strong>. These advertisements are clearly separated from
+      editorial content. nexusEV does not endorse the products or services advertised
+      and is not responsible for the accuracy of advertising claims made by third-party
+      advertisers.
+    </p>
+    <p>
+      From time to time, nexusEV may feature <strong>sponsored content</strong> —
+      content that has been paid for by an advertiser. All sponsored content on this
+      Site is clearly labelled with the word <strong>"Sponsored"</strong> and/or
+      <strong>"Promoted"</strong>. Sponsored content does not represent the independent
+      editorial opinion of nexusEV.
+    </p>
+    <p>
+      nexusEV may participate in <strong>affiliate programmes</strong>. This means that
+      if you click certain links and make a purchase, nexusEV may earn a small commission
+      at no additional cost to you. Affiliate links will be disclosed where required by
+      applicable law and guidelines from the Federal Trade Commission (FTC).
+    </p>
+    <p>
+      The existence of advertising or affiliate relationships does not influence nexusEV's
+      editorial decisions about which content to feature on the Site.
+    </p>
+  </div>
+
+  <!-- ═══ 7. DISCLAIMERS ═══ -->
+  <div class="section-block" id="disclaimer">
+    <span class="section-num">Section 07</span>
+    <h2>DISCLAIMERS</h2>
+    <div class="callout">
+      <span class="callout-label">⚠ Important Disclaimer</span>
+      <p>THE SITE AND ALL CONTENT ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED.</p>
+    </div>
+    <p>
+      To the fullest extent permitted by applicable law, nexusEV expressly disclaims all
+      warranties, express or implied, including but not limited to implied warranties of
+      merchantability, fitness for a particular purpose, title, and non-infringement.
+    </p>
+    <p>
+      nexusEV does not warrant that: (a) the Site will be uninterrupted or error-free;
+      (b) defects will be corrected; (c) the Site or the servers that make it available
+      are free of viruses or other harmful components; or (d) the information on the Site
+      is accurate, complete, reliable, current, or suitable for any particular purpose.
+    </p>
+    <p>
+      <strong>No professional advice.</strong> Nothing on this Site constitutes financial,
+      investment, legal, tax, or professional advice of any kind. Content on the Site is
+      for informational and entertainment purposes only. Always do your own research and
+      consult qualified professionals before making any purchasing, financial, or
+      investment decisions — including decisions about purchasing electric vehicles,
+      solar panels, or energy products.
+    </p>
+    <p>
+      <strong>Accuracy.</strong> While nexusEV makes reasonable efforts to link to
+      accurate and reputable sources, we make no representations or warranties regarding
+      the accuracy, timeliness, or completeness of any information on the Site or on the
+      third-party sites we link to.
+    </p>
+  </div>
+
+  <!-- ═══ 8. LIMITATION OF LIABILITY ═══ -->
+  <div class="section-block" id="liability">
+    <span class="section-num">Section 08</span>
+    <h2>LIMITATION OF LIABILITY</h2>
+    <div class="callout">
+      <span class="callout-label">⚠ Important</span>
+      <p>TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NEXUSEV AND ITS OWNERS, OPERATORS, EMPLOYEES, AND AGENTS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF THE SITE.</p>
+    </div>
+    <p>
+      This includes, without limitation, damages for loss of profits, revenue, data,
+      goodwill, or other intangible losses, even if nexusEV has been advised of the
+      possibility of such damages, arising from:
+    </p>
+    <ul>
+      <li>Your access to or use of (or inability to access or use) the Site</li>
+      <li>Any content on the Site or on any third-party site linked from the Site</li>
+      <li>Any conduct or content of any third party on or accessed through the Site</li>
+      <li>Any unauthorised access to or use of our servers or any personal information stored therein</li>
+      <li>Any interruption or cessation of transmission to or from the Site</li>
+    </ul>
+    <p>
+      In jurisdictions that do not allow the exclusion or limitation of incidental or
+      consequential damages, nexusEV's liability shall be limited to the maximum extent
+      permitted by law. In no event shall nexusEV's total liability to you exceed
+      <strong>one hundred US dollars ($100.00)</strong>.
+    </p>
+  </div>
+
+  <!-- ═══ 9. ACCEPTABLE USE ═══ -->
+  <div class="section-block" id="conduct">
+    <span class="section-num">Section 09</span>
+    <h2>ACCEPTABLE USE</h2>
+    <p>You agree not to use the Site to:</p>
+    <ul>
+      <li>Violate any applicable local, national, or international law or regulation</li>
+      <li>Attempt to gain unauthorised access to any part of the Site or its related systems</li>
+      <li>Transmit any unsolicited or unauthorised advertising or promotional material (spam)</li>
+      <li>Engage in any conduct that restricts or inhibits anyone's use or enjoyment of the Site</li>
+      <li>Scrape, crawl, or systematically harvest content from the Site for commercial purposes without our written consent</li>
+      <li>Use any automated tools to access or interact with the Site in a manner that imposes an unreasonable burden on our servers</li>
+      <li>Attempt to reverse-engineer, decompile, or otherwise derive source code from the Site</li>
+      <li>Impersonate any person or entity or falsely represent your affiliation with a person or entity</li>
+    </ul>
+    <p>
+      nexusEV reserves the right to investigate and, where appropriate, take legal action
+      against anyone who violates these provisions, including without limitation reporting
+      such conduct to law enforcement authorities.
+    </p>
+  </div>
+
+  <!-- ═══ 10. INDEMNIFICATION ═══ -->
+  <div class="section-block" id="indemnification">
+    <span class="section-num">Section 10</span>
+    <h2>INDEMNIFICATION</h2>
+    <p>
+      You agree to defend, indemnify, and hold harmless nexusEV and its owners, operators,
+      employees, contractors, licensors, and agents from and against any and all claims,
+      damages, obligations, losses, liabilities, costs, and expenses (including reasonable
+      legal fees) arising from:
+    </p>
+    <ul>
+      <li>Your use of and access to the Site</li>
+      <li>Your violation of any provision of these Terms</li>
+      <li>Your violation of any third-party rights, including intellectual property rights or privacy rights</li>
+      <li>Any claim that your use of the Site caused damage to a third party</li>
+    </ul>
+    <p>
+      This indemnification obligation will survive these Terms and your use of the Site.
+    </p>
+  </div>
+
+  <!-- ═══ 11. TERMINATION ═══ -->
+  <div class="section-block" id="termination">
+    <span class="section-num">Section 11</span>
+    <h2>TERMINATION</h2>
+    <p>
+      nexusEV reserves the right, in its sole discretion, to terminate or suspend your
+      access to all or part of the Site at any time, with or without notice, for any
+      reason, including without limitation if nexusEV believes you have violated these
+      Terms.
+    </p>
+    <p>
+      Upon termination, all provisions of these Terms that by their nature should survive
+      termination shall survive, including without limitation ownership provisions,
+      warranty disclaimers, indemnification, and limitations of liability.
+    </p>
+  </div>
+
+  <!-- ═══ 12. GOVERNING LAW ═══ -->
+  <div class="section-block" id="governing">
+    <span class="section-num">Section 12</span>
+    <h2>GOVERNING LAW &amp; DISPUTES</h2>
+    <p>
+      These Terms shall be governed by and construed in accordance with the laws of the
+      <strong>United States</strong>, without regard to its conflict of law provisions.
+      You agree to submit to the personal and exclusive jurisdiction of the courts located
+      within the United States for the resolution of any disputes arising out of or
+      relating to these Terms or the Site.
+    </p>
+    <p>
+      <strong>Informal resolution.</strong> Before filing any formal legal claim, you
+      agree to contact nexusEV and attempt to resolve the dispute informally. nexusEV
+      will attempt to resolve the dispute informally by contacting you via email.
+      If a dispute is not resolved within 30 days of submission, either party may bring
+      formal proceedings.
+    </p>
+    <p>
+      <strong>Waiver of class action.</strong> To the extent permitted by applicable law,
+      you waive any right to participate in a class-action lawsuit or class-wide
+      arbitration against nexusEV.
+    </p>
+  </div>
+
+  <!-- ═══ 13. CHANGES ═══ -->
+  <div class="section-block" id="changes">
+    <span class="section-num">Section 13</span>
+    <h2>CHANGES TO THESE TERMS</h2>
+    <p>
+      nexusEV reserves the right to modify these Terms at any time. When we make changes,
+      we will update the "Last updated" date at the top of this page. It is your
+      responsibility to check these Terms periodically for changes.
+    </p>
+    <p>
+      Your continued use of the Site after any modification to these Terms constitutes
+      your acceptance of the updated Terms. If you do not agree to the modified Terms,
+      you must stop using the Site.
+    </p>
+    <p>
+      For material changes that significantly affect your rights, nexusEV will make
+      reasonable efforts to provide notice, such as by posting a prominent notice on
+      the Site.
+    </p>
+  </div>
+
+  <!-- ═══ 14. CONTACT ═══ -->
+  <div class="section-block" id="contact">
+    <span class="section-num">Section 14</span>
+    <h2>CONTACT</h2>
+    <p>
+      If you have any questions about these Terms of Service, please contact us via the
+      form on our <a href="advertise.html#contact">contact page</a>.
+    </p>
+    <p>
+      For copyright / DMCA notices specifically, see <a href="#dmca">Section 05</a> above.
+    </p>
+    <p style="margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border); font-size: 0.8rem;">
+      <strong style="color: var(--text);">Disclaimer:</strong> These Terms of Service were
+      prepared for general informational and protective purposes. nexusEV recommends
+      consulting a qualified attorney for advice specific to your situation. Nothing in
+      these Terms constitutes legal advice.
+    </p>
+  </div>
+
+</div>
+
+<!-- FOOTER -->
+<footer>
+  <p>© 2026 nexusEV &nbsp;·&nbsp; <a href="index.html">Home</a> &nbsp;·&nbsp; <a href="about.html">About</a> &nbsp;·&nbsp; <a href="advertise.html">Advertise</a> &nbsp;·&nbsp; <a href="privacy.html">Privacy Policy</a> &nbsp;·&nbsp; <a href="terms.html">Terms of Service</a></p>
+  <p>Independent EV and renewable energy news. Not affiliated with any manufacturer.</p>
+</footer>
+
+</body>
+</html>
