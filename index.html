@@ -285,7 +285,8 @@
     filter: brightness(0.88);
     transition: filter 0.3s, transform 0.4s;
   }
-  .card.featured .card-img { aspect-ratio: 16/10; }
+  .card.featured .card-img-wrap { background: #000; }
+  .card.featured .card-img { aspect-ratio: 16/9; object-fit: contain; filter: brightness(0.95); }
   .card:hover .card-img { filter: brightness(1.02); transform: scale(1.025); }
   .card-img-wrap { overflow: hidden; position: relative; }
 
@@ -345,7 +346,6 @@
     font-size: 0.82rem;
     line-height: 1.6;
     color: var(--muted);
-    flex: 1;
   }
   .card.featured .card-blurb { font-size: 0.9rem; }
 
