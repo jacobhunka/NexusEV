@@ -71,6 +71,7 @@
     gap: 0.6rem;
   }
   .logo .ev { color: var(--accent); }
+  .logo .logo-news { font-size: 0.55em; color: var(--text); letter-spacing: 0.02em; vertical-align: baseline; }
   .logo-text-wrap {
     display: flex;
     flex-direction: column;
@@ -275,7 +276,7 @@
     cursor: pointer;
   }
   .card:hover { background: var(--surface2); }
-  .card.featured { grid-column: span 2; grid-row: span 2; }
+  .card.featured { grid-column: span 2; }
 
   .card-img {
     width: 100%;
@@ -554,18 +555,18 @@
       <path d="M22 9L12 22H20L14 32L26 18H18L22 9Z" fill="#00d4ff"/>
     </svg>
     <div class="logo-text-wrap">
-      <span class="logo-name">NEXUS<span class="ev">EV</span></span>
+      <span class="logo-name">NEXUS<span class="ev">EV</span><span class="logo-news">news</span></span>
       <span class="logo-tagline">EV &amp; Renewable Energy</span>
     </div>
   </a>
 
   <nav>
-    <a href="index.html" class="active">Latest</a>
-    <a href="#">Reviews</a>
-    <a href="#">Battery Tech</a>
-    <a href="#">Charging</a>
-    <a href="#" class="solar-nav">Solar ☀</a>
-    <a href="#">Deep Dives</a>
+    <a href="index.html" class="active" onclick="filterFromNav(event,null)">Latest</a>
+    <a href="#cardGrid" onclick="filterFromNav(event,'reviews')">Reviews</a>
+    <a href="#cardGrid" onclick="filterFromNav(event,'battery-tech')">Battery Tech</a>
+    <a href="#cardGrid" onclick="filterFromNav(event,'charging')">Charging</a>
+    <a href="#cardGrid" class="solar-nav" onclick="filterFromNav(event,'solar')">Solar ☀</a>
+    <a href="#cardGrid" onclick="filterFromNav(event,'deep-dives')">Deep Dives</a>
   </nav>
 
   <div class="header-right">
@@ -577,22 +578,22 @@
 <div class="ticker-wrap" aria-hidden="true">
   <div class="ticker-label">⚡ Live</div>
   <div class="ticker-track">
+    <span><b>Formula E</b> — Everything you ever wanted to know</span>
+    <span><b>Norway</b> — Leading the EV charge. Who's catching up?</span>
+    <span><b>US EV Sales</b> — Are they hitting a wall?</span>
+    <span><b>EV World Battle</b> — 3 EVs from 3 continents go head to head</span>
+    <span><b>DIY Solar</b> — Build your own setup</span>
     <span><b>Model 47 Brougham</b> — Larry Kosilla shines a 1914 EV</span>
     <span><b>Corvette ZR1X</b> — 14.9% electric and 100% unhinged</span>
-    <span><b>ALSO TM-B</b> — Rivian's offshoot drops their first product</span>
     <span><b>BYD Solid State</b> — 2027 target announced</span>
-    <span><b>EV Rebates</b> — States still putting money in your pocket</span>
-    <span><b>Audi e-tron GT</b> — Used prices have collapsed — in a good way</span>
-    <span><b>Doug DeMuro</b> — Full Rivian R2 review</span>
-    <span><b>Jay Leno</b> — Slate truck first drive</span>
+    <span><b>Formula E</b> — Everything you ever wanted to know</span>
+    <span><b>Norway</b> — Leading the EV charge. Who's catching up?</span>
+    <span><b>US EV Sales</b> — Are they hitting a wall?</span>
+    <span><b>EV World Battle</b> — 3 EVs from 3 continents go head to head</span>
+    <span><b>DIY Solar</b> — Build your own setup</span>
     <span><b>Model 47 Brougham</b> — Larry Kosilla shines a 1914 EV</span>
     <span><b>Corvette ZR1X</b> — 14.9% electric and 100% unhinged</span>
-    <span><b>ALSO TM-B</b> — Rivian's offshoot drops their first product</span>
     <span><b>BYD Solid State</b> — 2027 target announced</span>
-    <span><b>EV Rebates</b> — States still putting money in your pocket</span>
-    <span><b>Audi e-tron GT</b> — Used prices have collapsed — in a good way</span>
-    <span><b>Doug DeMuro</b> — Full Rivian R2 review</span>
-    <span><b>Jay Leno</b> — Slate truck first drive</span>
   </div>
 </div>
 
@@ -617,7 +618,6 @@
       <span>Solar &amp; renewables</span>
     </div>
   </div>
-  <div class="hero-count">14 new posts today</div>
 </div>
 
 <!-- CATEGORY PILLS -->
@@ -639,6 +639,151 @@
      ARTICLE GRID
 ══════════════════════════════════════════ -->
 <main class="grid-wrap" id="cardGrid">
+
+  <!-- ════════════════════════════
+       MARCH 5 — 5 NEW ARTICLES
+  ════════════════════════════ -->
+
+  <!-- FORMULA E EXPLAINER -->
+  <article class="card" data-category="deep-dives" data-ts="2026-03-05T18:00:00">
+    <a class="card-link" href="https://www.youtube.com/watch?v=iX3iGwvG32c" target="_blank" rel="noopener"
+       aria-label="Watch: Everything you ever wanted to know about Formula E"></a>
+    <div class="card-img-wrap">
+      <span class="card-tag tag-deep">Deep Dive</span>
+      <img class="card-img"
+           src="https://img.youtube.com/vi/iX3iGwvG32c/maxresdefault.jpg"
+           alt="Complete guide to Formula E electric racing series"
+           loading="lazy">
+    </div>
+    <div class="card-body">
+      <div class="card-source">YouTube</div>
+      <div class="card-title">
+        <a href="https://www.youtube.com/watch?v=iX3iGwvG32c" target="_blank" rel="noopener">
+          Everything You Ever Wanted to Know About Formula E
+        </a>
+      </div>
+      <div class="card-blurb">
+        The full deep dive on Formula E — how it works, why it matters, and what it tells us about where EV technology is actually heading. If you've ever been curious about electric racing, start here.
+      </div>
+      <div class="card-footer">
+        <span class="card-time">Today</span>
+        <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
+      </div>
+    </div>
+  </article>
+
+  <!-- NORWAY EV LEADERSHIP -->
+  <article class="card" data-category="policy" data-ts="2026-03-05T17:00:00">
+    <a class="card-link" href="https://youtu.be/R5DbRyeZNRk" target="_blank" rel="noopener"
+       aria-label="Watch: Norway is leading the EV charge — will any country catch up?"></a>
+    <div class="card-img-wrap">
+      <span class="card-tag tag-policy">Policy</span>
+      <img class="card-img"
+           src="https://img.youtube.com/vi/R5DbRyeZNRk/maxresdefault.jpg"
+           alt="Norway leads global EV adoption — can other countries catch up?"
+           loading="lazy">
+    </div>
+    <div class="card-body">
+      <div class="card-source">YouTube</div>
+      <div class="card-title">
+        <a href="https://youtu.be/R5DbRyeZNRk" target="_blank" rel="noopener">
+          Norway Is Leading the EV Charge — Will Any Country Catch Up?
+        </a>
+      </div>
+      <div class="card-blurb">
+        Norway has cracked the EV adoption code. Over 90% of new car sales are electric. What did they do right, and is it even replicable anywhere else? Spoiler: it's complicated.
+      </div>
+      <div class="card-footer">
+        <span class="card-time">Today</span>
+        <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
+      </div>
+    </div>
+  </article>
+
+  <!-- US EV SALES SLOWDOWN -->
+  <article class="card" data-category="news" data-ts="2026-03-05T16:00:00">
+    <a class="card-link" href="https://www.youtube.com/watch?v=W1R7ukhbEQw" target="_blank" rel="noopener"
+       aria-label="Watch: Are EV sales in America hitting a wall?"></a>
+    <div class="card-img-wrap">
+      <span class="card-tag tag-news">News</span>
+      <img class="card-img"
+           src="https://img.youtube.com/vi/W1R7ukhbEQw/maxresdefault.jpg"
+           alt="US EV sales growth slowdown — are American buyers hitting a wall?"
+           loading="lazy">
+    </div>
+    <div class="card-body">
+      <div class="card-source">YouTube</div>
+      <div class="card-title">
+        <a href="https://www.youtube.com/watch?v=W1R7ukhbEQw" target="_blank" rel="noopener">
+          Are EV Sales in America Hitting a Wall?
+        </a>
+      </div>
+      <div class="card-blurb">
+        Growth has stalled, early adopters have adopted, and the next wave of buyers isn't showing up the way anyone expected. A clear-eyed look at what's actually happening with US EV demand right now.
+      </div>
+      <div class="card-footer">
+        <span class="card-time">Today</span>
+        <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
+      </div>
+    </div>
+  </article>
+
+  <!-- 3 EVs FROM 3 CONTINENTS -->
+  <article class="card" data-category="reviews" data-ts="2026-03-05T15:00:00">
+    <a class="card-link" href="https://www.youtube.com/watch?v=dJ2pKO-_g3c" target="_blank" rel="noopener"
+       aria-label="Watch: 3 EVs from different parts of the world battle it out"></a>
+    <div class="card-img-wrap">
+      <span class="card-tag tag-review">Review</span>
+      <img class="card-img"
+           src="https://img.youtube.com/vi/dJ2pKO-_g3c/maxresdefault.jpg"
+           alt="3 electric vehicles from Europe, Asia, and America compared head to head"
+           loading="lazy">
+    </div>
+    <div class="card-body">
+      <div class="card-source">YouTube</div>
+      <div class="card-title">
+        <a href="https://www.youtube.com/watch?v=dJ2pKO-_g3c" target="_blank" rel="noopener">
+          3 EVs From Different Parts of the World Battle It Out
+        </a>
+      </div>
+      <div class="card-blurb">
+        America vs. Europe vs. Asia — three EVs, three design philosophies, one comparison. The global EV market is more interesting than the US-centric conversation usually lets on.
+      </div>
+      <div class="card-footer">
+        <span class="card-time">Today</span>
+        <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
+      </div>
+    </div>
+  </article>
+
+  <!-- DIY SOLAR -->
+  <article class="card" data-category="solar" data-ts="2026-03-05T14:00:00">
+    <a class="card-link" href="https://www.youtube.com/watch?v=PHeTx5sGL3A" target="_blank" rel="noopener"
+       aria-label="Watch: DIY Solar — build your own solar setup"></a>
+    <div class="card-img-wrap">
+      <span class="card-tag tag-solar">Solar</span>
+      <img class="card-img"
+           src="https://img.youtube.com/vi/PHeTx5sGL3A/maxresdefault.jpg"
+           alt="DIY solar panel installation guide for home energy independence"
+           loading="lazy">
+    </div>
+    <div class="card-body">
+      <div class="card-source">YouTube</div>
+      <div class="card-title">
+        <a href="https://www.youtube.com/watch?v=PHeTx5sGL3A" target="_blank" rel="noopener">
+          DIY Solar
+        </a>
+      </div>
+      <div class="card-blurb">
+        Skip the installer quotes and do it yourself. A practical walkthrough of building your own solar setup — what you need, what to watch out for, and whether the math actually makes sense for your situation.
+      </div>
+      <div class="card-footer">
+        <span class="card-time">Today</span>
+        <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
+      </div>
+    </div>
+  </article>
+
 
   <!-- ════════════════════════════
        TODAY'S 5 NEW ARTICLES
@@ -1201,6 +1346,29 @@
     });
     setFeatured(category);
     noResults.style.display = visible === 0 ? 'block' : 'none';
+  }
+
+  function filterFromNav(e, category) {
+    e.preventDefault();
+    // Update nav active state
+    document.querySelectorAll('nav a').forEach(a => a.classList.remove('active'));
+    e.currentTarget.classList.add('active');
+    // Trigger matching pill
+    const pills = document.querySelectorAll('.cat');
+    pills.forEach(btn => {
+      const key = btn.textContent.trim().replace(/\s+/g, ' ');
+      const cat = categoryMap[key] ?? null;
+      if (cat === category) {
+        btn.click();
+      }
+    });
+    if (category === null) {
+      // "Latest" — reset all
+      pills.forEach(b => b.classList.remove('active'));
+      document.querySelector('.cat').classList.add('active');
+      filterCards(null);
+    }
+    document.getElementById('cardGrid').scrollIntoView({ behavior: 'smooth' });
   }
 
   sortGrid();
