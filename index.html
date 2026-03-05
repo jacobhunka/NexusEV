@@ -276,7 +276,12 @@
     cursor: pointer;
   }
   .card:hover { background: var(--surface2); }
-  .card.featured { grid-column: span 2; }
+  .card.featured { grid-column: span 3; flex-direction: row; }
+  .card.featured .card-img-wrap { width: 55%; flex-shrink: 0; background: #000; }
+  .card.featured .card-img { width: 100%; height: 100%; aspect-ratio: unset; object-fit: cover; filter: brightness(0.88); }
+  .card.featured .card-body { padding: 2rem 2.2rem 2rem; justify-content: center; }
+  .card.featured .card-title { font-size: 1.5rem; line-height: 1.25; }
+  .card.featured .card-blurb { font-size: 0.9rem; margin-top: 0.25rem; }
 
   .card-img {
     width: 100%;
@@ -286,8 +291,6 @@
     filter: brightness(0.88);
     transition: filter 0.3s, transform 0.4s;
   }
-  .card.featured .card-img-wrap { background: #000; }
-  .card.featured .card-img { aspect-ratio: 16/9; object-fit: contain; filter: brightness(0.95); }
   .card:hover .card-img { filter: brightness(1.02); transform: scale(1.025); }
   .card-img-wrap { overflow: hidden; position: relative; }
 
