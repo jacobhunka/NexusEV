@@ -468,10 +468,29 @@
   }
 
   @media (max-width: 700px) {
-    .card.featured { grid-column: span 1; grid-row: span 1; }
+    .grid-wrap { grid-template-columns: 1fr; }
     nav { display: none; }
     .hero-headline { font-size: 2rem; }
-    .grid-wrap { grid-template-columns: 1fr; }
+
+    /* Featured card goes vertical on mobile — same as regular cards */
+    .card.featured {
+      grid-column: span 1;
+      grid-row: span 1;
+      flex-direction: column;
+    }
+    .card.featured .card-img-wrap {
+      width: 100%;
+      aspect-ratio: 16/9;
+    }
+    .card.featured .card-img {
+      object-fit: cover;
+    }
+    .card.featured .card-body {
+      padding: 1rem 1.25rem 1.25rem;
+    }
+    .card.featured .card-title {
+      font-size: 1.1rem;
+    }
   }
 
 
