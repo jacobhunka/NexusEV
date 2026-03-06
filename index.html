@@ -474,6 +474,48 @@
     .grid-wrap { grid-template-columns: 1fr; }
   }
 
+
+  /* ── PAGINATION ── */
+  .page-hidden { display: none !important; }
+  .pagination-wrap {
+    max-width: 1400px;
+    margin: 0 auto 3rem;
+    padding: 0 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.25rem;
+  }
+  .pagination-wrap button {
+    font-family: "DM Mono", monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    background: var(--surface);
+    color: var(--text);
+    border: 1px solid var(--border);
+    padding: 0.55rem 1.2rem;
+    cursor: pointer;
+    transition: background 0.2s, border-color 0.2s, color 0.2s;
+  }
+  .pagination-wrap button:hover:not(:disabled) {
+    background: var(--surface2);
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  .pagination-wrap button:disabled {
+    opacity: 0.3;
+    cursor: default;
+  }
+  .pagination-info {
+    font-family: "DM Mono", monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    min-width: 80px;
+    text-align: center;
+  }
+
   /* ── ABOUT CURATOR ── */
   .about-curator {
     border-top: 1px solid var(--border);
@@ -654,7 +696,7 @@
     <div class="card-img-wrap">
       <span class="card-tag tag-news">News</span>
       <img class="card-img"
-           src="https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800&q=80"
+           src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
            alt="Rivian R2 full lineup reveal teased for SXSW March 12"
            loading="lazy">
     </div>
@@ -704,7 +746,7 @@
   </article>
 
   <!-- AUDI CONCEPT C -->
-  <article class="card" data-category="news" data-ts="2026-03-06T16:00:00">
+  <article class="card" data-category="news" data-ts="2026-03-06T19:00:00">
     <a class="card-link" href="https://youtu.be/e5aDRQGO2m8" target="_blank" rel="noopener"
        aria-label="Watch: Audi Concept C — the future of Audi design"></a>
     <div class="card-img-wrap">
@@ -1386,6 +1428,13 @@
 
 </main>
 
+
+<div class="pagination-wrap" id="paginationNav" style="display:none;">
+  <button id="prevBtn" onclick="changePage(-1)" disabled>← Prev</button>
+  <span class="pagination-info" id="pageInfo">Page 1</span>
+  <button id="nextBtn" onclick="changePage(1)">Next →</button>
+</div>
+
 <div class="no-results" id="noResults">No posts in this category yet — check back soon.</div>
 
 
@@ -1432,6 +1481,10 @@
 
 
 <script>
+  const CARDS_PER_PAGE = 15;
+  let currentPage = 1;
+  let currentCategory = null;
+
   const categoryMap = {
     'All':                  null,
     'Reviews':              'reviews',
@@ -1449,6 +1502,7 @@
   const grid      = document.getElementById('cardGrid');
   const noResults = document.getElementById('noResults');
   const pills     = document.querySelectorAll('.cat');
+  const paginationNav = document.getElementById('paginationNav');
 
   function getTs(card) {
     return card.dataset.ts ? new Date(card.dataset.ts).getTime() : -1;
@@ -1477,9 +1531,35 @@
     candidates[0].classList.add('featured');
   }
 
+  function applyPagination(visibleCards) {
+    const totalPages = Math.max(1, Math.ceil(visibleCards.length / CARDS_PER_PAGE));
+    // clamp currentPage
+    if (currentPage > totalPages) currentPage = totalPages;
+    const start = (currentPage - 1) * CARDS_PER_PAGE;
+    const end   = start + CARDS_PER_PAGE;
+    visibleCards.forEach((card, i) => {
+      if (i >= start && i < end) {
+        card.classList.remove('page-hidden');
+      } else {
+        card.classList.add('page-hidden');
+      }
+    });
+    // Update pagination UI
+    if (totalPages <= 1) {
+      paginationNav.style.display = 'none';
+    } else {
+      paginationNav.style.display = 'flex';
+      document.getElementById('pageInfo').textContent = 'Page ' + currentPage + ' of ' + totalPages;
+      document.getElementById('prevBtn').disabled = currentPage <= 1;
+      document.getElementById('nextBtn').disabled = currentPage >= totalPages;
+    }
+  }
+
   function filterCards(category) {
+    currentPage = 1;
+    currentCategory = category;
     const articles = Array.from(grid.querySelectorAll('article[data-ts]'));
-    let visible = 0;
+    const visible = [];
     articles.forEach(card => {
       const match = !category || card.dataset.category === category;
       if (match) {
@@ -1487,31 +1567,36 @@
         card.classList.remove('fade-in');
         void card.offsetWidth;
         card.classList.add('fade-in');
-        visible++;
+        visible.push(card);
       } else {
         card.classList.add('hidden');
+        card.classList.remove('page-hidden');
       }
     });
     setFeatured(category);
-    noResults.style.display = visible === 0 ? 'block' : 'none';
+    applyPagination(visible);
+    noResults.style.display = visible.length === 0 ? 'block' : 'none';
+  }
+
+  function changePage(dir) {
+    currentPage += dir;
+    const articles = Array.from(grid.querySelectorAll('article[data-ts]'));
+    const visible  = articles.filter(c => !c.classList.contains('hidden'));
+    applyPagination(visible);
+    document.getElementById('cardGrid').scrollIntoView({ behavior: 'smooth' });
   }
 
   function filterFromNav(e, category) {
     e.preventDefault();
-    // Update nav active state
     document.querySelectorAll('nav a').forEach(a => a.classList.remove('active'));
     e.currentTarget.classList.add('active');
-    // Trigger matching pill
     const pills = document.querySelectorAll('.cat');
     pills.forEach(btn => {
       const key = btn.textContent.trim().replace(/\s+/g, ' ');
       const cat = categoryMap[key] ?? null;
-      if (cat === category) {
-        btn.click();
-      }
+      if (cat === category) btn.click();
     });
     if (category === null) {
-      // "Latest" — reset all
       pills.forEach(b => b.classList.remove('active'));
       document.querySelector('.cat').classList.add('active');
       filterCards(null);
@@ -1521,6 +1606,9 @@
 
   sortGrid();
   setFeatured(null);
+  // Apply initial pagination
+  const allArticles = Array.from(grid.querySelectorAll('article[data-ts]'));
+  applyPagination(allArticles);
 
   pills.forEach(btn => {
     btn.addEventListener('click', () => {
