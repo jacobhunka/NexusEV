@@ -1481,7 +1481,7 @@
 
 
 <script>
-  const CARDS_PER_PAGE = 18;
+  const CARDS_PER_PAGE = 17;
   let currentPage = 1;
   let currentCategory = null;
 
@@ -1574,14 +1574,23 @@
       }
     });
     setFeatured(category);
-    applyPagination(visible);
+    // When filtering by category, hide ad cards too (they don't belong to any category)
+    const adCards = Array.from(grid.querySelectorAll('[data-ad]'));
+    if (category) {
+      adCards.forEach(ad => ad.classList.add('hidden'));
+      applyPagination(visible);
+    } else {
+      adCards.forEach(ad => ad.classList.remove('hidden'));
+      applyPagination(getVisibleItems());
+    }
     noResults.style.display = visible.length === 0 ? 'block' : 'none';
   }
 
   function changePage(dir) {
     currentPage += dir;
-    const articles = Array.from(grid.querySelectorAll('article[data-ts]'));
-    const visible  = articles.filter(c => !c.classList.contains('hidden'));
+    const visible = currentCategory
+      ? Array.from(grid.querySelectorAll('article[data-ts]')).filter(c => !c.classList.contains('hidden'))
+      : getVisibleItems();
     applyPagination(visible);
     document.getElementById('cardGrid').scrollIntoView({ behavior: 'smooth' });
   }
@@ -1606,9 +1615,11 @@
 
   sortGrid();
   setFeatured(null);
-  // Apply initial pagination
-  const allArticles = Array.from(grid.querySelectorAll('article[data-ts]'));
-  applyPagination(allArticles);
+  // Apply initial pagination — include ad card in visible item list so it's hidden on page 2+
+  function getVisibleItems() {
+    return Array.from(grid.children).filter(el => el.dataset.ts || el.dataset.ad);
+  }
+  applyPagination(getVisibleItems());
 
   pills.forEach(btn => {
     btn.addEventListener('click', () => {
