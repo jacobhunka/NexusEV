@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Press & Media — nexusEVnews</title>
+<meta name="description" content="Press and media information for nexusEVnews — independent EV and renewable energy news, curated daily. Media kit, credentials, and event coverage inquiries.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0b0f;
+    --surface: #111318;
+    --surface2: #1a1d24;
+    --border: #1f2330;
+    --accent: #00d4ff;
+    --accent2: #7fff6e;
+    --solar: #f59e0b;
+    --text: #e8eaf0;
+    --muted: #6b7280;
+    --tag-bg: #0f1a2e;
+  }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    overflow-x: hidden;
+    margin: 0;
+  }
+
+  /* ── HEADER ── */
+  header {
+    position: sticky; top: 0; z-index: 100;
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 0 2rem; height: 64px;
+    background: rgba(10,11,15,0.92);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border);
+  }
+  .logo {
+    display: flex; align-items: center; gap: 0.75rem;
+    text-decoration: none;
+  }
+  .logo-mark { flex-shrink: 0; }
+  .logo-text-wrap { display: flex; flex-direction: column; line-height: 1; }
+  .logo-name {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.85rem; color: var(--text); letter-spacing: 0.04em;
+  }
+  .logo .ev { color: var(--accent); }
+  .logo .logo-news { font-size: 0.55em; color: var(--text); letter-spacing: 0.02em; vertical-align: baseline; }
+  .logo-tagline {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.5rem; color: var(--muted); letter-spacing: 0.12em; text-transform: uppercase; margin-top: 2px;
+  }
+  nav { display: flex; gap: 0.25rem; }
+  nav a {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.76rem; font-weight: 500; color: var(--muted);
+    text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px;
+    transition: color 0.15s, background 0.15s;
+  }
+  nav a:hover { color: var(--text); background: var(--surface2); }
+  nav a.active { color: var(--accent); }
+  .header-right { display: flex; align-items: center; gap: 0.75rem; }
+  .newsletter-btn {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.76rem; font-weight: 600;
+    background: var(--accent); color: #000;
+    border: none; padding: 0.45rem 1rem; cursor: pointer;
+    transition: opacity 0.15s;
+  }
+  .newsletter-btn:hover { opacity: 0.85; }
+
+  /* ── PAGE LAYOUT ── */
+  .press-hero {
+    max-width: 860px;
+    margin: 5rem auto 3rem;
+    padding: 0 2rem;
+    text-align: center;
+  }
+  .press-hero .eyebrow {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.72rem; letter-spacing: 0.18em; text-transform: uppercase;
+    color: var(--accent); margin-bottom: 1rem;
+  }
+  .press-hero h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: clamp(3rem, 6vw, 5rem);
+    letter-spacing: 0.04em;
+    color: var(--text);
+    margin: 0 0 1.25rem;
+    line-height: 1;
+  }
+  .press-hero p {
+    font-size: 1.05rem; color: var(--muted); line-height: 1.75;
+    max-width: 640px; margin: 0 auto;
+  }
+
+  .accent-bar {
+    width: 60px; height: 3px;
+    background: var(--accent);
+    margin: 2rem auto;
+  }
+
+  /* ── CONTENT SECTIONS ── */
+  .press-content {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 2rem 6rem;
+  }
+
+  .section { margin-bottom: 4rem; }
+
+  .section-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.65rem; letter-spacing: 0.2em; text-transform: uppercase;
+    color: var(--accent); margin-bottom: 0.75rem;
+  }
+
+  .section h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2rem; letter-spacing: 0.04em;
+    color: var(--text); margin: 0 0 1.25rem;
+  }
+
+  .section p {
+    color: var(--muted); line-height: 1.75; font-size: 0.95rem;
+    margin-bottom: 1rem;
+  }
+
+  /* ── STATS ROW ── */
+  .stats-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    margin-bottom: 3rem;
+  }
+  .stat-box {
+    background: var(--surface);
+    padding: 1.75rem 1.5rem;
+    text-align: center;
+  }
+  .stat-num {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2.5rem; letter-spacing: 0.04em;
+    color: var(--accent); line-height: 1;
+    margin-bottom: 0.4rem;
+  }
+  .stat-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.62rem; letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  /* ── INFO GRID ── */
+  .info-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    margin-bottom: 2rem;
+  }
+  .info-cell {
+    background: var(--surface);
+    padding: 1.5rem;
+  }
+  .info-cell .label {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.62rem; letter-spacing: 0.15em; text-transform: uppercase;
+    color: var(--accent); margin-bottom: 0.5rem;
+  }
+  .info-cell .value {
+    font-size: 0.95rem; color: var(--text); line-height: 1.6;
+  }
+  .info-cell .value a { color: var(--accent); text-decoration: none; }
+  .info-cell .value a:hover { text-decoration: underline; }
+
+  /* ── EVENT TABLE ── */
+  .event-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid var(--border);
+    margin-bottom: 1rem;
+  }
+  .event-table thead th {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.62rem; letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--accent);
+    background: #060709;
+    padding: 1rem 1.25rem;
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+  }
+  .event-table tbody tr {
+    border-bottom: 1px solid var(--border);
+    transition: background 0.15s;
+  }
+  .event-table tbody tr:last-child { border-bottom: none; }
+  .event-table tbody tr:hover { background: var(--surface2); }
+  .event-table tbody td {
+    padding: 1.1rem 1.25rem;
+    font-size: 0.9rem; color: var(--muted);
+    vertical-align: top;
+  }
+  .event-table td.event-name {
+    color: var(--text); font-weight: 500;
+  }
+  .event-table td.event-date {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.78rem; color: var(--accent);
+    white-space: nowrap;
+  }
+  .badge {
+    display: inline-block;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.58rem; letter-spacing: 0.1em; text-transform: uppercase;
+    padding: 0.2rem 0.5rem;
+    border-radius: 2px;
+    margin-top: 0.25rem;
+  }
+  .badge-italy { background: rgba(0,200,100,0.12); color: #00c864; border: 1px solid rgba(0,200,100,0.25); }
+  .badge-priority { background: rgba(0,212,255,0.1); color: var(--accent); border: 1px solid rgba(0,212,255,0.25); }
+  .badge-ev { background: rgba(127,255,110,0.1); color: var(--accent2); border: 1px solid rgba(127,255,110,0.2); }
+
+  /* ── CONTACT BLOCK ── */
+  .contact-block {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    padding: 2rem 2.25rem;
+    margin-bottom: 2rem;
+  }
+  .contact-block h3 {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.72rem; letter-spacing: 0.15em; text-transform: uppercase;
+    color: var(--accent); margin: 0 0 0.75rem;
+  }
+  .contact-block p { color: var(--muted); font-size: 0.95rem; line-height: 1.7; margin: 0 0 0.5rem; }
+  .contact-block a { color: var(--accent); text-decoration: none; }
+  .contact-block a:hover { text-decoration: underline; }
+
+  /* ── HOW TO APPLY ── */
+  .steps { counter-reset: steps; list-style: none; padding: 0; margin: 0; }
+  .steps li {
+    counter-increment: steps;
+    display: flex; gap: 1.25rem;
+    margin-bottom: 1.25rem;
+    align-items: flex-start;
+  }
+  .steps li::before {
+    content: counter(steps);
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.4rem; color: var(--accent);
+    background: rgba(0,212,255,0.08);
+    border: 1px solid rgba(0,212,255,0.2);
+    min-width: 2.25rem; height: 2.25rem;
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0;
+  }
+  .steps li p { margin: 0; color: var(--muted); font-size: 0.95rem; line-height: 1.65; }
+  .steps li strong { color: var(--text); }
+
+  /* ── FOOTER ── */
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 2rem;
+    text-align: center;
+  }
+  footer p { font-size: 0.78rem; color: var(--muted); margin: 0 0 0.35rem; }
+  footer a { color: var(--accent); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+
+  @media (max-width: 700px) {
+    .stats-row { grid-template-columns: 1fr 1fr; }
+    .info-grid { grid-template-columns: 1fr; }
+    nav { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <a class="logo" href="index.html" aria-label="nexusEVnews home">
+    <svg class="logo-mark" width="36" height="40" viewBox="0 0 36 40" fill="none" aria-hidden="true">
+      <polygon points="18,2 34,11 34,29 18,38 2,29 2,11" fill="rgba(0,212,255,0.07)" stroke="rgba(0,212,255,0.35)" stroke-width="1"/>
+      <polygon points="18,4 32,12 32,28 18,36 4,28 4,12" fill="rgba(0,212,255,0.1)" stroke="#00d4ff" stroke-width="1.5"/>
+      <path d="M22 9L12 22H20L14 32L26 18H18L22 9Z" fill="#00d4ff"/>
+    </svg>
+    <div class="logo-text-wrap">
+      <span class="logo-name">NEXUS<span class="ev">EV</span><span class="logo-news">news</span></span>
+      <span class="logo-tagline">EV &amp; Renewable Energy</span>
+    </div>
+  </a>
+  <nav>
+    <a href="index.html">Latest</a>
+    <a href="about.html">About</a>
+    <a href="press.html" class="active">Press</a>
+  </nav>
+  <div class="header-right">
+    <a class="newsletter-btn" href="advertise.html" style="text-decoration:none;">Advertise</a>
+  </div>
+</header>
+
+<!-- HERO -->
+<section class="press-hero">
+  <div class="eyebrow">⚡ Media &amp; Press</div>
+  <h1>Press &amp; Media</h1>
+  <p>nexusEVnews is an independent EV and renewable energy news publication, curated daily by a Rivian R1T and Audi e-tron GT owner based in Italy. We cover electric vehicles, battery technology, solar energy, and clean transport policy for a global audience.</p>
+  <div class="accent-bar"></div>
+</section>
+
+<!-- CONTENT -->
+<div class="press-content">
+
+  <!-- PUBLICATION AT A GLANCE -->
+  <section class="section">
+    <div class="section-label">Publication</div>
+    <h2>At a Glance</h2>
+
+    <div class="stats-row">
+      <div class="stat-box">
+        <div class="stat-num">5</div>
+        <div class="stat-label">New Articles Daily</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-num">9</div>
+        <div class="stat-label">Content Categories</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-num">2026</div>
+        <div class="stat-label">Founded</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-num">🇮🇹</div>
+        <div class="stat-label">Based in Italy</div>
+      </div>
+    </div>
+
+    <div class="info-grid">
+      <div class="info-cell">
+        <div class="label">Publication Name</div>
+        <div class="value">nexusEVnews</div>
+      </div>
+      <div class="info-cell">
+        <div class="label">Website</div>
+        <div class="value"><a href="https://nexusevnews.com" target="_blank">nexusevnews.com</a></div>
+      </div>
+      <div class="info-cell">
+        <div class="label">Format</div>
+        <div class="value">Independent digital news publication — daily editorial curation with original commentary</div>
+      </div>
+      <div class="info-cell">
+        <div class="label">Coverage Areas</div>
+        <div class="value">Electric vehicles · Battery technology · Charging infrastructure · Solar &amp; renewables · EV policy · Deep dives · Trucks &amp; SUVs · Used EVs · Hybrid</div>
+      </div>
+      <div class="info-cell">
+        <div class="label">Audience</div>
+        <div class="value">EV owners, prospective buyers, clean energy enthusiasts, automotive professionals — primarily US and European readers</div>
+      </div>
+      <div class="info-cell">
+        <div class="label">Editorial Voice</div>
+        <div class="value">Hands-on ownership perspective. Curator is a Rivian R1T Gen 1 and Audi e-tron GT owner with a background in operations and team leadership at a global tech company</div>
+      </div>
+      <div class="info-cell">
+        <div class="label">Publishing Frequency</div>
+        <div class="value">5 original editorial posts per day, 7 days a week</div>
+      </div>
+      <div class="info-cell">
+        <div class="label">Media Enquiries</div>
+        <div class="value"><a href="mailto:nexusevnews@gmail.com">nexusevnews@gmail.com</a></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- MEDIA CREDENTIALS -->
+  <section class="section">
+    <div class="section-label">Credentialing</div>
+    <h2>Applying for Media Credentials</h2>
+    <p>nexusEVnews is available to cover automotive and clean energy events in Europe and internationally. As an Italian-based independent publication with a focused EV and renewables readership, we provide editorial coverage of reveals, product launches, and industry panels.</p>
+    <p>When applying for press passes, use the following information:</p>
+
+    <div class="info-grid" style="margin-bottom:2rem;">
+      <div class="info-cell">
+        <div class="label">Publication / Outlet Name</div>
+        <div class="value">nexusEVnews</div>
+      </div>
+      <div class="info-cell">
+        <div class="label">Publication URL</div>
+        <div class="value"><a href="https://nexusevnews.com">nexusevnews.com</a></div>
+      </div>
+      <div class="info-cell">
+        <div class="label">Publication Type</div>
+        <div class="value">Independent digital news publication</div>
+      </div>
+      <div class="info-cell">
+        <div class="label">Beat / Coverage Focus</div>
+        <div class="value">Electric vehicles, battery technology, renewable energy, EV policy</div>
+      </div>
+      <div class="info-cell">
+        <div class="label">Contact Name</div>
+        <div class="value">Jacob Hunka, Founder &amp; Editor</div>
+      </div>
+      <div class="info-cell">
+        <div class="label">Contact Email</div>
+        <div class="value"><a href="mailto:nexusevnews@gmail.com">nexusevnews@gmail.com</a></div>
+      </div>
+    </div>
+
+    <ol class="steps">
+      <li><p><strong>Find the press/media registration page</strong> for the event you want to attend — usually linked from the official event website under "Press," "Media," or "Accreditation."</p></li>
+      <li><p><strong>Fill in the outlet details above.</strong> Most forms ask for publication name, URL, your name, title, and email. Use "Founder &amp; Editor" as your title.</p></li>
+      <li><p><strong>Describe your coverage plans</strong> briefly — something like: "nexusEVnews covers EV news and clean energy daily for an international audience. I plan to write editorial coverage of reveals, new model walkthroughs, and industry announcements from the event."</p></li>
+      <li><p><strong>Submit early.</strong> Press registration for major shows typically opens 6–10 weeks before the event. The earlier you apply, the better — smaller independent outlets are approved more easily when slots aren't yet filled.</p></li>
+      <li><p><strong>Follow up.</strong> If you haven't heard back within 2 weeks of applying, send a brief follow-up to the press office email. A short, professional nudge often gets results.</p></li>
+    </ol>
+  </section>
+
+  <!-- EUROPEAN SHOWS -->
+  <section class="section">
+    <div class="section-label">Events Calendar</div>
+    <h2>Key European Shows &amp; Events</h2>
+    <p>These are the most relevant European automotive and EV events for nexusEVnews coverage. Shows marked <span class="badge badge-italy">Near Italy</span> are within easy travel distance. Shows marked <span class="badge badge-priority">Top Priority</span> are the highest-profile press opportunities. Shows marked <span class="badge badge-ev">EV Focus</span> are specifically EV or clean energy oriented.</p>
+
+    <table class="event-table">
+      <thead>
+        <tr>
+          <th>Event</th>
+          <th>Date</th>
+          <th>Location</th>
+          <th>Notes</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="event-name">
+            Motor Valley Fest<br>
+            <span class="badge badge-italy">Near Italy</span>
+            <span class="badge badge-priority">Top Priority</span>
+          </td>
+          <td class="event-date">May 2026<br>Annual</td>
+          <td>Modena, Italy 🇮🇹</td>
+          <td>Ferrari, Lamborghini, Pagani country. Panels, drive experiences, and brand exhibits in the heart of the Motor Valley. Italy-based — ideal home event. Press registration typically opens March–April.</td>
+        </tr>
+        <tr>
+          <td class="event-name">
+            Villa d'Este Concorso d'Eleganza<br>
+            <span class="badge badge-italy">Near Italy</span>
+          </td>
+          <td class="event-date">May 2026<br>Annual</td>
+          <td>Lake Como, Italy 🇮🇹</td>
+          <td>BMW Group-hosted prestigious concours at the Grand Hotel Villa d'Este. Concept cars and coachbuilt one-offs. Smaller event — approachable for independent press. Stunning location.</td>
+        </tr>
+        <tr>
+          <td class="event-name">
+            Euro EV Show<br>
+            <span class="badge badge-ev">EV Focus</span>
+            <span class="badge badge-priority">Top Priority</span>
+          </td>
+          <td class="event-date">May 5–6, 2026</td>
+          <td>Madrid, Spain 🇪🇸</td>
+          <td>Europe's largest dedicated EV industry event. Specifically EV and clean energy — directly aligned with nexusEVnews coverage. Easy to justify as press. ~2hr flight from Italy.</td>
+        </tr>
+        <tr>
+          <td class="event-name">
+            EV &amp; Hybrid Tech Expo Europe<br>
+            <span class="badge badge-ev">EV Focus</span>
+          </td>
+          <td class="event-date">June 9–11, 2026</td>
+          <td>Stuttgart, Germany 🇩🇪</td>
+          <td>Battery tech, EV supply chain, OEM engineers. More technical than consumer-facing — strong Battery Tech and Deep Dives content opportunity. Short flight from Italy.</td>
+        </tr>
+        <tr>
+          <td class="event-name">
+            Goodwood Festival of Speed<br>
+            <span class="badge badge-priority">Top Priority</span>
+          </td>
+          <td class="event-date">July 2026<br>Annual</td>
+          <td>Chichester, UK 🇬🇧</td>
+          <td>One of the world's best car events. Strong EV presence in recent years. Every major manufacturer attends. Massively content-rich — hillclimb, reveals, celebrity appearances. Kyle Conner, MKBHD, and other major creators attend regularly.</td>
+        </tr>
+        <tr>
+          <td class="event-name">
+            IAA Munich<br>
+            <span class="badge badge-priority">Top Priority</span>
+          </td>
+          <td class="event-date">Sept 2027<br>Biennial (odd years)</td>
+          <td>Munich, Germany 🇩🇪</td>
+          <td>Europe's biggest auto show — the equivalent of Detroit for the European market. Heavily EV-focused since 2021. Next edition is 2027. Start building profile now to be credentialed then.</td>
+        </tr>
+        <tr>
+          <td class="event-name">
+            Paris Motor Show (Mondial de l'Auto)<br>
+            <span class="badge badge-priority">Top Priority</span>
+          </td>
+          <td class="event-date">October 2026<br>Biennial</td>
+          <td>Paris, France 🇫🇷</td>
+          <td>Returns October 2026 after its biennial cycle. Major global stage for concept cars and EV reveals. VW already confirmed. Strong content for nexusEVnews. ~1.5hr flight from Italy.</td>
+        </tr>
+        <tr>
+          <td class="event-name">
+            Brussels Motor Show<br>
+          </td>
+          <td class="event-date">January 2027<br>Annual</td>
+          <td>Brussels, Belgium 🇧🇪</td>
+          <td>Europe's largest indoor auto show. European Car of the Year is announced here. 67% of vehicles on display are electrified. 2026 edition already passed — plan for January 2027. Apply by November 2026.</td>
+        </tr>
+        <tr>
+          <td class="event-name">
+            Essen Motor Show<br>
+          </td>
+          <td class="event-date">Nov–Dec 2026<br>Annual</td>
+          <td>Essen, Germany 🇩🇪</td>
+          <td>Performance, tuning, and motorsport focus. Growing EV presence. Accessible press accreditation for independent outlets. Good end-of-year content.</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p style="font-size:0.82rem;">Dates are based on best available information as of March 2026. Always verify current dates on each event's official website before booking travel.</p>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="section">
+    <div class="section-label">Contact</div>
+    <h2>Media Enquiries</h2>
+
+    <div class="contact-block">
+      <h3>Press Contact</h3>
+      <p><strong style="color:var(--text);">Jacob Hunka</strong> — Founder &amp; Editor, nexusEVnews</p>
+      <p>Email: <a href="mailto:nexusevnews@gmail.com">nexusevnews@gmail.com</a></p>
+      <p>Website: <a href="https://nexusevnews.com">nexusevnews.com</a></p>
+      <p>Based in Italy — available for event coverage across Europe and internationally.</p>
+    </div>
+
+    <div class="contact-block">
+      <h3>For Event Organisers &amp; PR Teams</h3>
+      <p>If you represent an automotive brand, EV company, or clean energy organisation and would like to invite nexusEVnews to cover your event, product launch, or press briefing — please reach out to <a href="mailto:nexusevnews@gmail.com">nexusevnews@gmail.com</a> with event details, dates, and location.</p>
+      <p>We cover reveals, drive events, industry panels, and technology briefings across Europe, with editorial content published same-day or next-day on nexusevnews.com.</p>
+    </div>
+  </section>
+
+</div>
+
+<!-- FOOTER -->
+<footer>
+  <p>© 2026 nexusEVnews &nbsp;·&nbsp; <a href="about.html">About</a> &nbsp;·&nbsp; <a href="advertise.html">Advertise</a> &nbsp;·&nbsp; <a href="press.html">Press</a> &nbsp;·&nbsp; <a href="privacy.html">Privacy Policy</a> &nbsp;·&nbsp; <a href="terms.html">Terms of Service</a></p>
+  <p>Independent EV and renewable energy news. Not affiliated with any manufacturer. All article links go to original sources.</p>
+</footer>
+
+</body>
+</html>
