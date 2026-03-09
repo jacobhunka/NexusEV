@@ -192,9 +192,10 @@
     padding: 2.5rem 2rem 0;
     display: flex;
     align-items: flex-end;
-    justify-content: space-between;
+    justify-content: center;
     max-width: 1400px;
     margin: 0 auto;
+    text-align: center;
   }
   .hero-date {
     font-family: 'DM Mono', monospace;
@@ -202,19 +203,34 @@
     letter-spacing: 0.12em;
     color: var(--muted);
     text-transform: uppercase;
-    margin-bottom: 0.4rem;
+    margin-top: 0.65rem;
   }
   .hero-headline {
     font-family: 'Bebas Neue', sans-serif;
-    font-size: clamp(2.2rem, 5vw, 4.5rem);
-    line-height: 0.95;
+    font-size: clamp(2.31rem, 5.25vw, 4.725rem);
+    line-height: 1.05;
     letter-spacing: 0.02em;
   }
-  .hero-headline em { color: var(--accent); font-style: normal; }
+  .hero-headline .hero-line-solid {
+    display: block;
+    color: var(--text);
+  }
+  .hero-headline .hero-line-outline {
+    display: block;
+    color: transparent;
+    -webkit-text-stroke: 1.5px var(--accent);
+    letter-spacing: 0.06em;
+  }
+  .hero-divider {
+    width: 44px;
+    height: 2px;
+    background: var(--accent);
+    margin: 0.9rem auto 0.85rem;
+    opacity: 0.6;
+  }
   .hero-sub {
     font-size: 0.82rem;
     color: var(--muted);
-    margin-top: 0.55rem;
     letter-spacing: 0.01em;
   }
   .hero-sub span { color: var(--solar); }
@@ -679,12 +695,16 @@
 <!-- HERO -->
 <div class="hero-strip">
   <div>
-    <div class="hero-date">Monday, March 9 · 2026</div>
-    <div class="hero-headline">THE EV WORLD,<br><em>CONNECTED.</em></div>
+    <div class="hero-headline">
+      <span class="hero-line-solid">THE EV WORLD,</span>
+      <span class="hero-line-outline">CONNECTED.</span>
+    </div>
+    <div class="hero-divider"></div>
     <div class="hero-sub">
       Electric vehicles &middot; Battery tech &middot; Charging &middot;
       <span>Solar &amp; renewables</span>
     </div>
+    <div class="hero-date">Monday, March 9 · 2026</div>
   </div>
 </div>
 
