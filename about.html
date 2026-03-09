@@ -244,6 +244,49 @@
     For privacy-related enquiries, see our <a href="privacy.html" style="color:var(--accent)">Privacy Policy</a>.
   </p>
 
+  <h2>RIVIAN <em>REFERRAL</em></h2>
+  <p>
+    If you're ordering a Rivian, use my referral code and we both benefit. Full disclosure — I may receive a reward if you use this code.
+  </p>
+
+  <div style="
+    background: linear-gradient(135deg, #040d14 0%, #091a26 60%, #030e16 100%);
+    border: 1px solid rgba(0,212,255,0.25);
+    border-radius: 6px;
+    padding: 2rem 2.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    margin: 1.25rem 0 2.5rem;
+    flex-wrap: wrap;
+  ">
+    <div>
+      <div style="font-family:'DM Mono',monospace;font-size:0.6rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--accent);margin-bottom:0.5rem;">⚡ Rivian Referral Code</div>
+      <div style="font-family:'DM Mono',monospace;font-size:1.8rem;letter-spacing:0.18em;color:var(--text);font-weight:600;text-shadow:0 0 30px rgba(0,212,255,0.25);">JACOB1807128</div>
+      <div style="font-family:'DM Mono',monospace;font-size:0.58rem;letter-spacing:0.1em;text-transform:uppercase;color:var(--muted);margin-top:0.4rem;">Use at rivian.com</div>
+    </div>
+    <div style="display:flex;gap:0.6rem;flex-wrap:wrap;">
+      <button onclick="copyCode(this)" style="font-family:'DM Mono',monospace;font-size:0.68rem;letter-spacing:0.08em;text-transform:uppercase;background:rgba(0,212,255,0.07);color:var(--accent);border:1px solid rgba(0,212,255,0.2);padding:0.55rem 1.25rem;border-radius:4px;cursor:pointer;transition:all 0.2s;" id="copyBtn">Copy Code</button>
+      <a href="https://rivian.com" target="_blank" rel="noopener" style="font-family:'DM Mono',monospace;font-size:0.68rem;letter-spacing:0.08em;text-transform:uppercase;background:var(--accent);color:#000;font-weight:700;padding:0.55rem 1.25rem;border-radius:4px;text-decoration:none;display:inline-block;">Order Rivian →</a>
+    </div>
+  </div>
+
+  <script>
+    function copyCode(btn) {
+      navigator.clipboard.writeText('JACOB1807128').then(() => {
+        btn.textContent = '✓ Copied!';
+        btn.style.color = '#7fff6e';
+        btn.style.borderColor = 'rgba(127,255,110,0.3)';
+        setTimeout(() => {
+          btn.textContent = 'Copy Code';
+          btn.style.color = 'var(--accent)';
+          btn.style.borderColor = 'rgba(0,212,255,0.2)';
+        }, 2000);
+      });
+    }
+  </script>
+
 </div>
 
 <footer>
