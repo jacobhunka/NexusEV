@@ -234,6 +234,7 @@
     display: flex;
     gap: 0.5rem;
     flex-wrap: wrap;
+    justify-content: center;
   }
   .cat {
     font-family: 'DM Mono', monospace;
@@ -699,7 +700,6 @@
   <button class="cat">Used EVs</button>
   <button class="cat">Policy</button>
   <button class="cat">News</button>
-  <button class="cat">Hybrid</button>
 </div>
 
 <!-- ══════════════════════════════════════════
@@ -1317,12 +1317,12 @@
     </div>
   </article>
 
-  <!-- CORVETTE ZR1X — HYBRID -->
-  <article class="card" data-category="hybrid" data-ts="2026-03-04T17:00:00">
+  <!-- CORVETTE ZR1X — REVIEWS -->
+  <article class="card" data-category="reviews" data-ts="2026-03-04T17:00:00">
     <a class="card-link" href="https://youtu.be/LgOXq_tpLWE" target="_blank" rel="noopener"
        aria-label="Watch: Corvette ZR1X — hybrid hypercar review"></a>
     <div class="card-img-wrap">
-      <span class="card-tag tag-hybrid">Hybrid</span>
+      <span class="card-tag tag-review">Review</span>
       <img class="card-img"
            src="https://img.youtube.com/vi/LgOXq_tpLWE/maxresdefault.jpg"
            alt="Corvette ZR1X hybrid hypercar — 14.9% electric horsepower"
@@ -1806,7 +1806,6 @@
     'Used EVs':             'used-evs',
     'Policy':               'policy',
     'News':                 'news',
-    'Hybrid':               'hybrid',
   };
 
   const grid      = document.getElementById('cardGrid');
