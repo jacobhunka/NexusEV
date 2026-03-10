@@ -52,16 +52,33 @@
   }
   .logo {
     font-family: 'Bebas Neue', sans-serif;
-    font-size: 1.9rem; letter-spacing: 0.08em;
-    color: var(--text); text-decoration: none;
-    display: flex; align-items: center; gap: 0.4rem;
+    font-size: 1.85rem;
+    letter-spacing: 0.06em;
+    color: var(--text);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
   }
-  .logo span { color: var(--accent); }
-  .logo-bolt {
-    width: 22px; height: 22px;
-    background: var(--accent);
-    clip-path: polygon(60% 0%, 40% 45%, 65% 45%, 35% 100%, 55% 55%, 30% 55%);
+  .logo .ev { color: var(--accent); }
+  .logo .logo-news { font-size: 0.55em; color: var(--text); letter-spacing: 0.02em; vertical-align: baseline; }
+  .logo-text-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 1;
   }
+  .logo-name { display: block; line-height: 1; }
+  .logo-tagline {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.5rem;
+    letter-spacing: 0.14em;
+    color: var(--muted);
+    text-transform: uppercase;
+    display: block;
+    margin-top: 3px;
+  }
+  .logo-mark { flex-shrink: 0; display: block; }
   nav { display: flex; gap: 0.25rem; }
   nav a {
     font-size: 0.78rem; font-weight: 500; letter-spacing: 0.06em;
@@ -402,9 +419,16 @@
 
 <!-- HEADER -->
 <header>
-  <a class="logo" href="index.html">
-    <div class="logo-bolt"></div>
-    NEXUS<span>EV</span>
+  <a class="logo" href="index.html" aria-label="nexusEVnews home">
+    <svg class="logo-mark" width="36" height="40" viewBox="0 0 36 40" fill="none" aria-hidden="true">
+      <polygon points="18,2 34,11 34,29 18,38 2,29 2,11" fill="rgba(0,212,255,0.07)" stroke="rgba(0,212,255,0.35)" stroke-width="1"/>
+      <polygon points="18,4 32,12 32,28 18,36 4,28 4,12" fill="rgba(0,212,255,0.1)" stroke="#00d4ff" stroke-width="1.5"/>
+      <path d="M22 9L12 22H20L14 32L26 18H18L22 9Z" fill="#00d4ff"/>
+    </svg>
+    <div class="logo-text-wrap">
+      <span class="logo-name">NEXUS<span class="ev">EV</span><span class="logo-news">news</span></span>
+      <span class="logo-tagline">EV &amp; Renewable Energy</span>
+    </div>
   </a>
   <a class="back-btn" href="index.html">← Back to Latest</a>
 </header>
