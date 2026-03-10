@@ -146,6 +146,42 @@
   footer p { font-size: 0.75rem; color: var(--muted); line-height: 1.8; }
   footer a { color: var(--muted); text-decoration: none; }
   footer a:hover { color: var(--accent); }
+
+  @media (max-width: 768px) {
+    header { padding: 0 1rem; }
+    nav { display: none; }
+
+    .article-wrap { padding: 2rem 1.25rem 4rem; }
+    .back-link { margin-bottom: 1.75rem; }
+
+    .article-title { font-size: 1.65rem; line-height: 1.25; margin-bottom: 1.25rem; }
+
+    .article-meta { gap: 0.9rem; margin-bottom: 2rem; padding-bottom: 1.5rem; }
+    .author-photo { width: 38px; height: 38px; }
+    .meta-name { font-size: 0.85rem; }
+    .meta-details { font-size: 0.58rem; }
+
+    .article-body { font-size: 0.97rem; line-height: 1.8; }
+    .article-body h2 { font-size: 1.2rem; margin: 2rem 0 0.75rem; padding-top: 1.5rem; }
+    .article-body p { margin-bottom: 1.4rem; }
+
+    .byline-block { gap: 1rem; }
+    .byline-photo { width: 46px; height: 46px; }
+    .byline-name { font-size: 0.88rem; }
+    .byline-bio { font-size: 0.78rem; }
+
+    .sources-block { padding: 1.25rem; }
+    .sources-list li { font-size: 0.75rem; }
+
+    footer { padding: 1.25rem 1rem; }
+    footer p { font-size: 0.7rem; }
+  }
+
+  @media (max-width: 480px) {
+    .article-title { font-size: 1.4rem; }
+    .article-body { font-size: 0.93rem; }
+    .newsletter-btn { display: none; }
+  }
 </style>
 </head>
 <body>
