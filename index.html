@@ -281,7 +281,6 @@
     grid-template-columns: repeat(4, 1fr);
     gap: 0;
     background: var(--bg);
-    border: 1px solid var(--border);
   }
 
   /* ── CARD ── */
@@ -295,7 +294,9 @@
     cursor: pointer;
     border-right: 1px solid var(--border);
     border-bottom: 1px solid var(--border);
+    border-top: 1px solid var(--border);
   }
+  .card:nth-child(4n+1) { border-left: 1px solid var(--border); }
   .card:hover { background: var(--surface2); }
   .card.featured { grid-column: span 3; flex-direction: row; }
   .card.featured .card-img-wrap { width: 55%; flex-shrink: 0; background: #000; aspect-ratio: 16/9; overflow: hidden; }
@@ -1788,6 +1789,13 @@
     </div>
   </div>
 
+  <div class="card ad-card" data-ad="true" aria-hidden="true">
+    <span>Advertisement</span>
+    <div class="ad-card-inner">
+      <span style="font-family:'DM Mono',monospace;font-size:0.58rem;letter-spacing:0.1em;color:var(--border);">300 × 250 AD UNIT</span>
+    </div>
+  </div>
+
   <!-- RJ AND TOSH -->
   <article class="card" data-category="news" data-ts="2026-03-03T13:00:00">
     <a class="card-link" href="https://youtu.be/JYMAbCmrBhs" target="_blank" rel="noopener"
@@ -1957,6 +1965,7 @@
 
 <script>
   const CARDS_PER_PAGE = 16;
+  const CARDS_PAGE_ONE = 18; // featured(3 cols) + 2 ads(1 col each) + 15 articles = 20 slots → 5 full rows of 4
   let currentPage = 1;
   let currentCategory = null;
 
@@ -1989,7 +1998,8 @@
     const reordered = [];
     articles.forEach((el, i) => {
       reordered.push(el);
-      if (i === 5 && adCards.length) reordered.push(...adCards);
+      if (i === 5 && adCards.length >= 1) reordered.push(adCards[0]);
+      if (i === 14 && adCards.length >= 2) reordered.push(adCards[1]);
     });
     reordered.forEach(el => grid.appendChild(el));
   }
@@ -2004,56 +2014,32 @@
     candidates[0].classList.add('featured');
   }
 
-  function fixOrphanCards() {
-    const COLS = 4;
-
-    // All visible items on this page (articles + ad card)
-    const allVisible = Array.from(grid.children).filter(el =>
-      !el.classList.contains('hidden') && !el.classList.contains('page-hidden')
-    );
-
-    // Article cards only (for spanning adjustments)
-    const articleCards = allVisible.filter(el => el.dataset.ts);
-    articleCards.forEach(card => card.style.gridColumn = '');
-
-    // Count total visual column slots
-    let totalSlots = 0;
-    allVisible.forEach(el => {
-      totalSlots += el.classList.contains('featured') ? 3 : 1;
-    });
-
-    const filledInLastRow = totalSlots % COLS;
-    if (filledInLastRow === 0) return;
-    const emptySlots = COLS - filledInLastRow;
-
-    // Walk backwards through article cards to find those in the last row
-    const lastRowCards = [];
-    let counted = 0;
-    for (let i = articleCards.length - 1; i >= 0; i--) {
-      const card = articleCards[i];
-      const span = card.classList.contains('featured') ? 3 : 1;
-      counted += span;
-      lastRowCards.unshift(card);
-      if (counted >= filledInLastRow) break;
-    }
-
-    const n = lastRowCards.length;
-    if (n === 1) {
-      const currentSpan = lastRowCards[0].classList.contains('featured') ? 3 : 1;
-      lastRowCards[0].style.gridColumn = 'span ' + (currentSpan + emptySlots);
-    } else if (n === 2) {
-      lastRowCards[0].style.gridColumn = 'span ' + (1 + emptySlots);
-    } else if (n === 3) {
-      lastRowCards[0].style.gridColumn = 'span 2';
-    }
-  }
-
   function applyPagination(visibleCards) {
-    const totalPages = Math.max(1, Math.ceil(visibleCards.length / CARDS_PER_PAGE));
-    // clamp currentPage
+    // Page 1 on "All" needs 17 articles: featured(3) + ad(1) + 17 = 21 slots = 5 full rows of 4
+    // All other pages use 16 (4 full rows of 4)
+    function pageSize(page) {
+      return (page === 1 && currentCategory === null) ? CARDS_PAGE_ONE : CARDS_PER_PAGE;
+    }
+
+    // Calculate total pages accounting for variable page 1 size
+    const p1size = pageSize(1);
+    const remaining = Math.max(0, visibleCards.length - p1size);
+    const totalPages = visibleCards.length <= p1size
+      ? 1
+      : 1 + Math.ceil(remaining / CARDS_PER_PAGE);
+
     if (currentPage > totalPages) currentPage = totalPages;
-    const start = (currentPage - 1) * CARDS_PER_PAGE;
-    const end   = start + CARDS_PER_PAGE;
+
+    // Calculate start/end for current page
+    let start, end;
+    if (currentPage === 1) {
+      start = 0;
+      end = p1size;
+    } else {
+      start = p1size + (currentPage - 2) * CARDS_PER_PAGE;
+      end = start + CARDS_PER_PAGE;
+    }
+
     visibleCards.forEach((card, i) => {
       if (i >= start && i < end) {
         card.classList.remove('page-hidden');
@@ -2061,7 +2047,6 @@
         card.classList.add('page-hidden');
       }
     });
-    fixOrphanCards();
     // Update pagination UI
     if (totalPages <= 1) {
       paginationNav.style.display = 'none';
