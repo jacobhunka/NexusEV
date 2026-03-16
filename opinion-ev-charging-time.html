@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="canonical" href="https://nexusevnews.com/opinion-ev-charging-time.html">
+<meta property="og:title" content="The Charging Time Argument Is Built on a Math Problem. Here Is the Math.">
+<meta property="og:description" content="Everyone says EVs take too long to charge. Almost no one has done the annual math. We did.">
+<meta property="og:image" content="https://nexusevnews.com/jacob-hunka.jpg">
+<meta property="og:url" content="https://nexusevnews.com/opinion-ev-charging-time.html">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Charging Time Argument Is Built on a Math Problem. Here Is the Math. | nexusEVnews</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDM2IDQwIiBmaWxsPSJub25lIj4KICA8cG9seWdvbiBwb2ludHM9IjE4LDIgMzQsMTEgMzQsMjkgMTgsMzggMiwyOSAyLDExIiBmaWxsPSJyZ2JhKDAsMjEyLDI1NSwwLjA3KSIgc3Ryb2tlPSJyZ2JhKDAsMjEyLDI1NSwwLjM1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPHBvbHlnb24gcG9pbnRzPSIxOCw0IDMyLDEyIDMyLDI4IDE4LDM2IDQsMjggNCwxMiIgZmlsbD0icmdiYSgwLDIxMiwyNTUsMC4xKSIgc3Ryb2tlPSIjMDBkNGZmIiBzdHJva2Utd2lkdGg9IjEuNSIvPgogIDxwYXRoIGQ9Ik0yMiA5TDEyIDIySDIwTDE0IDMyTDI2IDE4SDE4TDIyIDlaIiBmaWxsPSIjMDBkNGZmIi8+Cjwvc3ZnPg==">
+<meta name="description" content="The objection everyone reaches for when EVs come up is charging time. It sounds reasonable. The annual math says otherwise.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #0a0b0f; --surface: #111318; --surface2: #1a1d24;
+    --border: #1f2330; --accent: #00d4ff;
+    --text: #e8eaf0; --muted: #6b7280;
+  }
+  html { scroll-behavior: smooth; }
+  body { font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+
+  header { position: sticky; top: 0; z-index: 100; background: rgba(10,11,15,0.94); backdrop-filter: blur(14px); border-bottom: 1px solid var(--border); padding: 0 2rem; display: flex; align-items: center; justify-content: space-between; height: 62px; }
+  .logo { font-family: 'Bebas Neue', sans-serif; font-size: 1.85rem; letter-spacing: 0.06em; color: var(--text); text-decoration: none; display: flex; align-items: center; gap: 0.6rem; }
+  .logo .ev { color: var(--accent); }
+  .logo .logo-news { font-size: 0.55em; color: var(--text); letter-spacing: 0.02em; vertical-align: baseline; }
+  .logo-text-wrap { display: flex; flex-direction: column; justify-content: center; line-height: 1; }
+  .logo-name { display: block; line-height: 1; }
+  .logo-tagline { font-family: 'DM Mono', monospace; font-size: 0.5rem; letter-spacing: 0.14em; color: var(--muted); text-transform: uppercase; display: block; margin-top: 3px; }
+  nav { display: flex; gap: 0.2rem; align-items: center; }
+  nav a { font-size: 0.76rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); text-decoration: none; padding: 0.35rem 0.7rem; border-radius: 4px; transition: color 0.2s, background 0.2s; }
+  nav a:hover { color: var(--text); background: var(--surface2); }
+  nav a.active { color: var(--accent); }
+  nav a.solar-nav { color: #c47d0a; }
+  .header-right { display: flex; align-items: center; }
+  .newsletter-btn { font-family: 'DM Sans', sans-serif; font-size: 0.76rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; background: var(--accent); color: #000; border: none; padding: 0.45rem 1rem; border-radius: 4px; cursor: pointer; text-decoration: none; display: inline-block; }
+
+  .article-wrap { max-width: 740px; margin: 0 auto; padding: 3.5rem 2rem 6rem; }
+
+  .back-link { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); text-decoration: none; display: inline-flex; align-items: center; gap: 0.4rem; margin-bottom: 2.5rem; transition: color 0.2s; }
+  .back-link::before { content: '←'; }
+  .back-link:hover { color: var(--accent); }
+
+  .article-eyebrow { font-family: 'DM Mono', monospace; font-size: 0.62rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); margin-bottom: 1rem; display: block; }
+  .article-title { font-family: 'Playfair Display', serif; font-size: clamp(1.9rem, 4vw, 2.8rem); line-height: 1.2; color: var(--text); margin-bottom: 1.5rem; }
+
+  .article-meta { display: flex; align-items: center; gap: 1.25rem; padding-bottom: 2rem; border-bottom: 1px solid var(--border); margin-bottom: 2.5rem; }
+  .author-photo { width: 44px; height: 44px; border-radius: 50%; object-fit: cover; object-position: center top; border: 2px solid rgba(0,212,255,0.3); flex-shrink: 0; }
+  .meta-name { font-size: 0.9rem; font-weight: 600; color: var(--text); }
+  .meta-details { font-family: 'DM Mono', monospace; font-size: 0.62rem; color: var(--muted); margin-top: 0.2rem; }
+
+  .article-body { font-size: 1.05rem; line-height: 1.85; color: #c8cad4; }
+  .article-body p { margin-bottom: 1.6rem; }
+  .article-body h2 { font-family: 'Playfair Display', serif; font-size: 1.4rem; color: var(--text); margin: 2.5rem 0 1rem; padding-top: 2rem; border-top: 1px solid var(--border); }
+  .article-body strong { color: var(--text); font-weight: 600; }
+  .article-body em { font-style: italic; color: var(--muted); }
+  .article-body a { color: var(--accent); text-decoration: none; }
+  .article-body a:hover { text-decoration: underline; }
+
+  .data-note { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--accent); border-radius: 6px; padding: 1.25rem 1.5rem; margin: 2rem 0; font-family: 'DM Mono', monospace; font-size: 0.68rem; line-height: 1.85; color: var(--muted); letter-spacing: 0.03em; }
+  .data-note strong { color: var(--accent); }
+  .data-note .data-row { display: flex; justify-content: space-between; align-items: baseline; padding: 0.3rem 0; border-bottom: 1px solid var(--border); }
+  .data-note .data-row:last-child { border-bottom: none; }
+  .data-note .data-label { color: var(--muted); }
+  .data-note .data-val { color: var(--text); font-weight: 500; }
+  .data-note .data-header { color: var(--accent); font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; font-size: 0.6rem; margin-bottom: 0.6rem; display: block; }
+
+  .article-footer { margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border); }
+  .byline-block { display: flex; gap: 1.25rem; align-items: flex-start; margin-bottom: 2rem; }
+  .byline-photo { width: 56px; height: 56px; border-radius: 50%; object-fit: cover; object-position: center top; border: 2px solid rgba(0,212,255,0.3); flex-shrink: 0; }
+  .byline-name { font-size: 0.95rem; font-weight: 600; color: var(--text); margin-bottom: 0.35rem; }
+  .byline-bio { font-size: 0.82rem; line-height: 1.6; color: var(--muted); }
+  .disclaimer { font-family: 'DM Mono', monospace; font-size: 0.6rem; letter-spacing: 0.08em; color: var(--muted); margin-bottom: 1.5rem; line-height: 1.6; }
+
+  .sources-block { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 1.5rem; }
+  .sources-label { font-family: 'DM Mono', monospace; font-size: 0.6rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted); display: block; margin-bottom: 0.9rem; }
+  .sources-list { list-style: none; display: flex; flex-direction: column; gap: 0.45rem; }
+  .sources-list li { font-size: 0.78rem; color: var(--muted); }
+  .sources-list a { color: var(--accent); }
+
+  footer { border-top: 1px solid var(--border); padding: 1.5rem 2rem; text-align: center; background: var(--surface); }
+  footer p { font-size: 0.72rem; color: var(--muted); margin-bottom: 0.3rem; }
+  footer a { color: var(--muted); text-decoration: none; }
+  footer a:hover { color: var(--accent); }
+
+  @media (max-width: 768px) {
+    header { padding: 0 1rem; }
+    nav { display: none; }
+    .article-wrap { padding: 2rem 1.25rem 4rem; }
+    .article-title { font-size: clamp(1.6rem, 5vw, 2rem); }
+    footer { padding: 1.25rem 1rem; }
+    footer p { font-size: 0.7rem; }
+  }
+
+  @media (max-width: 480px) {
+    .article-title { font-size: 1.4rem; }
+    .article-body { font-size: 0.93rem; }
+    .newsletter-btn { display: none; }
+    .data-note .data-row { flex-direction: column; gap: 0.1rem; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <a class="logo" href="index.html" aria-label="nexusEVnews home">
+    <svg width="36" height="40" viewBox="0 0 36 40" fill="none">
+      <polygon points="18,2 34,11 34,29 18,38 2,29 2,11" fill="rgba(0,212,255,0.07)" stroke="rgba(0,212,255,0.35)" stroke-width="1"/>
+      <polygon points="18,4 32,12 32,28 18,36 4,28 4,12" fill="rgba(0,212,255,0.1)" stroke="#00d4ff" stroke-width="1.5"/>
+      <path d="M22 9L12 22H20L14 32L26 18H18L22 9Z" fill="#00d4ff"/>
+    </svg>
+    <div class="logo-text-wrap">
+      <span class="logo-name">NEXUS<span class="ev">EV</span><span class="logo-news">news</span></span>
+      <span class="logo-tagline">EV &amp; Renewable Energy</span>
+    </div>
+  </a>
+  <nav>
+    <a href="index.html">Latest</a>
+    <a href="index.html">Reviews</a>
+    <a href="index.html">Battery Tech</a>
+    <a href="index.html">Charging</a>
+    <a href="index.html" class="solar-nav">Solar ☀</a>
+    <a href="index.html">Deep Dives</a>
+    <a href="opinion.html" class="active">Opinion</a>
+  </nav>
+  <div class="header-right">
+    <a class="newsletter-btn" href="advertise.html">Advertise</a>
+  </div>
+</header>
+
+<div class="article-wrap">
+  <a href="opinion.html" class="back-link">Opinion</a>
+
+  <span class="article-eyebrow">Opinion &nbsp;·&nbsp; March 15, 2026</span>
+  <h1 class="article-title">The Charging Time Argument Is Built on a Math Problem. Here Is the Math.</h1>
+
+  <div class="article-meta">
+    <img src="jacob-hunka.jpg" alt="Jacob Hunka" class="author-photo">
+    <div class="meta-text">
+      <div class="meta-name">Jacob Hunka</div>
+      <div class="meta-details">Founder, nexusEVnews &nbsp;·&nbsp; 5 min read</div>
+    </div>
+  </div>
+
+  <div class="article-body">
+
+    <p>There is one objection that shows up in nearly every EV conversation, in comment sections, at dinner tables, and in dealership showrooms across the country. It goes roughly like this: I don't want to sit at a charging station for 45 minutes every time I need to fill up. It is said with confidence, as if the math has been done. In almost every case, it has not.</p>
+
+    <p>I have owned a Rivian R1T and an Audi e-tron GT. Before those, I spent years filling up at gas stations the same way everyone does. This is not a theoretical exercise. The answer, when you run the real numbers across a full year, is not what most people expect. Let us do it fairly, with data you can check yourself.</p>
+
+    <h2>How Americans Actually Drive</h2>
+
+    <p>The Federal Highway Administration puts the national average at roughly <strong>13,500 miles per year</strong>, or about 37 miles per day. The AAA Foundation for Traffic Safety's American Driving Survey consistently corroborates that figure. The U.S. Department of Energy, meanwhile, confirmed that the median EPA-rated range for a model year 2024 electric vehicle reached a record <strong>283 miles per charge</strong>, more than four times higher than where the industry started in 2011.</p>
+
+    <p>The average driver, on the average day, uses roughly 13 percent of a modern EV's range. The scenario people picture when they imagine EV ownership, stopping to charge every day or two, simply does not match how most Americans drive.</p>
+
+    <h2>Where EV Charging Actually Happens</h2>
+
+    <p>The U.S. Department of Energy has tracked this consistently: <strong>approximately 80 percent of all EV charging takes place at home.</strong> The International Energy Agency puts the U.S. figure at 83 percent. A 2024 ChargeLab survey found that 86 percent of American EV drivers have access to a home charger.</p>
+
+    <p>A Level 2 home charger, a standard 240-volt setup similar to what a dryer runs on, adds roughly 20 to 30 miles of range per hour overnight. For a driver averaging 37 miles per day, plugging in three or four nights a week is more than enough. The act of plugging in takes about ten seconds. You pull in, connect the cable, walk inside. In the morning, the car is full. No detour. No waiting. No standing outside.</p>
+
+    <p>The question is not how long it takes to charge. It is how much of your time the charging process actually requires. For home charging, that answer is close to zero.</p>
+
+    <h2>When You Do Need a Public Charger</h2>
+
+    <p>The charging-time concern is not without merit. It is just narrowly applicable. The scenario where it genuinely matters is a single-day drive that exceeds your EV's usable range, roughly 250 to 275 miles accounting for real-world highway efficiency.</p>
+
+    <p>How often does the average American actually drive that far in a day? The Bureau of Transportation Statistics' National Household Travel Survey is clear: <strong>more than three out of four long-distance trips cover between 50 and 249 miles.</strong> Only about 11 percent fall in the 250 to 400-mile range. For the typical driver, days requiring a public charging stop happen a handful of times per year. A generous estimate, accounting for summer travel and road trips, is four to eight such days annually.</p>
+
+    <p>On those days, DC fast chargers at 150 to 250 kilowatts can bring a battery from near-empty to 80 percent in 20 minutes to one hour, according to the U.S. Department of Transportation. In practice, experienced road trippers charge from around 20 percent to 70 percent, capturing the fastest portion of the charging curve before the battery management system begins tapering the rate. That window runs about 20 to 30 minutes on most current EVs. Modern trip planners handle the logistics automatically, stringing together optimized stops that align naturally with a bathroom break or a meal.</p>
+
+    <p>There is one more variable that belongs in this section and cannot be ignored: charger reliability. J.D. Power's 2025 U.S. Electric Vehicle Experience Public Charging Study found that <strong>14 percent of public charging visits ended without a successful charge</strong>, meaning the driver arrived and could not complete the session due to equipment being out of service, payment failures, or other issues. That figure had improved from 20 percent just one year earlier, which is genuine progress, but it remains a real part of the EV road trip equation. The same study found that in high-demand regions such as the Pacific Coast, roughly 12 percent of drivers also reported having to wait for an available charger. A comprehensive analysis has to include both of those realities. They add time and, occasionally, real inconvenience to a long drive. Those costs belong on the EV side of the ledger.</p>
+
+    <div class="data-note">
+      <span class="data-header">The Annual Math: EV vs. ICE Refueling Time</span>
+
+      <div style="margin-bottom: 1.25rem;">
+        <strong>EV Owner: Baseline</strong>
+        <div class="data-row"><span class="data-label">Daily home plug-in (365 days x 10 seconds)</span><span class="data-val">~60 min</span></div>
+        <div class="data-row"><span class="data-label">Road trip charging stops (6 stops x 25 min)</span><span class="data-val">~150 min</span></div>
+        <div class="data-row" style="border-top: 1px solid var(--accent); margin-top: 0.4rem;"><span class="data-label" style="color: var(--text);">Total annual refueling time</span><span class="data-val" style="color: var(--accent);">~3.5 hours</span></div>
+      </div>
+
+      <div style="margin-bottom: 1.25rem; border-top: 1px solid var(--border); padding-top: 1rem;">
+        <strong>EV Owner: Worst Case</strong>
+        <div style="font-size: 0.62rem; color: var(--muted); margin-bottom: 0.5rem; letter-spacing: 0.02em;">J.D. Power 2025 reliability data applied to 6 annual road trip stops</div>
+        <div class="data-row"><span class="data-label">Baseline charging (6 stops x 25 min)</span><span class="data-val">~150 min</span></div>
+        <div class="data-row"><span class="data-label">1 failed stop per year (14% failure rate) — reroute est.</span><span class="data-val">+25 min</span></div>
+        <div class="data-row"><span class="data-label">Charger wait times (affects ~12% of drivers in high-demand regions)</span><span class="data-val">variable</span></div>
+        <div class="data-row" style="border-top: 1px solid var(--accent); margin-top: 0.4rem;"><span class="data-label" style="color: var(--text);">Worst-case annual refueling time</span><span class="data-val" style="color: var(--accent);">~4 hours +</span></div>
+      </div>
+
+      <div>
+        <strong>ICE Driver</strong>
+        <div class="data-row"><span class="data-label">Gas station visits per year (~50 visits)</span><span class="data-val">50 visits</span></div>
+        <div class="data-row"><span class="data-label">Avg time per visit (Geotab pump + trip avg: ~14 min)</span><span class="data-val">~14 min</span></div>
+        <div class="data-row" style="border-top: 1px solid var(--border); margin-top: 0.4rem;"><span class="data-label" style="color: var(--text);">Total annual refueling time</span><span class="data-val" style="color: #f59e0b;">~11.5 hours</span></div>
+        <div style="font-size: 0.61rem; color: var(--muted); margin-top: 0.6rem; line-height: 1.6;">Even applying the worst-case EV scenario, the ICE driver spends roughly 2.5 to 3x more time refueling per year.</div>
+      </div>
+    </div>
+
+    <h2>The ICE Driver's Numbers</h2>
+
+    <p>A typical gasoline vehicle gets around 28 miles per gallon with a 13 to 15 gallon tank, giving a real-world range of roughly 360 to 400 miles. At 13,500 miles per year, that is a full tank exhausted roughly every ten days. Drivers who top off before empty, which most do, push the realistic visit count to <strong>45 to 55 gas station trips per year.</strong></p>
+
+    <p>How long does each visit take? Fleet analytics firm Geotab, in a study covering millions of commercial vehicle trips, measured two distinct figures: eight minutes spent at the pump itself, and a total stop time exceeding 20 minutes once the off-route detour is factored in. Averaging those two Geotab figures produces a working estimate of roughly <strong>14 minutes per visit.</strong> That midpoint is used here specifically to be conservative in the gas vehicle's favor. The 20-minute full-trip figure is arguably more representative for personal drivers, who frequently travel out of their way to reach a preferred station, but 14 minutes is the number this analysis will use. At 50 annual visits, that produces <strong>roughly 11.5 hours of refueling time per year.</strong></p>
+
+    <h2>The Objections Worth Taking Seriously</h2>
+
+    <p>A fair analysis does not get to ignore the cases where the math is less favorable. There are three worth addressing head on.</p>
+
+    <p>The strongest one is home charging access. Renters, apartment dwellers, and anyone without a dedicated parking space cannot rely on plugging in overnight the way a homeowner can. Roughly 65 percent of Americans own their homes, and workplace charging is expanding quickly, but a real portion of drivers face a genuine inconvenience that the numbers above do not fully capture. The analysis in this article reflects the majority experience. For drivers without home charging, the comparison narrows considerably, and that is worth acknowledging honestly.</p>
+
+    <p>Cold weather is the second objection. Real-world winter testing consistently shows range reductions of 20 to 30 percent in sustained freezing temperatures, which can bring a 283-mile vehicle closer to 200 miles on a January highway. That tightens the road trip math and may add a stop or two on a winter drive. The annual picture still favors EVs even in colder climates, but the margin shrinks and the planning required increases. Drivers in Minnesota and Michigan are living a different equation than drivers in Arizona.</p>
+
+    <p>The third is per-trip road trip time. A 25-minute charging stop does add time that a 5-minute gas fill-up does not, and on a single long drive that is a real and fair cost. The case being made here is not that every individual road trip is faster in an EV. It is that when the full year is measured, including the 350-plus days when no public charger is involved at all, the EV driver comes out significantly ahead. Those are two different comparisons, and conflating them is where most of the confusion in this debate originates.</p>
+
+    <h2>The Bottom Line</h2>
+
+    <p>An EV owner charging primarily at home accumulates roughly <strong>3.5 hours of annual refueling time.</strong> The average ICE driver, at a conservative 14 minutes per visit over 50 trips, spends roughly <strong>11.5 hours.</strong> Even using the most favorable possible figures for the gas vehicle, the EV driver comes out more than three times ahead.</p>
+
+    <p>The charging-time argument survives on one mental image: someone at a highway charger, watching the percentage climb. That experience is real and occasionally frustrating. What the argument never accounts for is the 350 other days of the year when the EV driver woke up to a full charge without doing anything at all.</p>
+
+    <p>The question was never really about who spends more time refueling. It was about who gets to keep more of their year. On that question, the math is not ambiguous.</p>
+
+  </div>
+
+  <div class="article-footer">
+    <div class="byline-block">
+      <img src="jacob-hunka.jpg" alt="Jacob Hunka" class="byline-photo">
+      <div class="byline-text">
+        <div class="byline-name">Jacob Hunka</div>
+        <p class="byline-bio">Founder and curator of nexusEVnews. My garage history runs from a Chevrolet Cavalier (first car) to a 1978 Camaro Z28, a Ducati Scrambler, a Subaru Outback, a Mazda 6, a BMW 3 Series, an Audi A5/S5, and eventually a Rivian R1T and Audi e-tron GT, the last two sold upon relocating to Italy, where I now live and write full time.</p>
+      </div>
+    </div>
+    <p class="disclaimer">The views expressed in Opinion pieces are those of the author and do not represent sponsored content. All calculations in this article are the author's own, derived from publicly available data. Individual driving habits, vehicle specs, and regional charging infrastructure will produce different results. Sources are cited below and linked where available.</p>
+
+    <div style="background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 1.25rem 1.5rem; margin-bottom: 1.5rem;">
+      <span style="font-family: 'DM Mono', monospace; font-size: 0.6rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted); display: block; margin-bottom: 0.85rem;">Additional Contributors</span>
+      <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+        <div style="font-size: 0.82rem; color: var(--muted);">
+          <span style="color: var(--text); font-weight: 600;">James Spencer</span> &nbsp;·&nbsp; Research &amp; Editorial Review
+        </div>
+        <div style="font-size: 0.82rem; color: var(--muted);">
+          <span style="color: var(--text); font-weight: 600;">Joshua Hunka</span> &nbsp;·&nbsp; Research &amp; Editorial Review
+        </div>
+      </div>
+    </div>
+
+    <div class="sources-block">
+      <span class="sources-label">Sources referenced in this article</span>
+      <ul class="sources-list">
+        <li>U.S. Federal Highway Administration, National Vehicle Miles Traveled data, 2023 &nbsp;·&nbsp; <a href="https://www.fhwa.dot.gov" target="_blank" rel="noopener">fhwa.dot.gov</a></li>
+        <li>AAA Foundation for Traffic Safety, American Driving Survey 2022, September 2023 &nbsp;·&nbsp; <a href="https://aaafoundation.org" target="_blank" rel="noopener">aaafoundation.org</a></li>
+        <li>U.S. Department of Energy, "Median EV Range in Model Year 2024 Reached a Record High of 283 Miles per Charge," December 30, 2024 &nbsp;·&nbsp; <a href="https://www.energy.gov" target="_blank" rel="noopener">energy.gov</a></li>
+        <li>U.S. Department of Energy, National EV Charging Network, home charging statistics &nbsp;·&nbsp; <a href="https://www.energy.gov/topics/national-ev-charging-network" target="_blank" rel="noopener">energy.gov</a></li>
+        <li>International Energy Agency, Global EV Outlook 2024, Trends in Electric Vehicle Charging &nbsp;·&nbsp; <a href="https://www.iea.org/reports/global-ev-outlook-2024" target="_blank" rel="noopener">iea.org</a></li>
+        <li>ChargeLab, "Industry Survey: 500 EV Drivers on Public Charging," February 2024 &nbsp;·&nbsp; <a href="https://chargelab.co" target="_blank" rel="noopener">chargelab.co</a></li>
+        <li>U.S. Bureau of Transportation Statistics, National Household Travel Survey, Summer Travel Quick Facts &nbsp;·&nbsp; <a href="https://www.bts.gov" target="_blank" rel="noopener">bts.gov</a></li>
+        <li>U.S. Department of Transportation, "Charger Types and Speeds," EV Basics &nbsp;·&nbsp; <a href="https://www.transportation.gov/rural/ev/toolkit/ev-basics/charging-speeds" target="_blank" rel="noopener">transportation.gov</a></li>
+        <li>Geotab / Booster, "Fleet Refueling: The Impact of Out-of-Route and Refueling Time on Business," 2022 &nbsp;·&nbsp; <a href="https://boosterusa.com" target="_blank" rel="noopener">boosterusa.com</a></li>
+        <li>J.D. Power, 2025 U.S. Electric Vehicle Experience (EVX) Public Charging Study, August 2025 &nbsp;·&nbsp; <a href="https://www.jdpower.com" target="_blank" rel="noopener">jdpower.com</a></li>
+        <li>J.D. Power, E-Vision Intelligence Report, Q4 2024 Public Charging Data, February 2025 &nbsp;·&nbsp; <a href="https://www.jdpower.com" target="_blank" rel="noopener">jdpower.com</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <p>© 2026 nexusEVnews &nbsp;·&nbsp; <a href="about.html">About</a> &nbsp;·&nbsp; <a href="advertise.html">Advertise</a> &nbsp;·&nbsp; <a href="privacy.html">Privacy Policy</a> &nbsp;·&nbsp; <a href="terms.html">Terms of Service</a></p>
+  <p>Independent EV and renewable energy news. Not affiliated with any manufacturer.</p>
+</footer>
+
+</body>
+</html>
