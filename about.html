@@ -67,6 +67,16 @@
     border-radius: 4px; text-decoration: none; transition: border-color 0.2s, color 0.2s;
   }
   .back-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .subscribe-btn {
+    font-family: 'DM Sans', sans-serif; font-size: 0.76rem; font-weight: 600;
+    letter-spacing: 0.05em; text-transform: uppercase;
+    background: var(--accent); color: #000;
+    border: none; padding: 0.45rem 1rem;
+    border-radius: 4px; text-decoration: none; transition: opacity 0.2s;
+    display: inline-block;
+  }
+  .subscribe-btn:hover { opacity: 0.85; }
+  .header-right { display: flex; align-items: center; gap: 0.75rem; }
 
   /* ── PAGE CONTENT ── */
   .page-wrap { max-width: 860px; margin: 0 auto; padding: 4rem 2rem 6rem; }
@@ -157,7 +167,10 @@
       <span class="logo-tagline">EV &amp; Renewable Energy</span>
     </div>
   </a>
-  <a class="back-btn" href="index.html">← Back to Latest</a>
+  <div class="header-right">
+    <a class="back-btn" href="index.html">← Back to Latest</a>
+    <a class="subscribe-btn" href="https://nexuscurrent.beehiiv.com/subscribe" target="_blank" rel="noopener">Subscribe</a>
+  </div>
 </header>
 
 <div class="page-wrap">

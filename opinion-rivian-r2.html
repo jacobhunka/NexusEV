@@ -35,7 +35,7 @@
   nav a:hover { color: var(--text); background: var(--surface2); }
   nav a.active { color: var(--accent); }
   nav a.solar-nav { color: #c47d0a; }
-  .header-right { display: flex; align-items: center; }
+  .header-right { display: flex; align-items: center; gap: 0.75rem; }
   .newsletter-btn { font-family: 'DM Sans', sans-serif; font-size: 0.76rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; background: var(--accent); color: #000; border: none; padding: 0.45rem 1rem; border-radius: 4px; cursor: pointer; text-decoration: none; display: inline-block; }
 
   .article-wrap { max-width: 740px; margin: 0 auto; padding: 3.5rem 2rem 6rem; }
@@ -121,7 +121,8 @@
     <a href="opinion.html" class="active">Opinion</a>
   </nav>
   <div class="header-right">
-    <a class="newsletter-btn" href="advertise.html">Advertise</a>
+    <a class="newsletter-btn" href="advertise.html" style="background:transparent;color:var(--muted);border:1px solid var(--border);">Advertise</a>
+    <a class="newsletter-btn" href="https://nexuscurrent.beehiiv.com/subscribe" target="_blank" rel="noopener">Subscribe</a>
   </div>
 </header>
 
