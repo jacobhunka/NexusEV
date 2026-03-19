@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="canonical" href="https://nexusevnews.com/opinion-ev-fire-statistics.html">
+<meta property="og:title" content="EVs Catch Fire 60 Times Less Often Than Gas Cars. Here Is the Data.">
+<meta property="og:description" content="The viral videos are real. The math behind them is not. A data-driven look at EV vs. ICE vehicle fire rates, burn behavior, and what the statistics actually say.">
+<meta property="og:image" content="https://nexusevnews.com/jacob-hunka.jpg">
+<meta property="og:url" content="https://nexusevnews.com/opinion-ev-fire-statistics.html">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EVs Catch Fire 60 Times Less Often Than Gas Cars. Here Is the Data. — nexusEVnews</title>
+<meta name="description" content="The viral videos are real. The math behind them is not. A data-driven look at EV vs. ICE vehicle fire rates, burn behavior, and what the statistics actually say.">
+<link rel="icon" type="image/png" href="/favicon.png">
+<link rel="apple-touch-icon" href="/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #0a0b0f; --surface: #111318; --surface2: #1a1d24;
+    --border: #1f2330; --accent: #00d4ff;
+    --text: #e8eaf0; --muted: #6b7280;
+  }
+  html { scroll-behavior: smooth; }
+  body { font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+
+  /* HEADER */
+  header { position: sticky; top: 0; z-index: 100; background: rgba(10,11,15,0.94); backdrop-filter: blur(14px); border-bottom: 1px solid var(--border); padding: 0 2rem; display: flex; align-items: center; justify-content: space-between; height: 62px; }
+  .logo { font-family: 'Bebas Neue', sans-serif; font-size: 1.85rem; letter-spacing: 0.06em; color: var(--text); text-decoration: none; display: flex; align-items: center; gap: 0.6rem; }
+  .logo .ev { color: var(--accent); }
+  .logo .logo-news { font-size: 0.55em; color: var(--text); letter-spacing: 0.02em; vertical-align: baseline; }
+  .logo-text-wrap { display: flex; flex-direction: column; justify-content: center; line-height: 1; }
+  .logo-name { display: block; line-height: 1; }
+  .logo-tagline { font-family: 'DM Mono', monospace; font-size: 0.5rem; letter-spacing: 0.14em; color: var(--muted); text-transform: uppercase; display: block; margin-top: 3px; }
+  nav { display: flex; gap: 0.2rem; align-items: center; }
+  nav a { font-size: 0.76rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); text-decoration: none; padding: 0.35rem 0.7rem; border-radius: 4px; transition: color 0.2s, background 0.2s; }
+  nav a:hover { color: var(--text); background: var(--surface2); }
+  nav a.active { color: var(--accent); }
+  nav a.solar-nav { color: #c47d0a; }
+  .header-right { display: flex; align-items: center; gap: 0.75rem; }
+  .newsletter-btn { font-family: 'DM Sans', sans-serif; font-size: 0.76rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; background: var(--accent); color: #000; border: none; padding: 0.45rem 1rem; border-radius: 4px; cursor: pointer; text-decoration: none; display: inline-block; }
+
+  /* ARTICLE LAYOUT */
+  .article-wrap { max-width: 740px; margin: 0 auto; padding: 3.5rem 2rem 6rem; }
+
+  /* BACK LINK */
+  .back-link { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); text-decoration: none; display: inline-flex; align-items: center; gap: 0.4rem; margin-bottom: 2.5rem; transition: color 0.2s; }
+  .back-link::before { content: '←'; }
+  .back-link:hover { color: var(--accent); }
+
+  /* ARTICLE HEADER */
+  .article-eyebrow { font-family: 'DM Mono', monospace; font-size: 0.62rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); margin-bottom: 1rem; display: block; }
+  .article-title { font-family: 'Playfair Display', serif; font-size: clamp(1.9rem, 4vw, 2.8rem); line-height: 1.2; color: var(--text); margin-bottom: 1.5rem; }
+  .article-meta { display: flex; align-items: center; gap: 1.25rem; padding-bottom: 2rem; border-bottom: 1px solid var(--border); margin-bottom: 2.5rem; }
+  .author-photo { width: 44px; height: 44px; border-radius: 50%; object-fit: cover; object-position: center top; border: 2px solid rgba(0,212,255,0.3); flex-shrink: 0; }
+  .meta-name { font-size: 0.9rem; font-weight: 600; color: var(--text); }
+  .meta-details { font-family: 'DM Mono', monospace; font-size: 0.62rem; color: var(--muted); margin-top: 0.2rem; }
+
+  /* ARTICLE BODY */
+  .article-body { font-size: 1.05rem; line-height: 1.85; color: #c8cad4; }
+  .article-body p { margin-bottom: 1.6rem; }
+  .article-body h2 { font-family: 'Playfair Display', serif; font-size: 1.4rem; color: var(--text); margin: 2.5rem 0 1rem; padding-top: 2rem; border-top: 1px solid var(--border); }
+  .article-body strong { color: var(--text); font-weight: 600; }
+  .article-body em { font-style: italic; color: var(--muted); }
+  .article-body a { color: var(--accent); text-decoration: none; }
+  .article-body a:hover { text-decoration: underline; }
+
+  /* DATA TABLE */
+  .data-table-wrap { border: 1px solid var(--border); background: var(--surface); border-radius: 2px; overflow: hidden; margin: 2rem 0; }
+  .data-table-label { font-family: 'DM Mono', monospace; font-size: 0.6rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); padding: 0.85rem 1.25rem; border-bottom: 1px solid var(--border); display: block; }
+  .data-table { width: 100%; border-collapse: collapse; font-family: 'DM Mono', monospace; font-size: 0.78rem; }
+  .data-table th { text-align: left; padding: 0.6rem 1.25rem; color: var(--muted); font-size: 0.6rem; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 1px solid var(--border); background: var(--surface2); font-weight: 500; }
+  .data-table td { padding: 0.75rem 1.25rem; border-bottom: 1px solid var(--border); color: #c8cad4; }
+  .data-table tr:last-child td { border-bottom: none; }
+  .data-table .ev-row td { color: var(--accent); }
+  .data-table .ice-row td:not(:first-child) { color: #f87171; }
+  .data-table .hybrid-row td:not(:first-child) { color: #fb923c; }
+
+  /* CALLOUT */
+  .callout { border-left: 2px solid var(--accent); background: var(--surface); padding: 1.1rem 1.4rem; margin: 2rem 0; font-size: 0.97rem; color: #c8cad4; line-height: 1.75; }
+
+  /* BYLINE FOOTER */
+  .article-footer { margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border); }
+  .byline-block { display: flex; gap: 1.25rem; align-items: flex-start; margin-bottom: 2rem; }
+  .byline-photo { width: 56px; height: 56px; border-radius: 50%; object-fit: cover; object-position: center top; border: 2px solid rgba(0,212,255,0.25); flex-shrink: 0; }
+  .byline-name { font-size: 0.95rem; font-weight: 600; color: var(--text); margin-bottom: 0.3rem; }
+  .byline-bio { font-size: 0.82rem; color: var(--muted); line-height: 1.6; }
+  .disclaimer { font-size: 0.78rem; color: var(--muted); font-style: italic; margin-bottom: 2rem; }
+
+  /* SOURCES */
+  .sources-block { border: 1px solid var(--border); background: var(--surface); padding: 1.5rem; border-radius: 2px; }
+  .sources-label { font-family: 'DM Mono', monospace; font-size: 0.6rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); margin-bottom: 1rem; padding-bottom: 0.75rem; border-bottom: 1px solid var(--border); display: block; }
+  .sources-list { list-style: none; display: flex; flex-direction: column; gap: 0.5rem; }
+  .sources-list li { font-size: 0.8rem; color: var(--muted); }
+  .sources-list a { color: var(--accent); text-decoration: none; }
+  .sources-list a:hover { text-decoration: underline; }
+
+  footer { border-top: 1px solid var(--border); padding: 1.5rem 2rem; text-align: center; margin-top: 4rem; }
+  footer p { font-size: 0.75rem; color: var(--muted); line-height: 1.8; }
+  footer a { color: var(--muted); text-decoration: none; }
+  footer a:hover { color: var(--accent); }
+
+  @media (max-width: 768px) {
+    header { padding: 0 1rem; }
+    nav { display: none; }
+    .article-wrap { padding: 2rem 1.25rem 4rem; }
+    .back-link { margin-bottom: 1.75rem; }
+    .article-title { font-size: 1.65rem; line-height: 1.25; margin-bottom: 1.25rem; }
+    .article-meta { gap: 0.9rem; margin-bottom: 2rem; padding-bottom: 1.5rem; }
+    .author-photo { width: 38px; height: 38px; }
+    .meta-name { font-size: 0.85rem; }
+    .meta-details { font-size: 0.58rem; }
+    .article-body { font-size: 0.97rem; line-height: 1.8; }
+    .article-body h2 { font-size: 1.2rem; margin: 2rem 0 0.75rem; padding-top: 1.5rem; }
+    .article-body p { margin-bottom: 1.4rem; }
+    .byline-block { gap: 1rem; }
+    .byline-photo { width: 46px; height: 46px; }
+    .byline-name { font-size: 0.88rem; }
+    .byline-bio { font-size: 0.78rem; }
+    .sources-block { padding: 1.25rem; }
+    .sources-list li { font-size: 0.75rem; }
+    footer { padding: 1.25rem 1rem; }
+    footer p { font-size: 0.7rem; }
+  }
+
+  @media (max-width: 480px) {
+    .article-title { font-size: 1.4rem; }
+    .article-body { font-size: 0.93rem; }
+    .newsletter-btn { display: none; }
+    .data-table-wrap { overflow-x: auto; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <a class="logo" href="index.html" aria-label="nexusEVnews home">
+    <svg width="36" height="40" viewBox="0 0 36 40" fill="none">
+      <polygon points="18,2 34,11 34,29 18,38 2,29 2,11" fill="rgba(0,212,255,0.07)" stroke="rgba(0,212,255,0.35)" stroke-width="1"/>
+      <polygon points="18,4 32,12 32,28 18,36 4,28 4,12" fill="rgba(0,212,255,0.1)" stroke="#00d4ff" stroke-width="1.5"/>
+      <path d="M22 9L12 22H20L14 32L26 18H18L22 9Z" fill="#00d4ff"/>
+    </svg>
+    <div class="logo-text-wrap">
+      <span class="logo-name">NEXUS<span class="ev">EV</span><span class="logo-news">news</span></span>
+      <span class="logo-tagline">EV &amp; Renewable Energy</span>
+    </div>
+  </a>
+  <nav>
+    <a href="index.html">Latest</a>
+    <a href="index.html">Reviews</a>
+    <a href="index.html">Battery Tech</a>
+    <a href="index.html">Charging</a>
+    <a href="index.html" class="solar-nav">Solar ☀</a>
+    <a href="index.html">Deep Dives</a>
+    <a href="opinion.html" class="active">Opinion</a>
+  </nav>
+  <div class="header-right">
+    <a class="newsletter-btn" href="advertise.html" style="background:transparent;color:var(--muted);border:1px solid var(--border);">Advertise</a>
+    <a class="newsletter-btn" href="https://nexuscurrent.beehiiv.com/subscribe" target="_blank" rel="noopener">Subscribe</a>
+  </div>
+</header>
+
+<div class="article-wrap">
+  <a href="opinion.html" class="back-link">Opinion</a>
+
+  <span class="article-eyebrow">Opinion &nbsp;·&nbsp; March 19, 2026</span>
+  <h1 class="article-title">EVs Catch Fire 60 Times Less Often Than Gas Cars. Here Is the Data.</h1>
+
+  <div class="article-meta">
+    <img src="jacob-hunka.jpg" alt="Jacob Hunka" class="author-photo">
+    <div class="meta-text">
+      <div class="meta-name">Jacob Hunka</div>
+      <div class="meta-details">Founder, nexusEVnews &nbsp;·&nbsp; 6 min read</div>
+    </div>
+  </div>
+
+  <div class="article-body">
+
+    <p>You have probably seen one. A car on a highway median, fully engulfed, surrounded by firefighters doing something that looks less like extinguishing and more like waiting. The vehicle is an EV, and the clip has half a million views by morning. The comments write themselves: "Deathtraps." "My gas car never did that." "No thanks."</p>
+
+    <p>The video is real. The conclusion people draw from it is not.</p>
+
+    <p>What almost no one in that comment section knows is how rarely EV fires happen compared to the alternative, or that a gas car fire is igniting somewhere in the United States at a rate of roughly one every two to three minutes, according to data compiled by U.S. transportation safety agencies and cited by the National Fire Protection Association. Those fires do not trend. They have been happening for a hundred years, and they stopped being news a long time ago.</p>
+
+    <p>This is the argument worth having. Not whether EV fires exist, because they do. But whether EVs actually catch fire more often than the cars already sitting in every driveway in America.</p>
+
+    <p>The data is not ambiguous.</p>
+
+    <h2>The Fire Rate Numbers</h2>
+
+    <p>The clearest comparison comes from U.S. sales and incident data drawn from the National Transportation Safety Board and the Bureau of Transportation Statistics: approximately 25 fires per 100,000 electric vehicles sold, versus approximately 1,530 fires per 100,000 gasoline-powered vehicles. That is a gap of more than 60 to 1, in favor of the EV.</p>
+
+    <p>International data tells the same story with remarkable consistency. Sweden's Civil Contingencies Agency tracked just 23 fires among 611,000 electric vehicles on the road, an incident rate of 0.004 percent, compared to 0.08 percent for ICE vehicles. Norway's Directorate for Social Security and Emergency Preparedness found ICE vehicles are four to five times more likely to catch fire than EVs. In Poland, the State Fire Service recorded 51,142 vehicle fires between 2020 and 2025. Of those, 50,833 involved ICE vehicles. Just 87 involved electric vehicles.</p>
+
+    <p>Australia's research, covering 2010 to 2020, measured a 0.0012 percent likelihood of an EV battery catching fire, compared to 0.1 percent for ICE vehicles. That is roughly 80 times more likely for a gas car.</p>
+
+    <div class="data-table-wrap">
+      <span class="data-table-label">Fire rate by vehicle type — fires per 100,000 vehicles sold (NTSB / BTS data)</span>
+      <table class="data-table">
+        <thead>
+          <tr>
+            <th>Vehicle Type</th>
+            <th>Fires per 100,000</th>
+            <th>Fire Rate</th>
+            <th>vs. EV</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="ev-row">
+            <td>Battery Electric (BEV)</td>
+            <td>~25</td>
+            <td>0.025%</td>
+            <td>Baseline</td>
+          </tr>
+          <tr class="ice-row">
+            <td>ICE (Gas / Diesel)</td>
+            <td>~1,530</td>
+            <td>1.53%</td>
+            <td>61x higher</td>
+          </tr>
+          <tr class="hybrid-row">
+            <td>Hybrid</td>
+            <td>~3,475</td>
+            <td>3.47%</td>
+            <td>139x higher</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>There is one more number worth pausing on: hybrids. The vehicle type most people assume is a safe middle ground has by far the highest fire rate of all three categories, at roughly 3,475 per 100,000. Combining a fuel system and a high-voltage battery in a single platform concentrates the risks of both rather than splitting the difference.</p>
+
+    <h2>Why EVs Catch Fire, When They Do</h2>
+
+    <p>EV battery fires are primarily triggered by three things: thermal runaway caused by physical collision or battery damage, manufacturing defects at the cell level, and in a smaller share of cases, charging-related stress that reveals latent damage under high electrical load. The U.S. Department of Energy estimates that charging-related incidents account for roughly 18 to 30 percent of EV fire events.</p>
+
+    <p>ICE vehicle fires have a different, and much longer, list of causes: fuel leaks, ruptured fuel lines, overheated engines, aging wiring, electrical faults igniting flammable vapors, and routine wear on components that store or route highly combustible liquid under pressure. The older the vehicle, the higher the risk. Most ICE fires involve no crash at all.</p>
+
+    <p>Part of what makes EVs statistically safer on frequency is that gasoline is an inherently dangerous energy storage medium. The U.S. Department of Energy notes gasoline carries an energy density of roughly 13 kilowatt-hours per kilogram. A lithium-ion battery carries approximately 0.3 kilowatt-hours per kilogram. ICE vehicles are storing nearly 40 times more volatile energy than an EV's battery pack. That the gas car does not catch fire more often is a credit to a century of fuel system engineering. It still catches fire at 60 times the rate of an EV.</p>
+
+    <h2>The Legitimate Counterarguments</h2>
+
+    <p>A fair analysis does not get to skip the ways EV fires are genuinely worse when they do occur. There are three areas worth taking seriously.</p>
+
+    <p>The first is burn temperature and duration. ICE vehicle fires burn hot and fast, peaking at around 600 degrees Fahrenheit before the fuel is consumed and the fire exhausts itself. EV battery fires driven by thermal runaway can exceed 1,200 degrees Fahrenheit. They burn longer. They produce explosive bursts as battery cells rupture and release flammable gases including hydrogen and methane. And unlike a gasoline fire, an EV fire can reignite hours or even days after it appears extinguished, due to residual energy in undamaged cells. The National Fire Protection Association documented one EV fire in Texas that required more than 30,000 gallons of water to suppress. Fire departments are dealing with a genuinely different problem than what they trained on.</p>
+
+    <p>The second is toxic gas emissions. ICE fires produce carbon monoxide, hydrocarbons, and nitrogen oxides, dangerous gases that first responders are trained to anticipate and manage. EV battery fires produce those as well, but also hydrogen fluoride, a corrosive compound that causes severe burns and respiratory distress, along with other chemical byproducts of lithium-ion cell decomposition. Research through the EU's Horizon 2020 program found hydrogen fluoride concentrations in EV fires running roughly twice as high as in comparable ICE fires. These are real differences that belong in any honest comparison.</p>
+
+    <p>The third is firefighting complexity. A gasoline fire, once its fuel source is removed or consumed, is generally extinguishable with standard methods. An EV battery fire can sustain itself through an internal chemical reaction that does not require outside oxygen the way a conventional fire does. Cooling the battery pack, not just suppressing flames, is the actual objective. Fire departments are adapting with new piercing nozzles, thermal blankets, and updated protocols, but not every department has them yet.</p>
+
+    <div class="callout">
+      The honest summary: EV fires are rarer by a factor of 60 or more. When they do happen, they are hotter, longer-lasting, harder to suppress, and release more complex toxic gases. Both of those things are true at the same time, and a fair conversation has to include both.
+    </div>
+
+    <h2>Why the Myth Persists</h2>
+
+    <p>Professor Paul A. Kohl of Georgia Tech's School of Chemical and Biomolecular Engineering put it plainly in a 2023 interview with IEEE Spectrum: the media does not treat EVs and ICEs with equal footing, because gasoline is not sensational anymore.</p>
+
+    <p>That single observation explains most of the public perception gap. ICE vehicle fires happen in the United States at a rate of one every two to three minutes by NFPA data. They are so routine that they are no longer news. When an EV catches fire, it is unusual enough to be remarkable, visual enough to be shareable, and unfamiliar enough to feel alarming. A single EV fire can generate more coverage than thousands of gas car fires combined.</p>
+
+    <p>Viral imagery compounds the problem. Photos of burning EVs circulate without context, sometimes misattributed to battery failures when collisions, external fires, or non-battery factors caused the incident. Over time those images accumulate into a cultural impression that has nothing to do with probability. Most people who have seen an EV fire on video have never once seen footage of the estimated 174,000 highway vehicle fires that occur in the United States each year, the overwhelming majority of which involve gasoline.</p>
+
+    <h2>The Bottom Line</h2>
+
+    <p>The fire statistics consistently point in one direction across the U.S., Sweden, Norway, Poland, and Australia: electric vehicles catch fire between 20 and 80 times less often than gasoline-powered vehicles, depending on the dataset and methodology. On frequency, the EV is not competitive with its gas counterpart. It wins by a wide margin.</p>
+
+    <p>What the EV loses is the nature of the fire itself. When a battery catches fire, it burns hotter, longer, and with more chemical complexity than a gas fire. Those are real costs that belong in the conversation, and they explain why fire departments need new training and equipment rather than scaled-up versions of what they already have.</p>
+
+    <p>But those costs apply to a statistically rare event. The gas car's fire is simpler to manage. It is also 60 times more likely to happen.</p>
+
+    <p>The viral video will keep circulating. The frequency data will not. That asymmetry is the whole story, and it has almost nothing to do with the vehicles themselves.</p>
+
+  </div>
+
+  <div class="article-footer">
+    <div class="byline-block">
+      <img src="jacob-hunka.jpg" alt="Jacob Hunka" class="byline-photo">
+      <div class="byline-text">
+        <div class="byline-name">Jacob Hunka</div>
+        <p class="byline-bio">Founder and curator of nexusEVnews. My garage history runs from a Chevrolet Cavalier (first car) to a 1978 Camaro Z28, a Ducati Scrambler, a Subaru Outback, a Mazda 6, a BMW 3 Series, an Audi A5/S5, and eventually a Rivian R1T and Audi e-tron GT, the last two sold upon relocating to Italy, where I now live and write full time.</p>
+      </div>
+    </div>
+    <p class="disclaimer">The views expressed in Opinion pieces are those of the author and do not represent sponsored content. Fire rate statistics are drawn from multiple datasets and methodologies; individual figures may vary by source. All sources cited are publicly available.</p>
+
+    <div class="sources-block">
+      <span class="sources-label">Sources referenced in this article</span>
+      <ul class="sources-list">
+        <li>U.S. National Transportation Safety Board / Bureau of Transportation Statistics — <a href="https://www.ntsb.gov" target="_blank" rel="noopener">ntsb.gov</a></li>
+        <li>National Fire Protection Association (NFPA), Vehicle Fire Data — <a href="https://www.nfpa.org" target="_blank" rel="noopener">nfpa.org</a></li>
+        <li>Sweden's Civil Contingencies Agency (MSB), EV Fire Statistics — <a href="https://www.msb.se" target="_blank" rel="noopener">msb.se</a></li>
+        <li>Norway's Directorate for Social Security and Emergency Preparedness (DSB) — <a href="https://www.dsb.no" target="_blank" rel="noopener">dsb.no</a></li>
+        <li>Polish New Mobility Association / Poland State Fire Service, 2020–2025 — <a href="https://psnm.org.pl" target="_blank" rel="noopener">psnm.org.pl</a></li>
+        <li>Australia's Department of Defence, EV Battery Fire Research (2010–2020)</li>
+        <li>EU Horizon 2020 / LASH FIRE Project, Hydrogen Fluoride in Vehicle Fires — <a href="https://lashfire.eu" target="_blank" rel="noopener">lashfire.eu</a></li>
+        <li>U.S. Department of Energy, Alternative Fuels Data Center — <a href="https://afdc.energy.gov" target="_blank" rel="noopener">afdc.energy.gov</a></li>
+        <li>IEEE Spectrum, Prof. Paul A. Kohl, Georgia Tech, December 2023 — <a href="https://spectrum.ieee.org" target="_blank" rel="noopener">spectrum.ieee.org</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <p>© 2026 nexusEVnews &nbsp;·&nbsp; <a href="about.html">About</a> &nbsp;·&nbsp; <a href="advertise.html">Advertise</a> &nbsp;·&nbsp; <a href="privacy.html">Privacy Policy</a> &nbsp;·&nbsp; <a href="terms.html">Terms of Service</a></p>
+  <p>Independent EV and renewable energy news. Not affiliated with any manufacturer.</p>
+</footer>
+
+</body>
+</html>
