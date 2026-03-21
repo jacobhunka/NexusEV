@@ -316,6 +316,8 @@
   }
   .card:hover .card-img { filter: brightness(1.02); transform: scale(1.025); }
   .card-img-wrap { overflow: hidden; position: relative; }
+  .card-img.logo-img { object-fit: contain; background: var(--surface2); padding: 1.5rem; filter: brightness(1); }
+  .card:hover .card-img.logo-img { filter: brightness(1); transform: none; }
 
   .card-tag {
     position: absolute;
@@ -1528,7 +1530,7 @@
     <a class="card-link" href="opinion-ev-charging-time.html" aria-label="Opinion: The Charging Time Argument Is Built on a Math Problem. Here Is the Math."></a>
     <div class="card-img-wrap">
       <span class="card-tag tag-opinion">Opinion</span>
-      <img class="card-img"
+      <img class="card-img logo-img"
            src="/favicon.png"
            alt="nexusEVnews logo"
            loading="lazy">
@@ -2159,7 +2161,7 @@
     <a class="card-link" href="opinion-rivian-r2.html" aria-label="Opinion: You'll Fall for the Rivian R2's Features and Price. You'll Stay for Its People and Culture."></a>
     <div class="card-img-wrap">
       <span class="card-tag tag-opinion">Opinion</span>
-      <img class="card-img"
+      <img class="card-img logo-img"
            src="/favicon.png"
            alt="nexusEVnews logo"
            loading="lazy">
@@ -2498,7 +2500,7 @@
     <a class="card-link" href="opinion.html" aria-label="Opinion: Charging Forward  -  How States Are Solving the EV Apartment Problem"></a>
     <div class="card-img-wrap">
       <span class="card-tag tag-opinion">Opinion</span>
-      <img class="card-img"
+      <img class="card-img logo-img"
            src="/favicon.png"
            alt="nexusEVnews logo"
            loading="lazy">
