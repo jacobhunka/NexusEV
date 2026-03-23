@@ -172,20 +172,27 @@
 
   /* ── ABOUT STRIP ── */
   .about-strip {
-    background: linear-gradient(90deg, rgba(0,212,255,0.04) 0%, transparent 60%);
+    background: linear-gradient(90deg, rgba(0,212,255,0.06) 0%, transparent 70%);
+    border-left: 3px solid var(--accent);
     border-bottom: 1px solid var(--border);
-    padding: 0.75rem 2rem;
+    padding: 0.6rem 2rem;
   }
   .about-strip p {
-    font-size: 0.8rem;
-    color: var(--muted);
+    font-size: 0.82rem;
+    color: var(--text);
     max-width: 1000px;
     margin: 0 auto;
-    line-height: 1.55;
+    line-height: 1.5;
     text-align: center;
   }
-  .about-strip strong { color: var(--text); }
-  .about-strip a { color: var(--accent); text-decoration: none; }
+  .about-strip em { font-style: normal; color: var(--muted); }
+  .about-strip a {
+    color: var(--accent);
+    text-decoration: none;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.75rem;
+    letter-spacing: 0.06em;
+  }
   .about-strip a:hover { text-decoration: underline; }
 
   /* ── HERO STRIP ── */
@@ -497,6 +504,7 @@
     .grid-wrap { grid-template-columns: 1fr; }
     nav { display: none; }
     .hero-headline { font-size: 2rem; }
+    .ticker-wrap { display: none; }
 
     /* Featured card goes vertical on mobile  -  same as regular cards */
     .card.featured {
@@ -694,13 +702,7 @@
 
 <!-- ABOUT STRIP -->
 <div class="about-strip">
-  <p>
-    <strong>nexusEVnews</strong> is an independent news aggregator dedicated to
-    <strong>electric vehicles and renewable energy</strong>. We surface the best videos,
-    articles, and deep dives from YouTube creators, automotive journalists, and energy
-    researchers, updated daily. Not affiliated with any manufacturer.
-    <a href="about.html">About us →</a>
-  </p>
+  <p>The internet's best EV &amp; energy content, curated daily. No brand deals, no noise. <em>Independent.</em> &nbsp;<a href="about.html">About us &rarr;</a></p>
 </div>
 
 <!-- HERO -->
@@ -735,7 +737,7 @@
   <button class="cat solar-cat">Solar &amp; Renewables</button>
   <button class="cat">Deep Dives</button>
   <button class="cat">Used EVs</button>
-  <button class="cat">Policy</button>
+
   <button class="cat">News</button>
   <button class="cat">Opinion</button>
 </div>
@@ -1438,7 +1440,7 @@
   </article>
 
   <!-- CANADA DROPS CHINESE EV TARIFF  -  POLICY -->
-  <article class="card" data-category="policy" data-ts="2026-03-19T20:00:00">
+  <article class="card" data-category="news" data-ts="2026-03-19T20:00:00">
     <a class="card-link" href="https://youtu.be/lO3wlZzeHAY?si=XDCVZ9UwrdHqDeTd" target="_blank" rel="noopener"
        aria-label="Watch: Canada cuts its Chinese EV tariff from 106% back to 6.1% for 50,000 vehicles, and the US is not happy about it"></a>
     <div class="card-img-wrap">
@@ -3418,7 +3420,7 @@
   </article>
 
   <!-- NORWAY EV LEADERSHIP -->
-  <article class="card" data-category="policy" data-ts="2026-03-05T17:00:00">
+  <article class="card" data-category="news" data-ts="2026-03-05T17:00:00">
     <a class="card-link" href="https://youtu.be/R5DbRyeZNRk" target="_blank" rel="noopener"
        aria-label="Watch: Norway is leading the EV charge  -  will any country catch up?"></a>
     <div class="card-img-wrap">
@@ -3647,7 +3649,7 @@
   </article>
 
   <!-- STATES WITH EV REBATES  -  money.com -->
-  <article class="card" data-category="policy" data-ts="2026-03-04T14:00:00">
+  <article class="card" data-category="news" data-ts="2026-03-04T14:00:00">
     <a class="card-link" href="https://money.com/state-ev-tax-credit-rebates/"
        target="_blank" rel="noopener"
        aria-label="Read: Which states still offer EV rebates and tax credits"></a>
@@ -4056,7 +4058,7 @@
     'Solar & Renewables':   'solar',
     'Deep Dives':           'deep-dives',
     'Used EVs':             'used-evs',
-    'Policy':               'policy',
+
     'News':                 'news',
     'Opinion':              'opinion',
   };
