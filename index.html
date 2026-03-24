@@ -650,6 +650,87 @@
     .about-tags { justify-content: center; }
   }
 
+  /* ── YOUTUBE PLAY OVERLAY ── */
+  .card-yt-play {
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    width: 52px; height: 52px;
+    background: rgba(0,0,0,0.52);
+    border: 2px solid rgba(255,255,255,0.65);
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    z-index: 3;
+    pointer-events: none;
+    transition: background 0.2s, border-color 0.2s, transform 0.2s;
+  }
+  .card-yt-play svg { width: 18px; height: 18px; fill: #fff; margin-left: 3px; }
+  .card:hover .card-yt-play {
+    background: rgba(0,212,255,0.65);
+    border-color: var(--accent);
+    transform: translate(-50%, -50%) scale(1.1);
+  }
+  .card.featured .card-yt-play {
+    width: 64px; height: 64px;
+  }
+  .card.featured .card-yt-play svg { width: 24px; height: 24px; }
+
+  /* ── YOUTUBE LIGHTBOX ── */
+  .yt-lightbox {
+    display: none;
+    position: fixed; inset: 0;
+    background: rgba(0,0,0,0.88);
+    z-index: 300;
+    align-items: center; justify-content: center;
+    padding: 1rem;
+  }
+  .yt-lightbox.open { display: flex; }
+
+  .yt-lightbox-inner {
+    width: 100%;
+    max-width: 920px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .yt-lightbox-header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 0.7rem 1rem;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg);
+  }
+  .yt-lightbox-source {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.65rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--muted);
+  }
+  .yt-lightbox-close {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.65rem; letter-spacing: 0.08em; text-transform: uppercase;
+    background: transparent; border: 1px solid var(--border);
+    color: var(--muted); padding: 0.3rem 0.9rem;
+    border-radius: 3px; cursor: pointer;
+    transition: color 0.15s, border-color 0.15s;
+  }
+  .yt-lightbox-close:hover { color: var(--text); border-color: var(--muted); }
+  .yt-player-wrap {
+    width: 100%; aspect-ratio: 16/9;
+    background: #000;
+  }
+  .yt-player-wrap iframe { width: 100%; height: 100%; border: none; display: block; }
+  .yt-lightbox-body { padding: 1rem 1.25rem 1.25rem; }
+  .yt-lightbox-title {
+    font-size: 1rem; font-weight: 600; color: var(--text);
+    line-height: 1.4; margin-bottom: 0.5rem;
+  }
+  .yt-lightbox-blurb {
+    font-size: 0.82rem; color: var(--muted); line-height: 1.65;
+  }
+  @media (max-width: 700px) {
+    .yt-lightbox { padding: 0; align-items: flex-end; }
+    .yt-lightbox-inner { border-radius: 12px 12px 0 0; max-height: 92vh; overflow-y: auto; }
+  }
 
 </style>
 </head>
@@ -4054,6 +4135,21 @@
 </footer>
 
 
+<!-- ── YOUTUBE LIGHTBOX ── -->
+<div class="yt-lightbox" id="ytLightbox" onclick="ytLightboxOverlayClick(event)">
+  <div class="yt-lightbox-inner" id="ytLightboxInner">
+    <div class="yt-lightbox-header">
+      <span class="yt-lightbox-source" id="ytLbSource"></span>
+      <button class="yt-lightbox-close" onclick="ytLightboxClose()">✕ Close</button>
+    </div>
+    <div class="yt-player-wrap" id="ytPlayerWrap"></div>
+    <div class="yt-lightbox-body">
+      <div class="yt-lightbox-title" id="ytLbTitle"></div>
+      <div class="yt-lightbox-blurb" id="ytLbBlurb"></div>
+    </div>
+  </div>
+</div>
+
 <script>
   const CARDS_PER_PAGE = 16;
   const CARDS_PAGE_ONE = 18; // featured(3 cols) + 2 ads(1 col each) + 15 articles = 20 slots → 5 full rows of 4
@@ -4244,6 +4340,71 @@
     if (timeEl && card.dataset.ts) {
       timeEl.textContent = formatCardTime(card.dataset.ts);
     }
+  });
+
+  // ── YOUTUBE LIGHTBOX ──
+  function ytGetId(url) {
+    var m = url.match(/youtu\.be\/([^?&]+)/) || url.match(/[?&]v=([^?&]+)/);
+    return m ? m[1] : null;
+  }
+
+  document.querySelectorAll('.card-link').forEach(function(link) {
+    var id = ytGetId(link.href);
+    if (!id) return;
+
+    // Inject play button into thumbnail
+    var imgWrap = link.closest('.card').querySelector('.card-img-wrap');
+    if (imgWrap) {
+      var btn = document.createElement('div');
+      btn.className = 'card-yt-play';
+      btn.innerHTML = '<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>';
+      imgWrap.appendChild(btn);
+    }
+
+    // Intercept click — open lightbox instead of new tab
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      var card = link.closest('.card');
+      var titleEl = card.querySelector('.card-title a');
+      var blurbEl = card.querySelector('.card-blurb');
+      var sourceEl = card.querySelector('.card-source');
+      ytLightboxOpen(
+        id,
+        titleEl  ? titleEl.textContent.trim()  : '',
+        blurbEl  ? blurbEl.textContent.trim()  : '',
+        sourceEl ? sourceEl.textContent.trim() : ''
+      );
+    });
+  });
+
+  function ytLightboxOpen(id, title, blurb, source) {
+    document.getElementById('ytLbTitle').textContent  = title;
+    document.getElementById('ytLbBlurb').textContent  = blurb;
+    document.getElementById('ytLbSource').textContent = source;
+    var wrap = document.getElementById('ytPlayerWrap');
+    wrap.innerHTML = '';
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.youtube.com/embed/' + id + '?autoplay=1&rel=0&modestbranding=1';
+    iframe.allow = 'autoplay; encrypted-media; fullscreen';
+    iframe.allowFullscreen = true;
+    iframe.style.cssText = 'width:100%;height:100%;border:none;display:block;';
+    wrap.appendChild(iframe);
+    document.getElementById('ytLightbox').classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function ytLightboxClose() {
+    document.getElementById('ytLightbox').classList.remove('open');
+    document.getElementById('ytPlayerWrap').innerHTML = '';
+    document.body.style.overflow = '';
+  }
+
+  function ytLightboxOverlayClick(e) {
+    if (e.target === document.getElementById('ytLightbox')) ytLightboxClose();
+  }
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') ytLightboxClose();
   });
 </script>
 </body>
