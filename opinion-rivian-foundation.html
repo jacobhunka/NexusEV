@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="canonical" href="https://nexusevnews.com/opinion-rivian-foundation.html">
+<meta property="og:title" content="Rivian and the Stakeholder">
+<meta property="og:description" content="Before Rivian's IPO in 2021, RJ Scaringe set aside one percent of the company's equity and said the natural world would be a stakeholder in their success. Here is what that has come to mean.">
+<meta property="og:image" content="https://nexusevnews.com/jacob-hunka.jpg">
+<meta property="og:url" content="https://nexusevnews.com/opinion-rivian-foundation.html">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rivian and the Stakeholder — nexusEVnews</title>
+<meta name="description" content="Before Rivian's IPO in 2021, RJ Scaringe set aside one percent of the company's equity and said the natural world would be a stakeholder in their success. Here is what that has come to mean.">
+<link rel="icon" type="image/png" href="/favicon.png">
+<link rel="apple-touch-icon" href="/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #0a0b0f; --surface: #111318; --surface2: #1a1d24;
+    --border: #1f2330; --accent: #00d4ff;
+    --text: #e8eaf0; --muted: #6b7280;
+  }
+  html { scroll-behavior: smooth; }
+  body { font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+
+  /* HEADER */
+  header { position: sticky; top: 0; z-index: 100; background: rgba(10,11,15,0.94); backdrop-filter: blur(14px); border-bottom: 1px solid var(--border); padding: 0 2rem; display: flex; align-items: center; justify-content: space-between; height: 62px; }
+  .logo { font-family: 'Bebas Neue', sans-serif; font-size: 1.85rem; letter-spacing: 0.06em; color: var(--text); text-decoration: none; display: flex; align-items: center; gap: 0.6rem; }
+  .logo .ev { color: var(--accent); }
+  .logo .logo-news { font-size: 0.55em; color: var(--text); letter-spacing: 0.02em; vertical-align: baseline; }
+  .logo-text-wrap { display: flex; flex-direction: column; justify-content: center; line-height: 1; }
+  .logo-name { display: block; line-height: 1; }
+  .logo-tagline { font-family: 'DM Mono', monospace; font-size: 0.5rem; letter-spacing: 0.14em; color: var(--muted); text-transform: uppercase; display: block; margin-top: 3px; }
+  nav { display: flex; gap: 0.2rem; align-items: center; }
+  nav a { font-size: 0.76rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); text-decoration: none; padding: 0.35rem 0.7rem; border-radius: 4px; transition: color 0.2s, background 0.2s; }
+  nav a:hover { color: var(--text); background: var(--surface2); }
+  nav a.active { color: var(--accent); }
+  nav a.solar-nav { color: #c47d0a; }
+  .header-right { display: flex; align-items: center; gap: 0.75rem; }
+  .newsletter-btn { font-family: 'DM Sans', sans-serif; font-size: 0.76rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; background: var(--accent); color: #000; border: none; padding: 0.45rem 1rem; border-radius: 4px; cursor: pointer; text-decoration: none; display: inline-block; }
+
+  /* ARTICLE LAYOUT */
+  .article-wrap { max-width: 740px; margin: 0 auto; padding: 3.5rem 2rem 6rem; }
+
+  /* BACK LINK */
+  .back-link { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); text-decoration: none; display: inline-flex; align-items: center; gap: 0.4rem; margin-bottom: 2.5rem; transition: color 0.2s; }
+  .back-link::before { content: '←'; }
+  .back-link:hover { color: var(--accent); }
+
+  /* ARTICLE HEADER */
+  .article-eyebrow { font-family: 'DM Mono', monospace; font-size: 0.62rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); margin-bottom: 1rem; display: block; }
+  .article-title { font-family: 'Playfair Display', serif; font-size: clamp(1.9rem, 4vw, 2.8rem); line-height: 1.2; color: var(--text); margin-bottom: 1.5rem; }
+  .article-meta { display: flex; align-items: center; gap: 1.25rem; padding-bottom: 2rem; border-bottom: 1px solid var(--border); margin-bottom: 2.5rem; }
+  .author-photo { width: 44px; height: 44px; border-radius: 50%; object-fit: cover; object-position: center top; border: 2px solid rgba(0,212,255,0.3); flex-shrink: 0; }
+  .meta-name { font-size: 0.9rem; font-weight: 600; color: var(--text); }
+  .meta-details { font-family: 'DM Mono', monospace; font-size: 0.62rem; color: var(--muted); margin-top: 0.2rem; }
+
+  /* ARTICLE BODY */
+  .article-body { font-size: 1.05rem; line-height: 1.85; color: #c8cad4; }
+  .article-body p { margin-bottom: 1.6rem; }
+  .article-body h2 { font-family: 'Playfair Display', serif; font-size: 1.4rem; color: var(--text); margin: 2.5rem 0 1rem; padding-top: 2rem; border-top: 1px solid var(--border); }
+  .article-body strong { color: var(--text); font-weight: 600; }
+  .article-body em { font-style: italic; color: var(--muted); }
+  .article-body a { color: var(--accent); text-decoration: none; }
+  .article-body a:hover { text-decoration: underline; }
+
+  /* CALLOUT */
+  .callout { border-left: 2px solid var(--accent); background: var(--surface); padding: 1.1rem 1.4rem; margin: 2rem 0; font-size: 0.97rem; color: #c8cad4; line-height: 1.75; }
+
+  /* BYLINE FOOTER */
+  .article-footer { margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border); }
+  .byline-block { display: flex; gap: 1.25rem; align-items: flex-start; margin-bottom: 2rem; }
+  .byline-photo { width: 56px; height: 56px; border-radius: 50%; object-fit: cover; object-position: center top; border: 2px solid rgba(0,212,255,0.25); flex-shrink: 0; }
+  .byline-name { font-size: 0.95rem; font-weight: 600; color: var(--text); margin-bottom: 0.3rem; }
+  .byline-bio { font-size: 0.82rem; color: var(--muted); line-height: 1.6; }
+  .disclaimer { font-size: 0.78rem; color: var(--muted); font-style: italic; margin-bottom: 2rem; }
+
+  /* SOURCES */
+  .sources-block { border: 1px solid var(--border); background: var(--surface); padding: 1.5rem; border-radius: 2px; }
+  .sources-label { font-family: 'DM Mono', monospace; font-size: 0.6rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); margin-bottom: 1rem; padding-bottom: 0.75rem; border-bottom: 1px solid var(--border); display: block; }
+  .sources-list { list-style: none; display: flex; flex-direction: column; gap: 0.5rem; }
+  .sources-list li { font-size: 0.8rem; color: var(--muted); }
+  .sources-list a { color: var(--accent); text-decoration: none; }
+  .sources-list a:hover { text-decoration: underline; }
+
+  footer { border-top: 1px solid var(--border); padding: 1.5rem 2rem; text-align: center; margin-top: 4rem; }
+  footer p { font-size: 0.75rem; color: var(--muted); line-height: 1.8; }
+  footer a { color: var(--muted); text-decoration: none; }
+  footer a:hover { color: var(--accent); }
+
+  @media (max-width: 768px) {
+    header { padding: 0 1rem; }
+    nav { display: none; }
+    .article-wrap { padding: 2rem 1.25rem 4rem; }
+    .back-link { margin-bottom: 1.75rem; }
+    .article-title { font-size: 1.65rem; line-height: 1.25; margin-bottom: 1.25rem; }
+    .article-meta { gap: 0.9rem; margin-bottom: 2rem; padding-bottom: 1.5rem; }
+    .author-photo { width: 38px; height: 38px; }
+    .meta-name { font-size: 0.85rem; }
+    .meta-details { font-size: 0.58rem; }
+    .article-body { font-size: 0.97rem; line-height: 1.8; }
+    .article-body h2 { font-size: 1.2rem; margin: 2rem 0 0.75rem; padding-top: 1.5rem; }
+    .article-body p { margin-bottom: 1.4rem; }
+    .byline-block { gap: 1rem; }
+    .byline-photo { width: 46px; height: 46px; }
+    .byline-name { font-size: 0.88rem; }
+    .byline-bio { font-size: 0.78rem; }
+    .sources-block { padding: 1.25rem; }
+    .sources-list li { font-size: 0.75rem; }
+    footer { padding: 1.25rem 1rem; }
+    footer p { font-size: 0.7rem; }
+  }
+
+  @media (max-width: 480px) {
+    .article-title { font-size: 1.4rem; }
+    .article-body { font-size: 0.93rem; }
+    .newsletter-btn { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <a class="logo" href="index.html" aria-label="nexusEVnews home">
+    <svg width="36" height="40" viewBox="0 0 36 40" fill="none">
+      <polygon points="18,2 34,11 34,29 18,38 2,29 2,11" fill="rgba(0,212,255,0.07)" stroke="rgba(0,212,255,0.35)" stroke-width="1"/>
+      <polygon points="18,4 32,12 32,28 18,36 4,28 4,12" fill="rgba(0,212,255,0.1)" stroke="#00d4ff" stroke-width="1.5"/>
+      <path d="M22 9L12 22H20L14 32L26 18H18L22 9Z" fill="#00d4ff"/>
+    </svg>
+    <div class="logo-text-wrap">
+      <span class="logo-name">NEXUS<span class="ev">EV</span><span class="logo-news">news</span></span>
+      <span class="logo-tagline">EV &amp; Renewable Energy</span>
+    </div>
+  </a>
+  <nav>
+    <a href="index.html">Latest</a>
+    <a href="index.html">Reviews</a>
+    <a href="index.html">Battery Tech</a>
+    <a href="index.html">Charging</a>
+    <a href="index.html" class="solar-nav">Solar ☀</a>
+    <a href="index.html">Deep Dives</a>
+    <a href="opinion.html" class="active">Opinion</a>
+  </nav>
+  <div class="header-right">
+    <a class="newsletter-btn" href="advertise.html" style="background:transparent;color:var(--muted);border:1px solid var(--border);">Advertise</a>
+    <a class="newsletter-btn" href="https://nexuscurrent.beehiiv.com/subscribe" target="_blank" rel="noopener">Subscribe</a>
+  </div>
+</header>
+
+<div class="article-wrap">
+  <a href="opinion.html" class="back-link">Opinion</a>
+
+  <span class="article-eyebrow">Opinion &nbsp;·&nbsp; March 27, 2026</span>
+  <h1 class="article-title">Rivian and the Stakeholder</h1>
+
+  <div class="article-meta">
+    <img src="jacob-hunka.jpg" alt="Jacob Hunka" class="author-photo">
+    <div class="meta-text">
+      <div class="meta-name">Jacob Hunka</div>
+      <div class="meta-details">Founder, nexusEVnews &nbsp;·&nbsp; 5 min read</div>
+    </div>
+  </div>
+
+  <div class="article-body">
+
+    <p>There is a line that gets used a lot in corporate sustainability reports. It goes something like: we are committed to making a positive impact on the communities we serve. You have read it. You have not remembered it.</p>
+
+    <p>In November 2021, before trading began on one of the most anticipated IPOs in recent electric vehicle history, Rivian founder RJ Scaringe said something different. He said he wanted to make the natural world a stakeholder in his company's success.</p>
+
+    <p>Not a beneficiary. Not a cause worth donating to once a year. A stakeholder.</p>
+
+    <p>Consider what that word means in a room full of people about to become very rich. A stakeholder has standing. A stakeholder has a claim. A stakeholder is not something you write a check to and feel good about at the end of the quarter. Scaringe took one percent of Rivian's equity before trading opened and committed it to that idea.</p>
+
+    <p>The structure that would hold that pledge took a couple of years to settle. An entity called Forever by Rivian was established first, then restructured into an independent 501(c)(3) private foundation, formally constituted in 2023 and given a name that said exactly what it was: the Rivian Foundation.</p>
+
+    <p>The people chosen to run it are worth knowing. Rose Marcario, who spent twelve years at Patagonia and eventually ran the company, chairs the board of trustees. Scaringe has said publicly that he wanted Rivian to be what Patagonia is to outdoor gear. He went out and found the person who built that. Alongside her sits Ed M. Norton, founding chairman of the Conservation Lands Foundation, a man who has spent his career at the intersection of environmental law and wilderness preservation, who founded the Grand Canyon Trust and helped start the Rails-to-Trails Conservancy. Also on the board: Anisa Kamadoli Costa, President of the Rivian Foundation, and Scaringe himself.</p>
+
+    <p>For a couple of years, the foundation was quiet. Foundations built to last take time. They figure out where resources do the most lasting good rather than the most visible good.</p>
+
+    <p>Then, during Climate Week in New York in September 2024, the foundation published a list of 41 organizations that would collectively receive just over ten million dollars in grants. In 2025, another two and a half million in awards followed.</p>
+
+    <p>Read the list slowly.</p>
+
+    <p>There is money for urban reforestation in Detroit, in Chicago, in Los Angeles, in Austin. There is a grant to the Open Space Institute, which works with low-income communities in Tennessee and Georgia to restore floodplains as a buffer against the weather that is already arriving. There is funding for a solar microgrid project in Kenya, helping a conservation operation remove fossil fuels from its work entirely. There is support for Indigenous youth-led environmental stewardship and traditional ecological knowledge in the Pacific Northwest. Save the Waves received a grant to protect California's surf ecosystems. There are programs connecting marginalized communities to nature around Washington, D.C. and Baltimore. There is an effort to establish Georgia's first national park along the Ocmulgee River corridor.</p>
+
+    <p>And there is something called The Good Project, which may be the most Rivian thing Rivian has ever done. A fleet of R1 vehicles, previously used as the official cars during U2's six-month residency at the Sphere in Las Vegas, available on loan to nonprofits for up to ten days at a time. The trucks have been places. Now they carry people doing work that needs doing, in Denver, Austin, Brooklyn, and Atlanta.</p>
+
+    <div class="callout">
+      Disclosure: I owned a Rivian R1T for two years. I loved it. I sold it when I moved to Italy, a decision I am still working through. I did not know, when I bought it, the full shape of what I had bought into. I knew the vehicle. I did not know the foundation.
+    </div>
+
+    <p>The Rivian Foundation describes its mission as to "safeguard a healthy planet so future generations can experience a world rich in abundance, wonder, and adventure." The word forever runs through all of it. The natural world as a stakeholder, forever.</p>
+
+    <p>You can hold that phrase at arm's length if you want. Companies make promises. But the floodplains in Tennessee are real. The solar microgrid in Kenya is real. The programs along the Ocmulgee River are real.</p>
+
+    <p>You know the feeling. The light is doing something it only does at that hour. The temperature is exactly right and the perfect song arrives uninvited. You come down a dusty road after a long hike, tired in the way that feels earned, and the only sound from the vehicle carrying you home is the quiet whirr of electrons.</p>
+
+    <p>No combustion. Just motion, and the road, and whatever that song is doing to you.</p>
+
+    <p>Those moments are what Rivian is trying to protect.</p>
+
+    <p>It is something, to know they mean it.</p>
+
+  </div>
+
+  <div class="article-footer">
+    <div class="byline-block">
+      <img src="jacob-hunka.jpg" alt="Jacob Hunka" class="byline-photo">
+      <div class="byline-text">
+        <div class="byline-name">Jacob Hunka</div>
+        <p class="byline-bio">Founder and curator of nexusEVnews. My garage history runs from a Chevrolet Cavalier (first car) to a 1978 Camaro Z28, a Ducati Scrambler, a Subaru Outback, a Mazda 6, a BMW 3 Series, an Audi A5/S5, and eventually a Rivian R1T and Audi e-tron GT, the last two sold upon relocating to Italy, where I now live and write full time.</p>
+      </div>
+    </div>
+    <p class="disclaimer">The views expressed in Opinion pieces are those of the author and do not represent sponsored content. This article has no commercial relationship with Rivian. All sources cited are publicly available.</p>
+
+    <div class="sources-block">
+      <span class="sources-label">Sources referenced in this article</span>
+      <ul class="sources-list">
+        <li>Rivian Foundation, About and What We Fund — <a href="https://rivianfoundation.org" target="_blank" rel="noopener">rivianfoundation.org</a></li>
+        <li>Rivian, "Rivian Forever: Our Commitment to the Environment" — <a href="https://rivian.com/forever" target="_blank" rel="noopener">rivian.com/forever</a></li>
+        <li>TechCrunch, Sean O'Kane, "Rivian reveals first $10M in grants for long-promised Rivian Foundation," September 24, 2024 — <a href="https://techcrunch.com" target="_blank" rel="noopener">techcrunch.com</a></li>
+        <li>TechCrunch, "Former Patagonia CEO Rose Marcario resigns from Rivian's board," December 19, 2025 — <a href="https://techcrunch.com" target="_blank" rel="noopener">techcrunch.com</a></li>
+        <li>Conservation Lands Foundation, Ed M. Norton biography — <a href="https://www.conservationlands.org" target="_blank" rel="noopener">conservationlands.org</a></li>
+        <li>Open Space Institute, "Resilient Community Program Gains Support of Rivian Foundation," September 26, 2024 — <a href="https://www.openspaceinstitute.org" target="_blank" rel="noopener">openspaceinstitute.org</a></li>
+        <li>Save the Waves Coalition, Rivian Foundation grant announcement, September 27, 2024 — <a href="https://www.savethewaves.org" target="_blank" rel="noopener">savethewaves.org</a></li>
+        <li>Rivian Stories, "The Rivian Foundation" — <a href="https://stories.rivian.com/foundation-launch" target="_blank" rel="noopener">stories.rivian.com</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <p>© 2026 nexusEVnews &nbsp;·&nbsp; <a href="about.html">About</a> &nbsp;·&nbsp; <a href="advertise.html">Advertise</a> &nbsp;·&nbsp; <a href="privacy.html">Privacy Policy</a> &nbsp;·&nbsp; <a href="terms.html">Terms of Service</a></p>
+  <p>Independent EV and renewable energy news. Not affiliated with any manufacturer.</p>
+</footer>
+
+</body>
+</html>
