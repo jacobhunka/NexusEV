@@ -2,3 +2,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://nexusevnews.com/sitemap.xml
+
+# Crawl-delay suggestion for polite bots
+Crawl-delay: 1

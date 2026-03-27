@@ -24,6 +24,12 @@
 <meta property="og:image:height" content="630">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://nexusevnews.com/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="nexusEVnews: EV &amp; Renewable Energy News">
+<meta name="twitter:description" content="Electric vehicles. Solar. Renewable energy. The stories that matter, curated daily.">
+<meta name="twitter:image" content="https://nexusevnews.com/og-image.jpg">
+<meta name="twitter:site" content="@nexusevnews">
+<link rel="alternate" type="application/rss+xml" title="nexusEVnews RSS Feed" href="https://nexusevnews.com/rss.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 
@@ -448,47 +454,6 @@
   footer a { color: var(--accent); text-decoration: none; }
   footer a:hover { text-decoration: underline; }
 
-  /* ── MODAL ── */
-  .modal-bg {
-    display: none; position: fixed; inset: 0;
-    background: rgba(0,0,0,0.72); z-index: 200;
-    align-items: center; justify-content: center;
-  }
-  .modal-bg.open { display: flex; }
-  .modal {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    padding: 2.5rem; max-width: 420px; width: 90%;
-    border-radius: 6px; position: relative;
-  }
-  .modal-close {
-    position: absolute; top: 1rem; right: 1rem;
-    background: none; border: none;
-    color: var(--muted); font-size: 1.2rem; cursor: pointer;
-  }
-  .modal h2 {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 2rem; letter-spacing: 0.05em; margin-bottom: 0.5rem;
-  }
-  .modal h2 span { color: var(--accent); }
-  .modal p { font-size: 0.85rem; color: var(--muted); margin-bottom: 1.5rem; line-height: 1.6; }
-  .modal input {
-    width: 100%; background: var(--bg);
-    border: 1px solid var(--border); color: var(--text);
-    padding: 0.65rem 1rem; border-radius: 4px;
-    font-family: 'DM Sans', sans-serif; font-size: 0.9rem;
-    margin-bottom: 0.75rem; outline: none; transition: border-color 0.2s;
-  }
-  .modal input:focus { border-color: var(--accent); }
-  .modal-submit {
-    width: 100%; background: var(--accent); color: #000;
-    border: none; padding: 0.7rem;
-    font-family: 'DM Sans', sans-serif; font-weight: 700;
-    font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase;
-    border-radius: 4px; cursor: pointer; transition: opacity 0.2s;
-  }
-  .modal-submit:hover { opacity: 0.85; }
-  .modal-fine { font-size: 0.7rem !important; margin-top: 0.75rem !important; margin-bottom: 0 !important; }
 
   .card.hidden { display: none; }
   .card.fade-in { animation: fadeIn 0.25s ease forwards; }
@@ -749,6 +714,57 @@
   }
 
 </style>
+
+<!-- Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "nexusEVnews",
+  "url": "https://nexusevnews.com/",
+  "description": "Independent EV and renewable energy news aggregator. Curated daily.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "nexusEVnews",
+    "url": "https://nexusevnews.com/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://nexusevnews.com/og-image.jpg"
+    },
+    "founder": {
+      "@type": "Person",
+      "name": "Jacob Hunka"
+    },
+    "sameAs": []
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://nexusevnews.com/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "nexusEVnews: EV & Renewable Energy News",
+  "description": "Daily curated electric vehicle and renewable energy news from across the web.",
+  "url": "https://nexusevnews.com/",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "nexusEVnews",
+    "url": "https://nexusevnews.com/"
+  },
+  "about": [
+    { "@type": "Thing", "name": "Electric vehicles" },
+    { "@type": "Thing", "name": "Renewable energy" },
+    { "@type": "Thing", "name": "Solar energy" },
+    { "@type": "Thing", "name": "Battery technology" },
+    { "@type": "Thing", "name": "EV charging" }
+  ]
+}
+</script>
 </head>
 <body>
 
@@ -815,16 +831,16 @@
 <!-- HERO -->
 <div class="hero-strip">
   <div>
-    <div class="hero-headline">
+    <h1 class="hero-headline">
       <span class="hero-line-solid">THE EV WORLD,</span>
       <span class="hero-line-outline">CONNECTED.</span>
-    </div>
+    </h1>
     <div class="hero-divider"></div>
     <div class="hero-sub">
       Electric vehicles &middot; Battery tech &middot; Charging &middot;
       <span>Solar &amp; renewables</span>
     </div>
-    <div class="hero-date">Friday, March 27 · 2026</div>
+    <div class="hero-date" id="heroDate">Friday, March 27 · 2026</div>
     <div style="margin-top:1.5rem;">
       <a href="https://nexuscurrent.beehiiv.com/subscribe" target="_blank" rel="noopener"
          style="display:inline-block;font-family:'DM Sans',sans-serif;font-size:0.85rem;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;background:var(--accent);color:#000;padding:0.65rem 1.6rem;border-radius:4px;text-decoration:none;">
@@ -835,18 +851,28 @@
   </div>
 </div>
 
+<script>
+  (function() {
+    var d = new Date();
+    var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+    var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+    var el = document.getElementById('heroDate');
+    if (el) el.textContent = days[d.getDay()] + ', ' + months[d.getMonth()] + ' ' + d.getDate() + ' \u00B7 ' + d.getFullYear();
+  })();
+</script>
+
 <!-- CATEGORY PILLS -->
 <div class="cats" role="navigation" aria-label="Filter by category">
-  <button class="cat active">All</button>
-  <button class="cat">Reviews</button>
-  <button class="cat">Battery Tech</button>
-  <button class="cat">Charging</button>
-  <button class="cat solar-cat">Solar &amp; Renewables</button>
-  <button class="cat">Deep Dives</button>
-  <button class="cat">Used EVs</button>
+  <button class="cat active" aria-pressed="true">All</button>
+  <button class="cat" aria-pressed="false">Reviews</button>
+  <button class="cat" aria-pressed="false">Battery Tech</button>
+  <button class="cat" aria-pressed="false">Charging</button>
+  <button class="cat solar-cat" aria-pressed="false">Solar &amp; Renewables</button>
+  <button class="cat" aria-pressed="false">Deep Dives</button>
+  <button class="cat" aria-pressed="false">Used EVs</button>
 
-  <button class="cat">News</button>
-  <button class="cat">Opinion</button>
+  <button class="cat" aria-pressed="false">News</button>
+  <button class="cat" aria-pressed="false">Opinion</button>
 </div>
 
 <!-- ══════════════════════════════════════════
@@ -869,16 +895,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Car Wow</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/hdnOb-4TXNk" target="_blank" rel="noopener">
           Three Cayennes, One Runway, and Orlando Bloom. Porsche's New Electric SUV Nearly Runs a Sub-10-Second Quarter Mile.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Car Wow's Matt Watson lines up all three Porsche Cayenne flagships and then, completely casually, invites Orlando Bloom along to try to beat his times. The Turbo E Hybrid makes 729 hp. The Turbo GT is 300 kg lighter with a titanium exhaust, because Porsche. The new Cayenne Turbo Electric shows up with 1,139 hp in launch mode, runs a 10.16 quarter mile, and is visibly annoyed it didn't go sub-10. Orlando wins by 0.05 seconds. Nobody is more surprised than Matt.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 27</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -897,16 +923,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">nexusEVnews Opinion</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="opinion-rivian-foundation.html">
           Rivian and the Stakeholder
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Before Rivian's IPO in 2021, RJ Scaringe set aside one percent of the company's equity and told a room full of investors that the natural world would be a stakeholder in their success. Not a charity. A stakeholder. Here is what that has actually come to mean.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 27</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -925,16 +951,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Rivian Trackr</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://riviantrackr.com/news/rivians-new-3d-configurator-is-genuinely-impressive/" target="_blank" rel="noopener">
           Rivian's New 3D Configurator Is Genuinely Impressive. They Also Built the Whole Thing In-House.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Jose Castillo at Rivian Trackr spotted this one: Rivian quietly added a "View in 3D" mode to the R1 configurator. Spin the model, swap colors, change wheels in real time. Rivian's software lead Wassym confirmed it was built entirely in-house, which is not how most automakers do this. Most automakers outsource it. Rivian did not. R2 support is coming. You will lose 20 minutes to this and not regret it.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 27</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -953,16 +979,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/5TLjY37vJvM" target="_blank" rel="noopener">
           China Built a 6-Million-Panel Solar Farm in Two Years. Here Is What That Looks Like on the Ground.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Two years ago this was an empty stretch of land in Luan. Now it's 6 million solar panels across an area larger than 6,300 football pitches, producing 578 million kWh a year, enough to power 4.5 million homes. Drones patrol 12 times daily. The panels physically rotate to follow the sun. Next door, a wind turbine factory cranks out 800 units a year with blades up to 130 metres long. China now installs solar and wind capacity at the same rate as the rest of the world combined. The last number in the video, coal at 60% of Chinese electricity, is the one that sits with you afterward.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 27</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -981,16 +1007,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Yangwang / BYD</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/yM0wi0qK0KA" target="_blank" rel="noopener">
           Friday Throwback: Remember When BYD's Yangwang U9 Hit 496.22 km/h and Quietly Rewrote the Record Books?
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         It's Friday. Treat yourself. In September 2025, the Yangwang U9 Xtreme ran 496.22 km/h at ATP Automotive Testing Papenburg and set a new production EV top speed world record. BYD brought a VBOX to prove it. If you missed this one the first time around, now you have no excuse. Turn the volume up.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 27</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1009,16 +1035,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/YzMBOF_X1Mk" target="_blank" rel="noopener">
           Polestar 4 Week-Long Review: No Rear Window, a Genuinely Nice Interior, and a Charging Port That Has No Business Being in a 2026 Car
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The no-rear-window thing stops being weird within about 10 minutes. The J1772/CCS charge port on a 2026 vehicle never stops being weird. Swedish design, Google software, 100 kWh battery, 200 kW peak charging. Built in South Korea after 100% US tariffs made Chinese production economically impossible, even though 92% of the parts are still from China. That sentence perfectly captures where the auto industry is right now. Starts at $56,400. This test car stickered at $81,800. Pilot assist is solid on the highway. Lane changes are its villain origin story.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 27</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1039,16 +1065,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/DlmeEk4wQEw" target="_blank" rel="noopener">
           A Smartphone Company Just Gatecrashed Gran Turismo's 28-Year History and Built a 1,900 hp Concept to Prove It
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Xiaomi delivered over 411,000 EVs in 2025, turned a profit in its second year of making cars, and holds the Nurburgring production EV lap record. Now it has become the first Chinese brand in Gran Turismo's 28-year Vision GT program, joining Ferrari, Porsche, and Bugatti with a 1,900 hp concept hypercar. Gran Turismo series producer Kazunori Yamauchi personally extended the invitation. A full-scale physical model was on display at MWC 2026 in Barcelona, though it is not a running vehicle. The concept will eventually be playable in Gran Turismo 7.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 26</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1067,16 +1093,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">EVinfo.net</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://evinfo.net/2026/03/a-new-independent-ev-and-renewable-energy-news-website-launched-in-march-2026/" target="_blank" rel="noopener">
           We Got Featured. And It Reminded Us Exactly Why This Community Is Worth Showing Up For.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Bill Pierce, publisher of <a href="https://evinfo.net/" target="_blank" rel="noopener" style="color:var(--accent);text-decoration:none;position:relative;z-index:3;">EVinfo.net</a>, took the time to write a full feature on nexusEVnews. For a new site still getting off the ground, that kind of generosity from a respected voice in the EV space is humbling. It also says a lot about the people who make this community worth being part of. Click through to read what he wrote.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 27</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1095,16 +1121,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Miniman Solar</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/q8_wNF2hMFI" target="_blank" rel="noopener">
           Stop Buying Small Solar Panels. This Guy Has Been Testing Them for 10 Years and He Has a Point.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Ben has spent a decade testing solar panels and thinks most people are buying the wrong size. He makes a pretty compelling case. Four 590W bifacial Sunold Power panels, ground-mounted on adjustable stands, pulling well over their rated output in the middle of winter. He also walks through why these panels pair almost perfectly with a standard RV roof. Worth a watch before your next solar purchase.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 26</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1123,16 +1149,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/GC7ZzSFla84" target="_blank" rel="noopener">
           China Is Writing the Rule Book for Solid-State Batteries. The July 2026 Deadline Tells You Everything You Need to Know.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         China is finalizing its first national standard for automotive solid-state batteries, due in July 2026. The goal is straightforward: force the industry to use consistent language so that "solid-state" actually means something. Right now it covers everything from barely-changed chemistries to genuinely all-solid architectures. The timing of this standard is itself a signal about how close mass production really is.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 26</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1151,16 +1177,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/BBL-54uuFkQ" target="_blank" rel="noopener">
           BYD Wants 20 Canadian Dealerships in Year One. Here Is Why That Number Should Raise an Eyebrow.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         BYD is planning up to 20 Canadian dealerships in its first year, starting in the Greater Toronto Area. That number raises real questions. The Target Canada cautionary tale gets brought up for good reason. Opening stores is the easy part. Having enough cars, trained mechanics, and parts on the shelf is another matter entirely.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 26</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1179,16 +1205,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Electrify This / The Driven</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/lb5mKEDPmxU" target="_blank" rel="noopener">
           Australia Is Running Low on Fuel and It Is Doing More for EV Sales Than Any Government Incentive Has Managed
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Australia is sitting on a shrinking fuel supply and EV inquiries are spiking. Sarah and Sam discuss what that means for sales, how long the pinch might last, and why the electric trucking conversation suddenly feels a lot more urgent. Candid, timely, and filmed on the road.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 26</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1211,16 +1237,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">carwow</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/IFP1c5QZkA8" target="_blank" rel="noopener">
           The New BMW iX3 Will Underpin 40 Future BMWs. We Put It Against the X3M to See If It Deserves To.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         carwow's Matt Watson does a proper head-to-head between the all-new BMW iX3, the electric platform set to underpin the next 40 BMW models, and the petrol X3M. Tests include a drag race (X3M wins by a whisker), a rolling race (iX3 takes it convincingly), braking (iX3 stops shorter despite being 315 kg heavier), a moose test (iX3 more composed), boot space, and a baby seat challenge. After a week of real-world driving, the iX3 averaged just 3 miles per kilowatt hour, a full third less efficient than a Tesla Model 3 on the same roads, and its claimed 490-mile range came closer to 300 in practice. Instagram gave the old car 79% of the design vote. A thorough and honest look at a car BMW simply cannot afford to get wrong.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 25</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1239,16 +1265,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Out of Spec Reviews</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/IrGNQ1g_SSA" target="_blank" rel="noopener">
           Inside the 2026 EV Charging Summit: Who Is Actually Solving Reliability and Who Is Still Selling the Dream
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Logan from Out of Spec Reviews walks the floor in Las Vegas with stops at Switch, XCharge, Tesla, Alpitronic, Kempower, and Zerova. The most interesting tech: Switch's underground cellular booster gets charger connectivity ten floors below grade, and their Nexus micro-computer keeps chargers running and transactions logged even when the internet is completely out. Tesla's new Supercharger for Business model lets property owners buy and own hardware while keeping Tesla's payment processing and routing software. Tom Moloughney's EVchargingstations.com is now drawing 80,000 monthly visitors. A solid ground-level look at where commercial charging infrastructure is actually heading.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 25</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1267,16 +1293,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Documentary</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/J_WyNcUvKIs" target="_blank" rel="noopener">
           Europe Bet Everything on Northvolt. Here Is Exactly How That Went.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         A documentary account of Northvolt's rise and collapse. Europe's largest battery manufacturer and its biggest bet on energy independence from Asia. Workers moved families to northern Sweden for a promised 500,000-battery-per-year operation. The company went bankrupt under billions in debt, driven by scrap rates so high that cells failed quality control faster than the factory could produce them. The aftermath: an American startup called Lyten acquired the assets, VW's PowerCo subsidiary is ramping up in Germany using Chinese machine expertise while retaining full IP ownership, and the EU has invested roughly €7 billion in the sector. For comparison, CATL spent the same amount on its Hungary plant alone. The gap is not closing quickly.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 25</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1295,16 +1321,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Ever / InsideEVs</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/_B-NZI64USo" target="_blank" rel="noopener">
           Subaru Said the Uncharted Goes 10 to 80% in 28 Minutes. We Had a Stopwatch.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Andrew Lambrecht from Ever runs a cold-night charging test on the 2026 Subaru Uncharted in South San Francisco. The car uses the same 74.7 kWh NACS battery pack as the Solterra and Trail Seeker, accepts up to 150 kW DC, and Subaru claims a 28-minute 10-to-80% charge. After manually preconditioning for 25 minutes before plugging in, the Uncharted hit 80% in 26 minutes and 5 seconds, beating the manufacturer's claim. The charging curve held above 100 kW all the way to 67% state of charge, which is the kind of consistency that matters far more on a long road trip than peak figures alone. A genuinely solid result from a 400-volt platform.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 25</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1323,16 +1349,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Monroe Live</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/8Fk4fjVm7hU" target="_blank" rel="noopener">
           The Solid-State Battery Company That Just Put 750 Miles on a Mercedes on a Single Charge
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Monroe Live sits down with Raymond, VP of Business Development at Factorial Energy, to walk through the company's two platforms: FEST (a quasi-solid electrolyte built to slot into existing lithium-ion production lines) and Solstice (fully solid-state with a ceramic electrolyte stable to 200°C). The headline number: a modified Mercedes EQS drove 1,250 km on a single charge with range still remaining. Factorial's 100-amp-hour cells have reached 3,000 cycles in R&D, and their Gamatron digital twin can predict cycle life from as few as 10 to 15 cycles rather than waiting a year for the data. Partners include Mercedes-Benz, Stellantis, and Hyundai/Kia. The target: production-ready cells in premium vehicles before 2030.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 25</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1355,16 +1381,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Autogefühl</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/gMTfHIDbm1Y" target="_blank" rel="noopener">
           The Electric Mercedes GLC Drives Better Than the Gas Version. We Did Not Expect to Type That.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Autogefühl's Thomas puts the all-new electric GLC (badged GLC 400 4MATIC, not EQ) through a full driving review covering exterior trims, the surprisingly large frunk, interior quality, and a real-world motorway range test against the BMW iX3. The short version: 4.3 seconds to 100 km/h from a two-speed gearbox that stays in first gear all the way up, air suspension with rear-axle steering that makes tight European parking almost embarrassing, and about 400 km of real-world motorway range from a 94.5 kWh battery. The iX3 beats it on battery size, range, seat comfort, and price. The GLC beats it on suspension, acceleration, and chassis refinement. Thomas calls both the best electric SUVs Germany has produced in a long time, which makes choosing between them genuinely difficult.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 24</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1383,16 +1409,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Autogefühl</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/BHCuwItCaZM" target="_blank" rel="noopener">
           NMC vs LFP Battery Chemistry, Explained with Drink Bottles and a Dog Named Bindy
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         A refreshingly jargon-free breakdown of the two main battery chemistries you will encounter when buying an EV or a home battery. The short version: NMC is like a clear bottle where you can always see how full it is, LFP is a dark bottle where the only way to know it is full is to fill it to the top and peek in. That is why your LFP car tells you to charge to 100% regularly. It is not for the battery's benefit. It is for the battery's math. The actual verdict on which chemistry is better? Buy the car with the specs you need and stop worrying about it. Bindy the dog appears to agree, though she mostly wants dinner.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 24</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1411,16 +1437,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Jay Leno's Garage</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/BCXSq1dmEB8" target="_blank" rel="noopener">
           Jay Leno Becomes the First Non-Tesla Person to Drive the New Semi. His Verdict: It Drives Like a Big Car.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Jay Leno gets behind the wheel of both the 500-mile long-range and 325-mile standard-range Tesla Semi alongside Tesla's director of styling and program director. The new truck is 1,000 lbs lighter than the previous version, charges at 1.2 megawatts for 60% in 30 minutes, and costs roughly 50% less per mile to operate in California versus diesel. A few details worth noting: the standard range model has the same turning radius as a Model 3, heavy trucks make up just 1% of vehicles on the road but account for 16 to 18% of all fuel consumed, and Jay owns a 12-year-old McLaren P1 hybrid battery still sitting at 92%. That last one is not directly about the Semi, but it is a good number.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 24</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1439,16 +1465,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Out of Spec</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/_23VJ322L3g" target="_blank" rel="noopener">
           The One-Person Team Behind Rivian ROR Tracks 6,000 Vehicles, Ships Two Features a Week, and Does It After His Day Job
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Out of Spec sits down with Chad on the two-year anniversary of Rivian ROR, the data platform that started as a personal inventory tracker and grew into a full telematics suite with leaderboards, battery health tracking, charging network uptime history, and a mileage goal tool that is apparently already starting spousal arguments about driving habits. The paid tier is $4.99 a month. Chad has helped owners win service disputes with Rivian by providing charging data the dealership could not argue with. He has also quietly registered the domains for every major EV brand. He is not ready to talk about it just yet, but it is worth knowing.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 24</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1467,16 +1493,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">State of Charge</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/B_DnyyIQ3iU" target="_blank" rel="noopener">
           This Charging Cable Is Thinner Than Your iPhone and You Can Park a Five-Ton Escalade on It
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         State of Charge's Tom sits down with Ghost at the 2026 EV Charging Summit in Las Vegas to examine a flat EV charging cable that is 5.56mm thin, 7cm wide, and rated for 50 amps. The pitch: if you park on the street and charge from your house, you no longer need a round cable crossing the sidewalk that trips your neighbors, blocks delivery carts, or catches under the garage door. Five US cities including Portland, Seattle, and Oakland have already approved the concept. Ghost is targeting the US market with a bring-your-own-cable Mennekes setup, shipping expected within 60 days of filming. A built-in cut sensor shuts everything down if the cable is damaged. Useful product for a problem a lot of people quietly have.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 24</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1499,16 +1525,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Everything Electric Podcast</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/HoTqyPSgrE8" target="_blank" rel="noopener">
           Five-Minute Charge, 100,000 Cycles: The Donut Labs Solid-State Battery Is Either a Breakthrough or a Very Good Pitch
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         A Finnish startup called Donut Labs announced at CES 2026 that it had a production-ready solid-state battery with 400 Wh/kg energy density, five-minute full charges, and 100,000 cycle life. The battery world immediately split in two. Independent VTT testing confirmed some claims while leaving the most extraordinary ones untouched. Robert brings in Dave Borlace from Just Have a Think and battery chemist Dr. Euan McTurk to work through what the chemistry can actually support, which parts of the pitch are credible, and which parts are still running ahead of the evidence. The best breakdown of this story you will find anywhere.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 23</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1527,16 +1553,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">ABC News</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://abcnews.go.com/Business/electric-carmaker-rivian-bucks-industry-trend-launches-new/story?id=131145986" target="_blank" rel="noopener">
           Rivian Launches the R2 While the Rest of the Industry Is Pulling Back
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Deliveries of the R2 midsize SUV are underway starting with the $57,990 Performance Launch Edition: 656 horsepower, 0-60 in 3.6 seconds, Tesla Supercharger compatible. The $53,990 Premium with 330 miles of EPA-estimated range follows in late 2026. The $45,000 Standard arrives in 2027. RJ Scaringe sat down with ABC News for a wide-ranging interview covering why he thinks the R2 hits a market sweet spot, why he will never build an EREV, and what the path to profitability actually requires at scale.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 23</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1555,16 +1581,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Out of Spec Reviews</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/vBaX029ZsQg" target="_blank" rel="noopener">
           This Used to Be a Gas Station. Now It Is One of the Best Places to Charge an EV in the Country.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Ionna gutted a former gas station just off I-40 in Garner, NC and rebuilt it as a flagship charging hub. The site runs 10 bays of 400 kW Alpetronic chargers fed by a 2,500 KVA transformer, with a driver's lounge, clean 24/7 restrooms, and an Amazon Just Walk Out convenience store where you grab what you want and get billed automatically on the way out. Access is via QR code or palm scan. It already appears in Tesla's navigation with automatic battery preconditioning. Kyle and Ionna's Ricardo walk through every corner of the site and talk through what hundreds more locations like this could look like.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 23</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1583,16 +1609,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/v6MKWcKbiig" target="_blank" rel="noopener">
           Three Years on an eBike: The Best Part Was a Surprise, and So Was the Worst
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         An unusually honest eBike ownership breakdown from a Canmore-based mountain biker who has been riding an Ibis Oso with Bosch motor for three years. The best part, which he genuinely did not expect: keeping a steady zone-two heart rate on actual trails makes the eBike the most effective fitness tool he has ever used. The worst part, which surprised him even more: turbo mode removes the slow, quiet climb he did not realize he loved until it was gone. His partner Beth also shares how the adjustable power modes made riding accessible again on high-pain days. Top three likes and top three gripes, no fluff.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 23</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1611,16 +1637,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/1b_AguNH-D0" target="_blank" rel="noopener">
           How to Buy a Used EV at Auction Without Getting Burned, From Someone Who Has Done It Thousands of Times
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         A live UK auction walkthrough with Jonathan Porterfield, who has bid at hundreds of sales over the years. The golden rule: buy ex-lease, avoid the We Buy Any Car section where sellers usually know something you do not. The video also follows Neil from Cornwall, who showed up with a dead clutch in his VW T5, no car, and three Model 3s to choose from. He walked out with a standard range Tesla Model 3 for £15,000. Good practical primer if you have ever wondered whether buying at auction is actually worth it.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 23</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1643,16 +1669,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Just Have a Think</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/qokwulKU9Bg" target="_blank" rel="noopener">
           We Have Been Reading the Energy Transition Charts Wrong. Here Is Why.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         A new Ember report co-authored by Bloomberg New Energy Finance founder Michael Liebreich argues that the fossil fuel dominance shown in most global energy charts comes down to a flawed measurement system, not a stalled transition. Traditional "primary energy" accounting treats one unit of coal identically to one unit of wind electricity, even though roughly two-thirds of coal's energy content never reaches anyone as useful power. It disappears as waste heat before it leaves the power station. When you measure what energy systems actually deliver rather than what they extract, renewables look dramatically more competitive than the headline numbers suggest. That same efficiency gap plays out right in your driveway. See today's opinion piece for the street-level version.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 22</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1671,16 +1697,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">nexusEVnews Opinion</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="opinion-ev-efficiency.html">
           Under Your Hood: A Space Heater That Occasionally Moves Things Forward
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         About 80 percent of the fuel you put in your gas tank never actually moves the car. It turns into heat. This piece walks through exactly where that energy goes, what it costs you over a full year, and why the "but EVs run on coal" argument is shakier than people think. The same principle the featured video unpacks at a global scale, playing out in your driveway.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 26</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1699,16 +1725,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/dv5FnG04Syw" target="_blank" rel="noopener">
           Mercedes Drove an EQS 749 Miles Without Stopping to Charge. No Asterisks.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         A test EQS fitted with a next-generation lithium metal solid-state battery, developed with Massachusetts-based Factorial Energy, covered 749 miles from Stuttgart through Denmark to Malmo, Sweden on a single charge, arriving with 85 miles of range still on the clock. The battery packs 25 percent more usable energy into the same size and weight as the standard EQS pack. Pneumatic actuators handle the natural volume changes cells go through during charge cycles. Mercedes CTO Marcus Schaefer confirmed the goal is series production before the end of this decade.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 22</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1727,16 +1753,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">TED</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/Xlc_ALDWc0Q" target="_blank" rel="noopener">
           What If We Drilled for Heat Instead of Oil?
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         A former Shell engineer explains how a century of oil and gas drilling know-how translates almost directly to next-generation geothermal. Concise, well-argued, and genuinely optimistic. Worth 10 minutes.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 22</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1755,16 +1781,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Formula E</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/WtxHvnYY9I4" target="_blank" rel="noopener">
           Jaguar Goes 1-2 in Madrid as de Costa Takes Back-to-Back Wins in Formula E
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Antonio Felix de Costa held off teammate Mitch Evans in a frantic final lap to claim his second straight Formula E win in Madrid. Pascal Wehrlein rounded out the podium ahead of Dan Ticktum. The Drivers' Championship is tightening: Wehrlein leads by 11 points over Mortara, with Evans and de Costa now third and fourth. If you haven't given Formula E a proper watch yet, this race is a solid place to start.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 22</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1783,16 +1809,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">AutoSpec Reviews</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/E6KEjOTyl5c" target="_blank" rel="noopener">
           First Impressions of the Tesla Cybercab at SXSW: Built in February, Scheduled to Ship in April
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The Cybercab on display in Austin is a February 2026 build with a VIN, meaning it came off the actual production line just weeks ago. Interior impressions: the leg room is excessive for a two-seater in the best way, the center screen is larger than anything Tesla has put in a production car, the seat padding is comfortable, and the door mechanism is more of an adventure than expected. Battery specs and pricing are still listed as TBD. Austin production is quoted for April 2026.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 22</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1815,16 +1841,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Autogefühl</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=20_rA3m1JcM" target="_blank" rel="noopener">
           Hyundai Ioniq 6 N Full Review: 650 HP, a Sound Emulation That Fooled Porsche, and a Hard Question for Taycan Buyers
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The Ioniq 6 N is Hyundai's most ambitious performance car yet: 650 horsepower, 800-volt platform, and a software-driven sound and shift emulation refined enough that both driver and passenger genuinely forget they're in an EV. Thomas drives it hard in the rain and on the motorway, breaking down the N Grin overboost button, ECS suspension, launch control, and the full interior of this €76,000 sedan. The punchline: Porsche already studied it closely and is reportedly borrowing the concept for the Taycan.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 21</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1843,16 +1869,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Freshly Charged</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/QrRhiq2zJJQ" target="_blank" rel="noopener">
           CES 2026 on Two Wheels: A 94 MPH Unicycle, Carbon Fiber Everything, and a Kid's Bike That Stole the Show
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Andrew tours CES 2026 and finds electric mobility pushing into genuinely surprising territory. The InMotion P6 unicycle just hit 94 mph in Texas. VMax's all-carbon VX8 scooter climbs a 38 percent grade, steeper than any hill in San Francisco. Apollo is partnering with Bosch and launching a $649 entry scooter. The Huga dirt bike has an adjustable seat height and a foot brake. And somehow, the tiny Link Mini kids' bike drew bigger crowds than everything else on the floor combined.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 21</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1871,16 +1897,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Apple TV+</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/611fw81BN98" target="_blank" rel="noopener">
           Blast from the Past: Before Anyone Had Heard of Rivian, Ewan McGregor Was Charging One in Patagonia
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Long Way Up is the Apple TV+ series that quietly introduced Rivian to the world, and a lot of people still haven't seen it. In 2019, Ewan McGregor and Charley Boorman rode prototype Harley-Davidson LiveWire electric motorcycles 13,000 miles from the southern tip of Argentina to Los Angeles, with Rivian's first two pre-production R1T trucks running as the support convoy. Rivian installed 150 fast chargers along the route for the journey, a charging network that still serves those communities today. If you love EVs, adventure travel, or just great television, this one is essential viewing.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 21</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1899,16 +1925,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Scythe Robotics</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=YRM7om_xa98" target="_blank" rel="noopener">
           Inside Scythe Robotics' Test Lab: Every M.52 Runs 50–70 Hours of Hell Before It Meets a Customer
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Scythe Robotics pulls back the curtain on what it takes to ship a commercial autonomous electric mower at scale. The video covers steep hill trials, a dedicated bump track for accelerated life testing, and a thermal chamber built to simulate extreme real-world heat loads. At their run-in farm, 52 individual M.52 robots log 50 to 70 hours each before reaching a single customer. In 2025, the fleet mowed nearly 2 billion square feet across 30 states. Earlier this month, ASI Robots acquired the Colorado-based company to expand the technology into construction and agriculture.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 21</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1927,16 +1953,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">MCN</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/aT6iT0dTkhc" target="_blank" rel="noopener">
           Honda WN7 World Premiere Ride: Japan's First Serious Electric Motorcycle Is Hard to Fault
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Honda's first large electric motorcycle, the £12,999 WN7, arrives not as a statement piece but as a proper motorbike built by engineers with CBR and MotoGP race hardware in their history. MCN rides it at the global launch in Malaga and finds exceptional brakes, relentless smooth acceleration, and a level of finish that separates it from the competition. It charges 20 to 80 percent in 30 minutes on standard car DC fast chargers and hits UK dealers in June 2026.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 21</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1959,16 +1985,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">CNBC</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/PvnDO82Cyhw?si=Bvz8N82QB34_zpXd" target="_blank" rel="noopener">
           Uber Is Investing Up to $1.25 Billion in Rivian for 10,000 Autonomous R2 Robotaxis
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Rivian shares surged as much as 10 percent Thursday after the company announced a robotaxi agreement with Uber. Under the terms, Uber will invest up to $1.25 billion in Rivian in exchange for 10,000 fully autonomous R2 SUVs beginning in 2028, with an option to expand the fleet to 40,000 additional vehicles starting in 2030. The deal adds Rivian to Uber's growing roster of autonomous vehicle partners, which already includes Waymo, BYD, and Lucid.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 20</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -1987,16 +2013,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Undecided with Matt Ferrell</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/FffKMMnisu4?si=Q0x8C66tUrhBIuYM" target="_blank" rel="noopener">
           Perovskite Solar Had a Landmark Year in 2025. Here Is What Actually Changed.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Oxford PV delivered the first commercial perovskite-silicon tandem cells to a U.S. solar farm. LONGi pushed conversion efficiency to 34.85 percent, breaking silicon's theoretical 30 percent ceiling. Researchers published a self-healing passivator that activates under heat and moisture. Hydrogel cooling tests in Thailand and Saudi Arabia delivered efficiency gains above 12 percent. The year perovskite solar moved from interesting lab material to something you can actually buy.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 20</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2015,16 +2041,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Elliot Richards</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/BI0mbFAKbe4?si=9DoVzZhHlcm2WM4f" target="_blank" rel="noopener">
           Xiaomi SU7 Gen 2 First Drive: Same Silhouette, 10x the Computing Power
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Xiaomi's SU7 refresh keeps the exterior largely intact but rebuilds nearly everything underneath. The Max version gains a 101.7 kWh battery with over 800 kilometers of CLTC range and upgrades its ADAS chip from 84 to over 700 TOPS, enabling a machine-learning system that adapts to traffic over time. Brake pedal feel is significantly improved. Two years into making cars, Xiaomi is already drawing comparisons to German sport sedans.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 20</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2043,16 +2069,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">RBR</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/Ae4dBaADvMo?si=X2w6Sv7n-UsrEbnJ" target="_blank" rel="noopener">
           BMW iX3 First Drive: 500-Mile Range, a Retro Design Revival, and a Completely New Interior Logic
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The first Neue Klasse production car arrives with a 500-mile quoted range, an 800V architecture, and a 108.7 kWh battery built around higher-density cylindrical cells. The interior replaces the traditional instrument cluster with a panoramic display projected onto the windscreen. The 500-mile figure beats the new Mercedes GLC by 100 miles. This platform will underpin more than 40 upcoming BMW models, including the next 3 Series and X5.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 20</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2071,16 +2097,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Rivian Trackr</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://riviantrackr.com/news/rivians-robotaxi-deal-with-uber-comes-with-a-lot-of-strings-attached/" target="_blank" rel="noopener">
           Rivian's Robotaxi Deal With Uber Comes With a Lot of Strings Attached
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Only $300 million of Uber's $1.25 billion commitment is guaranteed at signing. The remaining $950 million is contingent on Rivian hitting specific autonomy milestones through 2031. Rivian has not built a single R2 yet, the Georgia factory is still under construction, and the company is guiding for just 46,000 to 51,000 total deliveries in 2026. Jose Castillo at Rivian Trackr lays out why the announcement deserves healthy skepticism before anyone declares victory.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 20</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2103,16 +2129,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">BMW</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/DgPll0uDYbE?si=gsBtSgD7IFWxzlJG" target="_blank" rel="noopener">
           BMW's New i3 Is the 3 Series the Brand Has Been Building Toward for 50 Years
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The Neue Klasse nameplate has arrived in production form, and the BMW i3 wears it well. BMW's design team walks through every detail: the shark nose carried forward, the forward-leaning silhouette, the Panoramic iDrive cockpit, and a new vegan material called Veganza that lets light filter through in a genuinely striking way. Fifty years of the 3 Series, rebuilt from scratch.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 19</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2131,16 +2157,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">nexusEVnews Opinion</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="opinion-ev-fire-statistics.html">
           EVs Catch Fire 60 Times Less Often Than Gas Cars. Here Is the Data.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The viral videos are real. The math behind them is not. A data-driven comparison of EV vs. ICE vehicle fire rates across the U.S., Sweden, Norway, Poland, and Australia, plus the legitimate counterarguments every honest analysis has to include.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 20</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2159,16 +2185,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/BRleHWJ9dx4?si=qNkZL_NFVeZUUyFR" target="_blank" rel="noopener">
           BYD Claims 10% to 97% in Nine Minutes. Here's What That Actually Means.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         BYD's second-generation Blade Battery runs on a 1,000-volt architecture and accepts up to 1,500 kilowatts per charging gun. The company says 10 to 70 percent takes five minutes, full charge in nine. To handle the grid load, BYD is deploying 20,000 flash charging stations with on-site battery storage using a station-within-a-station model that slots into existing infrastructure. If the numbers hold in the real world, the charging objection to EVs is basically finished.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 19</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2187,16 +2213,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/lO3wlZzeHAY?si=XDCVZ9UwrdHqDeTd" target="_blank" rel="noopener">
           Canada Just Let Chinese EVs Back In. The US Is Not Pleased.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Canada has cut its tariff on Chinese EVs from 106% back to 6.1% for roughly 50,000 vehicles per year. In exchange, China agreed to reduce duties on Canadian canola and explore joint manufacturing ventures aimed at creating Canadian jobs. The deal targets a shrinking auto sector, but with roughly 90% of Canadian-built vehicles shipped to the US and Trump threatening retaliatory tariffs on all Canadian goods, the diplomatic math is complicated.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 19</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2215,16 +2241,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=Sq-y-wiZduE" target="_blank" rel="noopener">
           The Grid Wasn't Built for Wind and Solar. Here Are Three Ways to Fix It.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Renewable energy's deeper problem isn't how much power it generates. It's how the grid stays stable when something goes wrong. Traditional power plants provide inherent rotational inertia, a natural buffer that buys time during disruptions. Wind and solar provide none. A mechanical engineer with 15 years of grid experience breaks down three practical fixes: grid-forming inverters, synchronous condensers, and battery energy storage systems.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 19</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2243,16 +2269,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">DW</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/NW_ThUR7Wus?si=Vx6wrh6myk2J-zEP" target="_blank" rel="noopener">
           One German Village Ditched the Grid Entirely. Here's Why It Worked and Why It Won't Scale Everywhere.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Feldheim, a tiny community outside Berlin, runs its own independent electricity and heating network and pays 12 cents per kilowatt hour while German averages hit 45 cents during the 2022 energy crisis. The model worked because of a tight-knit rural community, short transmission distances, available farmland, and a developer who kept locals in the loop from day one. Communication was the foundation. The same approach is genuinely difficult to replicate in larger or more fragmented communities, but as a proof of concept for small-scale rural renewable transitions, it is hard to ignore.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 19</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2275,16 +2301,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Vox</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/EtJzOtOpYdo" target="_blank" rel="noopener">
           California Is Putting Solar Panels Over Its Canals. It Solves Two Problems at Once.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Project Nexus covers California's irrigation canals with solar panels, blocking evaporation and generating clean power simultaneously. UC Merced research indicates covering all 4,000 miles of major canals could save 63 billion gallons of water annually and produce 13 gigawatts of energy. The concept has been discussed for decades. It is finally being tested in the Central Valley.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 18</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2303,16 +2329,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Out of Spec Studios</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/w3QlyvY600Q" target="_blank" rel="noopener">
           He Installed His Own Solar Six Years Ago. Here Is Whether It Paid Off.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         In 2020, this homeowner predicted his $8,243 DIY solar install would pay off in six years. It did. He has generated nearly 69,000 kilowatt hours and saved just over $9,400 on electricity. Now he is adding modular home batteries to stop exporting surplus power to the grid at a discount. A straightforward look at the real numbers behind residential solar.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 18</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2331,16 +2357,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Out of Spec Reviews</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=ebBHHohxJQc" target="_blank" rel="noopener">
           Kyle Conner Sits Down with the People Who Built the R2: Design, Software, and the Bigger Picture
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Kyle Conner goes deep on the Rivian R2 with three key decision-makers. Design chief Jeff Hammoud walks through the exterior and interior choices. Software lead Wassym Bensaid covers platform capabilities. CEO RJ Scaringe ties it together with broader Rivian strategy. One of the most substantive R2 conversations out there right now.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 18</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2359,16 +2385,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Big Time</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=HhXo5hKAI9o" target="_blank" rel="noopener">
           Formula E Is 200 MPH Chess. Here Is How the Energy Management Game Actually Works.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Every Formula E car starts the race with less energy than it needs to finish. Drivers recover charge through regenerative braking, drafting, and coasting, then deploy it strategically using attack mode. A mechanical engineer breaks down exactly how the system works and why it makes the racing more about who manages their battery best than who has the fastest car.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 18</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2387,16 +2413,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Everything Electric</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=8CDCyq4KVis" target="_blank" rel="noopener">
           World First Drive: The Kia EV2 Is a Small Car That Feels Bigger Than It Has Any Right To
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Everything Electric drove the Kia EV2 prototype in minus 20 conditions in Norway. The big battery version managed 75% of its quoted WLTP range in brutal cold, more than any other car in the same test. Interior quality punches well above its price bracket. Starting around 25,000 pounds in the UK, it is making a serious case as the finest small EV on the market.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 18</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2421,16 +2447,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Out of Spec Reviews</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/t74_cdi59uE" target="_blank" rel="noopener">
           Someone Got Into the Lucid Cosmos Before You Did. Here Is What They Found.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Kyle Conner got rare early access to the Lucid Cosmos at Investor Day in New York, and the first-person account is detailed. Sharp design, a genuinely impressive interior, and engineering choices that show Lucid is not just scaling down the Gravity but rethinking the whole package from scratch.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 17</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2449,16 +2475,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">State of Charge</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/mYqHH9siU_Y" target="_blank" rel="noopener">
           Lucid's Midsize Bet: Three New SUVs, One Clear Goal, and a Price Under Fifty Thousand Dollars
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Yes, two Cosmos cards today. The reveal genuinely earned it. State of Charge takes a different angle on Lucid's midsize announcement, breaking down what the Cosmos, Earth, and third model mean for the company's bigger picture and why this launch could be the most important thing Lucid has done since the Air.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 17</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2477,16 +2503,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Fast Company</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=NGYheYW_Tkc&amp;t=357s" target="_blank" rel="noopener">
           RJ Scaringe at SXSW: Where Rivian Is Headed and What the Next Phase of EVs Actually Looks Like
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Fast Company sat down with Rivian's CEO at SXSW for a candid conversation on what comes next for the company and for the broader EV industry. Scaringe talks product, competition, and what he thinks it actually takes to win in this market long-term.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 17</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2505,16 +2531,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Autotrader</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/2CYXdwQswgY" target="_blank" rel="noopener">
           China Built the EV Market Nobody Saw Coming. Here Is What That Means for Everyone Else.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Autotrader breaks down how Chinese automakers went from playing catch-up to setting the pace, and what that shift means for buyers, legacy brands, and the competitive landscape ahead. It is not a simple story and this one does not pretend it is.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 17</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2533,16 +2559,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">BBC World Service</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/sTZ487PrNV0" target="_blank" rel="noopener">
           Vietnam's Streets Are Choking. Electric Bikes Might Be Part of the Answer.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The BBC's Asia Specific podcast looks at whether the rapid spread of electric two-wheelers could meaningfully clean up the air in Vietnam's most congested cities. A smaller-scale story than a new SUV platform, but the stakes are real for millions of people.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 17</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2565,16 +2591,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">TED Talk</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/2ZIfqLDG_Qs" target="_blank" rel="noopener">
           Oil Made Nations Hostages. Clean Energy Ends That.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         For over a century, controlling oil meant controlling economies, foreign policy, and sometimes entire governments. That leverage is still playing out in headlines today. Matt's TED talk argues that renewable energy fundamentally rewrites those rules. Not because of politics, but because of physics. Technology ages differently than fuel. It recycles. It substitutes. It doesn't run out when a pipeline closes.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 16</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2592,16 +2618,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">nexusEVnews Opinion</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="opinion-ev-charging-time.html">
           The Charging Time Argument Is Built on a Math Problem. Here Is the Math.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Everyone says EVs take too long to charge. Almost no one has done the annual math. Run the numbers yourself and the objection gets a lot less convincing.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 17</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2620,16 +2646,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/YLRXCbq0gWI" target="_blank" rel="noopener">
           RJ Has Been Saying It for Years. The Chinese EV Market Just Makes the Point for Him.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Rivian's CEO has consistently argued that what the US EV market needs most is not more range or lower prices. What it actually needs is more genuinely compelling choices. One look at what China's buyers can choose from and it's hard to disagree.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 16</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2648,16 +2674,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube / TED</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/ACC5KCPRt_U" target="_blank" rel="noopener">
           From Nearly Zero to Nearly Forty Percent: How Argentina's Clean Energy Turnaround Actually Happened
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Energy expert Sebastián Kind guided Argentina through one of the most remarkable renewable energy transformations in recent memory, going from almost no wind or solar capacity to generating roughly 40% of its electricity that way in just six years, through economic crises and deep skepticism. The key breakthrough, it turns out, had nothing to do with technology or natural resources.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 16</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2676,16 +2702,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/3MaOu7I2oPc" target="_blank" rel="noopener">
           What Covering Deserts in Solar Panels Actually Does to the Planet. It's More Complicated Than You'd Think.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Sun, flat land, low population density. Deserts seem like the obvious home for utility-scale solar. But the real-world effects of blanketing them in panels, on local ecosystems, albedo, rainfall, and biodiversity, are far more nuanced than the simple narrative suggests. A proper deep dive.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 16</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2704,16 +2730,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Out of Spec Studios</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/4n3xrM0ZZQo" target="_blank" rel="noopener">
           800 Volts, Properly Explained: Kyle Makes One of EV Tech's Biggest Buzzwords Finally Make Sense
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         800-volt architecture is everywhere in EV marketing and almost nowhere in plain English. Kyle goes deep on what it actually is, why it matters for real-world charging speeds, and why the gap between 400V and 800V systems is significantly larger than a simple doubling of numbers.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 16</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2736,16 +2762,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Out of Spec Studios</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/xh71gTSfr6g" target="_blank" rel="noopener">
           The Jetson ONE Is a Real, Buyable, All-Electric Personal Aircraft. And You Don't Need a Pilot's License to Fly It.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         One seat. No wings in the traditional sense. No runway. No pilot's license required. Because apparently that's where we are now. The Jetson ONE is a fully electric, single-seat personal aircraft that is genuinely available for purchase. Thrilling? Unquestionably. Advisable? That's between you and your risk tolerance. You can order one <a href="https://jetson.com/order" target="_blank" rel="noopener" style="color:var(--accent);position:relative;z-index:3;">here</a>.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 15</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2764,16 +2790,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/TP88uN7pvbU" target="_blank" rel="noopener">
           Anker Levels Up: Inside the SOLIX E10 Install and Real-World Home Energy Performance
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Anker's newest home energy system is here, and it's making a serious case for itself. A full installation walkthrough and honest real-world use case for the SOLIX E10: what it can handle, what it costs, and whether it's worth the step up.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 15</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2792,16 +2818,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/Ql86zag8xq0" target="_blank" rel="noopener">
           Europe's Energy Grid Is Straining Under the Weight of the Future. Here's the EU's Plan to Rebuild It.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The continent running the world's most ambitious clean energy transition is doing it on infrastructure that wasn't designed for the job. A clear-eyed look at where Europe's energy grid is failing and the sweeping plans in motion to modernize it before the cracks become crises.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 15</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2820,16 +2846,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=nsmGQ7tPSds&t=2516s" target="_blank" rel="noopener">
           Rivian's RJ Scaringe on the Next Decade: What EVs, AI, and Autonomy Actually Look Like from the Inside
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         A rare, wide-ranging conversation with Rivian's CEO on where the industry is genuinely headed. Not the press release version, but the honest one. Scaringe goes deep on the next ten years of electric vehicles, the role AI will play, and what autonomous driving actually requires to get right.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 15</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2848,16 +2874,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/uspSYVssGXU" target="_blank" rel="noopener">
           Solid-State Batteries Have Been "Just Around the Corner" for Decades. Are We Finally About to Turn It?
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The EV industry's most-promised, least-delivered technology has been teasing a breakthrough for the better part of thirty years. But something has shifted. Timelines are getting real, manufacturers are committing, and the science is catching up to the hype. Maybe this time the corner is actually there.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 15</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2880,16 +2906,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/rt5zTI3zGuU" target="_blank" rel="noopener">
           Lucid Is Aiming for Cash Flow Positive Territory, and Uber Is Helping Light the Way
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Lucid has long been the most technologically impressive EV company few people own. That may be changing. A deepening partnership with Uber is part of a broader push toward cash flow profitability, and the financial picture is starting to shift in ways worth paying attention to.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 14</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2908,16 +2934,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/maxm9t3oLt8" target="_blank" rel="noopener">
           The Volvo EX90 Has Arrived: Here Is Why It Might Be the Most Thoughtfully Built EV on the Market
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Volvo took its time with the EX90. The flagship electric SUV brings genuine safety innovation, a calm and considered interior, and a powertrain that does not need to shout to impress. A full review of the EV Volvo has been building toward.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 14</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2936,16 +2962,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/twh8P8frt_U" target="_blank" rel="noopener">
           Yes, It Is More Rivian R2 Content. We Stand by It. Here Is What Caught Our Eye This Time.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         We promised to dial back the R2 coverage soon. We meant it. But this one was worth adding to the pile. More details, more angles, more of what makes the R2 one of the most anticipated launches in EV history. After this we chill. Probably.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 14</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2964,16 +2990,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/yVO9GcNlkLQ" target="_blank" rel="noopener">
           Plug-In Solar Panels: Lower Your Electricity Bills This Summer, No Major Installation Required
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Traditional solar means permits, installers, and a big upfront check. Plug-in solar panels skip all of that. A growing option for renters and homeowners alike, they are small enough to sit on a balcony and smart enough to make a real dent in your monthly bill.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 14</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -2992,16 +3018,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/Dmcu1ya_wPs" target="_blank" rel="noopener">
           Breaking Free: How Eastern Europe Is Riding a Solar Surge to Shake Off Fossil Fuel Dependence
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         For decades, Eastern Europe's energy story was written in coal and gas pipelines. Now solar capacity is climbing fast, driven by energy security concerns, falling panel costs, and a region with strong motivation to chart its own course.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 14</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3024,16 +3050,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/2Ptn0sItgUg" target="_blank" rel="noopener">
           Inside the R2: Rivian's New Software, the Halo Roller Haptic System, and Everything Else You Didn't Know You Needed
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Rivian built the R2's software and controls from the ground up, and it shows. This is a full walkthrough of the new UI, the wildly clever Halo Roller haptic wheel, and the in-car experience that could make the R2 the most satisfying thing to actually live with day to day.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 13</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3052,16 +3078,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/lVzKyQDhaQ8" target="_blank" rel="noopener">
           Every Angle, Every Detail: The Rivian R2 Up Close at SXSW
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Press photos only go so far. This is the R2 in the flesh: exterior lines, interior layout, storage, frunk, and all the little Rivian touches you'd miss in a spec sheet. A proper walk-around from the SXSW floor.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 13</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3080,16 +3106,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/a8r6yfMdiaI" target="_blank" rel="noopener">
           CES First Look: The e-Bikes and e-Motos That Actually Turned Heads
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Two wheels, zero emissions, and a lot of ambition on the CES floor. The latest crop of electric bikes and motorcycles are getting serious. Here's a preview of the models worth watching as they head toward production.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 13</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3108,16 +3134,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/Ww-b_6Kj44Q" target="_blank" rel="noopener">
           Antic Bikes: Guaranteed Ear-to-Ear Smiles
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Some EVs impress you. Antic Bikes make you grin and refuse to get off. A closer look at what makes these electric bikes stand out from a very crowded field.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 13</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3136,16 +3162,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/xNZR4wB-T80" target="_blank" rel="noopener">
           New to EVs? Every Question You Had But Didn't Know How to Ask, Answered
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Range anxiety, home charging, battery longevity, cold weather, road trips: if you're EV-curious but overwhelmed, this is where to start. A clear, no-jargon breakdown of the questions every new EV owner actually has.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 13</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3168,16 +3194,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/QGeF6QGbPTM" target="_blank" rel="noopener">
           The Wait Is Over: Rivian R2 Official Pricing and Full Specs Are Here
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Straight from the SXSW stage, Rivian has officially pulled back the curtain. The R2 Performance launches at $57,990 with 656 hp, 330 miles of range, and a 29-minute fast charge. The base model hits $48,490. Here's everything, confirmed.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 12</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3196,16 +3222,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/EZwOxQ0Cd58" target="_blank" rel="noopener">
           Of Course the R2 Specs Dropped Early
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Rivian couldn't keep a lid on it. The R2 specs leaked ahead of the official SXSW reveal. Honestly? Hard to complain. Here's a full breakdown of what's confirmed, what's still rumored, and what it all means for Rivian's most important launch yet.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 12</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3223,16 +3249,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">nexusEVnews Opinion</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="opinion-rivian-r2.html">
           You'll Fall for the Rivian R2's Features and Price. You'll Stay for Its People and Culture.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         A former R1T owner makes the case that the Rivian R2 is the most compelling new EV in three years and the moment Rivian has been building toward since day one.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 12</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3251,16 +3277,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Rivian Newsroom</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://rivian.com/newsroom/article/rivian-introduces-r2-lineup" target="_blank" rel="noopener">
           No Filter, No Middleman: Rivian's Official R2 Pricing and Specs, Straight from the Source
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Rivian's own press release has the full picture: four trims from $45,000 to $57,990, spring 2026 deliveries for the Performance model, and every spec confirmed. If you're skipping the coverage and going direct, start here.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 12</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3279,16 +3305,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/sq280-WRSX0" target="_blank" rel="noopener">
           Is LiDAR Worth Waiting For in the R2? A Deep Dive on Rivian's Autonomy Plans
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Rivian has been quiet about the autonomy stack on the R2, but that's starting to change. This deep dive breaks down what LiDAR could actually bring to Rivian's driver-assist suite, how it stacks up against camera-only systems, and whether it's worth holding out for.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 12</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3307,16 +3333,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/Z8JFCJP70rg" target="_blank" rel="noopener">
           Renewable Energy Has Reached an Economic Tipping Point
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The math on clean energy is changing faster than most people expected. In market after market, renewables are hitting cost parity and in some cases beating fossil fuels outright. Here's what's driving the shift and why economists are scrambling to update their models.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 12</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3335,16 +3361,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/T2AgOSZkmZk" target="_blank" rel="noopener">
           Emporia Pro 2 Takes Motor Trend's Best Tech 2026 Award
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The home EV charger market just got a new benchmark. Motor Trend handed its Best Tech 2026 award to the Emporia Pro 2, and the reasons why are worth understanding before your next charger purchase.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 12</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3363,16 +3389,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/ZBrb6UdhVSI" target="_blank" rel="noopener">
           EV Depreciation Explained: Why Some EVs Lose Value Fast (and Some Don't)
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Buying a used EV sounds like a great deal, until you check the resale numbers. EV depreciation is real, sometimes dramatic, and not always predictable. This video breaks down why it happens, which models hold their value best, and what to know before you buy or sell.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 12</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3395,16 +3421,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/hCbUx_znoYg" target="_blank" rel="noopener">
           If You Watch One Video Today, Make It This One: US Energy Facts That Will Surprise You
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Most people have no idea how American energy actually breaks down. This video lays out the numbers clearly, without the noise. Worth 10 minutes of your day.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 11</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3423,16 +3449,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/fOwC95ZXh08" target="_blank" rel="noopener">
           To Audi or Not to Audi: That Is the Porsche Question
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Both share a platform. Both are excellent. But when you actually put them side by side, the choice gets interesting. A closer look at what separates the Audi e-tron GT from its Porsche Taycan sibling. (Hat tip to my brother Josh for the find.)
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 11</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3451,16 +3477,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Doug DeMuro / YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtube.com/shorts/dwcsxHi2ZzQ" target="_blank" rel="noopener">
           Doug Is Ready. Are You? Full Rivian R2 Specs and Pricing Drop Tomorrow.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         March 12th is the day Rivian pulls back the curtain on full R2 specs and pricing. Doug DeMuro gets you warmed up with a quick preview of what to expect. If the R2 delivers, it changes the game.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 11</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3479,16 +3505,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Doug DeMuro</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/v5i9C1zA2MM" target="_blank" rel="noopener">
           The 2027 Chevy Bolt Gets Serious: DC Fast Charging Put to the Test
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The Bolt is back and this time it means business. The 2027 model arrives with upgraded DC fast charging capability. Real world numbers are in.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 11</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3507,16 +3533,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=tLpbQTekUA4" target="_blank" rel="noopener">
           The Numbers Behind Coal to Solar: Why the Economics Are Shifting
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Setting politics aside, the financial case for transitioning from coal to solar is becoming harder to ignore. This breakdown looks purely at the economics: costs, returns, and what the data shows.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 11</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3535,16 +3561,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">The inEVitable Podcast / YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/KZD6sgCSnhk" target="_blank" rel="noopener">
           From Tesla to Ford: An EV Insider Pulls Back the Curtain
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         What happens when a Tesla engineer ends up running EV development at Ford? You get a conversation worth listening to. The inEVitable podcast sits down with Ford's Executive Director of EV Development for a candid look at what's really happening inside the industry.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 10</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3562,16 +3588,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">nexusEVnews Opinion</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="opinion.html">
           Charging Forward: How States Are Solving the EV Apartment Problem
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The U.S. Department of Energy estimates that roughly 80% of EV charging happens at home, yet 44 million American households are renters. Jacob Hunka on why this is one of the most solvable problems in the energy transition, and the states already proving it.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 08</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3590,16 +3616,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">nexusEVnews</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/Yz0YIGuxzwg" target="_blank" rel="noopener">
           Can Rivian Actually Deliver the R2 at $45,000?
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         A $45,000 base price would make the R2 one of the most compelling EVs on the market. Can Rivian pull it off? This breaks down the economics, the timeline, and what it would mean for the brand. Interested? <a href="https://rivian.com/r2" target="_blank" rel="noopener" style="color:var(--accent);text-decoration:none;position:relative;z-index:3;">Reserve yours here.</a>
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 10</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3618,16 +3644,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/6OoZQNanfZY" target="_blank" rel="noopener">
           Tesla FSD vs. the Field: Who's Actually Winning the Self-Driving Race?
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Tesla had a massive head start on autonomous driving. But with Waymo expanding fast and every major automaker pouring resources into the space, the gap may be closing. A clear-eyed look at where things actually stand.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 10</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3646,16 +3672,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/-WixOOufH8o" target="_blank" rel="noopener">
           China Is Betting Everything on Energy Independence. Here's How.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         China isn't just building EVs. It's rewiring its entire energy economy. Solar, wind, storage, and grid infrastructure are all scaling at a pace the rest of the world is struggling to match. A look at the strategy behind the sprint.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 10</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3674,16 +3700,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/3eepauvC5LU" target="_blank" rel="noopener">
           Is the Rivian R2 the Model Y Killer We've Been Waiting For?
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The Model Y has dominated the EV market for years. The Rivian R2 is coming in at a similar price point with a very different pitch. Could this be the car that finally gives Tesla's bestseller a real fight?
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 10</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3706,16 +3732,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=GaDFJr5wSz0" target="_blank" rel="noopener">
           F1's New Power Units Are 50% Electric. Melbourne Just Silenced the Skeptics.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         F1's power units are now 50% electric. Only 50% more to go. A lot of fans were wary of the new regulations, but this week's race in Melbourne quieted the naysayers. Still fuzzy on how it all works? This deep dive has you covered.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 09</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3734,16 +3760,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=LYWabIn-6Yg" target="_blank" rel="noopener">
           $RIVN: The R2 Is Coming. Here's What It Means for the Bottom Line.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The R2 isn't just a new car. It's Rivian's shot at profitability. With a 53% projected delivery increase in 2026 and the VW software deal pumping in $2B, the financial picture is shifting fast. Here's the breakdown of what the numbers actually look like.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 09</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3762,16 +3788,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=lhWhiWgV648" target="_blank" rel="noopener">
           Lucid Gravity Goes Snow Testing. Turns Out It's Pretty Fun.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Some "testing" in the snow with the Lucid Gravity. Whether this counts as rigorous engineering evaluation or just an excuse to have a great time is up for debate. Either way, the footage speaks for itself.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 09</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3790,16 +3816,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=uBs2sErHO80" target="_blank" rel="noopener">
           The Updated Audi RS e-tron GT Is Out. Here's the Epic Review That Started It All.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Now that the updated Audi RS e-tron GT is on the road, it's worth revisiting this standout review from a year ago. A great benchmark for how far things have changed. Or how little.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 09</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3818,16 +3844,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=YIjOXv_nsnQ" target="_blank" rel="noopener">
           Wind Turbines Are Getting an Upgrade. Here's What's Changing.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Wind energy isn't standing still. New turbine designs are pushing efficiency and output further than ever. This breaks down what the upgrades actually involve and why it matters for the broader energy transition.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 09</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3850,16 +3876,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtube.com/shorts/T2As20mmVSA" target="_blank" rel="noopener">
           Rivian's Treehouse Tent Might Just Be the Best Rooftop Tent Ever Made
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         This may just end the discussion on best rooftop tent, if it makes it to production. The Rivian Treehouse is exactly what it sounds like: a proper shelter that folds out of your R1T bed like it was always supposed to be there. Fingers crossed this one ships.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 07</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3878,16 +3904,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/n0OJqbmU3gs" target="_blank" rel="noopener">
           Camping Showdown: Rivian vs Tesla. Who Wins?
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Two of the most capable electric trucks on the planet, one campsite, one winner. Rivian and Tesla both talk a big game about adventure capability. This is where it gets put to the test.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 07</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3906,16 +3932,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/8xjxc-4irxY" target="_blank" rel="noopener">
           Can the Lightship EV Camper Pull Away From the Competition?
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Lightship's EV camper comes with their Trek self-propelled drive system, meaning it actually helps push itself rather than dragging your truck's range into the ground. The question is whether it's enough to separate itself from the pack.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 07</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3934,16 +3960,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/on8DDAuQJpg" target="_blank" rel="noopener">
           Keep Your Devices Charged at Camp: Portable Solar Panel Review
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Dead phone, dead camera, dead trip. A solid portable solar panel solves all of that without hauling a generator into the wilderness. This review cuts through the spec sheet and tells you what actually matters when you're off-grid.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 07</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3962,16 +3988,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/UDJFFEXqKAU" target="_blank" rel="noopener">
           DC to DC Charging at Home. Yes Please.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         DC fast charging isn't just for road trips anymore. This one walks through how DC to DC home charging works, why it's faster and more efficient than the standard AC setup most people have in their garage, and whether it's worth the switch.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 07</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -3994,16 +4020,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Rivian Trackr</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://riviantrackr.com/news/rivian-updates-march-12-messaging-to-tease-full-r2-lineup-reveal-at-sxsw/" target="_blank" rel="noopener">
           Rivian Teases Full R2 Lineup Reveal at SXSW. Mark March 12.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Rivian is dropping the full R2 lineup at SXSW on March 12. Not a teaser, not a concept. The whole thing. If you've been watching the R2 story unfold, this is the moment. Clear your calendar.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 06</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4022,16 +4048,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/_7WAgiZJ9KY" target="_blank" rel="noopener">
           Polestar 4: In-Depth Review and Drive
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The Polestar 4 is one of the more interesting EVs on the market right now: no rear window, genuinely distinctive design, and a driving experience that doesn't feel like everything else. This review goes deep on whether it actually delivers.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 06</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4050,16 +4076,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/e5aDRQGO2m8" target="_blank" rel="noopener">
           Time to Swap That R8 Poster for the Audi Concept C
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Time to take down that Audi R8 poster on your wall and tack up the Concept C. Billy's Strangemobile. It looks like the future grabbed you by the lapels, slapped you twice, and told you to pay attention.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 06</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4078,16 +4104,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=Xn2rJxTlomY" target="_blank" rel="noopener">
           The EV From VW for Every1
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Volkswagen is going after mass-market EV adoption with the for Every1, a smaller, more affordable electric designed to actually compete on price. This is the kind of car that moves the needle on adoption numbers, not just headlines.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 06</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4106,16 +4132,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/46tvrNZFxjQ" target="_blank" rel="noopener">
           Nobody Asked for an Off-Road Ioniq 5. Hyundai Built One Anyway.
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Nobody asked Hyundai to build an off-road Ioniq 5. They did it anyway. Lifted, equipped, and sent into the dirt. This is what happens when an EV company stops playing it safe and starts having fun.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 06</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4139,16 +4165,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=iX3iGwvG32c" target="_blank" rel="noopener">
           Everything You Ever Wanted to Know About Formula E
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The full deep dive on Formula E: how it works, why it matters, and what it tells us about where EV technology is actually heading. If you've ever been curious about electric racing, start here.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 05</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4167,16 +4193,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/R5DbRyeZNRk" target="_blank" rel="noopener">
           Norway Is Leading the EV Charge. Will Any Country Catch Up?
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Norway has cracked the EV adoption code. Over 90% of new car sales are electric. What did they do right, and is it even replicable anywhere else? Spoiler: it's complicated.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 05</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4195,16 +4221,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=W1R7ukhbEQw" target="_blank" rel="noopener">
           Are EV Sales in America Hitting a Wall?
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Growth has stalled, early adopters have adopted, and the next wave of buyers isn't showing up the way anyone expected. A clear-eyed look at what's actually happening with US EV demand right now.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 05</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4223,16 +4249,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=dJ2pKO-_g3c" target="_blank" rel="noopener">
           3 EVs From Different Parts of the World Battle It Out
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         America vs. Europe vs. Asia. Three EVs, three design philosophies, one comparison. The global EV market is more interesting than the US-centric conversation usually lets on.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 05</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4251,16 +4277,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.youtube.com/watch?v=PHeTx5sGL3A" target="_blank" rel="noopener">
           DIY Solar
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Skip the installer quotes and do it yourself. A practical walkthrough of building your own solar setup: what you need, what to watch out for, and whether the math actually makes sense for your situation.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 05</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4284,16 +4310,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">AMMO NYC / YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/aWG2yd5fw6k" target="_blank" rel="noopener">
           All the Way From 1914: The Model 47 Brougham
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Larry Kosilla (legend) from AMMO NYC gives a history lesson and a little shine to this historic EV. Before Tesla, before Nissan, before any of it. Electric cars were already here.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 04</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4312,16 +4338,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/LgOXq_tpLWE" target="_blank" rel="noopener">
           Corvette ZR1X
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Before you get all uppity, I'll remind you that 14.9% of the HP in this ragemonster is electric. That counts. Welcome to the site, ZR1X.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 04</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4340,16 +4366,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/TG9axrbmC-Y" target="_blank" rel="noopener">
           ALSO TM-B: Rivian's Offshoot Drops Their First Product
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         It's quirky, it's probably cool, it's Rivian's offshoot ALSO and their first product. The TM-B. <a href="https://ridealso.com/products/tm-b-reservation" target="_blank" rel="noopener" style="color:var(--accent);position:relative;z-index:10;">Reserve one here!</a>
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 04</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4368,16 +4394,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/AbEYQV19OKM" target="_blank" rel="noopener">
           Solid State Battery by BYD in 2027?
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         BYD has put a date on it: 2027 for solid state battery production. Bold claim or legitimate roadmap? This breaks down what they're actually promising and whether the timeline holds up.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 04</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4397,16 +4423,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Money.com</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://money.com/state-ev-tax-credit-rebates/" target="_blank" rel="noopener">
           States That Still Have EV Rebates
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Federal incentives are a question mark right now, but plenty of states are still putting real money back in your pocket for going electric. Here's who's still playing ball.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 04</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4426,16 +4452,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Doug DeMuro / YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/xUl_0087dyM" target="_blank" rel="noopener">
           Doug DeMuro Does His Thing With the Rivian R2
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Nobody breaks down a new car like Doug. Every quirk, every feature, a full Doug Score. And the honest answer to whether Rivian's most affordable truck actually delivers on its $45k promise.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 03</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4454,16 +4480,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Doug DeMuro</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/sBTxLK1QC6M" target="_blank" rel="noopener">
           Charging at Home? The Highest-Rated Level 2 Chargers of 2025
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         If you own an EV and still use a regular wall outlet overnight, you're leaving serious convenience on the table. This breakdown covers the top-rated home Level 2 chargers: what to look for, what to avoid.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 03</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4482,16 +4508,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Jay Leno's Garage / YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/L6_9_HHLOSY" target="_blank" rel="noopener">
           Jay Leno Reviews the Slate Truck: The Affordable EV We've Been Waiting For?
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The Slate truck is gunning to be the everyday person's electric pickup. Stripped back, practical, and priced to actually compete. Jay Leno gets behind the wheel and gives his verdict.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 03</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4549,17 +4575,17 @@
     </div>
     <div class="card-body">
       <div class="card-source">InsideEVs</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://insideevs.com/news/786900/e-tron-gt-used-deals/"
            target="_blank" rel="noopener">
           Always Wanted an Audi e-tron GT? Used Deals Are Finally Making It Realistic
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         The e-tron GT was the Audi nobody could afford when new. The used market tells a different story now. InsideEVs breaks down where the deals are and what to watch out for before you buy.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 03</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4582,16 +4608,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Conviction / YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/OScO1It9V5g" target="_blank" rel="noopener">
           Sarah Guo &amp; RJ Scaringe: The Future of Autonomy and Rivian
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Rivian CEO RJ Scaringe joins Conviction's Sarah Guo to unpack where autonomous driving is actually headed, Rivian's software roadmap, and what a future of self-driving electric trucks looks like.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 03</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4625,16 +4651,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">Rivian / YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/JYMAbCmrBhs" target="_blank" rel="noopener">
           RJ and Tosh Talk Rivian, Surfing, and the R4/R5
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Rivian's CEO RJ Scaringe and Tosh get candid about surfing, life outside the office, and what's coming next for the R4 and R5, Rivian's most anticipated models yet.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 03</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4653,17 +4679,17 @@
     </div>
     <div class="card-body">
       <div class="card-source">Physics Today</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://physicstoday.aip.org/features/solid-state-batteries-hype-hopes-and-hurdles"
            target="_blank" rel="noopener">
           Solid-State Batteries: Hype, Hopes, and Hurdles
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Physics Today takes a sober look at solid-state battery technology: where the science actually stands, what manufacturers are overpromising, and the realistic timeline for cells that could double EV range overnight.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 03</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4682,16 +4708,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">BBC News</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://www.bbc.com/news/articles/c20zgjzz0e4o" target="_blank" rel="noopener">
           Is It Time to Go Solar? Petrol and Diesel Spike as Iran Tensions Rise
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         As geopolitical tensions push petrol and diesel prices sharply higher, the BBC examines whether now is the moment millions of households finally make the switch to solar. The cost-benefit numbers may surprise you.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 03</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4710,16 +4736,16 @@
     </div>
     <div class="card-body">
       <div class="card-source">MKBHD / YouTube</div>
-      <div class="card-title">
+      <h2 class="card-title">
         <a href="https://youtu.be/UJeSWbR6W04" target="_blank" rel="noopener">
           Was Tesla Solar Worth It? MKBHD's Honest One-Year Review
         </a>
-      </div>
+      </h2>
       <div class="card-blurb">
         Marques Brownlee shares his candid one-year verdict on Tesla Solar: the real cost, what the app is actually like to live with daily, and whether the energy savings genuinely justify the installation price.
       </div>
       <div class="card-footer">
-        <span class="card-time">Today</span>
+        <span class="card-time">Mar 03</span>
         <div class="card-arrow"><svg viewBox="0 0 16 16" fill="none" stroke-width="1.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg></div>
       </div>
     </div>
@@ -4941,7 +4967,7 @@
       if (cat === category) btn.click();
     });
     if (category === null) {
-      pills.forEach(b => b.classList.remove('active'));
+      pills.forEach(b => { b.classList.remove('active'); b.setAttribute('aria-pressed','false'); });
       document.querySelector('.cat').classList.add('active');
       filterCards(null);
     }
@@ -4960,6 +4986,7 @@
     btn.addEventListener('click', () => {
       pills.forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
+      btn.setAttribute('aria-pressed','true');
       const key      = btn.textContent.trim().replace(/\s+/g, ' ');
       const category = categoryMap[key] ?? null;
       filterCards(category);

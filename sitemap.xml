@@ -3,16 +3,23 @@
 
   <url>
     <loc>https://nexusevnews.com/</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://nexusevnews.com/opinion.html</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/opinion-rivian-foundation.html</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
 
   <url>
@@ -52,7 +59,7 @@
 
   <url>
     <loc>https://nexusevnews.com/about.html</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -83,6 +90,13 @@
     <lastmod>2026-03-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/rss.xml</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.3</priority>
   </url>
 
 </urlset>

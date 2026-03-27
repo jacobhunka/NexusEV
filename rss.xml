@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>nexusEVnews</title>
+    <link>https://nexusevnews.com/</link>
+    <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Mar 2026 22:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://nexusevnews.com/og-image.jpg</url>
+      <title>nexusEVnews</title>
+      <link>https://nexusevnews.com/</link>
+    </image>
+    <category>Electric Vehicles</category>
+    <category>Renewable Energy</category>
+    <category>Solar</category>
+    <category>Battery Technology</category>
+
+    <item>
+      <title>Three Cayennes, One Runway, and Orlando Bloom. Porsche's New Electric SUV Nearly Runs a Sub-10-Second Quarter Mile.</title>
+      <link>https://youtu.be/hdnOb-4TXNk</link>
+      <guid isPermaLink="false">nexusevnews-2026-03-27-cayenne</guid>
+      <pubDate>Thu, 27 Mar 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Car Wow</dc:creator>
+      <category>Reviews</category>
+      <description>Car Wow's Matt Watson lines up all three Porsche Cayenne flagships — the Turbo E Hybrid (729 hp), the Turbo GT, and the new Cayenne Turbo Electric (1,139 hp in launch mode) — and invites Orlando Bloom along. The electric model runs a 10.16 quarter mile.</description>
+    </item>
+
+    <item>
+      <title>Rivian and the Stakeholder</title>
+      <link>https://nexusevnews.com/opinion-rivian-foundation.html</link>
+      <guid isPermaLink="false">nexusevnews-2026-03-27-rivian-stakeholder</guid>
+      <pubDate>Thu, 27 Mar 2026 21:30:00 +0000</pubDate>
+      <dc:creator>nexusEVnews</dc:creator>
+      <category>Opinion</category>
+      <description>Before Rivian's IPO in 2021, RJ Scaringe set aside one percent of the company's equity and told investors that the natural world would be a stakeholder. Here is what that has actually come to mean.</description>
+    </item>
+
+    <item>
+      <title>Rivian's New 3D Configurator Is Genuinely Impressive</title>
+      <link>https://riviantrackr.com/news/rivians-new-3d-configurator-is-genuinely-impressive/</link>
+      <guid isPermaLink="false">nexusevnews-2026-03-27-rivian-configurator</guid>
+      <pubDate>Thu, 27 Mar 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Rivian Trackr</dc:creator>
+      <category>News</category>
+      <description>Rivian quietly added a "View in 3D" mode to the R1 configurator. Spin the model, swap colors, change wheels in real time — built entirely in-house by Rivian's software team.</description>
+    </item>
+
+    <item>
+      <title>We Got Featured on EVinfo.net</title>
+      <link>https://evinfo.net/2026/03/a-new-independent-ev-and-renewable-energy-news-website-launched-in-march-2026/</link>
+      <guid isPermaLink="false">nexusevnews-2026-03-27-evinfo-feature</guid>
+      <pubDate>Thu, 27 Mar 2026 21:00:00 +0000</pubDate>
+      <dc:creator>EVinfo.net</dc:creator>
+      <category>News</category>
+      <description>Bill Pierce, publisher of EVinfo.net, wrote a full feature on nexusEVnews. For a new site still getting off the ground, that kind of generosity from a respected voice in the EV space is humbling.</description>
+    </item>
+
+    <item>
+      <title>BYD's Yangwang U9 Hit 496.22 km/h and Rewrote the Record Books</title>
+      <link>https://youtu.be/yM0wi0qK0KA</link>
+      <guid isPermaLink="false">nexusevnews-2026-03-27-yangwang-u9</guid>
+      <pubDate>Thu, 27 Mar 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Yangwang / BYD</dc:creator>
+      <category>News</category>
+      <description>The Yangwang U9 Xtreme ran 496.22 km/h at ATP Automotive Testing Papenburg in September 2025, setting a new production EV top speed world record.</description>
+    </item>
+
+    <item>
+      <title>Polestar 4 Week-Long Review: No Rear Window, a Nice Interior, and a Questionable Charging Port</title>
+      <link>https://youtu.be/YzMBOF_X1Mk</link>
+      <guid isPermaLink="false">nexusevnews-2026-03-27-polestar-4</guid>
+      <pubDate>Thu, 27 Mar 2026 19:00:00 +0000</pubDate>
+      <dc:creator>YouTube</dc:creator>
+      <category>Reviews</category>
+      <description>Swedish design, Google software, 100 kWh battery, 200 kW peak charging. Built in South Korea after tariffs made Chinese production impossible. Starts at $56,400.</description>
+    </item>
+
+    <item>
+      <title>Xiaomi Gatecrashed Gran Turismo's 28-Year History with a 1,900 hp Concept</title>
+      <link>https://youtu.be/DlmeEk4wQEw</link>
+      <guid isPermaLink="false">nexusevnews-2026-03-26-xiaomi-gt</guid>
+      <pubDate>Wed, 26 Mar 2026 22:00:00 +0000</pubDate>
+      <dc:creator>YouTube</dc:creator>
+      <category>News</category>
+      <description>Xiaomi becomes the first Chinese brand in Gran Turismo's 28-year Vision GT program, joining Ferrari, Porsche, and Bugatti with a 1,900 hp concept hypercar revealed at MWC 2026.</description>
+    </item>
+
+    <item>
+      <title>Stop Buying Small Solar Panels — 590W Bifacial Panel Test</title>
+      <link>https://youtu.be/q8_wNF2hMFI</link>
+      <guid isPermaLink="false">nexusevnews-2026-03-26-miniman-solar</guid>
+      <pubDate>Wed, 26 Mar 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Miniman Solar</dc:creator>
+      <category>Solar &amp; Renewables</category>
+      <description>Ben has spent a decade testing solar panels. Four 590W bifacial Sunold Power panels, ground-mounted on adjustable stands, pulling well over their rated output in winter.</description>
+    </item>
+
+    <item>
+      <title>China Is Writing the Rule Book for Solid-State Batteries</title>
+      <link>https://youtu.be/GC7ZzSFla84</link>
+      <guid isPermaLink="false">nexusevnews-2026-03-26-china-solidstate</guid>
+      <pubDate>Wed, 26 Mar 2026 20:00:00 +0000</pubDate>
+      <dc:creator>YouTube</dc:creator>
+      <category>Battery Tech</category>
+      <description>China is finalizing its first national standard for automotive solid-state batteries, due July 2026. The goal: force the industry to use consistent language so "solid-state" actually means something.</description>
+    </item>
+
+    <item>
+      <title>BYD Wants 20 Canadian Dealerships in Year One</title>
+      <link>https://youtu.be/BBL-54uuFkQ</link>
+      <guid isPermaLink="false">nexusevnews-2026-03-26-byd-canada</guid>
+      <pubDate>Wed, 26 Mar 2026 19:30:00 +0000</pubDate>
+      <dc:creator>YouTube</dc:creator>
+      <category>News</category>
+      <description>BYD is planning up to 20 Canadian dealerships in its first year, starting in the Greater Toronto Area. That number raises real questions about parts, mechanics, and the Target Canada cautionary tale.</description>
+    </item>
+
+    <item>
+      <title>Australia Is Running Low on Fuel and It Is Doing More for EV Sales Than Any Government Incentive</title>
+      <link>https://youtu.be/lb5mKEDPmxU</link>
+      <guid isPermaLink="false">nexusevnews-2026-03-26-australia-fuel</guid>
+      <pubDate>Wed, 26 Mar 2026 19:00:00 +0000</pubDate>
+      <dc:creator>Electrify This / The Driven</dc:creator>
+      <category>News</category>
+      <description>Australia is sitting on a shrinking fuel supply and EV inquiries are spiking. Discussion covers what that means for sales, how long the pinch might last, and why electric trucking is suddenly urgent.</description>
+    </item>
+
+    <item>
+      <title>The New BMW iX3 Will Underpin 40 Future BMWs. We Put It Against the X3M.</title>
+      <link>https://youtu.be/IFP1c5QZkA8</link>
+      <guid isPermaLink="false">nexusevnews-2026-03-25-bmw-ix3</guid>
+      <pubDate>Tue, 25 Mar 2026 22:00:00 +0000</pubDate>
+      <dc:creator>carwow</dc:creator>
+      <category>Reviews</category>
+      <description>carwow's Matt Watson puts the new BMW iX3 through a full head-to-head against the petrol X3M. The platform that will underpin 40 future BMW models.</description>
+    </item>
+
+    <item>
+      <title>Subaru Said the Uncharted Goes 10 to 80% in 28 Minutes. We Had a Stopwatch.</title>
+      <link>https://youtu.be/_B-NZI64USo</link>
+      <guid isPermaLink="false">nexusevnews-2026-03-25-subaru-uncharted</guid>
+      <pubDate>Tue, 25 Mar 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Ever / InsideEVs</dc:creator>
+      <category>Reviews</category>
+      <description>A cold-night charging test on the 2026 Subaru Uncharted. After preconditioning, it hit 80% in 26 minutes and 5 seconds, beating the manufacturer's 28-minute claim.</description>
+    </item>
+
+    <item>
+      <title>The Solid-State Battery Company That Just Put 750 Miles on a Mercedes on a Single Charge</title>
+      <link>https://youtu.be/8Fk4fjVm7hU</link>
+      <guid isPermaLink="false">nexusevnews-2026-03-25-factorial</guid>
+      <pubDate>Tue, 25 Mar 2026 19:00:00 +0000</pubDate>
+      <dc:creator>Monroe Live</dc:creator>
+      <category>Battery Tech</category>
+      <description>Monroe Live sits down with Factorial Energy's VP. A modified Mercedes EQS drove 1,250 km on a single charge. Partners include Mercedes-Benz, Stellantis, and Hyundai/Kia. Target: production before 2030.</description>
+    </item>
+
+    <item>
+      <title>The Electric Mercedes GLC Drives Better Than the Gas Version</title>
+      <link>https://youtu.be/gMTfHIDbm1Y</link>
+      <guid isPermaLink="false">nexusevnews-2026-03-24-mercedes-glc</guid>
+      <pubDate>Mon, 24 Mar 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Autogefühl</dc:creator>
+      <category>Reviews</category>
+      <description>Autogefühl puts the all-new electric GLC through a full review. 4.3 seconds to 100 km/h, air suspension with rear-axle steering, about 400 km real-world motorway range from 94.5 kWh.</description>
+    </item>
+
+  </channel>
+</rss>
