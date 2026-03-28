@@ -1,12 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5TSZNJ78Y5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-5TSZNJ78Y5');
+  </script>
 <meta charset="UTF-8">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDM2IDQwIiBmaWxsPSJub25lIj4KICA8cG9seWdvbiBwb2ludHM9IjE4LDIgMzQsMTEgMzQsMjkgMTgsMzggMiwyOSAyLDExIiBmaWxsPSJyZ2JhKDAsMjEyLDI1NSwwLjA3KSIgc3Ryb2tlPSJyZ2JhKDAsMjEyLDI1NSwwLjM1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPHBvbHlnb24gcG9pbnRzPSIxOCw0IDMyLDEyIDMyLDI4IDE4LDM2IDQsMjggNCwxMiIgZmlsbD0icmdiYSgwLDIxMiwyNTUsMC4xKSIgc3Ryb2tlPSIjMDBkNGZmIiBzdHJva2Utd2lkdGg9IjEuNSIvPgogIDxwYXRoIGQ9Ik0yMiA5TDEyIDIySDIwTDE0IDMyTDI2IDE4SDE4TDIyIDlaIiBmaWxsPSIjMDBkNGZmIi8+Cjwvc3ZnPg==">
 <link rel="canonical" href="https://nexusevnews.com/press.html">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Press & Media — nexusEVnews</title>
 <meta name="description" content="Press and media information for nexusEVnews — independent EV and renewable energy news, curated daily. Media kit, credentials, and event coverage inquiries.">
+<meta property="og:title" content="Press & Media — nexusEVnews">
+<meta property="og:description" content="Press and media information for nexusEVnews — independent EV and renewable energy news, curated daily.">
+<meta property="og:url" content="https://nexusevnews.com/press.html">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Press & Media — nexusEVnews">
+<meta name="twitter:description" content="Press and media information for nexusEVnews — independent EV and renewable energy news, curated daily.">
+<meta name="twitter:site" content="@nexusevnews">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://nexusevnews.com/jacob-hunka.jpg">
+<meta name="robots" content="index, follow">
+<link rel="alternate" type="application/rss+xml" title="nexusEVnews RSS Feed" href="https://nexusevnews.com/rss.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
@@ -68,6 +87,15 @@
   }
   nav a:hover { color: var(--text); background: var(--surface2); }
   nav a.active { color: var(--accent); }
+  .back-btn {
+    font-family: 'DM Sans', sans-serif; font-size: 0.76rem; font-weight: 600;
+    letter-spacing: 0.05em; text-transform: uppercase;
+    background: var(--surface2); color: var(--text);
+    border: 1px solid var(--border); padding: 0.45rem 1rem;
+    border-radius: 4px; text-decoration: none; cursor: pointer;
+    transition: border-color 0.2s, color 0.2s;
+  }
+  .back-btn:hover { border-color: var(--accent); color: var(--accent); }
   .header-right { display: flex; align-items: center; gap: 0.75rem; }
   .newsletter-btn {
     font-family: 'DM Mono', monospace;
@@ -307,6 +335,7 @@
     <a href="press.html" class="active">Press</a>
   </nav>
   <div class="header-right">
+    <a class="back-btn" href="index.html" onclick="if(history.length>1){event.preventDefault();history.back();}">← Back</a>
     <a class="newsletter-btn" href="advertise.html" style="text-decoration:none;background:transparent;color:var(--muted);border:1px solid var(--border);">Advertise</a>
     <a class="newsletter-btn" href="https://nexuscurrent.beehiiv.com/subscribe" target="_blank" rel="noopener" style="text-decoration:none;">Subscribe</a>
   </div>
