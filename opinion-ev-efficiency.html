@@ -322,7 +322,7 @@
 
     <p>Thirty-six dollars. Every time you fill up, thirty-six dollars turns into heat that warms the air around your engine bay, blows out your exhaust, and radiates off the hood at a red light. It is an impressive amount of energy to spend on absolutely nothing.</p>
 
-    <p>Now compare that to home charging an EV. The U.S. Energy Information Administration puts the national average residential electricity rate at around $0.17 per kilowatt-hour as of December 2025. A typical midsize EV with a 75 kWh battery costs about $12.75 to charge from empty to full. That charge gets you, at a real-world efficiency of roughly 3.5 miles per kilowatt-hour, somewhere around 260 miles. And unlike the gas car, about 87 percent of what you paid for actually reaches the wheels.</p>
+    <p>Now compare that to home charging an EV. The U.S. Energy Information Administration puts the national average residential electricity rate at around $0.17 per kilowatt-hour as of December 2025. A typical midsize EV with a 75 kWh battery costs about $12.75 to charge from empty to full. That charge gets you, at a real-world efficiency of roughly 3.5 miles per kilowatt-hour, somewhere around 260 miles. After accounting for grid transmission losses of approximately 5 percent and charging and drivetrain losses of around 13 percent, about 82 percent of what you paid for actually reaches the wheels. That is still roughly four times better than a gasoline engine.</p>
 
     <div class="math-box">
       <span class="math-box-label">Full charge breakdown - 75 kWh EV at $0.17/kWh national average</span>
@@ -331,12 +331,16 @@
         <span class="math-value">$12.75</span>
       </div>
       <div class="math-row">
-        <span class="math-label">Energy wasted in charging and drivetrain (~13%)</span>
-        <span class="math-value bad">$1.66</span>
+        <span class="math-label">Energy lost in grid transmission (~5%, per EIA)</span>
+        <span class="math-value bad">$0.64</span>
       </div>
       <div class="math-row">
-        <span class="math-label">Energy that actually moves the car (~87%)</span>
-        <span class="math-value good">$11.09</span>
+        <span class="math-label">Energy wasted in charging and drivetrain (~13%)</span>
+        <span class="math-value bad">$1.57</span>
+      </div>
+      <div class="math-row">
+        <span class="math-label">Energy that actually moves the car (~82%)</span>
+        <span class="math-value good">$10.54</span>
       </div>
       <div class="math-row">
         <span class="math-label">Range at 3.5 miles/kWh</span>
@@ -358,12 +362,12 @@
 
     <p>Part of why the coal objection sounds convincing is a measurement problem. Standard energy accounting assigns equal value to one unit of coal and one unit of solar electricity, ignoring efficiency entirely. Ember and other researchers call this the "primary energy fallacy." Once you account for actual conversion losses, the math shifts. A coal plant converts only about 32 percent of its fuel into electricity, per the U.S. Energy Information Administration. A gasoline engine converts roughly 20 percent of fuel into motion. The coal plant is already more efficient than the car before the electricity leaves the building.</p>
 
-    <p>And here is the part people usually miss: once that electricity travels through the grid and into an EV's battery, the EV converts roughly 87 to 91 percent of it into motion. The coal plant and the EV together are more efficient than a gasoline engine working alone.</p>
+    <p>And here is the part people usually miss: once that electricity travels through the grid and into an EV's battery, the EV converts roughly 77 to 91 percent of it into motion, with real-world figures typically in the 82 to 87 percent range after accounting for grid transmission losses of around 5 percent (per the EIA). The coal plant and the EV together are still more efficient than a gasoline engine working alone.</p>
 
     <p>Yale Climate Connections ran this math for every state in the U.S. using actual grid data. Their conclusion, published in January 2024: even in West Virginia, where over 90 percent of electricity comes from coal, driving an EV still uses around one-third less energy than driving the equivalent gasoline vehicle. One-third less, on the dirtiest grid in the country. In states with natural gas as the primary fuel source, the picture gets better. Natural gas combined-cycle plants operate at 45 to 55 percent thermal efficiency per the EIA, meaning an EV charged entirely on natural gas uses roughly half the energy of a comparable gas car. In states with significant renewable energy, the efficiency advantage becomes almost incomparable.</p>
 
     <div class="data-table-wrap">
-      <span class="data-table-label">Well-to-wheel efficiency: EV on various grid sources vs gasoline ICE (Yale Climate Connections / EIA / DOE)</span>
+      <span class="data-table-label">Well-to-wheel efficiency: EV on various grid sources vs gasoline ICE, including ~5% grid transmission losses (Yale Climate Connections / EIA / DOE)</span>
       <table class="data-table">
         <thead>
           <tr>
@@ -420,7 +424,7 @@
 
     <h2>The Counterarguments Worth Acknowledging</h2>
 
-    <p>Cold weather genuinely hurts EV efficiency. Batteries need energy to stay warm, and range can drop 20 to 30 percent in deep winter. This is a real and honest limitation. It is also worth noting that the Canada Energy Regulator found that even if an EV's efficiency dropped by 50 percent in cold weather, it would still have better fuel economy than a comparable gas car. An EV at half-efficiency is still a more efficient machine than a gasoline engine at its best.</p>
+    <p>Cold weather genuinely hurts EV efficiency. Batteries need energy to stay warm, and range can drop 20 to 30 percent in deep winter. This is a real and honest limitation. To put numbers to it: an EV that achieves 84 percent efficiency in mild conditions might drop to 59 to 67 percent in sustained cold. That still compares favorably to a gasoline engine operating at its peak efficiency of 20 to 25 percent. It is also worth noting that the Canada Energy Regulator found that even if an EV's efficiency dropped by 50 percent in cold weather, it would still have better fuel economy than a comparable gas car. An EV at half-efficiency is still a more efficient machine than a gasoline engine at its best.</p>
 
     <p>Public fast charging erodes the cost advantage. If you rely entirely on DC fast chargers rather than home charging, prices can run $0.40 to $0.50 per kilowatt-hour, which narrows the gap considerably and in some cases approaches gas-equivalent cost per mile. The data consistently shows that about 80 percent of EV charging happens at home overnight. The people for whom fast charging is the primary option are a real group, but they are not the majority of EV owners, and the charging infrastructure landscape is changing.</p>
 
@@ -446,7 +450,7 @@
         <p class="byline-bio">Founder and curator of nexusEVnews. My garage history runs from a Chevrolet Cavalier (first car) to a 1978 Camaro Z28, a Ducati Scrambler, a Subaru Outback, a Mazda 6, a BMW 3 Series, an Audi A5/S5, and eventually a Rivian R1T and Audi e-tron GT, the last two sold upon relocating to Italy, where I now live and write full time.</p>
       </div>
     </div>
-    <p class="disclaimer">The views expressed in Opinion pieces are those of the author and do not represent sponsored content. Efficiency figures reflect U.S. EPA and DOE averaged data across model year ranges; individual vehicles vary. All sources cited are publicly available.</p>
+    <p class="disclaimer">The views expressed in Opinion pieces are those of the author and do not represent sponsored content. Efficiency figures reflect U.S. EPA and DOE averaged data across model year ranges; individual vehicles vary. EV efficiency figures include approximately 5% grid transmission losses per EIA data. Cold weather efficiency figures reflect a 20–30% reduction applied to midpoint EV efficiency. All sources cited are publicly available.</p>
 
     <div class="sources-block">
       <span class="sources-label">Sources referenced in this article</span>
