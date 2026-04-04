@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Mar 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 08:12:59 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -18,153 +18,203 @@
     <category>Battery Technology</category>
 
     <item>
-      <title>Three Cayennes, One Runway, and Orlando Bloom. Porsche's New Electric SUV Nearly Runs a Sub-10-Second Quarter Mile.</title>
-      <link>https://youtu.be/hdnOb-4TXNk</link>
-      <guid isPermaLink="false">nexusevnews-2026-03-27-cayenne</guid>
-      <pubDate>Thu, 27 Mar 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Car Wow</dc:creator>
+      <title>An FSD First-Timer Takes the Wheel in Downtown LA. Tesla's Vision-Only System Passes Its Toughest Test Yet.</title>
+      <link>https://nexusevnews.com/articles/an-fsd-first-timer-takes-the-wheel-in-downtown-la-tesla-s-vision-only-system-pas.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/an-fsd-first-timer-takes-the-wheel-in-downtown-la-tesla-s-vision-only-system-pas.html</guid>
+      <pubDate>Sat, 04 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Motor Trend</dc:creator>
+      <category>Deep Dives</category>
+      <description>Motor Trend's Edward Loh hands the keys to Jonny Lieberman, who has never used Tesla FSD, and sends him through one of the most punishing test routes they could design. The 2023 Model Y running FSD v14.2.2 navigates downtown LA traffic, merges onto the world's oldest freeway with about 15 feet of acceleration lane, and climbs the narrow, line-free, storm-damaged back roads of Mount Washington on garbage day. It handles unprotected lefts, pedestrians around blind corners, a pile of rocks, and opposing traffic on a one-lane road. It also hallucinates a ghost and executes three unnecessary three-point turns before recovering. By the Rose Bowl, Jonny has barely touched the steering wheel.</description>
+    </item>
+
+    <item>
+      <title>The AI Energy Crisis Has a Surprising Fix. Turns Out the Data Centers Are the Answer.</title>
+      <link>https://nexusevnews.com/articles/the-ai-energy-crisis-has-a-surprising-fix-turns-out-the-data-centers-are-the-ans.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-ai-energy-crisis-has-a-surprising-fix-turns-out-the-data-centers-are-the-ans.html</guid>
+      <pubDate>Sat, 04 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>TED</dc:creator>
+      <category>Solar & Renewables</category>
+      <description>Computer scientist Ayse Coskun spent 12 years asking whether data centers could flex their power use to match what the grid needs. The answer is yes. AI facilities run predictable, delayable workloads, making them ideal for soaking up excess solar midday and scaling back during peak demand. Her conductor platform runs on real AI data centers today, cutting power by pausing non-critical jobs without breaking performance promises. During a 2023 Texas heat wave, wholesale electricity prices spiked over 800% in a single afternoon. Flexible data center loads could have blunted that. It is a compelling case that the same technology straining the grid can also help stabilize it.</description>
+    </item>
+
+    <item>
+      <title>Subaru's Smallest EV Is Stylish, Reasonably Priced, and Cruel to Tall Passengers in the Back</title>
+      <link>https://nexusevnews.com/articles/subaru-s-smallest-ev-is-stylish-reasonably-priced-and-cruel-to-tall-passengers-i.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/subaru-s-smallest-ev-is-stylish-reasonably-priced-and-cruel-to-tall-passengers-i.html</guid>
+      <pubDate>Sat, 04 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Consumer Reports</dc:creator>
       <category>Reviews</category>
-      <description>Car Wow's Matt Watson lines up all three Porsche Cayenne flagships - the Turbo E Hybrid (729 hp), the Turbo GT, and the new Cayenne Turbo Electric (1,139 hp in launch mode) - and invites Orlando Bloom along. The electric model runs a 10.16 quarter mile.</description>
+      <description>The 2026 Subaru Uncharted shares its platform with the Toyota C-HR but offers something Toyota doesn't: a front-wheel-drive base trim with 221 horsepower and over 300 miles of claimed range. All-wheel-drive models make 338 horsepower with around 290 miles. NACS port means Superchargers are on the table, and the Lexus-sourced interior feels genuinely upscale for the price. The sloping roofline cuts into cargo depth, the door handles sit high enough to frustrate smaller children, and anyone much over six feet will find their head pressed against the headliner in the rear seat. Good small EV. Just measure your passengers first.</description>
     </item>
 
     <item>
-      <title>Rivian and the Stakeholder</title>
-      <link>https://nexusevnews.com/opinion-rivian-foundation.html</link>
-      <guid isPermaLink="false">nexusevnews-2026-03-27-rivian-stakeholder</guid>
-      <pubDate>Thu, 27 Mar 2026 21:30:00 +0000</pubDate>
-      <dc:creator>nexusEVnews</dc:creator>
-      <category>Opinion</category>
-      <description>Before Rivian's IPO in 2021, RJ Scaringe set aside one percent of the company's equity and told investors that the natural world would be a stakeholder. Here is what that has actually come to mean.</description>
+      <title>Tesla Missed Q1 Delivery Targets Again. It Built 50,000 More Cars Than It Sold.</title>
+      <link>https://nexusevnews.com/articles/tesla-missed-q1-delivery-targets-again-it-built-50-000-more-cars-than-it-sold.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-missed-q1-delivery-targets-again-it-built-50-000-more-cars-than-it-sold.html</guid>
+      <pubDate>Sat, 04 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>CNBC</dc:creator>
+      <category>News</category>
+      <description>Tesla delivered 358,023 vehicles in Q1 2026, missing analyst expectations near 369,000 and producing over 408,000 units in the same period. That 50,000-unit gap between production and deliveries is the figure analysts are watching most closely. Year-over-year deliveries rose 6.3%, but quarter-over-quarter they fell 14.4%, and some analysts now warn of a third consecutive annual decline. Tesla lost the title of world's largest EV maker to BYD last year. Bright spots include recovery in key European markets and China sales up 23%. Shares fell around 5% after the report.</description>
     </item>
 
     <item>
-      <title>Rivian's New 3D Configurator Is Genuinely Impressive</title>
-      <link>https://riviantrackr.com/news/rivians-new-3d-configurator-is-genuinely-impressive/</link>
-      <guid isPermaLink="false">nexusevnews-2026-03-27-rivian-configurator</guid>
-      <pubDate>Thu, 27 Mar 2026 21:00:00 +0000</pubDate>
+      <title>How Much Solar Could Your Roof Actually Generate? This Free Tool Gives You a Real Answer.</title>
+      <link>https://nexusevnews.com/articles/how-much-solar-could-your-roof-actually-generate-this-free-tool-gives-you-a-real.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/how-much-solar-could-your-roof-actually-generate-this-free-tool-gives-you-a-real.html</guid>
+      <pubDate>Sat, 04 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>National Laboratory of the Rockies</dc:creator>
+      <category>Solar & Renewables</category>
+      <description>PVWatts is a free calculator from the National Laboratory of the Rockies that estimates annual and monthly electricity output for a rooftop solar system at any address in the world. Enter your address, pick a system size, and get production numbers based on real local weather data. It is the same tool used by solar installers and researchers. If you have ever wondered whether going solar pencils out for your home, start here.</description>
+    </item>
+
+    <item>
+      <title>Two Wheels, Zero Gas, Room for the Groceries. Cargo E-Bikes Are Having a Moment.</title>
+      <link>https://nexusevnews.com/articles/two-wheels-zero-gas-room-for-the-groceries-cargo-e-bikes-are-having-a-moment.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/two-wheels-zero-gas-room-for-the-groceries-cargo-e-bikes-are-having-a-moment.html</guid>
+      <pubDate>Sun, 29 Mar 2026 22:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>Deep Dives</category>
+      <description>The Verge's transportation editor Andrew Hawkins tests three electric cargo bikes, rides through Brooklyn with Propel Bikes owner Cat Strain, and checks in on the bike bus movement his own town in Montclair, New Jersey helped pioneer. 234 US cities now score above the bikeability tipping point, up from just 33 in 2019. Cargo e-bikes are outselling traditional bikes. They cost a fraction of a car. But tariffs, slashed bike lane funding, and safety concerns on shared roads are real obstacles. The question is whether the momentum survives the politics. Hawkins makes a strong case that it should.</description>
+    </item>
+
+    <item>
+      <title>IONNA Just Hit 100 Charging Sites. They Built the Whole Network From Scratch in Two Years.</title>
+      <link>https://nexusevnews.com/articles/ionna-just-hit-100-charging-sites-they-built-the-whole-network-from-scratch-in-t.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ionna-just-hit-100-charging-sites-they-built-the-whole-network-from-scratch-in-t.html</guid>
+      <pubDate>Sun, 29 Mar 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Motor Trend</dc:creator>
+      <category>Charging</category>
+      <description>Motor Trend's Inevitable podcast sits down with IONNA CEO Seth Cutler, who started as employee number one in an empty Honda office in February 2024. Two years later, the eight-automaker joint venture has crossed 100 sites with canopies, bathrooms, and Amazon Just Walk Out stores. No app required. Just plug in or tap your credit card. Discount charging programs are rolling out now for all eight partner brands. Their first site? A 100-year-old gas station where crews found a buried fuel tank during construction. They got it live in nine months anyway.</description>
+    </item>
+
+    <item>
+      <title>LFP or NMC? The Battery Decision Most EV Buyers Never Think About Until It's Too Late.</title>
+      <link>https://nexusevnews.com/articles/lfp-or-nmc-the-battery-decision-most-ev-buyers-never-think-about-until-it-s-too.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/lfp-or-nmc-the-battery-decision-most-ev-buyers-never-think-about-until-it-s-too.html</guid>
+      <pubDate>Sun, 29 Mar 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Battery Bound</dc:creator>
+      <category>Battery Tech</category>
+      <description>Most people hear "LFP lasts longer" and stop there. This video breaks down why that is only part of the story. NMC holds up better in cold weather. LFP can be charged to 100% daily without stress. And an LFP car with 420 km of rated range charged to full may give you more usable daily range than a 500 km NMC car you keep between 20 and 80 percent. Factor in insurance risk, replacement costs, and resale psychology, and the "best" battery depends entirely on how you actually use your car.</description>
+    </item>
+
+    <item>
+      <title>Sodium-Ion Batteries Were Supposed to Be the Budget Option. Two New Studies Say Hold On a Second.</title>
+      <link>https://nexusevnews.com/articles/sodium-ion-batteries-were-supposed-to-be-the-budget-option-two-new-studies-say-h.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/sodium-ion-batteries-were-supposed-to-be-the-budget-option-two-new-studies-say-h.html</guid>
+      <pubDate>Sun, 29 Mar 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Just Have a Think</dc:creator>
+      <category>Battery Tech</category>
+      <description>Everybody assumed sodium-ion could never compete with lithium on performance because sodium ions are bigger, heavier, and slower. Turns out the ions were fine. The electrodes were the bottleneck. Research from Tokyo University of Science and Germany's Federal Institute for Materials Research shows that fixing how hard carbon anodes are built lets sodium charge at rates comparable to lithium in graphite. CATL is already putting sodium-ion cells in passenger cars. BYD is accelerating development. The chemistry was always capable. We just needed better engineering around it.</description>
+    </item>
+
+    <item>
+      <title>1,000 HP, 1,000 KG, and a Giant Vacuum Cleaner Underneath. Top Gear Drives the McMurtry Spéirling.</title>
+      <link>https://nexusevnews.com/articles/1-000-hp-1-000-kg-and-a-giant-vacuum-cleaner-underneath-top-gear-drives-the-mcmu.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/1-000-hp-1-000-kg-and-a-giant-vacuum-cleaner-underneath-top-gear-drives-the-mcmu.html</guid>
+      <pubDate>Sun, 29 Mar 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Top Gear</dc:creator>
+      <category>Reviews</category>
+      <description>In case you missed this one, clear your Sunday schedule. Ollie Marriage from Top Gear straps into the McMurtry Spéirling, a tiny single-seat electric car that generates 2,000 kg of downforce from a standstill using twin fans spinning at 23,000 RPM. It hit 60 mph in 1.38 seconds, reached 100 in 2.61, and left a Porsche GT3 RS looking like it was parked. Three fan modes mimic GT3, LMP1, and F1 grip levels. Ollie called it a cheat code. He also admitted to getting tunnel vision from the g-forces. It is adorable, terrifying, and the most fun you will have watching a car review today.</description>
+    </item>
+
+    <item>
+      <title>Slate Drove Their Electric Pickup Through 10 Inches of Frozen Slush, Then Froze It Solid. Here's What Happened.</title>
+      <link>https://nexusevnews.com/articles/slate-drove-their-electric-pickup-through-10-inches-of-frozen-slush-then-froze-i.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-drove-their-electric-pickup-through-10-inches-of-frozen-slush-then-froze-i.html</guid>
+      <pubDate>Sat, 28 Mar 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Slate Auto</dc:creator>
+      <category>Deep Dives</category>
+      <description>Slate Auto hauled its electric pickup to Keweenaw Research Center in Michigan's Upper Peninsula for a full cold weather torture test. The program included driving through slush troughs, freezing vehicles in cold chambers, running dynamics courses on ice, and then checking if everything still works the next morning. After a full freeze-and-thaw cycle, the brakes released on their own, nothing broke underneath, and the truck came out under its own power. Slate is targeting deliveries by the end of 2026, and this is the kind of behind-the-scenes engineering footage that usually stays internal.</description>
+    </item>
+
+    <item>
+      <title>Cybercabs Are Showing Up Everywhere, Elon Is Teasing a Mystery Vehicle, and Sony's 'PlayStation Car' Just Died</title>
+      <link>https://nexusevnews.com/articles/cybercabs-are-showing-up-everywhere-elon-is-teasing-a-mystery-vehicle-and-sony-s.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/cybercabs-are-showing-up-everywhere-elon-is-teasing-a-mystery-vehicle-and-sony-s.html</guid>
+      <pubDate>Sat, 28 Mar 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Ryan Shaw</dc:creator>
+      <category>News</category>
+      <description>A packed week in Tesla and EV news. Cybercabs have been spotted driverless in San Francisco, Palo Alto, and Oklahoma City. A robotaxi staging lot full of Model Ys turned up in Dallas. The Cybercab has a clever new door handle that solves a real safety problem with emergency exits. Elon teased a new vehicle larger than the Model Y. The Tesla Semi made it onto Jay Leno's Garage. Uber put $1.25 billion into Rivian for autonomous R2 robotaxis. And Sony and Honda officially killed the Afeela weeks before its first customer deliveries. That's not even the full list.</description>
+    </item>
+
+    <item>
+      <title>A 1,100 HP Electric Porsche in the Spanish Mountains. Miles Somerville Says It Might Be the Best SUV He's Ever Driven.</title>
+      <link>https://nexusevnews.com/articles/a-1-100-hp-electric-porsche-in-the-spanish-mountains-miles-somerville-says-it-mi.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/a-1-100-hp-electric-porsche-in-the-spanish-mountains-miles-somerville-says-it-mi.html</guid>
+      <pubDate>Sat, 28 Mar 2026 20:30:00 +0000</pubDate>
+      <dc:creator>MKBHD Inc</dc:creator>
+      <category>Reviews</category>
+      <description>Miles Somerville from the MKBHD team got seat time in both the Cayenne Electric Turbo and the standard model on wet mountain roads outside Barcelona. The Turbo makes over 1,100 horsepower in launch mode, hits 60 in 2.3 seconds, and nearly cracks a sub-10 quarter mile. But the real story is Porsche's active ride suspension, which kills body roll and makes a 6,000-pound SUV feel composed through tight switchbacks. The base model runs about $120,000 optioned out and is arguably the smarter buy. The Turbo sits near $230,000. Miles admits it's probably too much car.</description>
+    </item>
+
+    <item>
+      <title>Rivian Just Unlocked Another $1 Billion From Volkswagen After Their Joint Venture Passed Winter Testing</title>
+      <link>https://nexusevnews.com/articles/rivian-just-unlocked-another-1-billion-from-volkswagen-after-their-joint-venture.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-just-unlocked-another-1-billion-from-volkswagen-after-their-joint-venture.html</guid>
+      <pubDate>Sat, 28 Mar 2026 20:00:00 +0000</pubDate>
       <dc:creator>Rivian Trackr</dc:creator>
       <category>News</category>
-      <description>Rivian quietly added a "View in 3D" mode to the R1 configurator. Spin the model, swap colors, change wheels in real time - built entirely in-house by Rivian's software team.</description>
+      <description>The Rivian-Volkswagen joint venture, RV Tech, completed winter testing of its new zonal electrical architecture across Arizona heat and Swedish cold. The first vehicle running on this system is the VW ID.EVERY1. The milestone triggers another $1 billion investment from VW, split between $750 million in equity and $250 million in equity or convertible debt. VW has now put over $3 billion into Rivian through the partnership, with up to $5.8 billion possible if all targets are met.</description>
     </item>
 
     <item>
-      <title>We Got Featured on EVinfo.net</title>
-      <link>https://evinfo.net/2026/03/a-new-independent-ev-and-renewable-energy-news-website-launched-in-march-2026/</link>
-      <guid isPermaLink="false">nexusevnews-2026-03-27-evinfo-feature</guid>
-      <pubDate>Thu, 27 Mar 2026 21:00:00 +0000</pubDate>
-      <dc:creator>EVinfo.net</dc:creator>
+      <title>80% of the World's Energy Still Comes From Fossil Fuels. The Iran War Is Showing Exactly What That Means.</title>
+      <link>https://nexusevnews.com/articles/80-of-the-world-s-energy-still-comes-from-fossil-fuels-the-iran-war-is-showing-e.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/80-of-the-world-s-energy-still-comes-from-fossil-fuels-the-iran-war-is-showing-e.html</guid>
+      <pubDate>Sat, 28 Mar 2026 19:30:00 +0000</pubDate>
+      <dc:creator>DW News</dc:creator>
+      <category>Solar & Renewables</category>
+      <description>DW examines how the conflict with Iran has exposed just how fragile global energy systems really are. Twenty percent of the world's oil and LNG flows through the Strait of Hormuz. Ten countries supply roughly 70% of global oil and gas. But there are real signs of a shift. In 2025, solar and wind provided more electricity to the EU grid than fossil fuels for the first time. Spain now gets 60% of its energy from renewables. Portugal ran entirely on green sources last year. The question is whether the transition can move fast enough.</description>
+    </item>
+
+    <item>
+      <title>Three Cayennes, One Runway, and Orlando Bloom. Porsche's New Electric SUV Nearly Runs a Sub-10-Second Quarter Mile.</title>
+      <link>https://nexusevnews.com/articles/three-cayennes-one-runway-and-orlando-bloom-porsche-s-new-electric-suv-nearly-ru.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/three-cayennes-one-runway-and-orlando-bloom-porsche-s-new-electric-suv-nearly-ru.html</guid>
+      <pubDate>Fri, 27 Mar 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Car Wow</dc:creator>
+      <category>Reviews</category>
+      <description>Car Wow's Matt Watson lines up all three Porsche Cayenne flagships and then, completely casually, invites Orlando Bloom along to try to beat his times. The Turbo E Hybrid makes 729 hp. The Turbo GT is 300 kg lighter with a titanium exhaust, because Porsche. The new Cayenne Turbo Electric shows up with 1,139 hp in launch mode, runs a 10.16 quarter mile, and is visibly annoyed it didn't go sub-10. Orlando wins by 0.05 seconds. Nobody is more surprised than Matt.</description>
+    </item>
+
+    <item>
+      <title>Rivian's New 3D Configurator Is Genuinely Impressive. They Also Built the Whole Thing In-House.</title>
+      <link>https://nexusevnews.com/articles/rivian-s-new-3d-configurator-is-genuinely-impressive-they-also-built-the-whole-t.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-s-new-3d-configurator-is-genuinely-impressive-they-also-built-the-whole-t.html</guid>
+      <pubDate>Fri, 27 Mar 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Rivian Trackr</dc:creator>
       <category>News</category>
-      <description>Bill Pierce, publisher of EVinfo.net, wrote a full feature on nexusEVnews. For a new site still getting off the ground, that kind of generosity from a respected voice in the EV space is humbling.</description>
+      <description>Jose Castillo at Rivian Trackr spotted this one: Rivian quietly added a "View in 3D" mode to the R1 configurator. Spin the model, swap colors, change wheels in real time. Rivian's software lead Wassym confirmed it was built entirely in-house, which is not how most automakers do this. Most automakers outsource it. Rivian did not. R2 support is coming. You will lose 20 minutes to this and not regret it.</description>
     </item>
 
     <item>
-      <title>BYD's Yangwang U9 Hit 496.22 km/h and Rewrote the Record Books</title>
-      <link>https://youtu.be/yM0wi0qK0KA</link>
-      <guid isPermaLink="false">nexusevnews-2026-03-27-yangwang-u9</guid>
-      <pubDate>Thu, 27 Mar 2026 19:30:00 +0000</pubDate>
+      <title>China Built a 6-Million-Panel Solar Farm in Two Years. Here Is What That Looks Like on the Ground.</title>
+      <link>https://nexusevnews.com/articles/china-built-a-6-million-panel-solar-farm-in-two-years-here-is-what-that-looks-li.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/china-built-a-6-million-panel-solar-farm-in-two-years-here-is-what-that-looks-li.html</guid>
+      <pubDate>Fri, 27 Mar 2026 20:00:00 +0000</pubDate>
+      <dc:creator>YouTube</dc:creator>
+      <category>Solar & Renewables</category>
+      <description>Two years ago this was an empty stretch of land in Luan. Now it's 6 million solar panels across an area larger than 6,300 football pitches, producing 578 million kWh a year, enough to power 4.5 million homes. Drones patrol 12 times daily. The panels physically rotate to follow the sun. Next door, a wind turbine factory cranks out 800 units a year with blades up to 130 metres long. China now installs solar and wind capacity at the same rate as the rest of the world combined. The last number in the video, coal at 60% of Chinese electricity, is the one that sits with you afterward.</description>
+    </item>
+
+    <item>
+      <title>Friday Throwback: Remember When BYD's Yangwang U9 Hit 496.22 km/h and Quietly Rewrote the Record Books?</title>
+      <link>https://nexusevnews.com/articles/friday-throwback-remember-when-byd-s-yangwang-u9-hit-496-22-km-h-and-quietly-rew.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/friday-throwback-remember-when-byd-s-yangwang-u9-hit-496-22-km-h-and-quietly-rew.html</guid>
+      <pubDate>Fri, 27 Mar 2026 19:30:00 +0000</pubDate>
       <dc:creator>Yangwang / BYD</dc:creator>
       <category>News</category>
-      <description>The Yangwang U9 Xtreme ran 496.22 km/h at ATP Automotive Testing Papenburg in September 2025, setting a new production EV top speed world record.</description>
+      <description>It's Friday. Treat yourself. In September 2025, the Yangwang U9 Xtreme ran 496.22 km/h at ATP Automotive Testing Papenburg and set a new production EV top speed world record. BYD brought a VBOX to prove it. If you missed this one the first time around, now you have no excuse. Turn the volume up.</description>
     </item>
 
     <item>
-      <title>Polestar 4 Week-Long Review: No Rear Window, a Nice Interior, and a Questionable Charging Port</title>
-      <link>https://youtu.be/YzMBOF_X1Mk</link>
-      <guid isPermaLink="false">nexusevnews-2026-03-27-polestar-4</guid>
-      <pubDate>Thu, 27 Mar 2026 19:00:00 +0000</pubDate>
+      <title>Polestar 4 Week-Long Review: No Rear Window, a Genuinely Nice Interior, and a Charging Port That Has No Business Being in a 2026 Car</title>
+      <link>https://nexusevnews.com/articles/polestar-4-week-long-review-no-rear-window-a-genuinely-nice-interior-and-a-charg.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/polestar-4-week-long-review-no-rear-window-a-genuinely-nice-interior-and-a-charg.html</guid>
+      <pubDate>Fri, 27 Mar 2026 19:00:00 +0000</pubDate>
       <dc:creator>YouTube</dc:creator>
       <category>Reviews</category>
-      <description>Swedish design, Google software, 100 kWh battery, 200 kW peak charging. Built in South Korea after tariffs made Chinese production impossible. Starts at $56,400.</description>
-    </item>
-
-    <item>
-      <title>Xiaomi Gatecrashed Gran Turismo's 28-Year History with a 1,900 hp Concept</title>
-      <link>https://youtu.be/DlmeEk4wQEw</link>
-      <guid isPermaLink="false">nexusevnews-2026-03-26-xiaomi-gt</guid>
-      <pubDate>Wed, 26 Mar 2026 22:00:00 +0000</pubDate>
-      <dc:creator>YouTube</dc:creator>
-      <category>News</category>
-      <description>Xiaomi becomes the first Chinese brand in Gran Turismo's 28-year Vision GT program, joining Ferrari, Porsche, and Bugatti with a 1,900 hp concept hypercar revealed at MWC 2026.</description>
-    </item>
-
-    <item>
-      <title>Stop Buying Small Solar Panels - 590W Bifacial Panel Test</title>
-      <link>https://youtu.be/q8_wNF2hMFI</link>
-      <guid isPermaLink="false">nexusevnews-2026-03-26-miniman-solar</guid>
-      <pubDate>Wed, 26 Mar 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Miniman Solar</dc:creator>
-      <category>Solar &amp; Renewables</category>
-      <description>Ben has spent a decade testing solar panels. Four 590W bifacial Sunold Power panels, ground-mounted on adjustable stands, pulling well over their rated output in winter.</description>
-    </item>
-
-    <item>
-      <title>China Is Writing the Rule Book for Solid-State Batteries</title>
-      <link>https://youtu.be/GC7ZzSFla84</link>
-      <guid isPermaLink="false">nexusevnews-2026-03-26-china-solidstate</guid>
-      <pubDate>Wed, 26 Mar 2026 20:00:00 +0000</pubDate>
-      <dc:creator>YouTube</dc:creator>
-      <category>Battery Tech</category>
-      <description>China is finalizing its first national standard for automotive solid-state batteries, due July 2026. The goal: force the industry to use consistent language so "solid-state" actually means something.</description>
-    </item>
-
-    <item>
-      <title>BYD Wants 20 Canadian Dealerships in Year One</title>
-      <link>https://youtu.be/BBL-54uuFkQ</link>
-      <guid isPermaLink="false">nexusevnews-2026-03-26-byd-canada</guid>
-      <pubDate>Wed, 26 Mar 2026 19:30:00 +0000</pubDate>
-      <dc:creator>YouTube</dc:creator>
-      <category>News</category>
-      <description>BYD is planning up to 20 Canadian dealerships in its first year, starting in the Greater Toronto Area. That number raises real questions about parts, mechanics, and the Target Canada cautionary tale.</description>
-    </item>
-
-    <item>
-      <title>Australia Is Running Low on Fuel and It Is Doing More for EV Sales Than Any Government Incentive</title>
-      <link>https://youtu.be/lb5mKEDPmxU</link>
-      <guid isPermaLink="false">nexusevnews-2026-03-26-australia-fuel</guid>
-      <pubDate>Wed, 26 Mar 2026 19:00:00 +0000</pubDate>
-      <dc:creator>Electrify This / The Driven</dc:creator>
-      <category>News</category>
-      <description>Australia is sitting on a shrinking fuel supply and EV inquiries are spiking. Discussion covers what that means for sales, how long the pinch might last, and why electric trucking is suddenly urgent.</description>
-    </item>
-
-    <item>
-      <title>The New BMW iX3 Will Underpin 40 Future BMWs. We Put It Against the X3M.</title>
-      <link>https://youtu.be/IFP1c5QZkA8</link>
-      <guid isPermaLink="false">nexusevnews-2026-03-25-bmw-ix3</guid>
-      <pubDate>Tue, 25 Mar 2026 22:00:00 +0000</pubDate>
-      <dc:creator>carwow</dc:creator>
-      <category>Reviews</category>
-      <description>carwow's Matt Watson puts the new BMW iX3 through a full head-to-head against the petrol X3M. The platform that will underpin 40 future BMW models.</description>
-    </item>
-
-    <item>
-      <title>Subaru Said the Uncharted Goes 10 to 80% in 28 Minutes. We Had a Stopwatch.</title>
-      <link>https://youtu.be/_B-NZI64USo</link>
-      <guid isPermaLink="false">nexusevnews-2026-03-25-subaru-uncharted</guid>
-      <pubDate>Tue, 25 Mar 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Ever / InsideEVs</dc:creator>
-      <category>Reviews</category>
-      <description>A cold-night charging test on the 2026 Subaru Uncharted. After preconditioning, it hit 80% in 26 minutes and 5 seconds, beating the manufacturer's 28-minute claim.</description>
-    </item>
-
-    <item>
-      <title>The Solid-State Battery Company That Just Put 750 Miles on a Mercedes on a Single Charge</title>
-      <link>https://youtu.be/8Fk4fjVm7hU</link>
-      <guid isPermaLink="false">nexusevnews-2026-03-25-factorial</guid>
-      <pubDate>Tue, 25 Mar 2026 19:00:00 +0000</pubDate>
-      <dc:creator>Monroe Live</dc:creator>
-      <category>Battery Tech</category>
-      <description>Monroe Live sits down with Factorial Energy's VP. A modified Mercedes EQS drove 1,250 km on a single charge. Partners include Mercedes-Benz, Stellantis, and Hyundai/Kia. Target: production before 2030.</description>
-    </item>
-
-    <item>
-      <title>The Electric Mercedes GLC Drives Better Than the Gas Version</title>
-      <link>https://youtu.be/gMTfHIDbm1Y</link>
-      <guid isPermaLink="false">nexusevnews-2026-03-24-mercedes-glc</guid>
-      <pubDate>Mon, 24 Mar 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Autogefühl</dc:creator>
-      <category>Reviews</category>
-      <description>Autogefühl puts the all-new electric GLC through a full review. 4.3 seconds to 100 km/h, air suspension with rear-axle steering, about 400 km real-world motorway range from 94.5 kWh.</description>
+      <description>The no-rear-window thing stops being weird within about 10 minutes. The J1772/CCS charge port on a 2026 vehicle never stops being weird. Swedish design, Google software, 100 kWh battery, 200 kW peak charging. Built in South Korea after 100% US tariffs made Chinese production economically impossible, even though 92% of the parts are still from China. That sentence perfectly captures where the auto industry is right now. Starts at $56,400. This test car stickered at $81,800. Pilot assist is solid on the highway. Lane changes are its villain origin story.</description>
     </item>
 
   </channel>
