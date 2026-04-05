@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2026 08:12:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -18,6 +18,56 @@
     <category>Battery Technology</category>
 
     <item>
+      <title>The Lucid Gravity Sprints to 100 in 3.6 Seconds, Then Asks If You Would Like a Massage</title>
+      <link>https://nexusevnews.com/articles/lucid-gravity-grand-touring-seven-seats-400kw-charging-and-a-frunk-picnic.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/lucid-gravity-grand-touring-seven-seats-400kw-charging-and-a-frunk-picnic.html</guid>
+      <pubDate>Sun, 05 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Autogefühl</dc:creator>
+      <category>Reviews</category>
+      <description>Autogefühl takes the Lucid Gravity Grand Touring to Mallorca for a proper test. The numbers are hard to argue with: 123kWh battery, 400kW peak DC charging with 10 to 80% in around 23 minutes, and 3.6 seconds to 100km/h for a car that seats seven adults. Real-world range comes in around 540km (340 miles) at 100km/h and about 450km (280 miles) at 120km/h. The frunk has cup holders and a power socket and enough room to sit inside. The seat massage uses genuine vibration rather than just lumbar pressure and is the best Thomas has tested. The steering needs some fine-tuning. Apple CarPlay is coming. US pricing starts at $80,000 for the entry battery and $95,000 for this Grand Touring.</description>
+    </item>
+
+    <item>
+      <title>Enhauto's 6.4 Update Adds Knight Rider Mode, Muted Reversing, and Track Mode Tesla Forgot to Ship</title>
+      <link>https://nexusevnews.com/articles/enhauto-update-6-4-knight-rider-mode-muted-reverse-track-mode-model-y-juniper.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/enhauto-update-6-4-knight-rider-mode-muted-reverse-track-mode-model-y-juniper.html</guid>
+      <pubDate>Sun, 05 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Enhauto</dc:creator>
+      <category>News</category>
+      <description>Enhauto's latest firmware update for its Commander dongle and S3XY accessories adds several features Tesla hasn't built into its own software. Performance Model Y Juniper owners can now enable Track Mode through the S3XY products even though it doesn't appear in Tesla's native menus. Also new: an Actions on Reverse automation that can mute all in-car audio when backing up, a Knight Rider sweeping animation for the ambient light strip, and separate brightness settings for day and night. Brake temperature per wheel is now visible in the S3XY app, a stat Tesla doesn't surface anywhere. All products are 20% off at enhauto.com through April 16.</description>
+    </item>
+
+    <item>
+      <title>China Just Got a Faster Zeekr 007 GT. European Buyers Are Starting Deliveries of the Previous One.</title>
+      <link>https://nexusevnews.com/articles/zeekr-007-gt-china-update-900v-10-minute-charging-europe-gets-old-version.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/zeekr-007-gt-china-update-900v-10-minute-charging-europe-gets-old-version.html</guid>
+      <pubDate>Sun, 05 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>AutoSpec Roaming</dc:creator>
+      <category>News</category>
+      <description>AutoSpec Roaming breaks down the updated Zeekr 007 GT just announced in China, right as European deliveries of the 800V version begin this summer. The China-spec car moves to a 900V architecture, adds a 6C-capable NMC battery with 10-80% charging in around 10 minutes, and gains roughly 148 extra horsepower across both motors. The AWD performance version now hits 0-100km/h in 2.84 seconds. Europe gets the 800V model with the LFP Golden Brick battery and around 400kW peak charging, which is still fast but a generation behind. The host argues Zeekr should sync their market releases. The owner forums agree loudly.</description>
+    </item>
+
+    <item>
+      <title>Kia's EV3 Checks a Lot of Boxes for Under $35,000. Then There Are the Door Handles.</title>
+      <link>https://nexusevnews.com/articles/kia-ev3-2027-under-35000-320-miles-consumer-reports-first-look.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/kia-ev3-2027-under-35000-320-miles-consumer-reports-first-look.html</guid>
+      <pubDate>Sun, 05 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Consumer Reports</dc:creator>
+      <category>Reviews</category>
+      <description>Consumer Reports gets a first look at the 2027 Kia EV3. The standard 58.3kWh model gets around 220 miles of estimated range. The larger 81.4kWh version stretches that to 320 miles on the front-wheel-drive variant, with AWD available. DC fast charging goes from 10 to 80% in 29 to 31 minutes. Dual 12.3-inch screens, physical climate controls, a wireless charger, and USB charging points built into the rear seatbacks are all welcome. The flush door handles aren't Consumer Reports' favorite, and the rear ones sit high enough that small children may struggle to reach them. Rear seat headroom is snug for anyone over 5'10". On sale late 2026, starting just over $35,000.</description>
+    </item>
+
+    <item>
+      <title>At the New York Auto Show, Nobody Is Going All-In on Electric Anymore</title>
+      <link>https://nexusevnews.com/articles/new-york-auto-show-2026-evs-hybrids-and-market-uncertainty.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/new-york-auto-show-2026-evs-hybrids-and-market-uncertainty.html</guid>
+      <pubDate>Sun, 05 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Business Today TV</dc:creator>
+      <category>News</category>
+      <description>Business Today TV reports from the 2026 New York International Auto Show, where the mood is notably cautious. US EV sales have slipped from close to 10% of total auto sales to around 6.5%, and the removal of federal purchase incentives has further dampened momentum. Subaru unveiled the Getaway, a three-row electric SUV with over 500km of range, alongside a new Forester Wilderness Hybrid. Kia showed the EV3 alongside the Seltos in gas and hybrid form. Hyundai noted its hybrid lineup is outpacing EV sales. The counterforce: rising fuel prices tied to Middle East tensions are nudging some buyers, especially in California, back toward electric. The industry picture is less a retreat from EVs and more a calculated hedge.</description>
+    </item>
+
+
       <title>An FSD First-Timer Takes the Wheel in Downtown LA. Tesla's Vision-Only System Passes Its Toughest Test Yet.</title>
       <link>https://nexusevnews.com/articles/an-fsd-first-timer-takes-the-wheel-in-downtown-la-tesla-s-vision-only-system-pas.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/an-fsd-first-timer-takes-the-wheel-in-downtown-la-tesla-s-vision-only-system-pas.html</guid>
@@ -167,55 +217,6 @@
       <description>DW examines how the conflict with Iran has exposed just how fragile global energy systems really are. Twenty percent of the world's oil and LNG flows through the Strait of Hormuz. Ten countries supply roughly 70% of global oil and gas. But there are real signs of a shift. In 2025, solar and wind provided more electricity to the EU grid than fossil fuels for the first time. Spain now gets 60% of its energy from renewables. Portugal ran entirely on green sources last year. The question is whether the transition can move fast enough.</description>
     </item>
 
-    <item>
-      <title>Three Cayennes, One Runway, and Orlando Bloom. Porsche's New Electric SUV Nearly Runs a Sub-10-Second Quarter Mile.</title>
-      <link>https://nexusevnews.com/articles/three-cayennes-one-runway-and-orlando-bloom-porsche-s-new-electric-suv-nearly-ru.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/three-cayennes-one-runway-and-orlando-bloom-porsche-s-new-electric-suv-nearly-ru.html</guid>
-      <pubDate>Fri, 27 Mar 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Car Wow</dc:creator>
-      <category>Reviews</category>
-      <description>Car Wow's Matt Watson lines up all three Porsche Cayenne flagships and then, completely casually, invites Orlando Bloom along to try to beat his times. The Turbo E Hybrid makes 729 hp. The Turbo GT is 300 kg lighter with a titanium exhaust, because Porsche. The new Cayenne Turbo Electric shows up with 1,139 hp in launch mode, runs a 10.16 quarter mile, and is visibly annoyed it didn't go sub-10. Orlando wins by 0.05 seconds. Nobody is more surprised than Matt.</description>
-    </item>
-
-    <item>
-      <title>Rivian's New 3D Configurator Is Genuinely Impressive. They Also Built the Whole Thing In-House.</title>
-      <link>https://nexusevnews.com/articles/rivian-s-new-3d-configurator-is-genuinely-impressive-they-also-built-the-whole-t.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-s-new-3d-configurator-is-genuinely-impressive-they-also-built-the-whole-t.html</guid>
-      <pubDate>Fri, 27 Mar 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Rivian Trackr</dc:creator>
-      <category>News</category>
-      <description>Jose Castillo at Rivian Trackr spotted this one: Rivian quietly added a "View in 3D" mode to the R1 configurator. Spin the model, swap colors, change wheels in real time. Rivian's software lead Wassym confirmed it was built entirely in-house, which is not how most automakers do this. Most automakers outsource it. Rivian did not. R2 support is coming. You will lose 20 minutes to this and not regret it.</description>
-    </item>
-
-    <item>
-      <title>China Built a 6-Million-Panel Solar Farm in Two Years. Here Is What That Looks Like on the Ground.</title>
-      <link>https://nexusevnews.com/articles/china-built-a-6-million-panel-solar-farm-in-two-years-here-is-what-that-looks-li.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/china-built-a-6-million-panel-solar-farm-in-two-years-here-is-what-that-looks-li.html</guid>
-      <pubDate>Fri, 27 Mar 2026 20:00:00 +0000</pubDate>
-      <dc:creator>YouTube</dc:creator>
-      <category>Solar & Renewables</category>
-      <description>Two years ago this was an empty stretch of land in Luan. Now it's 6 million solar panels across an area larger than 6,300 football pitches, producing 578 million kWh a year, enough to power 4.5 million homes. Drones patrol 12 times daily. The panels physically rotate to follow the sun. Next door, a wind turbine factory cranks out 800 units a year with blades up to 130 metres long. China now installs solar and wind capacity at the same rate as the rest of the world combined. The last number in the video, coal at 60% of Chinese electricity, is the one that sits with you afterward.</description>
-    </item>
-
-    <item>
-      <title>Friday Throwback: Remember When BYD's Yangwang U9 Hit 496.22 km/h and Quietly Rewrote the Record Books?</title>
-      <link>https://nexusevnews.com/articles/friday-throwback-remember-when-byd-s-yangwang-u9-hit-496-22-km-h-and-quietly-rew.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/friday-throwback-remember-when-byd-s-yangwang-u9-hit-496-22-km-h-and-quietly-rew.html</guid>
-      <pubDate>Fri, 27 Mar 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Yangwang / BYD</dc:creator>
-      <category>News</category>
-      <description>It's Friday. Treat yourself. In September 2025, the Yangwang U9 Xtreme ran 496.22 km/h at ATP Automotive Testing Papenburg and set a new production EV top speed world record. BYD brought a VBOX to prove it. If you missed this one the first time around, now you have no excuse. Turn the volume up.</description>
-    </item>
-
-    <item>
-      <title>Polestar 4 Week-Long Review: No Rear Window, a Genuinely Nice Interior, and a Charging Port That Has No Business Being in a 2026 Car</title>
-      <link>https://nexusevnews.com/articles/polestar-4-week-long-review-no-rear-window-a-genuinely-nice-interior-and-a-charg.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/polestar-4-week-long-review-no-rear-window-a-genuinely-nice-interior-and-a-charg.html</guid>
-      <pubDate>Fri, 27 Mar 2026 19:00:00 +0000</pubDate>
-      <dc:creator>YouTube</dc:creator>
-      <category>Reviews</category>
-      <description>The no-rear-window thing stops being weird within about 10 minutes. The J1772/CCS charge port on a 2026 vehicle never stops being weird. Swedish design, Google software, 100 kWh battery, 200 kW peak charging. Built in South Korea after 100% US tariffs made Chinese production economically impossible, even though 92% of the parts are still from China. That sentence perfectly captures where the auto industry is right now. Starts at $56,400. This test car stickered at $81,800. Pilot assist is solid on the highway. Lane changes are its villain origin story.</description>
-    </item>
 
   </channel>
 </rss>
