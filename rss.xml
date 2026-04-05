@@ -67,7 +67,7 @@
       <description>Business Today TV reports from the 2026 New York International Auto Show, where the mood is notably cautious. US EV sales have slipped from close to 10% of total auto sales to around 6.5%, and the removal of federal purchase incentives has further dampened momentum. Subaru unveiled the Getaway, a three-row electric SUV with over 500km of range, alongside a new Forester Wilderness Hybrid. Kia showed the EV3 alongside the Seltos in gas and hybrid form. Hyundai noted its hybrid lineup is outpacing EV sales. The counterforce: rising fuel prices tied to Middle East tensions are nudging some buyers, especially in California, back toward electric. The industry picture is less a retreat from EVs and more a calculated hedge.</description>
     </item>
 
-
+    <item>
       <title>An FSD First-Timer Takes the Wheel in Downtown LA. Tesla's Vision-Only System Passes Its Toughest Test Yet.</title>
       <link>https://nexusevnews.com/articles/an-fsd-first-timer-takes-the-wheel-in-downtown-la-tesla-s-vision-only-system-pas.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/an-fsd-first-timer-takes-the-wheel-in-downtown-la-tesla-s-vision-only-system-pas.html</guid>
@@ -83,7 +83,7 @@
       <guid isPermaLink="true">https://nexusevnews.com/articles/the-ai-energy-crisis-has-a-surprising-fix-turns-out-the-data-centers-are-the-ans.html</guid>
       <pubDate>Sat, 04 Apr 2026 21:00:00 +0000</pubDate>
       <dc:creator>TED</dc:creator>
-      <category>Solar & Renewables</category>
+      <category>Solar &amp; Renewables</category>
       <description>Computer scientist Ayse Coskun spent 12 years asking whether data centers could flex their power use to match what the grid needs. The answer is yes. AI facilities run predictable, delayable workloads, making them ideal for soaking up excess solar midday and scaling back during peak demand. Her conductor platform runs on real AI data centers today, cutting power by pausing non-critical jobs without breaking performance promises. During a 2023 Texas heat wave, wholesale electricity prices spiked over 800% in a single afternoon. Flexible data center loads could have blunted that. It is a compelling case that the same technology straining the grid can also help stabilize it.</description>
     </item>
 
@@ -113,7 +113,7 @@
       <guid isPermaLink="true">https://nexusevnews.com/articles/how-much-solar-could-your-roof-actually-generate-this-free-tool-gives-you-a-real.html</guid>
       <pubDate>Sat, 04 Apr 2026 19:30:00 +0000</pubDate>
       <dc:creator>National Laboratory of the Rockies</dc:creator>
-      <category>Solar & Renewables</category>
+      <category>Solar &amp; Renewables</category>
       <description>PVWatts is a free calculator from the National Laboratory of the Rockies that estimates annual and monthly electricity output for a rooftop solar system at any address in the world. Enter your address, pick a system size, and get production numbers based on real local weather data. It is the same tool used by solar installers and researchers. If you have ever wondered whether going solar pencils out for your home, start here.</description>
     </item>
 
@@ -213,7 +213,7 @@
       <guid isPermaLink="true">https://nexusevnews.com/articles/80-of-the-world-s-energy-still-comes-from-fossil-fuels-the-iran-war-is-showing-e.html</guid>
       <pubDate>Sat, 28 Mar 2026 19:30:00 +0000</pubDate>
       <dc:creator>DW News</dc:creator>
-      <category>Solar & Renewables</category>
+      <category>Solar &amp; Renewables</category>
       <description>DW examines how the conflict with Iran has exposed just how fragile global energy systems really are. Twenty percent of the world's oil and LNG flows through the Strait of Hormuz. Ten countries supply roughly 70% of global oil and gas. But there are real signs of a shift. In 2025, solar and wind provided more electricity to the EU grid than fossil fuels for the first time. Spain now gets 60% of its energy from renewables. Portugal ran entirely on green sources last year. The question is whether the transition can move fast enough.</description>
     </item>
 
