@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 12:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -26,7 +26,6 @@
       <category>Reviews</category>
       <description>Autogefühl takes the Lucid Gravity Grand Touring to Mallorca for a proper test. The numbers are hard to argue with: 123kWh battery, 400kW peak DC charging with 10 to 80% in around 23 minutes, and 3.6 seconds to 100km/h for a car that seats seven adults. Real-world range comes in around 540km (340 miles) at 100km/h and about 450km (280 miles) at 120km/h. The frunk has cup holders and a power socket and enough room to sit inside. The seat massage uses genuine vibration rather than just lumbar pressure and is the best Thomas has tested. The steering needs some fine-tuning. Apple CarPlay is coming. US pricing starts at $80,000 for the entry battery and $95,000 for this Grand Touring.</description>
     </item>
-
     <item>
       <title>Enhauto's 6.4 Update Adds Knight Rider Mode, Muted Reversing, and Track Mode Tesla Forgot to Ship</title>
       <link>https://nexusevnews.com/articles/enhauto-update-6-4-knight-rider-mode-muted-reverse-track-mode-model-y-juniper.html</link>
@@ -36,7 +35,6 @@
       <category>News</category>
       <description>Enhauto's latest firmware update for its Commander dongle and S3XY accessories adds several features Tesla hasn't built into its own software. Performance Model Y Juniper owners can now enable Track Mode through the S3XY products even though it doesn't appear in Tesla's native menus. Also new: an Actions on Reverse automation that can mute all in-car audio when backing up, a Knight Rider sweeping animation for the ambient light strip, and separate brightness settings for day and night. Brake temperature per wheel is now visible in the S3XY app, a stat Tesla doesn't surface anywhere. All products are 20% off at enhauto.com through April 16.</description>
     </item>
-
     <item>
       <title>China Just Got a Faster Zeekr 007 GT. European Buyers Are Starting Deliveries of the Previous One.</title>
       <link>https://nexusevnews.com/articles/zeekr-007-gt-china-update-900v-10-minute-charging-europe-gets-old-version.html</link>
@@ -46,7 +44,6 @@
       <category>News</category>
       <description>AutoSpec Roaming breaks down the updated Zeekr 007 GT just announced in China, right as European deliveries of the 800V version begin this summer. The China-spec car moves to a 900V architecture, adds a 6C-capable NMC battery with 10-80% charging in around 10 minutes, and gains roughly 148 extra horsepower across both motors. The AWD performance version now hits 0-100km/h in 2.84 seconds. Europe gets the 800V model with the LFP Golden Brick battery and around 400kW peak charging, which is still fast but a generation behind. The host argues Zeekr should sync their market releases. The owner forums agree loudly.</description>
     </item>
-
     <item>
       <title>Kia's EV3 Checks a Lot of Boxes for Under $35,000. Then There Are the Door Handles.</title>
       <link>https://nexusevnews.com/articles/kia-ev3-2027-under-35000-320-miles-consumer-reports-first-look.html</link>
@@ -56,7 +53,6 @@
       <category>Reviews</category>
       <description>Consumer Reports gets a first look at the 2027 Kia EV3. The standard 58.3kWh model gets around 220 miles of estimated range. The larger 81.4kWh version stretches that to 320 miles on the front-wheel-drive variant, with AWD available. DC fast charging goes from 10 to 80% in 29 to 31 minutes. Dual 12.3-inch screens, physical climate controls, a wireless charger, and USB charging points built into the rear seatbacks are all welcome. The flush door handles aren't Consumer Reports' favorite, and the rear ones sit high enough that small children may struggle to reach them. Rear seat headroom is snug for anyone over 5'10". On sale late 2026, starting just over $35,000.</description>
     </item>
-
     <item>
       <title>At the New York Auto Show, Nobody Is Going All-In on Electric Anymore</title>
       <link>https://nexusevnews.com/articles/new-york-auto-show-2026-evs-hybrids-and-market-uncertainty.html</link>
@@ -66,7 +62,6 @@
       <category>News</category>
       <description>Business Today TV reports from the 2026 New York International Auto Show, where the mood is notably cautious. US EV sales have slipped from close to 10% of total auto sales to around 6.5%, and the removal of federal purchase incentives has further dampened momentum. Subaru unveiled the Getaway, a three-row electric SUV with over 500km of range, alongside a new Forester Wilderness Hybrid. Kia showed the EV3 alongside the Seltos in gas and hybrid form. Hyundai noted its hybrid lineup is outpacing EV sales. The counterforce: rising fuel prices tied to Middle East tensions are nudging some buyers, especially in California, back toward electric. The industry picture is less a retreat from EVs and more a calculated hedge.</description>
     </item>
-
     <item>
       <title>An FSD First-Timer Takes the Wheel in Downtown LA. Tesla's Vision-Only System Passes Its Toughest Test Yet.</title>
       <link>https://nexusevnews.com/articles/an-fsd-first-timer-takes-the-wheel-in-downtown-la-tesla-s-vision-only-system-pas.html</link>
@@ -76,7 +71,6 @@
       <category>Deep Dives</category>
       <description>Motor Trend's Edward Loh hands the keys to Jonny Lieberman, who has never used Tesla FSD, and sends him through one of the most punishing test routes they could design. The 2023 Model Y running FSD v14.2.2 navigates downtown LA traffic, merges onto the world's oldest freeway with about 15 feet of acceleration lane, and climbs the narrow, line-free, storm-damaged back roads of Mount Washington on garbage day. It handles unprotected lefts, pedestrians around blind corners, a pile of rocks, and opposing traffic on a one-lane road. It also hallucinates a ghost and executes three unnecessary three-point turns before recovering. By the Rose Bowl, Jonny has barely touched the steering wheel.</description>
     </item>
-
     <item>
       <title>The AI Energy Crisis Has a Surprising Fix. Turns Out the Data Centers Are the Answer.</title>
       <link>https://nexusevnews.com/articles/the-ai-energy-crisis-has-a-surprising-fix-turns-out-the-data-centers-are-the-ans.html</link>
@@ -86,7 +80,6 @@
       <category>Solar &amp; Renewables</category>
       <description>Computer scientist Ayse Coskun spent 12 years asking whether data centers could flex their power use to match what the grid needs. The answer is yes. AI facilities run predictable, delayable workloads, making them ideal for soaking up excess solar midday and scaling back during peak demand. Her conductor platform runs on real AI data centers today, cutting power by pausing non-critical jobs without breaking performance promises. During a 2023 Texas heat wave, wholesale electricity prices spiked over 800% in a single afternoon. Flexible data center loads could have blunted that. It is a compelling case that the same technology straining the grid can also help stabilize it.</description>
     </item>
-
     <item>
       <title>Subaru's Smallest EV Is Stylish, Reasonably Priced, and Cruel to Tall Passengers in the Back</title>
       <link>https://nexusevnews.com/articles/subaru-s-smallest-ev-is-stylish-reasonably-priced-and-cruel-to-tall-passengers-i.html</link>
@@ -96,7 +89,6 @@
       <category>Reviews</category>
       <description>The 2026 Subaru Uncharted shares its platform with the Toyota C-HR but offers something Toyota doesn't: a front-wheel-drive base trim with 221 horsepower and over 300 miles of claimed range. All-wheel-drive models make 338 horsepower with around 290 miles. NACS port means Superchargers are on the table, and the Lexus-sourced interior feels genuinely upscale for the price. The sloping roofline cuts into cargo depth, the door handles sit high enough to frustrate smaller children, and anyone much over six feet will find their head pressed against the headliner in the rear seat. Good small EV. Just measure your passengers first.</description>
     </item>
-
     <item>
       <title>Tesla Missed Q1 Delivery Targets Again. It Built 50,000 More Cars Than It Sold.</title>
       <link>https://nexusevnews.com/articles/tesla-missed-q1-delivery-targets-again-it-built-50-000-more-cars-than-it-sold.html</link>
@@ -106,7 +98,6 @@
       <category>News</category>
       <description>Tesla delivered 358,023 vehicles in Q1 2026, missing analyst expectations near 369,000 and producing over 408,000 units in the same period. That 50,000-unit gap between production and deliveries is the figure analysts are watching most closely. Year-over-year deliveries rose 6.3%, but quarter-over-quarter they fell 14.4%, and some analysts now warn of a third consecutive annual decline. Tesla lost the title of world's largest EV maker to BYD last year. Bright spots include recovery in key European markets and China sales up 23%. Shares fell around 5% after the report.</description>
     </item>
-
     <item>
       <title>How Much Solar Could Your Roof Actually Generate? This Free Tool Gives You a Real Answer.</title>
       <link>https://nexusevnews.com/articles/how-much-solar-could-your-roof-actually-generate-this-free-tool-gives-you-a-real.html</link>
@@ -116,105 +107,95 @@
       <category>Solar &amp; Renewables</category>
       <description>PVWatts is a free calculator from the National Laboratory of the Rockies that estimates annual and monthly electricity output for a rooftop solar system at any address in the world. Enter your address, pick a system size, and get production numbers based on real local weather data. It is the same tool used by solar installers and researchers. If you have ever wondered whether going solar pencils out for your home, start here.</description>
     </item>
-
     <item>
-      <title>Two Wheels, Zero Gas, Room for the Groceries. Cargo E-Bikes Are Having a Moment.</title>
-      <link>https://nexusevnews.com/articles/two-wheels-zero-gas-room-for-the-groceries-cargo-e-bikes-are-having-a-moment.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/two-wheels-zero-gas-room-for-the-groceries-cargo-e-bikes-are-having-a-moment.html</guid>
-      <pubDate>Sun, 29 Mar 2026 22:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>Deep Dives</category>
-      <description>The Verge's transportation editor Andrew Hawkins tests three electric cargo bikes, rides through Brooklyn with Propel Bikes owner Cat Strain, and checks in on the bike bus movement his own town in Montclair, New Jersey helped pioneer. 234 US cities now score above the bikeability tipping point, up from just 33 in 2019. Cargo e-bikes are outselling traditional bikes. They cost a fraction of a car. But tariffs, slashed bike lane funding, and safety concerns on shared roads are real obstacles. The question is whether the momentum survives the politics. Hawkins makes a strong case that it should.</description>
-    </item>
-
-    <item>
-      <title>IONNA Just Hit 100 Charging Sites. They Built the Whole Network From Scratch in Two Years.</title>
-      <link>https://nexusevnews.com/articles/ionna-just-hit-100-charging-sites-they-built-the-whole-network-from-scratch-in-t.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ionna-just-hit-100-charging-sites-they-built-the-whole-network-from-scratch-in-t.html</guid>
-      <pubDate>Sun, 29 Mar 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Motor Trend</dc:creator>
-      <category>Charging</category>
-      <description>Motor Trend's Inevitable podcast sits down with IONNA CEO Seth Cutler, who started as employee number one in an empty Honda office in February 2024. Two years later, the eight-automaker joint venture has crossed 100 sites with canopies, bathrooms, and Amazon Just Walk Out stores. No app required. Just plug in or tap your credit card. Discount charging programs are rolling out now for all eight partner brands. Their first site? A 100-year-old gas station where crews found a buried fuel tank during construction. They got it live in nine months anyway.</description>
-    </item>
-
-    <item>
-      <title>LFP or NMC? The Battery Decision Most EV Buyers Never Think About Until It's Too Late.</title>
-      <link>https://nexusevnews.com/articles/lfp-or-nmc-the-battery-decision-most-ev-buyers-never-think-about-until-it-s-too.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/lfp-or-nmc-the-battery-decision-most-ev-buyers-never-think-about-until-it-s-too.html</guid>
-      <pubDate>Sun, 29 Mar 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Battery Bound</dc:creator>
-      <category>Battery Tech</category>
-      <description>Most people hear "LFP lasts longer" and stop there. This video breaks down why that is only part of the story. NMC holds up better in cold weather. LFP can be charged to 100% daily without stress. And an LFP car with 420 km of rated range charged to full may give you more usable daily range than a 500 km NMC car you keep between 20 and 80 percent. Factor in insurance risk, replacement costs, and resale psychology, and the "best" battery depends entirely on how you actually use your car.</description>
-    </item>
-
-    <item>
-      <title>Sodium-Ion Batteries Were Supposed to Be the Budget Option. Two New Studies Say Hold On a Second.</title>
-      <link>https://nexusevnews.com/articles/sodium-ion-batteries-were-supposed-to-be-the-budget-option-two-new-studies-say-h.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/sodium-ion-batteries-were-supposed-to-be-the-budget-option-two-new-studies-say-h.html</guid>
-      <pubDate>Sun, 29 Mar 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Just Have a Think</dc:creator>
-      <category>Battery Tech</category>
-      <description>Everybody assumed sodium-ion could never compete with lithium on performance because sodium ions are bigger, heavier, and slower. Turns out the ions were fine. The electrodes were the bottleneck. Research from Tokyo University of Science and Germany's Federal Institute for Materials Research shows that fixing how hard carbon anodes are built lets sodium charge at rates comparable to lithium in graphite. CATL is already putting sodium-ion cells in passenger cars. BYD is accelerating development. The chemistry was always capable. We just needed better engineering around it.</description>
-    </item>
-
-    <item>
-      <title>1,000 HP, 1,000 KG, and a Giant Vacuum Cleaner Underneath. Top Gear Drives the McMurtry Spéirling.</title>
-      <link>https://nexusevnews.com/articles/1-000-hp-1-000-kg-and-a-giant-vacuum-cleaner-underneath-top-gear-drives-the-mcmu.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/1-000-hp-1-000-kg-and-a-giant-vacuum-cleaner-underneath-top-gear-drives-the-mcmu.html</guid>
-      <pubDate>Sun, 29 Mar 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Top Gear</dc:creator>
+      <title>Subaru's First 3-Row EV Has AWD Standard, 420 hp, and Claims to Fit a 6-Footer in Every Row</title>
+      <link>https://nexusevnews.com/articles/subarus-first-3-row-ev-has-awd-standard-420-hp-and-claims-to-fit-a-6-footer-in-e.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/subarus-first-3-row-ev-has-awd-standard-420-hp-and-claims-to-fit-a-6-footer-in-e.html</guid>
+      <pubDate>Fri, 03 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Consumer Reports</dc:creator>
       <category>Reviews</category>
-      <description>In case you missed this one, clear your Sunday schedule. Ollie Marriage from Top Gear straps into the McMurtry Spéirling, a tiny single-seat electric car that generates 2,000 kg of downforce from a standstill using twin fans spinning at 23,000 RPM. It hit 60 mph in 1.38 seconds, reached 100 in 2.61, and left a Porsche GT3 RS looking like it was parked. Three fan modes mimic GT3, LMP1, and F1 grip levels. Ollie called it a cheat code. He also admitted to getting tunnel vision from the g-forces. It is adorable, terrifying, and the most fun you will have watching a car review today.</description>
+      <description>Consumer Reports gets an early look at the 2027 Subaru Getaway before pricing is announced. Every trim gets all-wheel drive and 420 hp as standard. Subaru claims more than 300 miles of range and a 10-to-80% charge in around 30 minutes via its NACS port, with access to the Tesla Supercharger network. The platform is shared with the Toyota Highlander EV, continuing the two brands' history of joint EV development. Interior quality has a strong Lexus influence in both hardware and feel. Subaru says a 6-foot adult fits comfortably in all three rows, and cargo volume is claimed to beat the Kia EV9 with seats folded. No pricing yet. On sale late 2027.</description>
     </item>
-
     <item>
-      <title>Slate Drove Their Electric Pickup Through 10 Inches of Frozen Slush, Then Froze It Solid. Here's What Happened.</title>
-      <link>https://nexusevnews.com/articles/slate-drove-their-electric-pickup-through-10-inches-of-frozen-slush-then-froze-i.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-drove-their-electric-pickup-through-10-inches-of-frozen-slush-then-froze-i.html</guid>
-      <pubDate>Sat, 28 Mar 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Slate Auto</dc:creator>
-      <category>Deep Dives</category>
-      <description>Slate Auto hauled its electric pickup to Keweenaw Research Center in Michigan's Upper Peninsula for a full cold weather torture test. The program included driving through slush troughs, freezing vehicles in cold chambers, running dynamics courses on ice, and then checking if everything still works the next morning. After a full freeze-and-thaw cycle, the brakes released on their own, nothing broke underneath, and the truck came out under its own power. Slate is targeting deliveries by the end of 2026, and this is the kind of behind-the-scenes engineering footage that usually stays internal.</description>
-    </item>
-
-    <item>
-      <title>Cybercabs Are Showing Up Everywhere, Elon Is Teasing a Mystery Vehicle, and Sony's 'PlayStation Car' Just Died</title>
-      <link>https://nexusevnews.com/articles/cybercabs-are-showing-up-everywhere-elon-is-teasing-a-mystery-vehicle-and-sony-s.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/cybercabs-are-showing-up-everywhere-elon-is-teasing-a-mystery-vehicle-and-sony-s.html</guid>
-      <pubDate>Sat, 28 Mar 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Ryan Shaw</dc:creator>
+      <title>BYD's 1,500 kW Flash Charger Can Refuel a Car in 11 Minutes. Thousands Were Already Installed Before the Launch.</title>
+      <link>https://nexusevnews.com/articles/byds-1500-kw-flash-charger-can-refuel-a-car-in-11-minutes-thousands-were-already.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/byds-1500-kw-flash-charger-can-refuel-a-car-in-11-minutes-thousands-were-already.html</guid>
+      <pubDate>Fri, 03 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric</dc:creator>
       <category>News</category>
-      <description>A packed week in Tesla and EV news. Cybercabs have been spotted driverless in San Francisco, Palo Alto, and Oklahoma City. A robotaxi staging lot full of Model Ys turned up in Dallas. The Cybercab has a clever new door handle that solves a real safety problem with emergency exits. Elon teased a new vehicle larger than the Model Y. The Tesla Semi made it onto Jay Leno's Garage. Uber put $1.25 billion into Rivian for autonomous R2 robotaxis. And Sony and Honda officially killed the Afeela weeks before its first customer deliveries. That's not even the full list.</description>
+      <description>Everything Electric's weekly roundup leads with BYD's flash charging network: 1,500 kW chargers designed for passenger cars, targeting a 10-to-80% charge in around 11 minutes. More than 4,000 stations were already live before the official announcement, with 20,000 more planned across China this year. Also covered: disused UK coal mines are heating homes in Gateshead via warm groundwater a kilometre underground; Aberdeen City Council scrapped its entire 25-vehicle hydrogen bus fleet after its refuelling station went offline in 2024; the Denza Z9 GT claims 644 miles on a single charge; and Germany has surpassed 2 million registered EVs.</description>
     </item>
-
     <item>
-      <title>A 1,100 HP Electric Porsche in the Spanish Mountains. Miles Somerville Says It Might Be the Best SUV He's Ever Driven.</title>
-      <link>https://nexusevnews.com/articles/a-1-100-hp-electric-porsche-in-the-spanish-mountains-miles-somerville-says-it-mi.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/a-1-100-hp-electric-porsche-in-the-spanish-mountains-miles-somerville-says-it-mi.html</guid>
-      <pubDate>Sat, 28 Mar 2026 20:30:00 +0000</pubDate>
-      <dc:creator>MKBHD Inc</dc:creator>
+      <title>Rivian Delivered 10,365 Vehicles in Q1 and Isn't Flinching on Full-Year Guidance</title>
+      <link>https://nexusevnews.com/articles/rivian-delivered-10365-vehicles-in-q1-and-isnt-flinching-on-full-year-guidance.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-delivered-10365-vehicles-in-q1-and-isnt-flinching-on-full-year-guidance.html</guid>
+      <pubDate>Fri, 03 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>RivianTrackr</dc:creator>
+      <category>News</category>
+      <description>Rivian produced 10,236 vehicles and delivered 10,365 at its Normal, Illinois plant in the quarter ending March 31, 2026. No surprises, no missed targets. Deliveries outpaced production slightly, which points to tight inventory management rather than any demand concern. The company held its full-year guidance of 62,000 to 67,000 vehicles for 2026. Full Q1 financials drop April 30 after market close, followed by an audio webcast at 5 p.m. ET where margins, costs, and the R2 production ramp will come into focus.</description>
+    </item>
+    <item>
+      <title>US EV Sales Fell to 6.5% After the Tax Credit Was Cut. Rising Fuel Prices Are Pushing Buyers Back.</title>
+      <link>https://nexusevnews.com/articles/us-ev-sales-fell-to-65-after-the-tax-credit-was-cut-rising-fuel-prices-are-pushi.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/us-ev-sales-fell-to-65-after-the-tax-credit-was-cut-rising-fuel-prices-are-pushi.html</guid>
+      <pubDate>Fri, 03 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Reuters</dc:creator>
+      <category>News</category>
+      <description>At the New York Auto Show, automakers unveiled new EVs into a market still finding its footing. EV sales hit 9.6% of all US vehicle sales in 2025, then dropped to 6.5% in the three months after the $7,500 federal tax credit expired on September 30, the lowest level since early 2022. Rising petrol prices are beginning to shift the picture. Kia's head of corporate communications called the slowdown a short-term blip; Cox Automotive's Aaron Keating noted more buyers are researching EVs, driven partly by people who were already considering hybrids. Kia's lower-priced EV3 and the Subaru Getaway are among the new models arriving later this year.</description>
+    </item>
+    <item>
+      <title>Australia's Most Affordable New EV Hatch Starts at $31,990. Just Watch the DC Charging Rate.</title>
+      <link>https://nexusevnews.com/articles/australias-most-affordable-new-ev-hatch-starts-at-31990-just-watch-the-dc-chargi.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/australias-most-affordable-new-ev-hatch-starts-at-31990-just-watch-the-dc-chargi.html</guid>
+      <pubDate>Fri, 03 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>The Driven</dc:creator>
       <category>Reviews</category>
-      <description>Miles Somerville from the MKBHD team got seat time in both the Cayenne Electric Turbo and the standard model on wet mountain roads outside Barcelona. The Turbo makes over 1,100 horsepower in launch mode, hits 60 in 2.3 seconds, and nearly cracks a sub-10 quarter mile. But the real story is Porsche's active ride suspension, which kills body roll and makes a 6,000-pound SUV feel composed through tight switchbacks. The base model runs about $120,000 optioned out and is arguably the smarter buy. The Turbo sits near $230,000. Miles admits it's probably too much car.</description>
+      <description>Sam and Sarah from The Driven take the Aion UT for a first drive around Sydney. The base model starts at $31,990 drive away, with the luxury variant sitting around $35,000 to $36,000, making it one of the most affordable new EVs in Australia. It carries a 60 kWh LFP battery with 420 km of claimed range and 11 kW AC charging. The sticking point is 87 kW DC charging, which puts the 30-to-80% window at around 24 minutes. Fine for city use and the odd longer trip, but noticeable if you road trip regularly. Cabin is quiet, regen is decent, and early ride impressions are good. Full review to follow.</description>
     </item>
-
     <item>
-      <title>Rivian Just Unlocked Another $1 Billion From Volkswagen After Their Joint Venture Passed Winter Testing</title>
-      <link>https://nexusevnews.com/articles/rivian-just-unlocked-another-1-billion-from-volkswagen-after-their-joint-venture.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-just-unlocked-another-1-billion-from-volkswagen-after-their-joint-venture.html</guid>
-      <pubDate>Sat, 28 Mar 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Rivian Trackr</dc:creator>
+      <title>Rivian's CEO on AI, Autonomy, and Why Humanoid Robots Are the Wrong Answer to Most Problems</title>
+      <link>https://nexusevnews.com/articles/rivians-ceo-on-ai-autonomy-and-why-humanoid-robots-are-the-wrong-answer-to-most.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivians-ceo-on-ai-autonomy-and-why-humanoid-robots-are-the-wrong-answer-to-most.html</guid>
+      <pubDate>Thu, 02 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>YouTube</dc:creator>
+      <category>Deep Dives</category>
+      <description>Rivian CEO RJ Scaringe explains why R2 launched with a Gen 2.5 sensor suite rather than full Gen 3 hardware, then walks the autonomy roadmap: point-to-point navigation by end of 2026, hands-off eyes-off Level 3 in early 2027, broader rollout by late 2027. He breaks down how Rivian's forward-facing LiDAR trains their large driving model, argues that humanoid robots are the wrong tool for most jobs, and coins the phrase "personal level four" as the real destination. He also previews Rivian's industrial robotics work and shares why having kids changed his view on whether personal car ownership will ever disappear.</description>
+    </item>
+    <item>
+      <title>Scotland's Mail Planes Just Went Electric. Each Flight Costs About $20 in Electricity.</title>
+      <link>https://nexusevnews.com/articles/scotlands-mail-planes-just-went-electric-each-flight-costs-about-20-in-electrici.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/scotlands-mail-planes-just-went-electric-each-flight-costs-about-20-in-electrici.html</guid>
+      <pubDate>Thu, 02 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>STV News</dc:creator>
       <category>News</category>
-      <description>The Rivian-Volkswagen joint venture, RV Tech, completed winter testing of its new zonal electrical architecture across Arizona heat and Swedish cold. The first vehicle running on this system is the VW ID.EVERY1. The milestone triggers another $1 billion investment from VW, split between $750 million in equity and $250 million in equity or convertible debt. VW has now put over $3 billion into Rivian through the partnership, with up to $5.8 billion possible if all targets are met.</description>
+      <description>Loganair partnered with Beta Technologies and Royal Mail to complete Scotland's first commercial electric airline trial across a full network. The aircraft flew routes between Glasgow, Dundee, Aberdeen, Inverness, Wick, and Orkney, delivering mail to remote communities. Each flight averaged around $20 in electricity, roughly an 80% reduction versus jet fuel on the same routes. It covers more than 300 nautical miles per charge, recharges in 30 to 40 minutes, and needs no new airport infrastructure. UK and European aviation authority sign-off is the next step.</description>
     </item>
-
     <item>
-      <title>80% of the World's Energy Still Comes From Fossil Fuels. The Iran War Is Showing Exactly What That Means.</title>
-      <link>https://nexusevnews.com/articles/80-of-the-world-s-energy-still-comes-from-fossil-fuels-the-iran-war-is-showing-e.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/80-of-the-world-s-energy-still-comes-from-fossil-fuels-the-iran-war-is-showing-e.html</guid>
-      <pubDate>Sat, 28 Mar 2026 19:30:00 +0000</pubDate>
-      <dc:creator>DW News</dc:creator>
-      <category>Solar &amp; Renewables</category>
-      <description>DW examines how the conflict with Iran has exposed just how fragile global energy systems really are. Twenty percent of the world's oil and LNG flows through the Strait of Hormuz. Ten countries supply roughly 70% of global oil and gas. But there are real signs of a shift. In 2025, solar and wind provided more electricity to the EU grid than fossil fuels for the first time. Spain now gets 60% of its energy from renewables. Portugal ran entirely on green sources last year. The question is whether the transition can move fast enough.</description>
+      <title>China Was Installing 100 Solar Panels a Second. It Was Also Building New Coal Plants at the Same Time.</title>
+      <link>https://nexusevnews.com/articles/china-was-installing-100-solar-panels-a-second-it-was-also-building-new-coal-pla.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/china-was-installing-100-solar-panels-a-second-it-was-also-building-new-coal-pla.html</guid>
+      <pubDate>Thu, 02 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>BBC World Service</dc:creator>
+      <category>Solar</category>
+      <description>BBC China correspondent Laura Bicker travels from Inner Mongolia to Yunnan to see the renewable buildout at ground level. She finds sheep grazing inside solar installations, panels shaped like a horse, and one of Asia's largest floating solar farms built over a collapsed coal mine in Anhui province. At peak pace, China was installing around 100 solar panels per second. Coal still accounts for roughly half of all Chinese energy production and emissions were only beginning to flatten by the end of 2025. The government leads with energy security and jobs; clean air is the bonus.</description>
+    </item>
+    <item>
+      <title>The Renault Twingo Could Be the UK's Cheapest New EV. Possibly Under £17K, 163 Miles, LFP Battery.</title>
+      <link>https://nexusevnews.com/articles/the-renault-twingo-could-be-the-uks-cheapest-new-ev-possibly-under-17k-163-miles.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-renault-twingo-could-be-the-uks-cheapest-new-ev-possibly-under-17k-163-miles.html</guid>
+      <pubDate>Thu, 02 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>What Car</dc:creator>
+      <category>Reviews</category>
+      <description>What Car gets an early drive before the Twingo hits UK showrooms. Prices start under £20,000, possibly dropping below £17,000 if the battery supply shifts from China to Hungary and qualifies for the full £3,750 EV grant. The 27 kWh LFP battery is a first for Renault and can be charged to 100% daily without hurting longevity. Official range is 163 miles; a 50 kW DC charger adds around 114 miles in 30 minutes from 10%. In town it is excellent: a 9.9-meter turning circle and a more precise brake pedal than the Renault 5. At 80hp and 12.1 seconds to 60 it is slow, but noticeably more composed beyond town than cheaper rivals.</description>
+    </item>
+    <item>
+      <title>EU Petrol Prices Jumped 12% in Three Weeks. Used EV Sales in France Nearly Doubled.</title>
+      <link>https://nexusevnews.com/articles/eu-petrol-prices-jumped-12-in-three-weeks-used-ev-sales-in-france-nearly-doubled.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/eu-petrol-prices-jumped-12-in-three-weeks-used-ev-sales-in-france-nearly-doubled.html</guid>
+      <pubDate>Thu, 02 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Reuters</dc:creator>
+      <category>News</category>
+      <description>The Iran conflict disrupted a shipping route carrying roughly 20% of global oil supplies, pushing average EU petrol prices up 12% between February 23 and March 16. French used car platform Aramis Auto, majority owned by Stellantis, saw its share of EV sales nearly double from mid-February over that period. Petrol models fell from 34% to 28% of sales; diesel dropped from 14% to 10%. The company saw a similar surge when Russia invaded Ukraine in 2022. Used EVs react fast to fuel price spikes, partly because they run around 40% cheaper than new models.</description>
     </item>
 
 
