@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>BMW's New iX3 Just Made the Audi Q6 e-tron Look 18 Months Old</title>
+      <link>https://nexusevnews.com/articles/bmw-ix3-vs-audi-q6-etron-neue-klasse-takes-the-crown.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-vs-audi-q6-etron-neue-klasse-takes-the-crown.html</guid>
+      <pubDate>Mon, 06 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>Reviews</category>
+      <description>Electrifying puts BMW's Neue Klasse iX3 head to head with the Audi Q6 e-tron. The iX3 packs a 108.7kWh usable battery with new cylindrical cells, 400kW peak charging, and a WLTP range of up to 500 miles. Real-world winter testing returned 3.4 miles per kWh, roughly 360 miles. The only launch spec is the xDrive50 with 469 horsepower and AWD, starting just over £60,000. The Q6 tops out at 270kW charging, returned about 3 miles per kWh in testing, and the comparable Quattro starts around £68,000. The BMW rides better, charges faster, goes further, and costs less. Electrifying's verdict: the best spec of the Q6 e-tron you can buy is a BMW iX3.</description>
+    </item>
+
+    <item>
+      <title>Rivian Just Outsold Ford, Toyota, and BMW in EVs. The R2 Hasn't Even Shipped Yet.</title>
+      <link>https://nexusevnews.com/articles/rivian-outsells-ford-toyota-bmw-q1-2026-ev-deliveries.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-outsells-ford-toyota-bmw-q1-2026-ev-deliveries.html</guid>
+      <pubDate>Mon, 06 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>RivianTrackr</dc:creator>
+      <category>News</category>
+      <description>Rivian delivered 10,365 electric vehicles in Q1 2026, a 20% jump year over year while most of the industry went the other direction. Ford's EV sales fell 70% to 6,860 units. Toyota's BEV total landed at 10,029, just behind Rivian. BMW's combined BEV and PHEV US sales dropped 50% to 9,856. Rivian pulled this off with no new model on sale, no federal tax credit, and production nearly matching deliveries. The R2 starts shipping soon. Full financials drop April 30.</description>
+    </item>
+
+    <item>
+      <title>The Rivian R1T Quad Has 1,025 HP, a Gear Tunnel, and a Flashlight That's Always Charging</title>
+      <link>https://nexusevnews.com/articles/rivian-r1t-quad-motor-review-1025hp-gear-tunnel-kick-turn.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r1t-quad-motor-review-1025hp-gear-tunnel-kick-turn.html</guid>
+      <pubDate>Mon, 06 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>CarGurus</dc:creator>
+      <category>Reviews</category>
+      <description>CarGurus takes the fully loaded Rivian R1T Quad Motor off-road and comes away calling it one of the best vehicles they've driven. The quad motor delivers 1,025 horsepower and 1,195 lb-ft of torque, hitting 60 in under 3 seconds on summer tires. Range sits between 325 and 374 miles depending on wheels and tires. The gear tunnel between cab and bed is a clever use of dead space, and the built-in flashlight in the driver's door is always charged and ready. The kick turn feature spins the truck in place on tight trails. The wood dashboard trim is a $3,000 option the reviewer, a self-described woodworker, considers worth every cent. As-tested: over $123,000.</description>
+    </item>
+
+    <item>
+      <title>This German Charging Hub Has 28 Stalls, a Grocery Store, and Almost Nobody Using It</title>
+      <link>https://nexusevnews.com/articles/aral-pulse-gigahub-germany-28-stall-charging-site-tour.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/aral-pulse-gigahub-germany-28-stall-charging-site-tour.html</guid>
+      <pubDate>Mon, 06 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec BITS</dc:creator>
+      <category>Charging</category>
+      <description>Out of Spec BITS tours the Aral Pulse Gigahub in Mönchengladbach, Germany, a flagship EV charging site with 14 Alpitronic Hypercharger 400s serving 28 stalls under a solar roof. The hardware is top shelf: 500-amp cables, tap-to-pay terminals, and covered parking. There's a self-service REWE grocery store, a driver's lounge, vending machines, spotless self-cleaning restrooms, and vacuum stations. Ad hoc pricing runs about 79 euro cents per kWh, steep even by German standards. Through the app it drops to around 54 cents. The site is gorgeous and nearly empty both times the host has visited. Location and cost seem to be keeping drivers away.</description>
+    </item>
+
+    <item>
+      <title>Oil Prices Spiked After Iran Closed the Strait of Hormuz. China's EV Drivers Barely Noticed.</title>
+      <link>https://nexusevnews.com/articles/china-ev-drivers-shielded-from-oil-shock-iran-strait-of-hormuz.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/china-ev-drivers-shielded-from-oil-shock-iran-strait-of-hormuz.html</guid>
+      <pubDate>Mon, 06 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Reuters</dc:creator>
+      <category>News</category>
+      <description>Reuters reports on how China's massive EV fleet is cushioning the country from the worst of the oil price shock caused by Iran's closure of the Strait of Hormuz. Truck and taxi drivers say electricity prices have barely moved while fuel costs surge. The auto sector accounts for about 40% of China's oil consumption, and EVs now make up more than half of passenger vehicle sales. An Economist Intelligence Unit analyst says oil demand from Chinese road transport is no longer driving growth. China's total EV fleet is now roughly the size of the rest of the world's combined.</description>
+    </item>
 
     <item>
       <title>The Lucid Gravity Sprints to 100 in 3.6 Seconds, Then Asks If You Would Like a Massage</title>
@@ -167,55 +217,6 @@
       <description>In case you missed this one, clear your Sunday schedule. Ollie Marriage from Top Gear straps into the McMurtry Spéirling, a tiny single-seat electric car that generates 2,000 kg of downforce from a standstill using twin fans spinning at 23,000 RPM. It hit 60 mph in 1.38 seconds, reached 100 in 2.61, and left a Porsche GT3 RS looking like it was parked. Three fan modes mimic GT3, LMP1, and F1 grip levels. Ollie called it a cheat code. He also admitted to getting tunnel vision from the g-forces. It is adorable, terrifying, and the most fun you will have watching a car review today.</description>
     </item>
 
-    <item>
-      <title>Slate Drove Their Electric Pickup Through 10 Inches of Frozen Slush, Then Froze It Solid. Here's What Happened.</title>
-      <link>https://nexusevnews.com/articles/slate-drove-their-electric-pickup-through-10-inches-of-frozen-slush-then-froze-i.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-drove-their-electric-pickup-through-10-inches-of-frozen-slush-then-froze-i.html</guid>
-      <pubDate>Sat, 28 Mar 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Slate Auto</dc:creator>
-      <category>Deep Dives</category>
-      <description>Slate Auto hauled its electric pickup to Keweenaw Research Center in Michigan's Upper Peninsula for a full cold weather torture test. The program included driving through slush troughs, freezing vehicles in cold chambers, running dynamics courses on ice, and then checking if everything still works the next morning. After a full freeze-and-thaw cycle, the brakes released on their own, nothing broke underneath, and the truck came out under its own power. Slate is targeting deliveries by the end of 2026, and this is the kind of behind-the-scenes engineering footage that usually stays internal.</description>
-    </item>
-
-    <item>
-      <title>Cybercabs Are Showing Up Everywhere, Elon Is Teasing a Mystery Vehicle, and Sony's 'PlayStation Car' Just Died</title>
-      <link>https://nexusevnews.com/articles/cybercabs-are-showing-up-everywhere-elon-is-teasing-a-mystery-vehicle-and-sony-s.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/cybercabs-are-showing-up-everywhere-elon-is-teasing-a-mystery-vehicle-and-sony-s.html</guid>
-      <pubDate>Sat, 28 Mar 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Ryan Shaw</dc:creator>
-      <category>News</category>
-      <description>A packed week in Tesla and EV news. Cybercabs have been spotted driverless in San Francisco, Palo Alto, and Oklahoma City. A robotaxi staging lot full of Model Ys turned up in Dallas. The Cybercab has a clever new door handle that solves a real safety problem with emergency exits. Elon teased a new vehicle larger than the Model Y. The Tesla Semi made it onto Jay Leno's Garage. Uber put $1.25 billion into Rivian for autonomous R2 robotaxis. And Sony and Honda officially killed the Afeela weeks before its first customer deliveries. That's not even the full list.</description>
-    </item>
-
-    <item>
-      <title>A 1,100 HP Electric Porsche in the Spanish Mountains. Miles Somerville Says It Might Be the Best SUV He's Ever Driven.</title>
-      <link>https://nexusevnews.com/articles/a-1-100-hp-electric-porsche-in-the-spanish-mountains-miles-somerville-says-it-mi.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/a-1-100-hp-electric-porsche-in-the-spanish-mountains-miles-somerville-says-it-mi.html</guid>
-      <pubDate>Sat, 28 Mar 2026 20:30:00 +0000</pubDate>
-      <dc:creator>MKBHD Inc</dc:creator>
-      <category>Reviews</category>
-      <description>Miles Somerville from the MKBHD team got seat time in both the Cayenne Electric Turbo and the standard model on wet mountain roads outside Barcelona. The Turbo makes over 1,100 horsepower in launch mode, hits 60 in 2.3 seconds, and nearly cracks a sub-10 quarter mile. But the real story is Porsche's active ride suspension, which kills body roll and makes a 6,000-pound SUV feel composed through tight switchbacks. The base model runs about $120,000 optioned out and is arguably the smarter buy. The Turbo sits near $230,000. Miles admits it's probably too much car.</description>
-    </item>
-
-    <item>
-      <title>Rivian Just Unlocked Another $1 Billion From Volkswagen After Their Joint Venture Passed Winter Testing</title>
-      <link>https://nexusevnews.com/articles/rivian-just-unlocked-another-1-billion-from-volkswagen-after-their-joint-venture.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-just-unlocked-another-1-billion-from-volkswagen-after-their-joint-venture.html</guid>
-      <pubDate>Sat, 28 Mar 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Rivian Trackr</dc:creator>
-      <category>News</category>
-      <description>The Rivian-Volkswagen joint venture, RV Tech, completed winter testing of its new zonal electrical architecture across Arizona heat and Swedish cold. The first vehicle running on this system is the VW ID.EVERY1. The milestone triggers another $1 billion investment from VW, split between $750 million in equity and $250 million in equity or convertible debt. VW has now put over $3 billion into Rivian through the partnership, with up to $5.8 billion possible if all targets are met.</description>
-    </item>
-
-    <item>
-      <title>80% of the World's Energy Still Comes From Fossil Fuels. The Iran War Is Showing Exactly What That Means.</title>
-      <link>https://nexusevnews.com/articles/80-of-the-world-s-energy-still-comes-from-fossil-fuels-the-iran-war-is-showing-e.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/80-of-the-world-s-energy-still-comes-from-fossil-fuels-the-iran-war-is-showing-e.html</guid>
-      <pubDate>Sat, 28 Mar 2026 19:30:00 +0000</pubDate>
-      <dc:creator>DW News</dc:creator>
-      <category>Solar &amp; Renewables</category>
-      <description>DW examines how the conflict with Iran has exposed just how fragile global energy systems really are. Twenty percent of the world's oil and LNG flows through the Strait of Hormuz. Ten countries supply roughly 70% of global oil and gas. But there are real signs of a shift. In 2025, solar and wind provided more electricity to the EU grid than fossil fuels for the first time. Spain now gets 60% of its energy from renewables. Portugal ran entirely on green sources last year. The question is whether the transition can move fast enough.</description>
-    </item>
 
 
   </channel>
