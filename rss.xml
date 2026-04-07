@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -18,7 +18,54 @@
     <category>Battery Technology</category>
 
     <item>
-      <title>BMW's New iX3 Just Made the Audi Q6 e-tron Look 18 Months Old</title>
+      <title>No Grid, No Problem: The Off-Grid Solar Station Running 24/7 on the LA-to-Vegas Route</title>
+      <link>https://nexusevnews.com/articles/off-grid-solar-ev-charging-station-i15-mojave-desert-power-station-charging.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/off-grid-solar-ev-charging-station-i15-mojave-desert-power-station-charging.html</guid>
+      <pubDate>Tue, 07 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Scott's Smart Home</dc:creator>
+      <category>Solar &amp; Renewables</category>
+      <description>A startup called Power Station Charging opened its first site off I-15 in the Mojave Desert between Barstow and Baker, drawing zero power from the grid. It pairs 1,080 solar panels generating up to 640kW with 3.5 megawatt-hours of on-site battery storage to stay open around the clock. Four CCS fast chargers share up to 360kW right now, and the host pulled 177kW with one other car charging simultaneously on his 800V vehicle. Six NACS plugs arrive later this year. Charging is free until the end of May, then shifting to demand-based pricing the company says will undercut nearby fast chargers.</description>
+    </item>
+
+    <item>
+      <title>Scout Is Back: Body-on-Frame EVs With 35-Inch Tires and a Range Extender That Hits 500 Miles</title>
+      <link>https://nexusevnews.com/articles/scout-motors-traveler-terra-ev-harvester-range-extender-500-miles.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/scout-motors-traveler-terra-ev-harvester-range-extender-500-miles.html</guid>
+      <pubDate>Tue, 07 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Forbes</dc:creator>
+      <category>News</category>
+      <description>Scout Motors, revived by Volkswagen Group after acquiring the International Harvester nameplate, is presenting its debut lineup: the Traveler SUV and the Terra pickup. Both are body-on-frame with 35-inch tires from the factory and serious off-road hardware baked in. The full EV version targets 350 miles of range. A range-extender version called the Harvester packages a small fuel tank and four-cylinder engine behind the rear axle, pushing total range past 500 miles for road trips without EV routing stress. Tactile switches sit below the touchscreen for eyes-free muscle-memory control, and an optional front bench seat is a deliberate nod to the original trucks.</description>
+    </item>
+
+    <item>
+      <title>Gas Hit $4 a Gallon in the US. Australians Are Panic-Buying Fuel. In China, EV Drivers Shrugged.</title>
+      <link>https://nexusevnews.com/articles/gas-prices-4-dollars-us-australia-panic-buying-china-ev-advantage-oil-shock.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/gas-prices-4-dollars-us-australia-panic-buying-china-ev-advantage-oil-shock.html</guid>
+      <pubDate>Tue, 07 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>France 24 English</dc:creator>
+      <category>News</category>
+      <description>France 24 covers the oil price shock hitting consumers differently around the world. In the US, regular gasoline crossed $4 a gallon for the first time since Russia's 2022 invasion of Ukraine. Australian motorists bought 30% more fuel over Easter weekend than the year before. China holds roughly 1.4 billion barrels in strategic reserves and has directed hundreds of billions in subsidies into EVs over two decades. Today EVs account for more than half of new passenger car sales, and the country's fleet is 12% electric. Commercial drivers running battery-powered trucks say electricity prices barely moved while petroleum costs surged.</description>
+    </item>
+
+    <item>
+      <title>The 35-Year Safety Engineer TELO Recruited From Tesla Has a Lot to Say About Big Bumpers</title>
+      <link>https://nexusevnews.com/articles/telo-trucks-madan-gopal-crash-safety-expert-tesla-dual-load-path.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/telo-trucks-madan-gopal-crash-safety-expert-tesla-dual-load-path.html</guid>
+      <pubDate>Tue, 07 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>TELO Trucks</dc:creator>
+      <category>Deep Dives</category>
+      <description>TELO Trucks introduces Madan Gopal, a safety engineer who spent 15 years at Tesla working on programs including the Model S, Model 3, Cybertruck, Semi, and robo-taxi before retiring and joining TELO as a consultant. His case: small EVs can be built for excellent crash performance because their compact motors free up space for a second load path that traditional ICE vehicles simply cannot use with a 300kg engine blocking the front. He explains why crash tests are run at 35 to 40 mph, why bolting an aftermarket steel bumper to your truck can cause airbags to fire at the wrong moment, and why that custom leather seat cover might be quietly disabling your side airbag.</description>
+    </item>
+
+    <item>
+      <title>An R1S Owner Takes His Kids to the R2 Block Party. The Frunk Is Nearly the Same Size.</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-block-party-venice-rivian-space-r1s-owner-first-look.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-block-party-venice-rivian-space-r1s-owner-first-look.html</guid>
+      <pubDate>Tue, 07 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>True_Dad</dc:creator>
+      <category>News</category>
+      <description>True_Dad drove his R1S to the Venice Rivian Space to check out the R2 with his family, conveniently rolling over 20,000 miles on the way there. Five R2s were on display in different colors with various wheel and tire packages. The frunk is close to R1S-sized. Back seat legroom is solid but you sit lower, which means higher knees. Cargo space is in Honda CRV or Toyota RAV4 territory. The R2's side slats keep mud from splashing up the body, something his R1S doesn't have. One gripe: wood inlay is the only interior trim on offer.</description>
+    </item>
       <link>https://nexusevnews.com/articles/bmw-ix3-vs-audi-q6-etron-neue-klasse-takes-the-crown.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-vs-audi-q6-etron-neue-klasse-takes-the-crown.html</guid>
       <pubDate>Mon, 06 Apr 2026 22:00:00 +0000</pubDate>
@@ -177,45 +224,6 @@
       <description>The Verge's transportation editor Andrew Hawkins tests three electric cargo bikes, rides through Brooklyn with Propel Bikes owner Cat Strain, and checks in on the bike bus movement his own town in Montclair, New Jersey helped pioneer. 234 US cities now score above the bikeability tipping point, up from just 33 in 2019. Cargo e-bikes are outselling traditional bikes. They cost a fraction of a car. But tariffs, slashed bike lane funding, and safety concerns on shared roads are real obstacles. The question is whether the momentum survives the politics. Hawkins makes a strong case that it should.</description>
     </item>
 
-    <item>
-      <title>IONNA Just Hit 100 Charging Sites. They Built the Whole Network From Scratch in Two Years.</title>
-      <link>https://nexusevnews.com/articles/ionna-just-hit-100-charging-sites-they-built-the-whole-network-from-scratch-in-t.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ionna-just-hit-100-charging-sites-they-built-the-whole-network-from-scratch-in-t.html</guid>
-      <pubDate>Sun, 29 Mar 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Motor Trend</dc:creator>
-      <category>Charging</category>
-      <description>Motor Trend's Inevitable podcast sits down with IONNA CEO Seth Cutler, who started as employee number one in an empty Honda office in February 2024. Two years later, the eight-automaker joint venture has crossed 100 sites with canopies, bathrooms, and Amazon Just Walk Out stores. No app required. Just plug in or tap your credit card. Discount charging programs are rolling out now for all eight partner brands. Their first site? A 100-year-old gas station where crews found a buried fuel tank during construction. They got it live in nine months anyway.</description>
-    </item>
-
-    <item>
-      <title>LFP or NMC? The Battery Decision Most EV Buyers Never Think About Until It's Too Late.</title>
-      <link>https://nexusevnews.com/articles/lfp-or-nmc-the-battery-decision-most-ev-buyers-never-think-about-until-it-s-too.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/lfp-or-nmc-the-battery-decision-most-ev-buyers-never-think-about-until-it-s-too.html</guid>
-      <pubDate>Sun, 29 Mar 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Battery Bound</dc:creator>
-      <category>Battery Tech</category>
-      <description>Most people hear "LFP lasts longer" and stop there. This video breaks down why that is only part of the story. NMC holds up better in cold weather. LFP can be charged to 100% daily without stress. And an LFP car with 420 km of rated range charged to full may give you more usable daily range than a 500 km NMC car you keep between 20 and 80 percent. Factor in insurance risk, replacement costs, and resale psychology, and the "best" battery depends entirely on how you actually use your car.</description>
-    </item>
-
-    <item>
-      <title>Sodium-Ion Batteries Were Supposed to Be the Budget Option. Two New Studies Say Hold On a Second.</title>
-      <link>https://nexusevnews.com/articles/sodium-ion-batteries-were-supposed-to-be-the-budget-option-two-new-studies-say-h.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/sodium-ion-batteries-were-supposed-to-be-the-budget-option-two-new-studies-say-h.html</guid>
-      <pubDate>Sun, 29 Mar 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Just Have a Think</dc:creator>
-      <category>Battery Tech</category>
-      <description>Everybody assumed sodium-ion could never compete with lithium on performance because sodium ions are bigger, heavier, and slower. Turns out the ions were fine. The electrodes were the bottleneck. Research from Tokyo University of Science and Germany's Federal Institute for Materials Research shows that fixing how hard carbon anodes are built lets sodium charge at rates comparable to lithium in graphite. CATL is already putting sodium-ion cells in passenger cars. BYD is accelerating development. The chemistry was always capable. We just needed better engineering around it.</description>
-    </item>
-
-    <item>
-      <title>1,000 HP, 1,000 KG, and a Giant Vacuum Cleaner Underneath. Top Gear Drives the McMurtry Spéirling.</title>
-      <link>https://nexusevnews.com/articles/1-000-hp-1-000-kg-and-a-giant-vacuum-cleaner-underneath-top-gear-drives-the-mcmu.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/1-000-hp-1-000-kg-and-a-giant-vacuum-cleaner-underneath-top-gear-drives-the-mcmu.html</guid>
-      <pubDate>Sun, 29 Mar 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Top Gear</dc:creator>
-      <category>Reviews</category>
-      <description>In case you missed this one, clear your Sunday schedule. Ollie Marriage from Top Gear straps into the McMurtry Spéirling, a tiny single-seat electric car that generates 2,000 kg of downforce from a standstill using twin fans spinning at 23,000 RPM. It hit 60 mph in 1.38 seconds, reached 100 in 2.61, and left a Porsche GT3 RS looking like it was parked. Three fan modes mimic GT3, LMP1, and F1 grip levels. Ollie called it a cheat code. He also admitted to getting tunnel vision from the g-forces. It is adorable, terrifying, and the most fun you will have watching a car review today.</description>
-    </item>
 
 
 
