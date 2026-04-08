@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5TSZNJ78Y5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-5TSZNJ78Y5');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="canonical" href="https://nexusevnews.com/articles/tesla-fsd-14-3-first-drive-20-percent-faster-reaction-time.html">
+  <title>Tesla FSD 14.3 Is Out. The AI Compiler Was Rebuilt, and Reaction Time Is 20% Faster. | nexusEVnews</title>
+  <meta name="description" content="Dirty Tesla takes FSD 14.3 on a first drive. Tesla rewrote the AI compiler using MLIR for 20% faster reactions. The car reads do-not-enter signs, avoids a real near-miss, and pothole avoidance is coming.">
+  <meta name="robots" content="index, follow">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Tesla FSD 14.3 Is Out. The AI Compiler Was Rebuilt, and Reaction Time Is 20% Faster.">
+  <meta property="og:description" content="Dirty Tesla takes FSD 14.3 on a first drive. Tesla rewrote the AI compiler using MLIR for 20% faster reactions. The car reads signs, avoids a near-miss, and pothole avoidance is coming.">
+  <meta property="og:image" content="https://img.youtube.com/vi/_e2lP1F7JQ0/maxresdefault.jpg">
+  <meta property="og:url" content="https://nexusevnews.com/articles/tesla-fsd-14-3-first-drive-20-percent-faster-reaction-time.html">
+  <meta property="article:published_time" content="2026-04-08T19:30:00+00:00">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Tesla FSD 14.3 Is Out. The AI Compiler Was Rebuilt, and Reaction Time Is 20% Faster.">
+  <meta name="twitter:description" content="Dirty Tesla takes FSD 14.3 on a first drive. Tesla rewrote the AI compiler using MLIR for 20% faster reactions. The car reads signs, avoids a near-miss, and pothole avoidance is coming.">
+  <meta name="twitter:image" content="https://img.youtube.com/vi/_e2lP1F7JQ0/maxresdefault.jpg">
+  <meta name="twitter:site" content="@nexusevnews">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Tesla FSD 14.3 Is Out. The AI Compiler Was Rebuilt, and Reaction Time Is 20% Faster.",
+    "description": "Dirty Tesla's Chris takes FSD 14.3 for a first drive on release day, covering the rebuilt MLIR compiler, 20% faster reaction time, improved rare-scenario handling, and upcoming pothole avoidance.",
+    "image": "https://img.youtube.com/vi/_e2lP1F7JQ0/maxresdefault.jpg",
+    "datePublished": "2026-04-08T19:30:00+00:00",
+    "publisher": {
+      "@type": "Organization",
+      "name": "nexusEVnews",
+      "url": "https://nexusevnews.com"
+    },
+    "articleSection": "Deep Dives"
+  }
+  </script>
+  <link rel="icon" type="image/png" href="/favicon.png">
+  <link rel="alternate" type="application/rss+xml" title="nexusEVnews RSS Feed" href="https://nexusevnews.com/rss.xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root { --bg: #0a0b0f; --surface: #111318; --surface2: #1a1d24; --border: #1f2330; --accent: #00d4ff; --text: #e8eaf0; --muted: #6b7280; }
+    html { scroll-behavior: smooth; }
+    body { font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+    header { position: sticky; top: 0; z-index: 100; background: rgba(10,11,15,0.94); backdrop-filter: blur(14px); border-bottom: 1px solid var(--border); padding: 0 2rem; display: flex; align-items: center; justify-content: space-between; height: 62px; }
+    .logo { font-family: 'Bebas Neue', sans-serif; font-size: 1.85rem; letter-spacing: 0.06em; color: var(--text); text-decoration: none; display: flex; align-items: center; gap: 0.6rem; }
+    .logo .ev { color: var(--accent); }
+    .logo-text-wrap { display: flex; flex-direction: column; justify-content: center; line-height: 1; }
+    .logo-name { display: block; line-height: 1; }
+    .logo-tagline { font-family: 'DM Mono', monospace; font-size: 0.5rem; letter-spacing: 0.14em; color: var(--muted); text-transform: uppercase; display: block; margin-top: 3px; }
+    nav { display: flex; gap: 0.2rem; align-items: center; }
+    nav a { font-size: 0.76rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); text-decoration: none; padding: 0.35rem 0.7rem; border-radius: 4px; transition: color 0.2s, background 0.2s; }
+    nav a:hover { color: var(--text); background: var(--surface2); }
+    .header-right { display: flex; align-items: center; gap: 0.75rem; }
+    .back-btn { font-family: 'DM Sans', sans-serif; font-size: 0.76rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; background: var(--surface2); color: var(--text); border: 1px solid var(--border); padding: 0.45rem 1rem; border-radius: 4px; text-decoration: none; transition: border-color 0.2s, color 0.2s; }
+    .back-btn:hover { border-color: var(--accent); color: var(--accent); }
+    .newsletter-btn { font-family: 'DM Sans', sans-serif; font-size: 0.76rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; background: var(--accent); color: #000; border: none; padding: 0.45rem 1rem; border-radius: 4px; text-decoration: none; display: inline-block; }
+    .article-wrap { max-width: 740px; margin: 0 auto; padding: 3.5rem 2rem 6rem; }
+    .back-link { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); text-decoration: none; display: inline-flex; align-items: center; gap: 0.4rem; margin-bottom: 2.5rem; transition: color 0.2s; }
+    .back-link::before { content: '←'; }
+    .back-link:hover { color: var(--accent); }
+    .article-eyebrow { font-family: 'DM Mono', monospace; font-size: 0.62rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); margin-bottom: 1rem; display: block; }
+    .article-title { font-family: 'Bebas Neue', sans-serif; font-size: clamp(1.9rem, 4vw, 2.8rem); line-height: 1.15; color: var(--text); margin-bottom: 1.5rem; letter-spacing: 0.02em; }
+    .article-meta { display: flex; align-items: center; gap: 1.25rem; padding-bottom: 2rem; border-bottom: 1px solid var(--border); margin-bottom: 2.5rem; }
+    .meta-source { font-family: 'DM Mono', monospace; font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); }
+    .meta-date { font-family: 'DM Mono', monospace; font-size: 0.65rem; color: var(--muted); }
+    .video-wrap { width: 100%; aspect-ratio: 16/9; background: #000; border-radius: 4px; overflow: hidden; margin-bottom: 2rem; }
+    .video-wrap iframe { width: 100%; height: 100%; border: none; display: block; }
+    .article-body { font-size: 1.05rem; line-height: 1.85; color: #c8cad4; }
+    .article-body p { margin-bottom: 1.6rem; }
+    .article-body strong { color: var(--text); font-weight: 600; }
+    .release-note { background: var(--surface); border-left: 3px solid var(--accent); padding: 0.85rem 1.1rem; margin-bottom: 1rem; border-radius: 0 4px 4px 0; font-size: 0.9rem; color: #c8cad4; line-height: 1.6; }
+    .release-note strong { color: var(--accent); font-family: 'DM Mono', monospace; font-size: 0.75rem; letter-spacing: 0.06em; display: block; margin-bottom: 0.3rem; text-transform: uppercase; }
+    .cta-row { display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 2.5rem; padding-top: 2rem; border-top: 1px solid var(--border); }
+    .cta-btn { font-family: 'DM Sans', sans-serif; font-size: 0.85rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; padding: 0.7rem 1.5rem; border-radius: 4px; text-decoration: none; transition: opacity 0.2s; }
+    .cta-primary { background: var(--accent); color: #000; }
+    .cta-secondary { background: var(--surface2); color: var(--text); border: 1px solid var(--border); }
+    .cta-btn:hover { opacity: 0.82; }
+    footer { border-top: 1px solid var(--border); padding: 2rem 2rem 3rem; text-align: center; }
+    footer p { font-family: 'DM Mono', monospace; font-size: 0.64rem; color: var(--muted); letter-spacing: 0.06em; line-height: 1.8; }
+    footer a { color: var(--accent); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+    @media (max-width: 700px) { nav { display: none; } .article-wrap { padding: 2rem 1.25rem 4rem; } }
+  </style>
+</head>
+<body>
+
+<header>
+  <a class="logo" href="/" aria-label="nexusEVnews home">
+    <svg width="36" height="40" viewBox="0 0 36 40" fill="none" aria-hidden="true">
+      <polygon points="18,2 34,11 34,29 18,38 2,29 2,11" fill="rgba(0,212,255,0.07)" stroke="rgba(0,212,255,0.35)" stroke-width="1"/>
+      <polygon points="18,4 32,12 32,28 18,36 4,28 4,12" fill="rgba(0,212,255,0.1)" stroke="#00d4ff" stroke-width="1.5"/>
+      <path d="M22 9L12 22H20L14 32L26 18H18L22 9Z" fill="#00d4ff"/>
+    </svg>
+    <div class="logo-text-wrap">
+      <span class="logo-name">NEXUS<span class="ev">EV</span>news</span>
+      <span class="logo-tagline">EV &amp; Renewable Energy</span>
+    </div>
+  </a>
+  <nav>
+    <a href="/">Latest</a>
+    <a href="/#cardGrid">Reviews</a>
+    <a href="/#cardGrid">Deep Dives</a>
+    <a href="/#cardGrid">News</a>
+    <a href="/opinion.html">Opinion</a>
+  </nav>
+  <div class="header-right">
+    <a class="back-btn" href="/">&#8592; All Stories</a>
+    <a class="newsletter-btn" href="https://nexuscurrent.beehiiv.com/subscribe" target="_blank" rel="noopener">Subscribe</a>
+  </div>
+</header>
+
+<div class="article-wrap">
+  <a class="back-link" href="/">Back to All Stories</a>
+  <span class="article-eyebrow">Deep Dives &middot; Dirty Tesla</span>
+  <h1 class="article-title">Tesla FSD 14.3 Is Out. The AI Compiler Was Rebuilt, and Reaction Time Is 20% Faster.</h1>
+  <div class="article-meta">
+    <span class="meta-source">Dirty Tesla</span>
+    <span class="meta-date">April 8, 2026</span>
+  </div>
+
+  <div class="video-wrap">
+    <iframe src="https://www.youtube.com/embed/_e2lP1F7JQ0?rel=0&modestbranding=1" allow="autoplay; encrypted-media; fullscreen" allowfullscreen loading="lazy"></iframe>
+  </div>
+
+  <div class="article-body">
+    <p>FSD 14.3 is rolling out, and Dirty Tesla's Chris takes it out the same day for a first drive through his usual test route, covering parking lots, suburban streets, a roundabout, and a short highway stretch. He walks through the release notes as the car drives, so you can match each claim against what the system actually does in real traffic.</p>
+
+    <p>The headline item in the release notes is a full rewrite of the AI compiler and runtime, rebuilt from the ground up using MLIR. Tesla claims this delivers 20% faster reaction time and faster model iteration speed, meaning future point releases like 14.3.1 and 14.3.2 should come out quicker. Version 14.1 and 14.2 both produced rapid batches of small updates, and this architecture change is meant to accelerate that cycle further.</p>
+
+    <div class="release-note"><strong>Key release notes</strong>Upgraded RL training stage across a wide variety of driving scenarios. Rebuilt AI compiler with MLIR for 20% faster reaction time. Improved traffic light handling at complex intersections with compound lights and curved roads. Enhanced response to emergency vehicles, school buses, and right-of-way violators. Improved handling of rare and unusual objects, including things hanging or leaning into the vehicle path. Better handling of small animals. Reduced unnecessary lane biasing and minor tailgating. Increased decisiveness of parking spot selection.</div>
+
+    <p>The most concrete moment on this drive comes at a post office parking lot where the map data tells the car to turn into an entrance marked "do not enter." On 14.2, the car repeatedly drove in the wrong way before being corrected. On 14.3, it visibly detects the sign, hesitates, and refuses to complete the turn. It reroutes and finds the correct entrance instead. That is a real, observable improvement in the car's ability to override bad map data with what its cameras actually see.</p>
+
+    <p>The other moment worth noting: a driver cuts across in front of the car with no warning at an intersection. FSD catches it and brakes cleanly without any driver input. Chris notes the reaction is immediate and calm, not a panic stop.</p>
+
+    <p>Mistakes still happen. The car repeatedly selects the same awkward parking spot when asked to find a space in a particular lot, including a very tight squeeze next to another vehicle. The spot is technically valid, but Chris would not let his kids open the doors. That kind of judgment gap is exactly what the "increased decisiveness of parking spot selection" note is addressing, and it is not fully there yet.</p>
+
+    <p><strong>What is coming next:</strong> pothole avoidance, expanded reasoning beyond destination handling, and improved driver monitoring with better eye gaze tracking for potential use in supervised autonomy regulations in markets like Europe. The way things are set up, point releases should start appearing faster than before once the iteration cycle gets going.</p>
+  </div>
+
+  <div class="cta-row">
+    <a class="cta-btn cta-primary" href="https://youtu.be/_e2lP1F7JQ0" target="_blank" rel="noopener">Watch on YouTube</a>
+    <a class="cta-btn cta-secondary" href="/">Back to All Stories</a>
+  </div>
+</div>
+
+<footer>
+  <p>
+    <a href="https://nexuscurrent.beehiiv.com/subscribe">Subscribe</a> &nbsp;&middot;&nbsp;
+    <a href="/about.html">About</a> &nbsp;&middot;&nbsp;
+    <a href="/contact.html">Contact</a>
+  </p>
+  <p style="margin-top:0.75rem;">&copy; 2026 nexusEVnews. Independent. No brand deals.</p>
+</footer>
+
+</body>
+</html>
