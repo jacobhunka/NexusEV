@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>The Hyundai Ioniq 9 Just Beat Four Expensive Rivals at Their Own Game</title>
+      <link>https://nexusevnews.com/articles/bmw-ix-kia-ev9-ioniq9-polestar3-volvo-ex90-group-test.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix-kia-ev9-ioniq9-polestar3-volvo-ex90-group-test.html</guid>
+      <pubDate>Wed, 08 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>carwow</dc:creator>
+      <category>Reviews</category>
+      <description>carwow's Matt Watson lines up the BMW iX, Kia EV9, Hyundai Ioniq 9, Polestar 3, and Volvo EX90 for a full group test covering design, real-world range, interior quality, driving, boot space, and a drag race. Estimated real-world ranges run from 202 miles for the Kia EV9 to 317 miles for the Polestar 3. The BMW iX wins the drag race at 4.4 seconds to 60 mph with 544 horsepower. The Polestar 3 is the pick if you only need five seats. For the full seven-seat test, the Ioniq 9 edges the Kia EV9 on practicality, interior quality, and value.</description>
+    </item>
+
+    <item>
+      <title>The Slate Truck Leaves the Factory in One Color. The Designer Planned It That Way.</title>
+      <link>https://nexusevnews.com/articles/slate-auto-ev-truck-tisha-johnson-design-wrap-affordable.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-auto-ev-truck-tisha-johnson-design-wrap-affordable.html</guid>
+      <pubDate>Wed, 08 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Javier Mota</dc:creator>
+      <category>News</category>
+      <description>Slate Auto head of design Tisha Johnson explains the philosophy behind the Slate pickup: affordable at purchase, affordable to own, and affordable to personalize. The truck leaves the factory in a single slate gray and is the first vehicle designed specifically to be DIY-wrapped. Over 100 wrap colors are planned. The dashboard can swap between a standard instrument panel and a full sound bar. The two-seater converts to a five-seat SUV by popping out the rear bulkhead and installing a bench seat. Reservations are open, with deliveries targeted for later this year.</description>
+    </item>
+
+    <item>
+      <title>Rivian R2 EPA Docs Are Out. The Range Came In Better Than Rivian Said It Would.</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-epa-range-335-miles-210kw-charging-heat-pump.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-epa-range-335-miles-210kw-charging-heat-pump.html</guid>
+      <pubDate>Wed, 08 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>RivianTrackr</dc:creator>
+      <category>News</category>
+      <description>EPA certification documents for the Rivian R2 have surfaced ahead of customer deliveries. The Performance trim on 21-inch All-Season tires earned 335 miles, five miles better than Rivian's own estimate of 330. The 20-inch All-Terrain version came in at 314 miles, also beating Rivian's 307-mile projection. Usable battery is 86.8 kWh and DC fast charging peaks at 210 kW. Payload capacity is roughly 1,175 lbs. The repositioned heat pump is confirmed to ship from day one, including on the Launch Edition. Employee deliveries are underway this month.</description>
+    </item>
+
+    <item>
+      <title>Four People Who Had Never Driven an EV Took the MG4 Urban Out for a Day. Here Is What They Said.</title>
+      <link>https://nexusevnews.com/articles/mg4-urban-first-time-ev-drivers-electrifying-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/mg4-urban-first-time-ev-drivers-electrifying-review.html</guid>
+      <pubDate>Wed, 08 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>Reviews</category>
+      <description>Electrifying recruits four real-world drivers, none of them EV owners, to spend a day with the MG4 Urban. The car offers around 258 miles of range and charges from 10 to 80% in about 30 minutes on a rapid charger. Highlights include five levels of regenerative braking, a one-pedal mode that brings the car to a full stop without touching the brake, 30 storage areas built throughout the cabin, and a boot floor that lowers to nearly double the usable depth. All four left saying it was easier and more practical than expected.</description>
+    </item>
+
+    <item>
+      <title>Tesla FSD 14.3 Is Out. The AI Compiler Was Rebuilt, and Reaction Time Is 20% Faster.</title>
+      <link>https://nexusevnews.com/articles/tesla-fsd-14-3-first-drive-20-percent-faster-reaction-time.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-fsd-14-3-first-drive-20-percent-faster-reaction-time.html</guid>
+      <pubDate>Wed, 08 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Dirty Tesla</dc:creator>
+      <category>Deep Dives</category>
+      <description>Dirty Tesla's Chris takes FSD 14.3 straight out on its release day. Tesla rewrote the AI compiler using MLIR, claiming a 20% improvement in reaction time and faster model iteration for future point releases. The RL neural network received a broad upgrade. On the drive, the car reads do-not-enter signs and overrides incorrect map data rather than following it blindly, and it avoids a near-miss when another driver cuts across without warning. Still on the to-do list: pothole avoidance and expanded reasoning beyond destination handling.</description>
+    </item>
 
     <item>
       <title>The Oil Change Economy: What Maintenance Really Costs Over 100,000 Miles</title>
@@ -167,66 +217,7 @@
       <description>Everybody assumed sodium-ion could never compete with lithium on performance because sodium ions are bigger, heavier, and slower. Turns out the ions were fine. The electrodes were the bottleneck. Research from Tokyo University of Science and Germany's Federal Institute for Materials Research shows that fixing how hard carbon anodes are built lets sodium charge at rates comparable to lithium in graphite. CATL is already putting sodium-ion cells in passenger cars. BYD is accelerating development. The chemistry was always capable. We just needed better engineering around it.</description>
     </item>
 
-    <item>
-      <title>1,000 HP, 1,000 KG, and a Giant Vacuum Cleaner Underneath. Top Gear Drives the McMurtry Spéirling.</title>
-      <link>https://nexusevnews.com/articles/1-000-hp-1-000-kg-and-a-giant-vacuum-cleaner-underneath-top-gear-drives-the-mcmu.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/1-000-hp-1-000-kg-and-a-giant-vacuum-cleaner-underneath-top-gear-drives-the-mcmu.html</guid>
-      <pubDate>Sun, 29 Mar 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Top Gear</dc:creator>
-      <category>Reviews</category>
-      <description>In case you missed this one, clear your Sunday schedule. Ollie Marriage from Top Gear straps into the McMurtry Spéirling, a tiny single-seat electric car that generates 2,000 kg of downforce from a standstill using twin fans spinning at 23,000 RPM. It hit 60 mph in 1.38 seconds, reached 100 in 2.61, and left a Porsche GT3 RS looking like it was parked. Three fan modes mimic GT3, LMP1, and F1 grip levels. Ollie called it a cheat code. He also admitted to getting tunnel vision from the g-forces. It is adorable, terrifying, and the most fun you will have watching a car review today.</description>
-    </item>
-
-    <item>
-      <title>Slate Drove Their Electric Pickup Through 10 Inches of Frozen Slush, Then Froze It Solid. Here's What Happened.</title>
-      <link>https://nexusevnews.com/articles/slate-drove-their-electric-pickup-through-10-inches-of-frozen-slush-then-froze-i.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-drove-their-electric-pickup-through-10-inches-of-frozen-slush-then-froze-i.html</guid>
-      <pubDate>Sat, 28 Mar 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Slate Auto</dc:creator>
-      <category>Deep Dives</category>
-      <description>Slate Auto hauled its electric pickup to Keweenaw Research Center in Michigan's Upper Peninsula for a full cold weather torture test. The program included driving through slush troughs, freezing vehicles in cold chambers, running dynamics courses on ice, and then checking if everything still works the next morning. After a full freeze-and-thaw cycle, the brakes released on their own, nothing broke underneath, and the truck came out under its own power. Slate is targeting deliveries by the end of 2026, and this is the kind of behind-the-scenes engineering footage that usually stays internal.</description>
-    </item>
-
-    <item>
-      <title>Cybercabs Are Showing Up Everywhere, Elon Is Teasing a Mystery Vehicle, and Sony's 'PlayStation Car' Just Died</title>
-      <link>https://nexusevnews.com/articles/cybercabs-are-showing-up-everywhere-elon-is-teasing-a-mystery-vehicle-and-sony-s.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/cybercabs-are-showing-up-everywhere-elon-is-teasing-a-mystery-vehicle-and-sony-s.html</guid>
-      <pubDate>Sat, 28 Mar 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Ryan Shaw</dc:creator>
-      <category>News</category>
-      <description>A packed week in Tesla and EV news. Cybercabs have been spotted driverless in San Francisco, Palo Alto, and Oklahoma City. A robotaxi staging lot full of Model Ys turned up in Dallas. The Cybercab has a clever new door handle that solves a real safety problem with emergency exits. Elon teased a new vehicle larger than the Model Y. The Tesla Semi made it onto Jay Leno's Garage. Uber put $1.25 billion into Rivian for autonomous R2 robotaxis. And Sony and Honda officially killed the Afeela weeks before its first customer deliveries. That's not even the full list.</description>
-    </item>
-
-    <item>
-      <title>A 1,100 HP Electric Porsche in the Spanish Mountains. Miles Somerville Says It Might Be the Best SUV He's Ever Driven.</title>
-      <link>https://nexusevnews.com/articles/a-1-100-hp-electric-porsche-in-the-spanish-mountains-miles-somerville-says-it-mi.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/a-1-100-hp-electric-porsche-in-the-spanish-mountains-miles-somerville-says-it-mi.html</guid>
-      <pubDate>Sat, 28 Mar 2026 20:30:00 +0000</pubDate>
-      <dc:creator>MKBHD Inc</dc:creator>
-      <category>Reviews</category>
-      <description>Miles Somerville from the MKBHD team got seat time in both the Cayenne Electric Turbo and the standard model on wet mountain roads outside Barcelona. The Turbo makes over 1,100 horsepower in launch mode, hits 60 in 2.3 seconds, and nearly cracks a sub-10 quarter mile. But the real story is Porsche's active ride suspension, which kills body roll and makes a 6,000-pound SUV feel composed through tight switchbacks. The base model runs about $120,000 optioned out and is arguably the smarter buy. The Turbo sits near $230,000. Miles admits it's probably too much car.</description>
-    </item>
-
-    <item>
-      <title>Rivian Just Unlocked Another $1 Billion From Volkswagen After Their Joint Venture Passed Winter Testing</title>
-      <link>https://nexusevnews.com/articles/rivian-just-unlocked-another-1-billion-from-volkswagen-after-their-joint-venture.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-just-unlocked-another-1-billion-from-volkswagen-after-their-joint-venture.html</guid>
-      <pubDate>Sat, 28 Mar 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Rivian Trackr</dc:creator>
-      <category>News</category>
-      <description>The Rivian-Volkswagen joint venture, RV Tech, completed winter testing of its new zonal electrical architecture across Arizona heat and Swedish cold. The first vehicle running on this system is the VW ID.EVERY1. The milestone triggers another $1 billion investment from VW, split between $750 million in equity and $250 million in equity or convertible debt. VW has now put over $3 billion into Rivian through the partnership, with up to $5.8 billion possible if all targets are met.</description>
-    </item>
-
-    <item>
-      <title>80% of the World's Energy Still Comes From Fossil Fuels. The Iran War Is Showing Exactly What That Means.</title>
-      <link>https://nexusevnews.com/articles/80-of-the-world-s-energy-still-comes-from-fossil-fuels-the-iran-war-is-showing-e.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/80-of-the-world-s-energy-still-comes-from-fossil-fuels-the-iran-war-is-showing-e.html</guid>
-      <pubDate>Sat, 28 Mar 2026 19:30:00 +0000</pubDate>
-      <dc:creator>DW News</dc:creator>
-      <category>Solar &amp; Renewables</category>
-      <description>DW examines how the conflict with Iran has exposed just how fragile global energy systems really are. Twenty percent of the world's oil and LNG flows through the Strait of Hormuz. Ten countries supply roughly 70% of global oil and gas. But there are real signs of a shift. In 2025, solar and wind provided more electricity to the EU grid than fossil fuels for the first time. Spain now gets 60% of its energy from renewables. Portugal ran entirely on green sources last year. The question is whether the transition can move fast enough.</description>
-    </item>
-
+    
 
   </channel>
 </rss>
