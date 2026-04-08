@@ -3,51 +3,23 @@
 
   <url>
     <loc>https://nexusevnews.com/</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-04-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://nexusevnews.com/articles/off-grid-solar-ev-charging-station-i15-mojave-desert-power-station-charging.html</loc>
-    <lastmod>2026-04-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/scout-motors-traveler-terra-ev-harvester-range-extender-500-miles.html</loc>
-    <lastmod>2026-04-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/gas-prices-4-dollars-us-australia-panic-buying-china-ev-advantage-oil-shock.html</loc>
-    <lastmod>2026-04-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/telo-trucks-madan-gopal-crash-safety-expert-tesla-dual-load-path.html</loc>
-    <lastmod>2026-04-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/rivian-r2-block-party-venice-rivian-space-r1s-owner-first-look.html</loc>
-    <lastmod>2026-04-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://nexusevnews.com/opinion.html</loc>
-    <lastmod>2026-04-02</lastmod>
+    <lastmod>2026-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/opinion-ev-maintenance.html</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
 
   <url>
@@ -57,41 +29,6 @@
     <priority>0.9</priority>
   </url>
 
-
-  <url>
-    <loc>https://nexusevnews.com/articles/bmw-ix3-vs-audi-q6-etron-neue-klasse-takes-the-crown.html</loc>
-    <lastmod>2026-04-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/rivian-outsells-ford-toyota-bmw-q1-2026-ev-deliveries.html</loc>
-    <lastmod>2026-04-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/rivian-r1t-quad-motor-review-1025hp-gear-tunnel-kick-turn.html</loc>
-    <lastmod>2026-04-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/aral-pulse-gigahub-germany-28-stall-charging-site-tour.html</loc>
-    <lastmod>2026-04-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/china-ev-drivers-shielded-from-oil-shock-iran-strait-of-hormuz.html</loc>
-    <lastmod>2026-04-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
   <url>
     <loc>https://nexusevnews.com/articles/lucid-gravity-grand-touring-seven-seats-400kw-charging-and-a-frunk-picnic.html</loc>
     <lastmod>2026-04-05</lastmod>
@@ -1003,41 +940,6 @@
     <priority>0.8</priority>
   </url>
 
-
-  <url>
-    <loc>https://nexusevnews.com/articles/bmw-ix3-vs-audi-q6-etron-neue-klasse-takes-the-crown.html</loc>
-    <lastmod>2026-04-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/rivian-outsells-ford-toyota-bmw-q1-2026-ev-deliveries.html</loc>
-    <lastmod>2026-04-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/rivian-r1t-quad-motor-review-1025hp-gear-tunnel-kick-turn.html</loc>
-    <lastmod>2026-04-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/aral-pulse-gigahub-germany-28-stall-charging-site-tour.html</loc>
-    <lastmod>2026-04-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/china-ev-drivers-shielded-from-oil-shock-iran-strait-of-hormuz.html</loc>
-    <lastmod>2026-04-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
   <url>
     <loc>https://nexusevnews.com/articles/lucid-gravity-goes-snow-testing-turns-out-it-s-pretty-fun.html</loc>
     <lastmod>2026-03-09</lastmod>
