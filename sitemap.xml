@@ -3,9 +3,44 @@
 
   <url>
     <loc>https://nexusevnews.com/</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/alpitronic-hyc1000-1mw-split-dc-fast-charger-first-north-america-charge.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/2026-polestar-4-review-no-rear-window-544-hp-straight-pipes.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/ev-specific-tyres-worth-it-or-marketing-electric-vehicle-man.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/nio-es9-luxury-suv-5-3-meter-47-speakers-range-rover-china.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/lucid-midsize-cosmos-earth-cost-engineering-munro-cory-steuben.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <url>

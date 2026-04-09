@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -18,7 +18,54 @@
     <category>Battery Technology</category>
 
     <item>
-      <title>The Hyundai Ioniq 9 Just Beat Four Expensive Rivals at Their Own Game</title>
+      <title>Alpitronic's 1 Megawatt Charger Just Made Its North American Debut. We Got the First Charge.</title>
+      <link>https://nexusevnews.com/articles/alpitronic-hyc1000-1mw-split-dc-fast-charger-first-north-america-charge.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/alpitronic-hyc1000-1mw-split-dc-fast-charger-first-north-america-charge.html</guid>
+      <pubDate>Thu, 09 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Charging</category>
+      <description>Kyle and Walter from Out of Spec Reviews get exclusive access to the Alpitronic HYC1000 at the company's Charlotte, NC headquarters for its first North American charge session. The split-system charger separates the power cabinet from its dispensers, outputs up to 1 megawatt total, and delivers 600 amps continuous to each port using oil-cooled cables. Eight outputs and 62.5 kW granularity let the onboard switching matrix reallocate power between vehicles in real time. New silicon carbide stacks push each module to 125 kW, up from 100 kW in the HYC400. A touchscreen and physical buttons sit side by side for drivers with gloves. MCS connectors for heavy trucks share the same power cabinet. Kyle's Model S pulled 252 kW at 600 amps, with the cables still cool to the touch.</description>
+    </item>
+
+    <item>
+      <title>The Polestar 4 Has 544 Horsepower, No Rear Window, and a Connected Services Price Nobody Can Find</title>
+      <link>https://nexusevnews.com/articles/2026-polestar-4-review-no-rear-window-544-hp-straight-pipes.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/2026-polestar-4-review-no-rear-window-544-hp-straight-pipes.html</guid>
+      <pubDate>Thu, 09 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>TheStraightPipes</dc:creator>
+      <category>Reviews</category>
+      <description>Jacob spends a week with the 2026 Polestar 4 before handing Yuri the keys. The highlights: 544 hp, 506 lb-ft, a 100 kWh battery, 10-to-80% in 30 minutes at up to 200 kW, and an electrochromic glass roof. The sticking point is the missing rear window. A permanent digital mirror replaces it and forces your eyes to constantly re-focus from a screen inches away to the road ahead. Real-world issues include frameless windows that got stuck down in cold weather, an open car wash window that soaked the interior, proximity unlocking that worked perfectly for two days then didn't, and connected services that are free for one year with no published renewal price. Fully loaded: $93,400 CAD.</description>
+    </item>
+
+    <item>
+      <title>EV Tires Aren't Just a Marketing Gimmick. Here's the Engineering That Makes Them Different.</title>
+      <link>https://nexusevnews.com/articles/ev-specific-tyres-worth-it-or-marketing-electric-vehicle-man.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ev-specific-tyres-worth-it-or-marketing-electric-vehicle-man.html</guid>
+      <pubDate>Thu, 09 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Electric Vehicle Man</dc:creator>
+      <category>Deep Dives</category>
+      <description>The "EV specific" label on a tire sounds like the automotive version of "AI powered" - something slapped on to justify a higher price. Electric Vehicle Man makes the case it isn't. Because EVs run so quietly, road and wind noise dominate the cabin in ways they never do in a combustion car. An EV-specific tire needs to handle four things simultaneously: lower rolling noise, less rolling resistance for extra range, extra load capacity for the heavier battery pack, and sidewalls that manage instant electric torque without going stiff and crashy. Worth it? Yes.</description>
+    </item>
+
+    <item>
+      <title>NIO's ES9 Is a 5.3-Meter SUV With 47 Speakers, a Foot Massager, and a 0.264 Drag Coefficient</title>
+      <link>https://nexusevnews.com/articles/nio-es9-luxury-suv-5-3-meter-47-speakers-range-rover-china.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/nio-es9-luxury-suv-5-3-meter-47-speakers-range-rover-china.html</guid>
+      <pubDate>Thu, 09 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric APAC</dc:creator>
+      <category>News</category>
+      <description>The NIO ES9 is positioned directly against the Range Rover in China, where Land Rover still has no fully electric flagship. At 5.3 meters long, its 0.264 drag coefficient matches the BMW i8 supercar despite the bluff shape. The rear cabin features zero-gravity seats with 42 massage points, a foot massager built into the footrest, a personal safe, a fridge, and two 16-inch OLED screens. Sound comes from 47 speakers delivering 4,630 watts. The side windows are electrochromic and can be tinted in sections. It slots below the ultra-luxury ET9 in NIO's lineup.</description>
+    </item>
+
+    <item>
+      <title>Lucid Set a $59 Cost Target on a Part Everyone Said Would Cost $120. They Hit It.</title>
+      <link>https://nexusevnews.com/articles/lucid-midsize-cosmos-earth-cost-engineering-munro-cory-steuben.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/lucid-midsize-cosmos-earth-cost-engineering-munro-cory-steuben.html</guid>
+      <pubDate>Thu, 09 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Munro Live</dc:creator>
+      <category>Deep Dives</category>
+      <description>Munro Live sits down with Cory Steuben, Lucid's Director of Cost Engineering, to detail the strategy behind the Cosmos and Earth midsize platform. The midsize needs only 69 kWh to travel roughly 300 miles. The Atlas drive unit cut part count by 30%, shed 23% of the Zeus drive unit's weight, and came in 37% cheaper. Low-voltage wiring landed at roughly half the circuit count of a comparable Chinese competitor. One subsystem had an internal target of $59; suppliers quoted $120 to $150. The final sourced price landed within two cents of $59. Manufacturing in both Arizona and Saudi Arabia opens the global supply base in ways a US-only plant cannot.</description>
+    </item>
       <link>https://nexusevnews.com/articles/bmw-ix-kia-ev9-ioniq9-polestar3-volvo-ex90-group-test.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix-kia-ev9-ioniq9-polestar3-volvo-ex90-group-test.html</guid>
       <pubDate>Wed, 08 Apr 2026 22:00:00 +0000</pubDate>
@@ -177,47 +224,6 @@
       <description>PVWatts is a free calculator from the National Laboratory of the Rockies that estimates annual and monthly electricity output for a rooftop solar system at any address in the world. Enter your address, pick a system size, and get production numbers based on real local weather data. It is the same tool used by solar installers and researchers. If you have ever wondered whether going solar pencils out for your home, start here.</description>
     </item>
 
-    <item>
-      <title>Two Wheels, Zero Gas, Room for the Groceries. Cargo E-Bikes Are Having a Moment.</title>
-      <link>https://nexusevnews.com/articles/two-wheels-zero-gas-room-for-the-groceries-cargo-e-bikes-are-having-a-moment.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/two-wheels-zero-gas-room-for-the-groceries-cargo-e-bikes-are-having-a-moment.html</guid>
-      <pubDate>Sun, 29 Mar 2026 22:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>Deep Dives</category>
-      <description>The Verge's transportation editor Andrew Hawkins tests three electric cargo bikes, rides through Brooklyn with Propel Bikes owner Cat Strain, and checks in on the bike bus movement his own town in Montclair, New Jersey helped pioneer. 234 US cities now score above the bikeability tipping point, up from just 33 in 2019. Cargo e-bikes are outselling traditional bikes. They cost a fraction of a car. But tariffs, slashed bike lane funding, and safety concerns on shared roads are real obstacles. The question is whether the momentum survives the politics. Hawkins makes a strong case that it should.</description>
-    </item>
-
-    <item>
-      <title>IONNA Just Hit 100 Charging Sites. They Built the Whole Network From Scratch in Two Years.</title>
-      <link>https://nexusevnews.com/articles/ionna-just-hit-100-charging-sites-they-built-the-whole-network-from-scratch-in-t.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ionna-just-hit-100-charging-sites-they-built-the-whole-network-from-scratch-in-t.html</guid>
-      <pubDate>Sun, 29 Mar 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Motor Trend</dc:creator>
-      <category>Charging</category>
-      <description>Motor Trend's Inevitable podcast sits down with IONNA CEO Seth Cutler, who started as employee number one in an empty Honda office in February 2024. Two years later, the eight-automaker joint venture has crossed 100 sites with canopies, bathrooms, and Amazon Just Walk Out stores. No app required. Just plug in or tap your credit card. Discount charging programs are rolling out now for all eight partner brands. Their first site? A 100-year-old gas station where crews found a buried fuel tank during construction. They got it live in nine months anyway.</description>
-    </item>
-
-    <item>
-      <title>LFP or NMC? The Battery Decision Most EV Buyers Never Think About Until It's Too Late.</title>
-      <link>https://nexusevnews.com/articles/lfp-or-nmc-the-battery-decision-most-ev-buyers-never-think-about-until-it-s-too.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/lfp-or-nmc-the-battery-decision-most-ev-buyers-never-think-about-until-it-s-too.html</guid>
-      <pubDate>Sun, 29 Mar 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Battery Bound</dc:creator>
-      <category>Battery Tech</category>
-      <description>Most people hear "LFP lasts longer" and stop there. This video breaks down why that is only part of the story. NMC holds up better in cold weather. LFP can be charged to 100% daily without stress. And an LFP car with 420 km of rated range charged to full may give you more usable daily range than a 500 km NMC car you keep between 20 and 80 percent. Factor in insurance risk, replacement costs, and resale psychology, and the "best" battery depends entirely on how you actually use your car.</description>
-    </item>
-
-    <item>
-      <title>Sodium-Ion Batteries Were Supposed to Be the Budget Option. Two New Studies Say Hold On a Second.</title>
-      <link>https://nexusevnews.com/articles/sodium-ion-batteries-were-supposed-to-be-the-budget-option-two-new-studies-say-h.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/sodium-ion-batteries-were-supposed-to-be-the-budget-option-two-new-studies-say-h.html</guid>
-      <pubDate>Sun, 29 Mar 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Just Have a Think</dc:creator>
-      <category>Battery Tech</category>
-      <description>Everybody assumed sodium-ion could never compete with lithium on performance because sodium ions are bigger, heavier, and slower. Turns out the ions were fine. The electrodes were the bottleneck. Research from Tokyo University of Science and Germany's Federal Institute for Materials Research shows that fixing how hard carbon anodes are built lets sodium charge at rates comparable to lithium in graphite. CATL is already putting sodium-ion cells in passenger cars. BYD is accelerating development. The chemistry was always capable. We just needed better engineering around it.</description>
-    </item>
-
-    
 
   </channel>
 </rss>
