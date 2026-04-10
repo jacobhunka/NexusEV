@@ -18,6 +18,16 @@
     <category>Battery Technology</category>
 
     <item>
+      <title>You Already Know More About EVs Than You Think. Here's a Translation Guide.</title>
+      <link>https://nexusevnews.com/opinion-ev-jargon-guide.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/opinion-ev-jargon-guide.html</guid>
+      <pubDate>Fri, 10 Apr 2026 23:00:00 +0000</pubDate>
+      <dc:creator>Jacob Hunka</dc:creator>
+      <category>Opinion</category>
+      <description>EV jargon sounds intimidating until you realize it is just the same car stuff with different names. kWh is your fuel tank. kW is how fast the pump flows. Phantom drain is your porch light. Here is the plain-English translation guide nobody wrote for you.</description>
+    </item>
+
+    <item>
       <title>This Subaru Station Wagon Is Faster Than Any STI They Ever Made. It's Also Kind of a Mess.</title>
       <link>https://nexusevnews.com/articles/subaru-trailseeker-2026-review-range-charging-test-gjeebs.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/subaru-trailseeker-2026-review-range-charging-test-gjeebs.html</guid>
@@ -205,16 +215,6 @@
       <dc:creator>AutoSpec Roaming</dc:creator>
       <category>News</category>
       <description>AutoSpec Roaming breaks down the updated Zeekr 007 GT just announced in China, right as European deliveries of the 800V version begin this summer. The China-spec car moves to a 900V architecture, adds a 6C-capable NMC battery with 10-80% charging in around 10 minutes, and gains roughly 148 extra horsepower across both motors. The AWD performance version now hits 0-100km/h in 2.84 seconds. Europe gets the 800V model with the LFP Golden Brick battery and around 400kW peak charging, which is still fast but a generation behind.</description>
-    </item>
-
-    <item>
-      <title>Kia's EV3 Checks a Lot of Boxes for Under $35,000. Then There Are the Door Handles.</title>
-      <link>https://nexusevnews.com/articles/kia-ev3-2027-under-35000-320-miles-consumer-reports-first-look.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/kia-ev3-2027-under-35000-320-miles-consumer-reports-first-look.html</guid>
-      <pubDate>Sun, 05 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Consumer Reports</dc:creator>
-      <category>Reviews</category>
-      <description>Consumer Reports gets a first look at the 2027 Kia EV3. The standard 58.3kWh model gets around 220 miles of estimated range. The larger 81.4kWh version stretches that to 320 miles on the front-wheel-drive variant, with AWD available. DC fast charging goes from 10 to 80% in 29 to 31 minutes. Dual 12.3-inch screens, physical climate controls, a wireless charger, and USB charging points built into the rear seatbacks are all welcome. The flush door handles aren't Consumer Reports' favorite, and the rear ones sit high enough that small children may struggle to reach them. Rear seat headroom is snug for anyone over 5'10". On sale late 2026, starting just over $35,000.</description>
     </item>
 
   </channel>
