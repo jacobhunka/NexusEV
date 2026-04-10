@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>This Subaru Station Wagon Is Faster Than Any STI They Ever Made. It's Also Kind of a Mess.</title>
+      <link>https://nexusevnews.com/articles/subaru-trailseeker-2026-review-range-charging-test-gjeebs.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/subaru-trailseeker-2026-review-range-charging-test-gjeebs.html</guid>
+      <pubDate>Fri, 10 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Gjeebs</dc:creator>
+      <category>Reviews</category>
+      <description>Gjeebs drives the 2026 Subaru Trailseeker from Phoenix to Sedona and back with a charging stop to build a complete picture. The good stuff is genuinely good: 375 horsepower, Subaru's symmetrical AWD, 0-60 in 4.4 seconds, exceptional ride quality, and a 10-to-80% charging record of 25 minutes and 7 seconds — four minutes faster than the 2026 Model Y. The bad stuff is just as real: no route planning whatsoever, an infotainment system that earns every bad word thrown at it, and that record charge adds only 161 miles of range. Real-world, the Trailseeker ran 240 miles from 100% to empty on the Sedona loop, mostly without AC. Priced from $39,995 to $45,000, it's the only EV station wagon on the US market and falls just short of being something special.</description>
+    </item>
+
+    <item>
+      <title>Cupra's New Raval Is the Sporty Evil Twin the ID.Polo Always Needed</title>
+      <link>https://nexusevnews.com/articles/cupra-raval-reveal-specs-price-autogefuhl.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/cupra-raval-reveal-specs-price-autogefuhl.html</guid>
+      <pubDate>Fri, 10 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Autogefühl</dc:creator>
+      <category>Reviews</category>
+      <description>Autogefühl walks through the all-new Cupra Raval: 4 meters long, 15mm lower than the ID.Polo, 10mm wider in the track. Top VZ trim runs 226 hp, adaptive DCC suspension, a front diff lock, 0-to-62 mph in under 7 seconds, and a 110 mph top speed. The 56 kWh NMC battery charges at 130 kW for a 10-to-80% time of 23 minutes. Trunk fits a cabin trolley. Flush door handles appear here alone among its platform siblings. Pricing starts around €26,000 for the small battery; the fully loaded VZ is expected near €38,000.</description>
+    </item>
+
+    <item>
+      <title>Two Journalists Slept in a Hyundai Ioniq 9 and an Inster in February. One of Them Got Eight Hours.</title>
+      <link>https://nexusevnews.com/articles/hyundai-ioniq9-inster-chabak-car-camping-test-motorpoint.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/hyundai-ioniq9-inster-chabak-car-camping-test-motorpoint.html</guid>
+      <pubDate>Fri, 10 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Motorpoint</dc:creator>
+      <category>Deep Dives</category>
+      <description>Motorpoint tests chabak, the Korean car-camping trend, using a Hyundai Ioniq 9 and a Hyundai Inster in a cold, wet car park in February. The Ioniq 9 brings a 111 kWh battery, 360 miles of range, vehicle-to-load capability, and electrically folding rear seats for a flat sleeping floor. The Inster brings a 49 kWh battery, 223 miles of official range, and flat front and rear seats. Both use utility mode to heat the cabin overnight. Verdict: warmer than expected, quieter than a tent, and you still need all your camping gear.</description>
+    </item>
+
+    <item>
+      <title>0 to 97% in 9 Minutes. Denza's Flash Charger Just Made Its European Debut Off the Grid.</title>
+      <link>https://nexusevnews.com/articles/denza-flash-charger-europe-first-off-grid-97-percent-9-minutes.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/denza-flash-charger-europe-first-off-grid-97-percent-9-minutes.html</guid>
+      <pubDate>Fri, 10 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>electricfelix</dc:creator>
+      <category>Charging</category>
+      <description>electricfelix gets a front-row seat at the first Denza flash charging system outside China. The setup is fully off-grid, drawing from two 190 kWh BYD Blade Battery Gen 2 storage units and a 2 MW power converter. Cables never touch the ground. Live results: 50% in 3 minutes 20 seconds, 80% in 6.5 minutes, 97% in 9 minutes 22 seconds. The car's active cooling shut off before 97% because the battery was unbothered. Currently being installed at Denza dealerships.</description>
+    </item>
+
+    <item>
+      <title>Tesla Is Quietly Working on a Smaller, Cheaper SUV. Here's What We Know.</title>
+      <link>https://nexusevnews.com/articles/tesla-new-smaller-cheaper-suv-in-development-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-new-smaller-cheaper-suv-in-development-2026.html</guid>
+      <pubDate>Fri, 10 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>nexusEVnews</dc:creator>
+      <category>News</category>
+      <description>Four sources tell Reuters that Tesla is developing an all-new compact electric SUV, not a variant of the Model 3 or Y. At 4.28 meters it would be noticeably shorter than the Model Y. Three sources put production in China, likely at the Shanghai factory. It targets a price substantially below the $37,000 entry-level Model 3, with a smaller battery, single motor, and a weight target of around 1.5 metric tons. Production is unlikely this year. Tesla did not respond to questions.</description>
+    </item>
 
     <item>
       <title>Alpitronic's 1 Megawatt Charger Just Made Its North American Debut. We Got the First Charge.</title>
@@ -66,6 +116,9 @@
       <category>Deep Dives</category>
       <description>Munro Live sits down with Cory Steuben, Lucid's Director of Cost Engineering, to detail the strategy behind the Cosmos and Earth midsize platform. The midsize needs only 69 kWh to travel roughly 300 miles. The Atlas drive unit cut part count by 30%, shed 23% of the Zeus drive unit's weight, and came in 37% cheaper. Low-voltage wiring landed at roughly half the circuit count of a comparable Chinese competitor. One subsystem had an internal target of $59; suppliers quoted $120 to $150. The final sourced price landed within two cents of $59. Manufacturing in both Arizona and Saudi Arabia opens the global supply base in ways a US-only plant cannot.</description>
     </item>
+
+    <item>
+      <title>The Hyundai Ioniq 9 Just Beat Four Expensive Rivals at Their Own Game</title>
       <link>https://nexusevnews.com/articles/bmw-ix-kia-ev9-ioniq9-polestar3-volvo-ex90-group-test.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix-kia-ev9-ioniq9-polestar3-volvo-ex90-group-test.html</guid>
       <pubDate>Wed, 08 Apr 2026 22:00:00 +0000</pubDate>
@@ -141,7 +194,7 @@
       <pubDate>Sun, 05 Apr 2026 21:00:00 +0000</pubDate>
       <dc:creator>Enhauto</dc:creator>
       <category>News</category>
-      <description>Enhauto's latest firmware update for its Commander dongle and S3XY accessories adds several features Tesla hasn't built into its own software. Performance Model Y Juniper owners can now enable Track Mode through the S3XY products even though it doesn't appear in Tesla's native menus. Also new: an Actions on Reverse automation that can mute all in-car audio when backing up, a Knight Rider sweeping animation for the ambient light strip, and separate brightness settings for day and night. Brake temperature per wheel is now visible in the S3XY app, a stat Tesla doesn't surface anywhere. All products are 20% off at enhauto.com through April 16.</description>
+      <description>Enhauto's latest firmware update for its Commander dongle and S3XY accessories adds several features Tesla hasn't built into its own software. Performance Model Y Juniper owners can now enable Track Mode through the S3XY products even though it doesn't appear in Tesla's native menus. Also new: an Actions on Reverse automation that can mute all in-car audio when backing up, a Knight Rider sweeping animation for the ambient light strip, and separate brightness settings for day and night. Brake temperature per wheel is now visible in the S3XY app, a stat Tesla doesn't surface anywhere.</description>
     </item>
 
     <item>
@@ -151,7 +204,7 @@
       <pubDate>Sun, 05 Apr 2026 20:30:00 +0000</pubDate>
       <dc:creator>AutoSpec Roaming</dc:creator>
       <category>News</category>
-      <description>AutoSpec Roaming breaks down the updated Zeekr 007 GT just announced in China, right as European deliveries of the 800V version begin this summer. The China-spec car moves to a 900V architecture, adds a 6C-capable NMC battery with 10-80% charging in around 10 minutes, and gains roughly 148 extra horsepower across both motors. The AWD performance version now hits 0-100km/h in 2.84 seconds. Europe gets the 800V model with the LFP Golden Brick battery and around 400kW peak charging, which is still fast but a generation behind. The host argues Zeekr should sync their market releases. The owner forums agree loudly.</description>
+      <description>AutoSpec Roaming breaks down the updated Zeekr 007 GT just announced in China, right as European deliveries of the 800V version begin this summer. The China-spec car moves to a 900V architecture, adds a 6C-capable NMC battery with 10-80% charging in around 10 minutes, and gains roughly 148 extra horsepower across both motors. The AWD performance version now hits 0-100km/h in 2.84 seconds. Europe gets the 800V model with the LFP Golden Brick battery and around 400kW peak charging, which is still fast but a generation behind.</description>
     </item>
 
     <item>
@@ -163,67 +216,6 @@
       <category>Reviews</category>
       <description>Consumer Reports gets a first look at the 2027 Kia EV3. The standard 58.3kWh model gets around 220 miles of estimated range. The larger 81.4kWh version stretches that to 320 miles on the front-wheel-drive variant, with AWD available. DC fast charging goes from 10 to 80% in 29 to 31 minutes. Dual 12.3-inch screens, physical climate controls, a wireless charger, and USB charging points built into the rear seatbacks are all welcome. The flush door handles aren't Consumer Reports' favorite, and the rear ones sit high enough that small children may struggle to reach them. Rear seat headroom is snug for anyone over 5'10". On sale late 2026, starting just over $35,000.</description>
     </item>
-
-    <item>
-      <title>At the New York Auto Show, Nobody Is Going All-In on Electric Anymore</title>
-      <link>https://nexusevnews.com/articles/new-york-auto-show-2026-evs-hybrids-and-market-uncertainty.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/new-york-auto-show-2026-evs-hybrids-and-market-uncertainty.html</guid>
-      <pubDate>Sun, 05 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Business Today TV</dc:creator>
-      <category>News</category>
-      <description>Business Today TV reports from the 2026 New York International Auto Show, where the mood is notably cautious. US EV sales have slipped from close to 10% of total auto sales to around 6.5%, and the removal of federal purchase incentives has further dampened momentum. Subaru unveiled the Getaway, a three-row electric SUV with over 500km of range, alongside a new Forester Wilderness Hybrid. Kia showed the EV3 alongside the Seltos in gas and hybrid form. Hyundai noted its hybrid lineup is outpacing EV sales. The counterforce: rising fuel prices tied to Middle East tensions are nudging some buyers, especially in California, back toward electric. The industry picture is less a retreat from EVs and more a calculated hedge.</description>
-    </item>
-
-    <item>
-      <title>An FSD First-Timer Takes the Wheel in Downtown LA. Tesla's Vision-Only System Passes Its Toughest Test Yet.</title>
-      <link>https://nexusevnews.com/articles/an-fsd-first-timer-takes-the-wheel-in-downtown-la-tesla-s-vision-only-system-pas.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/an-fsd-first-timer-takes-the-wheel-in-downtown-la-tesla-s-vision-only-system-pas.html</guid>
-      <pubDate>Sat, 04 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Motor Trend</dc:creator>
-      <category>Deep Dives</category>
-      <description>Motor Trend's Edward Loh hands the keys to Jonny Lieberman, who has never used Tesla FSD, and sends him through one of the most punishing test routes they could design. The 2023 Model Y running FSD v14.2.2 navigates downtown LA traffic, merges onto the world's oldest freeway with about 15 feet of acceleration lane, and climbs the narrow, line-free, storm-damaged back roads of Mount Washington on garbage day. It handles unprotected lefts, pedestrians around blind corners, a pile of rocks, and opposing traffic on a one-lane road. It also hallucinates a ghost and executes three unnecessary three-point turns before recovering. By the Rose Bowl, Jonny has barely touched the steering wheel.</description>
-    </item>
-
-    <item>
-      <title>The AI Energy Crisis Has a Surprising Fix. Turns Out the Data Centers Are the Answer.</title>
-      <link>https://nexusevnews.com/articles/the-ai-energy-crisis-has-a-surprising-fix-turns-out-the-data-centers-are-the-ans.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-ai-energy-crisis-has-a-surprising-fix-turns-out-the-data-centers-are-the-ans.html</guid>
-      <pubDate>Sat, 04 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>TED</dc:creator>
-      <category>Solar &amp; Renewables</category>
-      <description>Computer scientist Ayse Coskun spent 12 years asking whether data centers could flex their power use to match what the grid needs. The answer is yes. AI facilities run predictable, delayable workloads, making them ideal for soaking up excess solar midday and scaling back during peak demand. Her conductor platform runs on real AI data centers today, cutting power by pausing non-critical jobs without breaking performance promises. During a 2023 Texas heat wave, wholesale electricity prices spiked over 800% in a single afternoon. Flexible data center loads could have blunted that. It is a compelling case that the same technology straining the grid can also help stabilize it.</description>
-    </item>
-
-    <item>
-      <title>Subaru's Smallest EV Is Stylish, Reasonably Priced, and Cruel to Tall Passengers in the Back</title>
-      <link>https://nexusevnews.com/articles/subaru-s-smallest-ev-is-stylish-reasonably-priced-and-cruel-to-tall-passengers-i.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/subaru-s-smallest-ev-is-stylish-reasonably-priced-and-cruel-to-tall-passengers-i.html</guid>
-      <pubDate>Sat, 04 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Consumer Reports</dc:creator>
-      <category>Reviews</category>
-      <description>The 2026 Subaru Uncharted shares its platform with the Toyota C-HR but offers something Toyota doesn't: a front-wheel-drive base trim with 221 horsepower and over 300 miles of claimed range. All-wheel-drive models make 338 horsepower with around 290 miles. NACS port means Superchargers are on the table, and the Lexus-sourced interior feels genuinely upscale for the price. The sloping roofline cuts into cargo depth, the door handles sit high enough to frustrate smaller children, and anyone much over six feet will find their head pressed against the headliner in the rear seat. Good small EV. Just measure your passengers first.</description>
-    </item>
-
-    <item>
-      <title>Tesla Missed Q1 Delivery Targets Again. It Built 50,000 More Cars Than It Sold.</title>
-      <link>https://nexusevnews.com/articles/tesla-missed-q1-delivery-targets-again-it-built-50-000-more-cars-than-it-sold.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-missed-q1-delivery-targets-again-it-built-50-000-more-cars-than-it-sold.html</guid>
-      <pubDate>Sat, 04 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>CNBC</dc:creator>
-      <category>News</category>
-      <description>Tesla delivered 358,023 vehicles in Q1 2026, missing analyst expectations near 369,000 and producing over 408,000 units in the same period. That 50,000-unit gap between production and deliveries is the figure analysts are watching most closely. Year-over-year deliveries rose 6.3%, but quarter-over-quarter they fell 14.4%, and some analysts now warn of a third consecutive annual decline. Tesla lost the title of world's largest EV maker to BYD last year. Bright spots include recovery in key European markets and China sales up 23%. Shares fell around 5% after the report.</description>
-    </item>
-
-    <item>
-      <title>How Much Solar Could Your Roof Actually Generate? This Free Tool Gives You a Real Answer.</title>
-      <link>https://nexusevnews.com/articles/how-much-solar-could-your-roof-actually-generate-this-free-tool-gives-you-a-real.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/how-much-solar-could-your-roof-actually-generate-this-free-tool-gives-you-a-real.html</guid>
-      <pubDate>Sat, 04 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>National Laboratory of the Rockies</dc:creator>
-      <category>Solar &amp; Renewables</category>
-      <description>PVWatts is a free calculator from the National Laboratory of the Rockies that estimates annual and monthly electricity output for a rooftop solar system at any address in the world. Enter your address, pick a system size, and get production numbers based on real local weather data. It is the same tool used by solar installers and researchers. If you have ever wondered whether going solar pencils out for your home, start here.</description>
-    </item>
-
 
   </channel>
 </rss>
