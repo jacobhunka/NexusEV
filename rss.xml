@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,57 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>A 3,170 kg Electric Truck vs a Corvette Z06 in the Quarter Mile</title>
+      <link>https://nexusevnews.com/articles/rivian-r1t-quad-motor-vs-corvette-z06-drag-race-carwow.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r1t-quad-motor-vs-corvette-z06-drag-race-carwow.html</guid>
+      <pubDate>Sat, 11 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>carwow</dc:creator>
+      <category>Reviews</category>
+      <description>carwow lines up the Rivian R1T quad motor against the Chevrolet Corvette Z06 over the standing quarter mile. The Rivian weighs 3,170 kg, produces 1,025 horsepower and 1,624 Nm of torque. The Z06 packs a 5.5-litre naturally aspirated V8 with 670 horsepower and a launch control system adjustable from 3,500 to 5,000 rpm with variable wheel slip, driven by NASCAR racer Jesse Iwuji, who owns the car. Standing quarter mile: Rivian 10.6 seconds, Corvette 11.3. Jesse's post-race discovery: turning stability control fully off changed everything. Way too late.</description>
+    </item>
+
+    <item>
+      <title>Honda's Tiny EV Has Fake Gears, a Boost Button, and the Cheek to Call Itself Super</title>
+      <link>https://nexusevnews.com/articles/honda-super-n-first-look-boost-mode-fake-gears-sub-20k.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/honda-super-n-first-look-boost-mode-fake-gears-sub-20k.html</guid>
+      <pubDate>Sat, 11 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>What Car?</dc:creator>
+      <category>Reviews</category>
+      <description>What Car? gets an early look at the Honda Super N before UK showrooms open in July. Built on the bones of the Japanese N-One E city car, the Super N runs wider, sits lower, and promises something the N-One E very much does not: genuine driving fun. A boost button lifts the single motor from 63 to 94 horsepower. Paddles simulate a seven-speed sequential gearbox, and an active sound system recreates an engine note to match. Ambient lighting turns from blue to purple in boost mode. Honda quotes a combined range of 128 miles and says pricing will come in under £20,000, undercutting the cheapest Fiat 500e. In showrooms July 2026.</description>
+    </item>
+
+    <item>
+      <title>Stop. Before You Buy a New EV, Watch This.</title>
+      <link>https://nexusevnews.com/articles/used-ev-bargains-australia-half-price-redriven-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/used-ev-bargains-australia-half-price-redriven-2026.html</guid>
+      <pubDate>Sat, 11 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>ReDriven</dc:creator>
+      <category>Used EVs</category>
+      <description>Redriven makes the case that the Australian used EV market is the best-kept secret going. BMW iX models that were $150,000 new are listing around $50,000. A Mercedes-Benz EQS 53 AMG that retailed near $400,000 in 2022 can be found used for a little over $90,000. The Hyundai Ioniq 5 has dropped from around $70,000 new to $35,000. Top picks: Genesis GV60 for 800V charging at half price, GV70 EV for stronger residuals, and used Tesla Model 3s from under $30,000. Check accident history carefully, confirm all recalls are done, and stick to factory-backed brands.</description>
+    </item>
+
+    <item>
+      <title>Inside the Tesla Semi Factory Nobody Had Seen Until Now</title>
+      <link>https://nexusevnews.com/articles/tesla-semi-factory-sparks-nevada-first-look-mass-production.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-semi-factory-sparks-nevada-first-look-mass-production.html</guid>
+      <pubDate>Sat, 11 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Core Memory</dc:creator>
+      <category>Deep Dives</category>
+      <description>An exclusive walkthrough of Tesla's Semi factory at Gigafactory Nevada in Sparks, where mass production is now ramping up. The tour covers the overhead conveyance system, where frames grow into 10,000-plus-pound assemblies as components are added at operator height, battery marriage where three parallel packs using Cybertruck cells are bolted into the frame, and the light tunnel at the end of general assembly. Standard range: 325 miles. Long range: 500 miles. A Tesla CDL driver describes the experience: effortless torque, remarkably quiet, and regen braking that removes steep-grade anxiety entirely.</description>
+    </item>
+
+    <item>
+      <title>Hyundai's New Concept Is Named After a Planet and Arrives in Gold. The Production Version Comes to Beijing.</title>
+      <link>https://nexusevnews.com/articles/hyundai-ioniq-venus-concept-art-of-steel-erev-beijing-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/hyundai-ioniq-venus-concept-art-of-steel-erev-beijing-2026.html</guid>
+      <pubDate>Sat, 11 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>OTOFOOTAGE</dc:creator>
+      <category>News</category>
+      <description>Hyundai debuted the Ioniq Venus Concept in China, unveiling a new design direction called Art of Steel that replaces the parametric pixel language used across current Ioniq models. The exterior uses a single-curve silhouette, precision-cut edges, a lightweight frame roof, and a transparent rear spoiler, all in radiant gold paint. Inside, a dual-curved panoramic display pairs with a 3D augmented reality head-up display projecting navigation onto the windshield. Hyundai says the Venus supports both a full BEV powertrain and an extended range electric setup. A production-ready version is expected at the 2026 Beijing Auto Show.</description>
+    </item>
+
 
     <item>
       <title>You Already Know More About EVs Than You Think. Here's a Translation Guide.</title>
@@ -167,55 +218,8 @@
       <description>Electrifying recruits four real-world drivers, none of them EV owners, to spend a day with the MG4 Urban. The car offers around 258 miles of range and charges from 10 to 80% in about 30 minutes on a rapid charger. Highlights include five levels of regenerative braking, a one-pedal mode that brings the car to a full stop without touching the brake, 30 storage areas built throughout the cabin, and a boot floor that lowers to nearly double the usable depth. All four left saying it was easier and more practical than expected.</description>
     </item>
 
-    <item>
-      <title>Tesla FSD 14.3 Is Out. The AI Compiler Was Rebuilt, and Reaction Time Is 20% Faster.</title>
-      <link>https://nexusevnews.com/articles/tesla-fsd-14-3-first-drive-20-percent-faster-reaction-time.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-fsd-14-3-first-drive-20-percent-faster-reaction-time.html</guid>
-      <pubDate>Wed, 08 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Dirty Tesla</dc:creator>
-      <category>Deep Dives</category>
-      <description>Dirty Tesla's Chris takes FSD 14.3 straight out on its release day. Tesla rewrote the AI compiler using MLIR, claiming a 20% improvement in reaction time and faster model iteration for future point releases. The RL neural network received a broad upgrade. On the drive, the car reads do-not-enter signs and overrides incorrect map data rather than following it blindly, and it avoids a near-miss when another driver cuts across without warning. Still on the to-do list: pothole avoidance and expanded reasoning beyond destination handling.</description>
-    </item>
 
-    <item>
-      <title>The Oil Change Economy: What Maintenance Really Costs Over 100,000 Miles</title>
-      <link>https://nexusevnews.com/opinion-ev-maintenance.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/opinion-ev-maintenance.html</guid>
-      <pubDate>Wed, 08 Apr 2026 12:00:00 +0000</pubDate>
-      <dc:creator>Jacob Hunka</dc:creator>
-      <category>Opinion</category>
-      <description>Everyone knows EVs cost less to maintain. Almost no one has run the full ledger. Oil changes, brake jobs, transmission flushes, spark plugs. Line by line, over 100,000 miles, with real prices from Kelley Blue Book, AAA, Consumer Reports, and the U.S. Department of Energy. The result is not what most people expect.</description>
-    </item>
-
-    <item>
-      <title>The Lucid Gravity Sprints to 100 in 3.6 Seconds, Then Asks If You Would Like a Massage</title>
-      <link>https://nexusevnews.com/articles/lucid-gravity-grand-touring-seven-seats-400kw-charging-and-a-frunk-picnic.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/lucid-gravity-grand-touring-seven-seats-400kw-charging-and-a-frunk-picnic.html</guid>
-      <pubDate>Sun, 05 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Autogefühl</dc:creator>
-      <category>Reviews</category>
-      <description>Autogefühl takes the Lucid Gravity Grand Touring to Mallorca for a proper test. The numbers are hard to argue with: 123kWh battery, 400kW peak DC charging with 10 to 80% in around 23 minutes, and 3.6 seconds to 100km/h for a car that seats seven adults. Real-world range comes in around 540km (340 miles) at 100km/h and about 450km (280 miles) at 120km/h. The frunk has cup holders and a power socket and enough room to sit inside. The seat massage uses genuine vibration rather than just lumbar pressure and is the best Thomas has tested. The steering needs some fine-tuning. Apple CarPlay is coming. US pricing starts at $80,000 for the entry battery and $95,000 for this Grand Touring.</description>
-    </item>
-
-    <item>
-      <title>Enhauto's 6.4 Update Adds Knight Rider Mode, Muted Reversing, and Track Mode Tesla Forgot to Ship</title>
-      <link>https://nexusevnews.com/articles/enhauto-update-6-4-knight-rider-mode-muted-reverse-track-mode-model-y-juniper.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/enhauto-update-6-4-knight-rider-mode-muted-reverse-track-mode-model-y-juniper.html</guid>
-      <pubDate>Sun, 05 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Enhauto</dc:creator>
-      <category>News</category>
-      <description>Enhauto's latest firmware update for its Commander dongle and S3XY accessories adds several features Tesla hasn't built into its own software. Performance Model Y Juniper owners can now enable Track Mode through the S3XY products even though it doesn't appear in Tesla's native menus. Also new: an Actions on Reverse automation that can mute all in-car audio when backing up, a Knight Rider sweeping animation for the ambient light strip, and separate brightness settings for day and night. Brake temperature per wheel is now visible in the S3XY app, a stat Tesla doesn't surface anywhere.</description>
-    </item>
-
-    <item>
-      <title>China Just Got a Faster Zeekr 007 GT. European Buyers Are Starting Deliveries of the Previous One.</title>
-      <link>https://nexusevnews.com/articles/zeekr-007-gt-china-update-900v-10-minute-charging-europe-gets-old-version.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/zeekr-007-gt-china-update-900v-10-minute-charging-europe-gets-old-version.html</guid>
-      <pubDate>Sun, 05 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>AutoSpec Roaming</dc:creator>
-      <category>News</category>
-      <description>AutoSpec Roaming breaks down the updated Zeekr 007 GT just announced in China, right as European deliveries of the 800V version begin this summer. The China-spec car moves to a 900V architecture, adds a 6C-capable NMC battery with 10-80% charging in around 10 minutes, and gains roughly 148 extra horsepower across both motors. The AWD performance version now hits 0-100km/h in 2.84 seconds. Europe gets the 800V model with the LFP Golden Brick battery and around 400kW peak charging, which is still fast but a generation behind.</description>
-    </item>
 
   </channel>
 </rss>
+
