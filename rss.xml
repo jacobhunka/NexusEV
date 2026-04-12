@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>No Generator, No Problem: Five EV Campers Tell It Like It Is</title>
+      <link>https://nexusevnews.com/articles/ev-camping-roundtable-five-setups-lightning-rivian-model-y-esprinter.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ev-camping-roundtable-five-setups-lightning-rivian-model-y-esprinter.html</guid>
+      <pubDate>Sun, 12 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec BITS</dc:creator>
+      <category>Deep Dives</category>
+      <description>Tom from Out of Spec hosts four fellow EV campers: Allan, who pulled a 32-foot, 8,000 lb loaded trailer with his Lightning Flash across 4,000 towing miles last year; Eric, who gets around 180 miles per charge towing a 25-foot Airstream behind a 2025 Rivian R1T tri-motor; Austin, who sleeps in a Model Y on a custom plywood platform with a $500 bolt-on tent; and Skye, who built a two-bunk eSprinter van with 8 kWh of EcoFlow power. Tom powers his whole camper off the Lightning's Pro Power on board and burned only 40% battery over six days at Daytona. Group consensus: aerodynamics matter more than trailer weight, and charging stops make better lunches than gas stations do.</description>
+    </item>
+
+    <item>
+      <title>379,000 Miles on the Original Battery. Tesla's Health Test Had an Answer.</title>
+      <link>https://nexusevnews.com/articles/tesla-model-3-battery-health-379000-miles-drive-protected.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-3-battery-health-379000-miles-drive-protected.html</guid>
+      <pubDate>Sun, 12 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Drive Protected</dc:creator>
+      <category>Battery Tech</category>
+      <description>Drive Protected runs Tesla's built-in battery health test on a Model 3 with 610,433 km on the clock. The test drains the pack to zero, charges it to 100%, and reports usable capacity against new. Getting started required breaking into the car by hand after the 12V battery died, snapping a tow hook cover in the process. Tesla service cleared a coolant fault before the test could run. Next morning: 70% battery health remaining. The screen shows 89% as the new ceiling for this pack. According to Tesla, it is still the original battery.</description>
+    </item>
+
+    <item>
+      <title>The Man Who Invented the Modern Solar Panel Is 77 and Lives Near a Beach</title>
+      <link>https://nexusevnews.com/articles/martin-green-perc-solar-cell-history-abc-news.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/martin-green-perc-solar-cell-history-abc-news.html</guid>
+      <pubDate>Sun, 12 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>ABC News In-depth</dc:creator>
+      <category>Solar</category>
+      <description>ABC News profiles Martin Green, the University of New South Wales researcher whose PERC cell design became the foundation of modern solar manufacturing. His lab held the world record for silicon solar cell efficiency for 31 years, from 1983 to 2014. One of his Chinese PhD students took the knowledge home and became the first solar billionaire. Green published instead of patenting, which is why the solar industry exists at its current scale and why almost nobody has heard of his name. In 2024, about 600 gigawatts of solar capacity were added worldwide, with some single days matching what the entire world installed in a year back in 2004.</description>
+    </item>
+
+    <item>
+      <title>China's Wind and Solar Beat Coal. Now Canada Has to Decide What to Do About That.</title>
+      <link>https://nexusevnews.com/articles/china-wind-solar-surpasses-coal-canada-ai-grid-cbc-news.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/china-wind-solar-surpasses-coal-canada-ai-grid-cbc-news.html</guid>
+      <pubDate>Sun, 12 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>CBC News: The National</dc:creator>
+      <category>Solar</category>
+      <description>In 2025, China's combined wind and solar capacity surpassed coal for the first time. Envision, the world's second-largest wind turbine maker, runs an AI-managed wind and green hydrogen project in the Gobi Desert. Company founder Le Chang has discussed bringing that model to Canada's remote wilderness with Prime Minister Mark Carney, who said Canada plans to double its energy grid over 15 years. The concern: Ontario Premier Doug Ford calls it giving a geopolitical rival an operating system for Canada's power supply. Meanwhile, China is still approving new coal plants.</description>
+    </item>
+
+    <item>
+      <title>Delhi Has a Plan B for Electrification. It Doesn't Involve Buying New Trucks.</title>
+      <link>https://nexusevnews.com/articles/delhi-ev-retrofitting-diesel-trucks-ix-energy-dw-rev.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/delhi-ev-retrofitting-diesel-trucks-ix-energy-dw-rev.html</guid>
+      <pubDate>Sun, 12 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>DW REV - Cars &amp; Mobility</dc:creator>
+      <category>News</category>
+      <description>More than 15 million vehicles crowd Delhi's streets and fewer than 8% are electric, well short of the city's 30% target for 2030. IX Energy strips out diesel powertrains, installs electric ones, and extends a truck's working life by up to seven years. Operating costs drop from around 12 rupees per kilometer to about 4. A conversion takes roughly two weeks and costs about 40% less than buying a new electric truck. The idea is not scaling fast: certified retrofitters are scarce, regulations are vague, and public charging is limited.</description>
+    </item>
 
     <item>
       <title>A 3,170 kg Electric Truck vs a Corvette Z06 in the Quarter Mile</title>
@@ -166,56 +216,6 @@
       <dc:creator>Everything Electric APAC</dc:creator>
       <category>News</category>
       <description>The NIO ES9 is positioned directly against the Range Rover in China, where Land Rover still has no fully electric flagship. At 5.3 meters long, its 0.264 drag coefficient matches the BMW i8 supercar despite the bluff shape. The rear cabin features zero-gravity seats with 42 massage points, a foot massager built into the footrest, a personal safe, a fridge, and two 16-inch OLED screens. Sound comes from 47 speakers delivering 4,630 watts. The side windows are electrochromic and can be tinted in sections. It slots below the ultra-luxury ET9 in NIO's lineup.</description>
-    </item>
-
-    <item>
-      <title>Lucid Set a $59 Cost Target on a Part Everyone Said Would Cost $120. They Hit It.</title>
-      <link>https://nexusevnews.com/articles/lucid-midsize-cosmos-earth-cost-engineering-munro-cory-steuben.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/lucid-midsize-cosmos-earth-cost-engineering-munro-cory-steuben.html</guid>
-      <pubDate>Thu, 09 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Munro Live</dc:creator>
-      <category>Deep Dives</category>
-      <description>Munro Live sits down with Cory Steuben, Lucid's Director of Cost Engineering, to detail the strategy behind the Cosmos and Earth midsize platform. The midsize needs only 69 kWh to travel roughly 300 miles. The Atlas drive unit cut part count by 30%, shed 23% of the Zeus drive unit's weight, and came in 37% cheaper. Low-voltage wiring landed at roughly half the circuit count of a comparable Chinese competitor. One subsystem had an internal target of $59; suppliers quoted $120 to $150. The final sourced price landed within two cents of $59. Manufacturing in both Arizona and Saudi Arabia opens the global supply base in ways a US-only plant cannot.</description>
-    </item>
-
-    <item>
-      <title>The Hyundai Ioniq 9 Just Beat Four Expensive Rivals at Their Own Game</title>
-      <link>https://nexusevnews.com/articles/bmw-ix-kia-ev9-ioniq9-polestar3-volvo-ex90-group-test.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix-kia-ev9-ioniq9-polestar3-volvo-ex90-group-test.html</guid>
-      <pubDate>Wed, 08 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>carwow</dc:creator>
-      <category>Reviews</category>
-      <description>carwow's Matt Watson lines up the BMW iX, Kia EV9, Hyundai Ioniq 9, Polestar 3, and Volvo EX90 for a full group test covering design, real-world range, interior quality, driving, boot space, and a drag race. Estimated real-world ranges run from 202 miles for the Kia EV9 to 317 miles for the Polestar 3. The BMW iX wins the drag race at 4.4 seconds to 60 mph with 544 horsepower. The Polestar 3 is the pick if you only need five seats. For the full seven-seat test, the Ioniq 9 edges the Kia EV9 on practicality, interior quality, and value.</description>
-    </item>
-
-    <item>
-      <title>The Slate Truck Leaves the Factory in One Color. The Designer Planned It That Way.</title>
-      <link>https://nexusevnews.com/articles/slate-auto-ev-truck-tisha-johnson-design-wrap-affordable.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-auto-ev-truck-tisha-johnson-design-wrap-affordable.html</guid>
-      <pubDate>Wed, 08 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Javier Mota</dc:creator>
-      <category>News</category>
-      <description>Slate Auto head of design Tisha Johnson explains the philosophy behind the Slate pickup: affordable at purchase, affordable to own, and affordable to personalize. The truck leaves the factory in a single slate gray and is the first vehicle designed specifically to be DIY-wrapped. Over 100 wrap colors are planned. The dashboard can swap between a standard instrument panel and a full sound bar. The two-seater converts to a five-seat SUV by popping out the rear bulkhead and installing a bench seat. Reservations are open, with deliveries targeted for later this year.</description>
-    </item>
-
-    <item>
-      <title>Rivian R2 EPA Docs Are Out. The Range Came In Better Than Rivian Said It Would.</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-epa-range-335-miles-210kw-charging-heat-pump.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-epa-range-335-miles-210kw-charging-heat-pump.html</guid>
-      <pubDate>Wed, 08 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>RivianTrackr</dc:creator>
-      <category>News</category>
-      <description>EPA certification documents for the Rivian R2 have surfaced ahead of customer deliveries. The Performance trim on 21-inch All-Season tires earned 335 miles, five miles better than Rivian's own estimate of 330. The 20-inch All-Terrain version came in at 314 miles, also beating Rivian's 307-mile projection. Usable battery is 86.8 kWh and DC fast charging peaks at 210 kW. Payload capacity is roughly 1,175 lbs. The repositioned heat pump is confirmed to ship from day one, including on the Launch Edition. Employee deliveries are underway this month.</description>
-    </item>
-
-    <item>
-      <title>Four People Who Had Never Driven an EV Took the MG4 Urban Out for a Day. Here Is What They Said.</title>
-      <link>https://nexusevnews.com/articles/mg4-urban-first-time-ev-drivers-electrifying-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/mg4-urban-first-time-ev-drivers-electrifying-review.html</guid>
-      <pubDate>Wed, 08 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>Reviews</category>
-      <description>Electrifying recruits four real-world drivers, none of them EV owners, to spend a day with the MG4 Urban. The car offers around 258 miles of range and charges from 10 to 80% in about 30 minutes on a rapid charger. Highlights include five levels of regenerative braking, a one-pedal mode that brings the car to a full stop without touching the brake, 30 storage areas built throughout the cabin, and a boot floor that lowers to nearly double the usable depth. All four left saying it was easier and more practical than expected.</description>
     </item>
 
 
