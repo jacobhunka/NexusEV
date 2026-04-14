@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>The Lightship RV Has Arrived. 77 kWh, Solar Roof, and a Hitch That Makes Your Truck Forget It's Towing.</title>
+      <link>https://nexusevnews.com/articles/lightship-rv-arrives-out-of-spec-first-setup-tour-testing.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/lightship-rv-arrives-out-of-spec-first-setup-tour-testing.html</guid>
+      <pubDate>Tue, 14 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Deep Dives</category>
+      <description>Out of Spec Reviews welcomes the Lightship aero-electric travel trailer for a week of real-world testing at their North Carolina track. Co-founder Ben walks Kyle through the whole setup: 77 kWh lithium battery, a solar-covered roof, and Trek Drive, a force-sensing system built into the hitch coupler that measures drag from the tow vehicle and offsets it with an onboard motor. The result is a trailer that reportedly becomes effectively weightless to whatever is pulling it. The Atmos trim unit on hand is VIN 6 off their Broomfield, Colorado production line, priced at approximately $180,000. Kyle plans to tow it with a Cybertruck, Silverado EV, a gas Super Duty, and a Tahoe. DC fast charging and solar-to-high-voltage-battery are both still coming via software update.</description>
+    </item>
+
+    <item>
+      <title>The Mercedes EQS Finally Gets Good. 800V, 122 kWh, and an F1 Steering Wheel That Actually Makes Sense.</title>
+      <link>https://nexusevnews.com/articles/2027-mercedes-eqs-facelift-800v-steer-by-wire-autogefuhl.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/2027-mercedes-eqs-facelift-800v-steer-by-wire-autogefuhl.html</guid>
+      <pubDate>Tue, 14 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Autogefühl</dc:creator>
+      <category>Reviews</category>
+      <description>Thomas from Autogefühl drives the refreshed Mercedes EQS, and the battery story alone earns attention. The large pack is now 122 kWh net, the small one 112 kWh, and both charge on a new 800V architecture with peak rates up to 350 kW. That gets you 10-80% in about 25 minutes. Entry price in Germany drops to 94,000 euros, a figure that changes the company car tax math across Europe. The optional steer-by-wire system pairs with a flat F1-style steering wheel, cutting full lock-to-lock down to a fraction of a rotation. Thomas drives it through an obstacle course back-to-back with a pre-facelift model, and the difference is hard to ignore.</description>
+    </item>
+
+    <item>
+      <title>Ionna Built a Charging Lounge That Beats the Airport One. Plus: Kwik Trip Added Five Stations in a Week.</title>
+      <link>https://nexusevnews.com/articles/ionna-driver-lounge-forest-park-dcfc-news-april-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ionna-driver-lounge-forest-park-dcfc-news-april-2026.html</guid>
+      <pubDate>Tue, 14 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec BITS</dc:creator>
+      <category>Charging</category>
+      <description>Walter tours Ionna's new driver's lounge at Forest Park, Georgia, immediately off I-75 near Atlanta Hartsfield. Alpitronic hyperchargers, canopy, Corian countertops, vending machines stocked with Red Bull, and seating that actually works. Walter's verdict: better than the BP lounge at LAX. The weekly DCFC roundup covers Kwik Trip's Kwik Charge network jumping from 10 to 16 stations across Wisconsin and Minnesota in a single week. Also this week: Pilot Flying J shutting down existing 4-stall stations to expand stall counts, Tesla Supercharger opening 10 new locations, BYD's 1 MW flash charger demonstrated in Europe, and Walmart adding seven more charging sites.</description>
+    </item>
+
+    <item>
+      <title>1,156 HP, Crab Walk, and It Parks Itself by Spinning on One Wheel. Meet the Denza Z9 GT.</title>
+      <link>https://nexusevnews.com/articles/denza-z9-gt-1156hp-crab-walk-pivot-turn-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/denza-z9-gt-1156hp-crab-walk-pivot-turn-review.html</guid>
+      <pubDate>Tue, 14 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Roaming</dc:creator>
+      <category>Reviews</category>
+      <description>William from Out of Spec Roaming gets behind the wheel of the Denza Z9 GT, BYD's luxury performance brand. Three motors produce 1,156 hp. A 122 kWh LFP blade battery on a true 1,000V architecture holds around 300 kW at a public European charger well into a high state of charge. With BYD's own flash chargers, the Z9 GT goes from 10% to 97% in about 9 minutes. Independent rear-wheel steering lets each rear wheel turn in opposite directions, enabling a pivot-around-one-wheel parking move and crab walk on command. At roughly €115,000 in Europe, it is one of the most capable cars on the market, and the accelerator mapping and infotainment are not quite at that level yet.</description>
+    </item>
+
+    <item>
+      <title>The Most Underrated Electric Sedan Under $70K Has Two Charge Ports, a Real Frunk, and a Gear Shift You Can Actually Feel</title>
+      <link>https://nexusevnews.com/articles/mercedes-cla-ev-350-review-underrated-electric-sedan.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/mercedes-cla-ev-350-review-underrated-electric-sedan.html</guid>
+      <pubDate>Tue, 14 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Auto Focus</dc:creator>
+      <category>Reviews</category>
+      <description>Auto Focus spends a week with the Mercedes CLA 350 electric, starting at $50,000 and landing at around $65,000 as tested. The rear axle runs a two-speed gearbox, and at highway speeds you actually feel it shift, something most EVs never do. Two charge ports live in the same motorized flap: NACS and a separate Level 2 AC inlet, neither needing an adapter. There is a usable frunk. The optional Burmester speakers are worth the $800. Ride quality is smooth and notably quiet on 19-inch wheels. The back seat is a B-minus thanks to a high floor and sloping roofline, and there is no next-song button on the steering wheel, a strange miss for a $65,000 car. The honest 300-mile range is a genuine selling point in a segment that is almost out of options.</description>
+    </item>
 
     <item>
       <title>The World's First Electric Articulated Haulers Just Went Into Serial Production. The Team That Built Them Got a Little Emotional.</title>
@@ -176,55 +226,6 @@
       <description>EV jargon sounds intimidating until you realize it is just the same car stuff with different names. kWh is your fuel tank. kW is how fast the pump flows. Phantom drain is your porch light. Here is the plain-English translation guide nobody wrote for you.</description>
     </item>
 
-    <item>
-      <title>This Subaru Station Wagon Is Faster Than Any STI They Ever Made. It's Also Kind of a Mess.</title>
-      <link>https://nexusevnews.com/articles/subaru-trailseeker-2026-review-range-charging-test-gjeebs.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/subaru-trailseeker-2026-review-range-charging-test-gjeebs.html</guid>
-      <pubDate>Fri, 10 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Gjeebs</dc:creator>
-      <category>Reviews</category>
-      <description>Gjeebs drives the 2026 Subaru Trailseeker from Phoenix to Sedona and back with a charging stop to build a complete picture. The good stuff is genuinely good: 375 horsepower, Subaru's symmetrical AWD, 0-60 in 4.4 seconds, exceptional ride quality, and a 10-to-80% charging record of 25 minutes and 7 seconds — four minutes faster than the 2026 Model Y. The bad stuff is just as real: no route planning whatsoever, an infotainment system that earns every bad word thrown at it, and that record charge adds only 161 miles of range. Real-world, the Trailseeker ran 240 miles from 100% to empty on the Sedona loop, mostly without AC. Priced from $39,995 to $45,000, it's the only EV station wagon on the US market and falls just short of being something special.</description>
-    </item>
-
-    <item>
-      <title>Cupra's New Raval Is the Sporty Evil Twin the ID.Polo Always Needed</title>
-      <link>https://nexusevnews.com/articles/cupra-raval-reveal-specs-price-autogefuhl.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/cupra-raval-reveal-specs-price-autogefuhl.html</guid>
-      <pubDate>Fri, 10 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Autogefühl</dc:creator>
-      <category>Reviews</category>
-      <description>Autogefühl walks through the all-new Cupra Raval: 4 meters long, 15mm lower than the ID.Polo, 10mm wider in the track. Top VZ trim runs 226 hp, adaptive DCC suspension, a front diff lock, 0-to-62 mph in under 7 seconds, and a 110 mph top speed. The 56 kWh NMC battery charges at 130 kW for a 10-to-80% time of 23 minutes. Trunk fits a cabin trolley. Flush door handles appear here alone among its platform siblings. Pricing starts around €26,000 for the small battery; the fully loaded VZ is expected near €38,000.</description>
-    </item>
-
-    <item>
-      <title>Two Journalists Slept in a Hyundai Ioniq 9 and an Inster in February. One of Them Got Eight Hours.</title>
-      <link>https://nexusevnews.com/articles/hyundai-ioniq9-inster-chabak-car-camping-test-motorpoint.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/hyundai-ioniq9-inster-chabak-car-camping-test-motorpoint.html</guid>
-      <pubDate>Fri, 10 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Motorpoint</dc:creator>
-      <category>Deep Dives</category>
-      <description>Motorpoint tests chabak, the Korean car-camping trend, using a Hyundai Ioniq 9 and a Hyundai Inster in a cold, wet car park in February. The Ioniq 9 brings a 111 kWh battery, 360 miles of range, vehicle-to-load capability, and electrically folding rear seats for a flat sleeping floor. The Inster brings a 49 kWh battery, 223 miles of official range, and flat front and rear seats. Both use utility mode to heat the cabin overnight. Verdict: warmer than expected, quieter than a tent, and you still need all your camping gear.</description>
-    </item>
-
-    <item>
-      <title>0 to 97% in 9 Minutes. Denza's Flash Charger Just Made Its European Debut Off the Grid.</title>
-      <link>https://nexusevnews.com/articles/denza-flash-charger-europe-first-off-grid-97-percent-9-minutes.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/denza-flash-charger-europe-first-off-grid-97-percent-9-minutes.html</guid>
-      <pubDate>Fri, 10 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>electricfelix</dc:creator>
-      <category>Charging</category>
-      <description>electricfelix gets a front-row seat at the first Denza flash charging system outside China. The setup is fully off-grid, drawing from two 190 kWh BYD Blade Battery Gen 2 storage units and a 2 MW power converter. Cables never touch the ground. Live results: 50% in 3 minutes 20 seconds, 80% in 6.5 minutes, 97% in 9 minutes 22 seconds. The car's active cooling shut off before 97% because the battery was unbothered. Currently being installed at Denza dealerships.</description>
-    </item>
-
-    <item>
-      <title>Tesla Is Working on a Smaller, Cheaper SUV — and the Timing Says Everything</title>
-      <link>https://nexusevnews.com/articles/tesla-new-smaller-cheaper-suv-in-development-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-new-smaller-cheaper-suv-in-development-2026.html</guid>
-      <pubDate>Fri, 10 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>nexusEVnews</dc:creator>
-      <category>News</category>
-      <description>Reuters reports Tesla is developing an all-new compact SUV smaller and cheaper than the Model Y — a notable reversal after scrapping its $25,000 EV project in 2024. The vehicle would be 4.28 meters long, single motor, lighter than the Model Y, and built in China. Production is unlikely this year. We look at what this means for Tesla's sliding deliveries, how it stacks up against BYD and VW in a segment where both have a serious head start, and what analysts will be watching to separate real commitment from another false start.</description>
-    </item>
 
 
   </channel>
