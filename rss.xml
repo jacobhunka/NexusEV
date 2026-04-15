@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -18,216 +18,212 @@
     <category>Battery Technology</category>
 
     <item>
-      <title>The Lightship RV Has Arrived. 77 kWh, Solar Roof, and a Hitch That Makes Your Truck Forget It's Towing.</title>
-      <link>https://nexusevnews.com/articles/lightship-rv-arrives-out-of-spec-first-setup-tour-testing.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/lightship-rv-arrives-out-of-spec-first-setup-tour-testing.html</guid>
-      <pubDate>Tue, 14 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
+      <title>The 2026 Polestar 4 Has No Rear Window, No Key Buttons, and Mood Lighting Named After Planets</title>
+      <link>https://nexusevnews.com/articles/2026-polestar-4-quirks-features-no-rear-window-doug-demuro.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/2026-polestar-4-quirks-features-no-rear-window-doug-demuro.html</guid>
+      <pubDate>Wed, 15 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Doug DeMuro</dc:creator>
+      <category>Reviews</category>
+      <description>Doug DeMuro works through every quirk of the 2026 Polestar 4, starting with the big one: there is no rear window. Polestar removed it entirely, replacing it with a digital rear-view mirror and using the reclaimed space to stretch the interior. The body style confusion runs deep. Polestar calls it an SUV coupe, but at 60 inches tall it sits only two inches above a Toyota Camry. The single-motor base starts at around $58,000 with 275 hp and 310 miles of range. The dual-motor steps up to 535 hp and 3.5 seconds to 60, starting around $64,000, though the test car checked out at just over $80,000. Inside: planet-named ambiance modes, a proximity-only key fob with zero buttons, and a rear seat roomy enough that China feels like the intended audience. DougScore: 64 out of 100.</description>
+    </item>
+
+    <item>
+      <title>This Device Tricks Your Tesla Into Thinking It's Charging. Then It Powers Your House Instead.</title>
+      <link>https://nexusevnews.com/articles/rome-energy-powerbridge-pro-tesla-home-backup-240v-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rome-energy-powerbridge-pro-tesla-home-backup-240v-review.html</guid>
+      <pubDate>Wed, 15 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>State of Charge</dc:creator>
       <category>Deep Dives</category>
-      <description>Out of Spec Reviews welcomes the Lightship aero-electric travel trailer for a week of real-world testing at their North Carolina track. Co-founder Ben walks Kyle through the whole setup: 77 kWh lithium battery, a solar-covered roof, and Trek Drive, a force-sensing system built into the hitch coupler that measures drag from the tow vehicle and offsets it with an onboard motor. The result is a trailer that reportedly becomes effectively weightless to whatever is pulling it. The Atmos trim unit on hand is VIN 6 off their Broomfield, Colorado production line, priced at approximately $180,000. Kyle plans to tow it with a Cybertruck, Silverado EV, a gas Super Duty, and a Tahoe. DC fast charging and solar-to-high-voltage-battery are both still coming via software update.</description>
+      <description>The Rome Energy PowerBridge Pro plugs into a CCS-enabled Tesla, tricks the car into thinking it is DC fast charging, and pulls electricity out of the battery instead. The first-generation model was limited to 3,500 watts at 120 volts. The Pro adds a 240-volt output capable of up to 7,500 watts through a NEMA 14-50 outlet, enough to run a home through a power outage using a standard generator inlet. State of Charge's Tom tests a heater and convection oven drawing a combined 3,300 watts at 120V, then charges his Ford F-150 Lightning at 240V for 40 minutes without interruption. Compatible with CCS-enabled Teslas from 2021 forward, or older models with Tesla's retrofit. Safety certifications were pending at time of review.</description>
     </item>
 
     <item>
-      <title>The Mercedes EQS Finally Gets Good. 800V, 122 kWh, and an F1 Steering Wheel That Actually Makes Sense.</title>
-      <link>https://nexusevnews.com/articles/2027-mercedes-eqs-facelift-800v-steer-by-wire-autogefuhl.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/2027-mercedes-eqs-facelift-800v-steer-by-wire-autogefuhl.html</guid>
-      <pubDate>Tue, 14 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Autogefühl</dc:creator>
-      <category>Reviews</category>
-      <description>Thomas from Autogefühl drives the refreshed Mercedes EQS, and the battery story alone earns attention. The large pack is now 122 kWh net, the small one 112 kWh, and both charge on a new 800V architecture with peak rates up to 350 kW. That gets you 10-80% in about 25 minutes. Entry price in Germany drops to 94,000 euros, a figure that changes the company car tax math across Europe. The optional steer-by-wire system pairs with a flat F1-style steering wheel, cutting full lock-to-lock down to a fraction of a rotation. Thomas drives it through an obstacle course back-to-back with a pre-facelift model, and the difference is hard to ignore.</description>
-    </item>
-
-    <item>
-      <title>Ionna Built a Charging Lounge That Beats the Airport One. Plus: Kwik Trip Added Five Stations in a Week.</title>
-      <link>https://nexusevnews.com/articles/ionna-driver-lounge-forest-park-dcfc-news-april-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ionna-driver-lounge-forest-park-dcfc-news-april-2026.html</guid>
-      <pubDate>Tue, 14 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec BITS</dc:creator>
-      <category>Charging</category>
-      <description>Walter tours Ionna's new driver's lounge at Forest Park, Georgia, immediately off I-75 near Atlanta Hartsfield. Alpitronic hyperchargers, canopy, Corian countertops, vending machines stocked with Red Bull, and seating that actually works. Walter's verdict: better than the BP lounge at LAX. The weekly DCFC roundup covers Kwik Trip's Kwik Charge network jumping from 10 to 16 stations across Wisconsin and Minnesota in a single week. Also this week: Pilot Flying J shutting down existing 4-stall stations to expand stall counts, Tesla Supercharger opening 10 new locations, BYD's 1 MW flash charger demonstrated in Europe, and Walmart adding seven more charging sites.</description>
-    </item>
-
-    <item>
-      <title>1,156 HP, Crab Walk, and It Parks Itself by Spinning on One Wheel. Meet the Denza Z9 GT.</title>
-      <link>https://nexusevnews.com/articles/denza-z9-gt-1156hp-crab-walk-pivot-turn-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/denza-z9-gt-1156hp-crab-walk-pivot-turn-review.html</guid>
-      <pubDate>Tue, 14 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Roaming</dc:creator>
-      <category>Reviews</category>
-      <description>William from Out of Spec Roaming gets behind the wheel of the Denza Z9 GT, BYD's luxury performance brand. Three motors produce 1,156 hp. A 122 kWh LFP blade battery on a true 1,000V architecture holds around 300 kW at a public European charger well into a high state of charge. With BYD's own flash chargers, the Z9 GT goes from 10% to 97% in about 9 minutes. Independent rear-wheel steering lets each rear wheel turn in opposite directions, enabling a pivot-around-one-wheel parking move and crab walk on command. At roughly €115,000 in Europe, it is one of the most capable cars on the market, and the accelerator mapping and infotainment are not quite at that level yet.</description>
-    </item>
-
-    <item>
-      <title>The Most Underrated Electric Sedan Under $70K Has Two Charge Ports, a Real Frunk, and a Gear Shift You Can Actually Feel</title>
-      <link>https://nexusevnews.com/articles/mercedes-cla-ev-350-review-underrated-electric-sedan.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/mercedes-cla-ev-350-review-underrated-electric-sedan.html</guid>
-      <pubDate>Tue, 14 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Auto Focus</dc:creator>
-      <category>Reviews</category>
-      <description>Auto Focus spends a week with the Mercedes CLA 350 electric, starting at $50,000 and landing at around $65,000 as tested. The rear axle runs a two-speed gearbox, and at highway speeds you actually feel it shift, something most EVs never do. Two charge ports live in the same motorized flap: NACS and a separate Level 2 AC inlet, neither needing an adapter. There is a usable frunk. The optional Burmester speakers are worth the $800. Ride quality is smooth and notably quiet on 19-inch wheels. The back seat is a B-minus thanks to a high floor and sloping roofline, and there is no next-song button on the steering wheel, a strange miss for a $65,000 car. The honest 300-mile range is a genuine selling point in a segment that is almost out of options.</description>
-    </item>
-
-    <item>
-      <title>The World's First Electric Articulated Haulers Just Went Into Serial Production. The Team That Built Them Got a Little Emotional.</title>
-      <link>https://nexusevnews.com/articles/volvo-ce-a30-a40-electric-articulated-haulers-serial-production.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/volvo-ce-a30-a40-electric-articulated-haulers-serial-production.html</guid>
-      <pubDate>Mon, 13 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Volvo Construction Equipment</dc:creator>
-      <category>News</category>
-      <description>Volvo Construction Equipment has started serial production of the A30 and A40 Electric, the world's first battery electric articulated haulers in their size class. The machines deliver the same performance as their diesel counterparts. The team worked flat, pulling desks right next to the assembly line during development. The moment the first machine was assembled, flashed with new software, and started with a key turn is something the engineers say they will never forget. Both models are now being readied for delivery to the first customers.</description>
-    </item>
-
-    <item>
-      <title>Is the Ioniq 6N a Supercar? Autotrader Took It to a Racetrack to Find Out.</title>
-      <link>https://nexusevnews.com/articles/hyundai-ioniq-6n-review-supercar-autotrader.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/hyundai-ioniq-6n-review-supercar-autotrader.html</guid>
-      <pubDate>Mon, 13 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Autotrader</dc:creator>
-      <category>Reviews</category>
-      <description>Autotrader's Rory takes the £65,000 Hyundai Ioniq 6N to the Castellolí circuit near Barcelona: 650 PS, 0-to-62 in 3.2 seconds, drift optimizer, N Grin Boost, a simulated 8-speed DCT that beeps when you need to shift, and 260 kW rapid charging for 10-to-80% in around 18 minutes. He also sits down with engineer Tyrone Johnson, the man behind the Focus RS and Mustang, to hear why the fake gears and synthetic sound are serious engineering and not a gimmick. Verdict: not quite a supercar. Definitely a super car.</description>
-    </item>
-
-    <item>
-      <title>BYD Is Selling Out Across Europe. Americans Have No Idea What They're Missing.</title>
-      <link>https://nexusevnews.com/articles/byd-chinese-ev-europe-us-tariffs-cbs-sunday-morning.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-chinese-ev-europe-us-tariffs-cbs-sunday-morning.html</guid>
-      <pubDate>Mon, 13 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>CBS Sunday Morning</dc:creator>
-      <category>News</category>
-      <description>CBS Sunday Morning visits a BYD dealership in London where a Lexus owner is trading up to a Sealion 7. BYD, which started as a battery company and owns its whole supply chain, can reportedly build EVs for around 25% less than Western competitors. In the US, 100% tariffs effectively close the market to Chinese imports. In Norway, 97% of new car sales are electric. In China, roughly half. The US is under 10%. One British BYD owner on his American family's reaction: jealous.</description>
-    </item>
-
-    <item>
-      <title>This E-Bike Hits 67 mph and Claims Hellcat-Level Torque. Logan Taylor Rode It in Overalls.</title>
-      <link>https://nexusevnews.com/articles/y-volt-surge-v-review-48hp-electric-motocross-logan-taylor.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/y-volt-surge-v-review-48hp-electric-motocross-logan-taylor.html</guid>
-      <pubDate>Mon, 13 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Logan Taylor</dc:creator>
-      <category>Reviews</category>
-      <description>Logan Taylor unboxes and rides the Y-Volt Surge V, which Y-Volt bills as the most powerful e-bike in its size class at 48 horsepower. GPS top speed: 67 mph. Y-Volt claims 700 ft-lb of torque. The package includes oversized four-piston brakes, RFID and physical key unlock, forged carbon components, a dark-mode screen, and lit side panels. Sport mode has a noticeable mid-throttle power surge. Sponsored by Y-Volt, but Logan had full editorial control.</description>
-    </item>
-
-    <item>
-      <title>Rivian Is Building a 40,000 Sq Ft Showroom, Service Hub, and Charging Stop Right Off I-4 in Orlando</title>
-      <link>https://riviantrackr.com/news/rivian-is-building-a-massive-new-space-right-in-orlandos-tourist-corridor/</link>
-      <guid isPermaLink="true">https://riviantrackr.com/news/rivian-is-building-a-massive-new-space-right-in-orlandos-tourist-corridor/</guid>
-      <pubDate>Mon, 13 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>RivianTrackr</dc:creator>
-      <category>News</category>
-      <description>Jose Castillo at RivianTrackr stopped by the cleared lot off I-4 across from Millenia Mall where Rivian is constructing a 40,000 sq ft facility combining a showroom, service center, and charging hub. Construction goes vertical later this year. It is Rivian's third Orlando-area location, after Jetstream Drive and the Shader Road service center that opened last July. Rivian's name comes from the Indian River Lagoon in Florida, making Central Florida a little more than just another expansion dot.</description>
-    </item>
-      <title>No Generator, No Problem: Five EV Campers Tell It Like It Is</title>
-      <link>https://nexusevnews.com/articles/ev-camping-roundtable-five-setups-lightning-rivian-model-y-esprinter.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ev-camping-roundtable-five-setups-lightning-rivian-model-y-esprinter.html</guid>
-      <pubDate>Sun, 12 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec BITS</dc:creator>
-      <category>Deep Dives</category>
-      <description>Tom from Out of Spec hosts four fellow EV campers: Allan, who pulled a 32-foot, 8,000 lb loaded trailer with his Lightning Flash across 4,000 towing miles last year; Eric, who gets around 180 miles per charge towing a 25-foot Airstream behind a 2025 Rivian R1T tri-motor; Austin, who sleeps in a Model Y on a custom plywood platform with a $500 bolt-on tent; and Skye, who built a two-bunk eSprinter van with 8 kWh of EcoFlow power. Tom powers his whole camper off the Lightning's Pro Power on board and burned only 40% battery over six days at Daytona. Group consensus: aerodynamics matter more than trailer weight, and charging stops make better lunches than gas stations do.</description>
-    </item>
-
-    <item>
-      <title>379,000 Miles on the Original Battery. Tesla's Health Test Had an Answer.</title>
-      <link>https://nexusevnews.com/articles/tesla-model-3-battery-health-379000-miles-drive-protected.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-3-battery-health-379000-miles-drive-protected.html</guid>
-      <pubDate>Sun, 12 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Drive Protected</dc:creator>
+      <title>The Rivian R2's 335-Mile Range Is Not the Real Story. The Battery Chemistry Is.</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-epa-battery-chemistry-nca-range-tradeoff.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-epa-battery-chemistry-nca-range-tradeoff.html</guid>
+      <pubDate>Wed, 15 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Travis Ketchum</dc:creator>
       <category>Battery Tech</category>
-      <description>Drive Protected runs Tesla's built-in battery health test on a Model 3 with 610,433 km on the clock. The test drains the pack to zero, charges it to 100%, and reports usable capacity against new. Getting started required breaking into the car by hand after the 12V battery died, snapping a tow hook cover in the process. Tesla service cleared a coolant fault before the test could run. Next morning: 70% battery health remaining. The screen shows 89% as the new ceiling for this pack. According to Tesla, it is still the original battery.</description>
+      <description>Travis Ketchum digs into what Rivian's EPA filing for the R2 actually reveals. The 335-mile result on the 21-inch range wheels is exactly in line with expectations. What stood out was the battery chemistry: Rivian chose NCA rather than the NMC chemistry in R1 vehicles. NCA packs more range into a smaller, lighter, cheaper pack, which is central to hitting 300-plus miles at this price point. The tradeoff is sensitivity to heat and repeated DC fast charging, with research suggesting 10 to 15 percent capacity loss around 300 cycles. Rivian is adding an in-car battery degradation tracking screen. The R2 also qualifies for the Section 179 business deduction at its 6,173-pound GVWR.</description>
     </item>
 
     <item>
-      <title>The Man Who Invented the Modern Solar Panel Is 77 and Lives Near a Beach</title>
-      <link>https://nexusevnews.com/articles/martin-green-perc-solar-cell-history-abc-news.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/martin-green-perc-solar-cell-history-abc-news.html</guid>
-      <pubDate>Sun, 12 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>ABC News In-depth</dc:creator>
-      <category>Solar</category>
-      <description>ABC News profiles Martin Green, the University of New South Wales researcher whose PERC cell design became the foundation of modern solar manufacturing. His lab held the world record for silicon solar cell efficiency for 31 years, from 1983 to 2014. One of his Chinese PhD students took the knowledge home and became the first solar billionaire. Green published instead of patenting, which is why the solar industry exists at its current scale and why almost nobody has heard of his name. In 2024, about 600 gigawatts of solar capacity were added worldwide, with some single days matching what the entire world installed in a year back in 2004.</description>
-    </item>
-
-    <item>
-      <title>China's Wind and Solar Beat Coal. Now Canada Has to Decide What to Do About That.</title>
-      <link>https://nexusevnews.com/articles/china-wind-solar-surpasses-coal-canada-ai-grid-cbc-news.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/china-wind-solar-surpasses-coal-canada-ai-grid-cbc-news.html</guid>
-      <pubDate>Sun, 12 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>CBC News: The National</dc:creator>
-      <category>Solar</category>
-      <description>In 2025, China's combined wind and solar capacity surpassed coal for the first time. Envision, the world's second-largest wind turbine maker, runs an AI-managed wind and green hydrogen project in the Gobi Desert. Company founder Le Chang has discussed bringing that model to Canada's remote wilderness with Prime Minister Mark Carney, who said Canada plans to double its energy grid over 15 years. The concern: Ontario Premier Doug Ford calls it giving a geopolitical rival an operating system for Canada's power supply. Meanwhile, China is still approving new coal plants.</description>
-    </item>
-
-    <item>
-      <title>Delhi Has a Plan B for Electrification. It Doesn't Involve Buying New Trucks.</title>
-      <link>https://nexusevnews.com/articles/delhi-ev-retrofitting-diesel-trucks-ix-energy-dw-rev.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/delhi-ev-retrofitting-diesel-trucks-ix-energy-dw-rev.html</guid>
-      <pubDate>Sun, 12 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>DW REV - Cars &amp; Mobility</dc:creator>
+      <title>The Nissan Juke Has Gone Electric. It Is Still Completely Unhinged.</title>
+      <link>https://nexusevnews.com/articles/nissan-juke-electric-reveal-ev-platform-v2g-uk.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/nissan-juke-electric-reveal-ev-platform-v2g-uk.html</guid>
+      <pubDate>Wed, 15 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
       <category>News</category>
-      <description>More than 15 million vehicles crowd Delhi's streets and fewer than 8% are electric, well short of the city's 30% target for 2030. IX Energy strips out diesel powertrains, installs electric ones, and extends a truck's working life by up to seven years. Operating costs drop from around 12 rupees per kilometer to about 4. A conversion takes roughly two weeks and costs about 40% less than buying a new electric truck. The idea is not scaling fast: certified retrofitters are scarce, regulations are vague, and public charging is limited.</description>
+      <description>Electrifying gets an exclusive look at the electric Nissan Juke at Nissan's headquarters in Japan. The Juke, which helped launch the compact crossover segment in 2010 and has sold over 1.5 million units in Europe, is going fully electric for the first time. The production car tracks closely to the 2023 Hyper Punk concept, with layered geometric lighting and origami panel lines. It sits on Nissan's dedicated EV platform and will support vehicle-to-grid technology. Built at Nissan's Sunderland factory in the UK, which should make it eligible for the UK government EV grant. Target pricing is aimed at the current Juke's mid-to-high 20,000-pound range.</description>
     </item>
 
     <item>
-      <title>A 3,170 kg Electric Truck vs a Corvette Z06 in the Quarter Mile</title>
-      <link>https://nexusevnews.com/articles/rivian-r1t-quad-motor-vs-corvette-z06-drag-race-carwow.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r1t-quad-motor-vs-corvette-z06-drag-race-carwow.html</guid>
-      <pubDate>Sat, 11 Apr 2026 22:00:00 +0000</pubDate>
+      <title>Italy Burned Through 595 Million Euros in EV Incentives in One Day. The Market Still Has Not Taken Off.</title>
+      <link>https://nexusevnews.com/articles/italy-ev-adoption-problem-charging-infrastructure.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/italy-ev-adoption-problem-charging-infrastructure.html</guid>
+      <pubDate>Wed, 15 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Andrew Till / Mr. EV</dc:creator>
+      <category>News</category>
+      <description>Andrew Till visits Rome to find out why Italy's EV adoption rate sits at just 6.2 percent while the EU averaged 17.4 percent in 2025. Half of Italian dwellings are apartments, making home charging difficult, but Spain has an even higher apartment density and is one of Europe's fastest-growing EV markets, largely due to consistent incentives and mandatory low-emission zones. Italy's eco bonus offered up to 13,750 euros for lower-income buyers, and when the 595 million euro fund launched in October 2025, it was exhausted in a single day. The Italian-built Fiat 500e costs at least 9,950 euros after grants, while the Chinese-made Leapmotor T3 with scrappage drops to 4,900 euros and is outselling nearly everything else.</description>
+    </item>
+
+    <item>
+      <title>Alpitronic's 1 Megawatt Charger Just Made Its North American Debut. We Got the First Charge.</title>
+      <link>https://nexusevnews.com/articles/alpitronic-hyc1000-1mw-split-dc-fast-charger-first-north-america-charge.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/alpitronic-hyc1000-1mw-split-dc-fast-charger-first-north-america-charge.html</guid>
+      <pubDate>Thu, 09 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Charging</category>
+      <description>Kyle and Walter from Out of Spec Reviews get exclusive access to the Alpitronic HYC1000 at the company's Charlotte, NC headquarters for its first North American charge session. The split-system charger separates the power cabinet from its dispensers, outputs up to 1 megawatt total, and delivers 600 amps continuous to each port using oil-cooled cables. Eight outputs and 62.5 kW granularity let the onboard switching matrix reallocate power between vehicles in real time. New silicon carbide stacks push each module to 125 kW, up from 100 kW in the HYC400. A touchscreen and physical buttons sit side by side for drivers with gloves. MCS connectors for heavy trucks share the same power cabinet. Kyle's Model S pulled 252 kW at 600 amps, with the cables still cool to the touch.</description>
+    </item>
+
+    <item>
+      <title>The Polestar 4 Has 544 Horsepower, No Rear Window, and a Connected Services Price Nobody Can Find</title>
+      <link>https://nexusevnews.com/articles/2026-polestar-4-review-no-rear-window-544-hp-straight-pipes.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/2026-polestar-4-review-no-rear-window-544-hp-straight-pipes.html</guid>
+      <pubDate>Thu, 09 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>TheStraightPipes</dc:creator>
+      <category>Reviews</category>
+      <description>Jacob spends a week with the 2026 Polestar 4 before handing Yuri the keys. The highlights: 544 hp, 506 lb-ft, a 100 kWh battery, 10-to-80% in 30 minutes at up to 200 kW, and an electrochromic glass roof. The sticking point is the missing rear window. A permanent digital mirror replaces it and forces your eyes to constantly re-focus from a screen inches away to the road ahead. Real-world issues include frameless windows that got stuck down in cold weather, an open car wash window that soaked the interior, proximity unlocking that worked perfectly for two days then didn't, and connected services that are free for one year with no published renewal price. Fully loaded: $93,400 CAD.</description>
+    </item>
+
+    <item>
+      <title>EV Tires Aren't Just a Marketing Gimmick. Here's the Engineering That Makes Them Different.</title>
+      <link>https://nexusevnews.com/articles/ev-specific-tyres-worth-it-or-marketing-electric-vehicle-man.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ev-specific-tyres-worth-it-or-marketing-electric-vehicle-man.html</guid>
+      <pubDate>Thu, 09 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Electric Vehicle Man</dc:creator>
+      <category>Deep Dives</category>
+      <description>The "EV specific" label on a tire sounds like the automotive version of "AI powered" - something slapped on to justify a higher price. Electric Vehicle Man makes the case it isn't. Because EVs run so quietly, road and wind noise dominate the cabin in ways they never do in a combustion car. An EV-specific tire needs to handle four things simultaneously: lower rolling noise, less rolling resistance for extra range, extra load capacity for the heavier battery pack, and sidewalls that manage instant electric torque without going stiff and crashy. Worth it? Yes.</description>
+    </item>
+
+    <item>
+      <title>NIO's ES9 Is a 5.3-Meter SUV With 47 Speakers, a Foot Massager, and a 0.264 Drag Coefficient</title>
+      <link>https://nexusevnews.com/articles/nio-es9-luxury-suv-5-3-meter-47-speakers-range-rover-china.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/nio-es9-luxury-suv-5-3-meter-47-speakers-range-rover-china.html</guid>
+      <pubDate>Thu, 09 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric APAC</dc:creator>
+      <category>News</category>
+      <description>The NIO ES9 is positioned directly against the Range Rover in China, where Land Rover still has no fully electric flagship. At 5.3 meters long, its 0.264 drag coefficient matches the BMW i8 supercar despite the bluff shape. The rear cabin features zero-gravity seats with 42 massage points, a foot massager built into the footrest, a personal safe, a fridge, and two 16-inch OLED screens. Sound comes from 47 speakers delivering 4,630 watts. The side windows are electrochromic and can be tinted in sections. It slots below the ultra-luxury ET9 in NIO's lineup.</description>
+    </item>
+
+    <item>
+      <title>Lucid Set a $59 Cost Target on a Part Everyone Said Would Cost $120. They Hit It.</title>
+      <link>https://nexusevnews.com/articles/lucid-midsize-cosmos-earth-cost-engineering-munro-cory-steuben.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/lucid-midsize-cosmos-earth-cost-engineering-munro-cory-steuben.html</guid>
+      <pubDate>Thu, 09 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Munro Live</dc:creator>
+      <category>Deep Dives</category>
+      <description>Munro Live sits down with Cory Steuben, Lucid's Director of Cost Engineering, to detail the strategy behind the Cosmos and Earth midsize platform. The midsize needs only 69 kWh to travel roughly 300 miles. The Atlas drive unit cut part count by 30%, shed 23% of the Zeus drive unit's weight, and came in 37% cheaper. Low-voltage wiring landed at roughly half the circuit count of a comparable Chinese competitor. One subsystem had an internal target of $59; suppliers quoted $120 to $150. The final sourced price landed within two cents of $59. Manufacturing in both Arizona and Saudi Arabia opens the global supply base in ways a US-only plant cannot.</description>
+    </item>
+      <link>https://nexusevnews.com/articles/bmw-ix-kia-ev9-ioniq9-polestar3-volvo-ex90-group-test.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix-kia-ev9-ioniq9-polestar3-volvo-ex90-group-test.html</guid>
+      <pubDate>Wed, 08 Apr 2026 22:00:00 +0000</pubDate>
       <dc:creator>carwow</dc:creator>
       <category>Reviews</category>
-      <description>carwow lines up the Rivian R1T quad motor against the Chevrolet Corvette Z06 over the standing quarter mile. The Rivian weighs 3,170 kg, produces 1,025 horsepower and 1,624 Nm of torque. The Z06 packs a 5.5-litre naturally aspirated V8 with 670 horsepower and a launch control system adjustable from 3,500 to 5,000 rpm with variable wheel slip, driven by NASCAR racer Jesse Iwuji, who owns the car. Standing quarter mile: Rivian 10.6 seconds, Corvette 11.3. Jesse's post-race discovery: turning stability control fully off changed everything. Way too late.</description>
+      <description>carwow's Matt Watson lines up the BMW iX, Kia EV9, Hyundai Ioniq 9, Polestar 3, and Volvo EX90 for a full group test covering design, real-world range, interior quality, driving, boot space, and a drag race. Estimated real-world ranges run from 202 miles for the Kia EV9 to 317 miles for the Polestar 3. The BMW iX wins the drag race at 4.4 seconds to 60 mph with 544 horsepower. The Polestar 3 is the pick if you only need five seats. For the full seven-seat test, the Ioniq 9 edges the Kia EV9 on practicality, interior quality, and value.</description>
     </item>
 
     <item>
-      <title>Honda's Tiny EV Has Fake Gears, a Boost Button, and the Cheek to Call Itself Super</title>
-      <link>https://nexusevnews.com/articles/honda-super-n-first-look-boost-mode-fake-gears-sub-20k.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/honda-super-n-first-look-boost-mode-fake-gears-sub-20k.html</guid>
-      <pubDate>Sat, 11 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>What Car?</dc:creator>
-      <category>Reviews</category>
-      <description>What Car? gets an early look at the Honda Super N before UK showrooms open in July. Built on the bones of the Japanese N-One E city car, the Super N runs wider, sits lower, and promises something the N-One E very much does not: genuine driving fun. A boost button lifts the single motor from 63 to 94 horsepower. Paddles simulate a seven-speed sequential gearbox, and an active sound system recreates an engine note to match. Ambient lighting turns from blue to purple in boost mode. Honda quotes a combined range of 128 miles and says pricing will come in under £20,000, undercutting the cheapest Fiat 500e. In showrooms July 2026.</description>
-    </item>
-
-    <item>
-      <title>Stop. Before You Buy a New EV, Watch This.</title>
-      <link>https://nexusevnews.com/articles/used-ev-bargains-australia-half-price-redriven-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/used-ev-bargains-australia-half-price-redriven-2026.html</guid>
-      <pubDate>Sat, 11 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>ReDriven</dc:creator>
-      <category>Used EVs</category>
-      <description>Redriven makes the case that the Australian used EV market is the best-kept secret going. BMW iX models that were $150,000 new are listing around $50,000. A Mercedes-Benz EQS 53 AMG that retailed near $400,000 in 2022 can be found used for a little over $90,000. The Hyundai Ioniq 5 has dropped from around $70,000 new to $35,000. Top picks: Genesis GV60 for 800V charging at half price, GV70 EV for stronger residuals, and used Tesla Model 3s from under $30,000. Check accident history carefully, confirm all recalls are done, and stick to factory-backed brands.</description>
-    </item>
-
-    <item>
-      <title>Inside the Tesla Semi Factory Nobody Had Seen Until Now</title>
-      <link>https://nexusevnews.com/articles/tesla-semi-factory-sparks-nevada-first-look-mass-production.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-semi-factory-sparks-nevada-first-look-mass-production.html</guid>
-      <pubDate>Sat, 11 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Core Memory</dc:creator>
-      <category>Deep Dives</category>
-      <description>An exclusive walkthrough of Tesla's Semi factory at Gigafactory Nevada in Sparks, where mass production is now ramping up. The tour covers the overhead conveyance system, where frames grow into 10,000-plus-pound assemblies as components are added at operator height, battery marriage where three parallel packs using Cybertruck cells are bolted into the frame, and the light tunnel at the end of general assembly. Standard range: 325 miles. Long range: 500 miles. A Tesla CDL driver describes the experience: effortless torque, remarkably quiet, and regen braking that removes steep-grade anxiety entirely.</description>
-    </item>
-
-    <item>
-      <title>Hyundai's New Concept Is Named After a Planet and Arrives in Gold. The Production Version Comes to Beijing.</title>
-      <link>https://nexusevnews.com/articles/hyundai-ioniq-venus-concept-art-of-steel-erev-beijing-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/hyundai-ioniq-venus-concept-art-of-steel-erev-beijing-2026.html</guid>
-      <pubDate>Sat, 11 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>OTOFOOTAGE</dc:creator>
+      <title>The Slate Truck Leaves the Factory in One Color. The Designer Planned It That Way.</title>
+      <link>https://nexusevnews.com/articles/slate-auto-ev-truck-tisha-johnson-design-wrap-affordable.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-auto-ev-truck-tisha-johnson-design-wrap-affordable.html</guid>
+      <pubDate>Wed, 08 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Javier Mota</dc:creator>
       <category>News</category>
-      <description>Hyundai debuted the Ioniq Venus Concept in China, unveiling a new design direction called Art of Steel that replaces the parametric pixel language used across current Ioniq models. The exterior uses a single-curve silhouette, precision-cut edges, a lightweight frame roof, and a transparent rear spoiler, all in radiant gold paint. Inside, a dual-curved panoramic display pairs with a 3D augmented reality head-up display projecting navigation onto the windshield. Hyundai says the Venus supports both a full BEV powertrain and an extended range electric setup. A production-ready version is expected at the 2026 Beijing Auto Show.</description>
+      <description>Slate Auto head of design Tisha Johnson explains the philosophy behind the Slate pickup: affordable at purchase, affordable to own, and affordable to personalize. The truck leaves the factory in a single slate gray and is the first vehicle designed specifically to be DIY-wrapped. Over 100 wrap colors are planned. The dashboard can swap between a standard instrument panel and a full sound bar. The two-seater converts to a five-seat SUV by popping out the rear bulkhead and installing a bench seat. Reservations are open, with deliveries targeted for later this year.</description>
     </item>
 
+    <item>
+      <title>Rivian R2 EPA Docs Are Out. The Range Came In Better Than Rivian Said It Would.</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-epa-range-335-miles-210kw-charging-heat-pump.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-epa-range-335-miles-210kw-charging-heat-pump.html</guid>
+      <pubDate>Wed, 08 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>RivianTrackr</dc:creator>
+      <category>News</category>
+      <description>EPA certification documents for the Rivian R2 have surfaced ahead of customer deliveries. The Performance trim on 21-inch All-Season tires earned 335 miles, five miles better than Rivian's own estimate of 330. The 20-inch All-Terrain version came in at 314 miles, also beating Rivian's 307-mile projection. Usable battery is 86.8 kWh and DC fast charging peaks at 210 kW. Payload capacity is roughly 1,175 lbs. The repositioned heat pump is confirmed to ship from day one, including on the Launch Edition. Employee deliveries are underway this month.</description>
+    </item>
 
     <item>
-      <title>You Already Know More About EVs Than You Think. Here's a Translation Guide.</title>
-      <link>https://nexusevnews.com/opinion-ev-jargon-guide.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/opinion-ev-jargon-guide.html</guid>
-      <pubDate>Fri, 10 Apr 2026 23:00:00 +0000</pubDate>
+      <title>Four People Who Had Never Driven an EV Took the MG4 Urban Out for a Day. Here Is What They Said.</title>
+      <link>https://nexusevnews.com/articles/mg4-urban-first-time-ev-drivers-electrifying-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/mg4-urban-first-time-ev-drivers-electrifying-review.html</guid>
+      <pubDate>Wed, 08 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>Reviews</category>
+      <description>Electrifying recruits four real-world drivers, none of them EV owners, to spend a day with the MG4 Urban. The car offers around 258 miles of range and charges from 10 to 80% in about 30 minutes on a rapid charger. Highlights include five levels of regenerative braking, a one-pedal mode that brings the car to a full stop without touching the brake, 30 storage areas built throughout the cabin, and a boot floor that lowers to nearly double the usable depth. All four left saying it was easier and more practical than expected.</description>
+    </item>
+
+    <item>
+      <title>Tesla FSD 14.3 Is Out. The AI Compiler Was Rebuilt, and Reaction Time Is 20% Faster.</title>
+      <link>https://nexusevnews.com/articles/tesla-fsd-14-3-first-drive-20-percent-faster-reaction-time.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-fsd-14-3-first-drive-20-percent-faster-reaction-time.html</guid>
+      <pubDate>Wed, 08 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Dirty Tesla</dc:creator>
+      <category>Deep Dives</category>
+      <description>Dirty Tesla's Chris takes FSD 14.3 straight out on its release day. Tesla rewrote the AI compiler using MLIR, claiming a 20% improvement in reaction time and faster model iteration for future point releases. The RL neural network received a broad upgrade. On the drive, the car reads do-not-enter signs and overrides incorrect map data rather than following it blindly, and it avoids a near-miss when another driver cuts across without warning. Still on the to-do list: pothole avoidance and expanded reasoning beyond destination handling.</description>
+    </item>
+
+    <item>
+      <title>The Oil Change Economy: What Maintenance Really Costs Over 100,000 Miles</title>
+      <link>https://nexusevnews.com/opinion-ev-maintenance.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/opinion-ev-maintenance.html</guid>
+      <pubDate>Wed, 08 Apr 2026 12:00:00 +0000</pubDate>
       <dc:creator>Jacob Hunka</dc:creator>
       <category>Opinion</category>
-      <description>EV jargon sounds intimidating until you realize it is just the same car stuff with different names. kWh is your fuel tank. kW is how fast the pump flows. Phantom drain is your porch light. Here is the plain-English translation guide nobody wrote for you.</description>
+      <description>Everyone knows EVs cost less to maintain. Almost no one has run the full ledger. Oil changes, brake jobs, transmission flushes, spark plugs. Line by line, over 100,000 miles, with real prices from Kelley Blue Book, AAA, Consumer Reports, and the U.S. Department of Energy. The result is not what most people expect.</description>
     </item>
 
+    <item>
+      <title>The Lucid Gravity Sprints to 100 in 3.6 Seconds, Then Asks If You Would Like a Massage</title>
+      <link>https://nexusevnews.com/articles/lucid-gravity-grand-touring-seven-seats-400kw-charging-and-a-frunk-picnic.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/lucid-gravity-grand-touring-seven-seats-400kw-charging-and-a-frunk-picnic.html</guid>
+      <pubDate>Sun, 05 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Autogefühl</dc:creator>
+      <category>Reviews</category>
+      <description>Autogefühl takes the Lucid Gravity Grand Touring to Mallorca for a proper test. The numbers are hard to argue with: 123kWh battery, 400kW peak DC charging with 10 to 80% in around 23 minutes, and 3.6 seconds to 100km/h for a car that seats seven adults. Real-world range comes in around 540km (340 miles) at 100km/h and about 450km (280 miles) at 120km/h. The frunk has cup holders and a power socket and enough room to sit inside. The seat massage uses genuine vibration rather than just lumbar pressure and is the best Thomas has tested. The steering needs some fine-tuning. Apple CarPlay is coming. US pricing starts at $80,000 for the entry battery and $95,000 for this Grand Touring.</description>
+    </item>
+
+    <item>
+      <title>Enhauto's 6.4 Update Adds Knight Rider Mode, Muted Reversing, and Track Mode Tesla Forgot to Ship</title>
+      <link>https://nexusevnews.com/articles/enhauto-update-6-4-knight-rider-mode-muted-reverse-track-mode-model-y-juniper.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/enhauto-update-6-4-knight-rider-mode-muted-reverse-track-mode-model-y-juniper.html</guid>
+      <pubDate>Sun, 05 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Enhauto</dc:creator>
+      <category>News</category>
+      <description>Enhauto's latest firmware update for its Commander dongle and S3XY accessories adds several features Tesla hasn't built into its own software. Performance Model Y Juniper owners can now enable Track Mode through the S3XY products even though it doesn't appear in Tesla's native menus. Also new: an Actions on Reverse automation that can mute all in-car audio when backing up, a Knight Rider sweeping animation for the ambient light strip, and separate brightness settings for day and night. Brake temperature per wheel is now visible in the S3XY app, a stat Tesla doesn't surface anywhere. All products are 20% off at enhauto.com through April 16.</description>
+    </item>
+
+    <item>
+      <title>China Just Got a Faster Zeekr 007 GT. European Buyers Are Starting Deliveries of the Previous One.</title>
+      <link>https://nexusevnews.com/articles/zeekr-007-gt-china-update-900v-10-minute-charging-europe-gets-old-version.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/zeekr-007-gt-china-update-900v-10-minute-charging-europe-gets-old-version.html</guid>
+      <pubDate>Sun, 05 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>AutoSpec Roaming</dc:creator>
+      <category>News</category>
+      <description>AutoSpec Roaming breaks down the updated Zeekr 007 GT just announced in China, right as European deliveries of the 800V version begin this summer. The China-spec car moves to a 900V architecture, adds a 6C-capable NMC battery with 10-80% charging in around 10 minutes, and gains roughly 148 extra horsepower across both motors. The AWD performance version now hits 0-100km/h in 2.84 seconds. Europe gets the 800V model with the LFP Golden Brick battery and around 400kW peak charging, which is still fast but a generation behind. The host argues Zeekr should sync their market releases. The owner forums agree loudly.</description>
+    </item>
+
+    <item>
+      <title>Kia's EV3 Checks a Lot of Boxes for Under $35,000. Then There Are the Door Handles.</title>
+      <link>https://nexusevnews.com/articles/kia-ev3-2027-under-35000-320-miles-consumer-reports-first-look.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/kia-ev3-2027-under-35000-320-miles-consumer-reports-first-look.html</guid>
+      <pubDate>Sun, 05 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Consumer Reports</dc:creator>
+      <category>Reviews</category>
+      <description>Consumer Reports gets a first look at the 2027 Kia EV3. The standard 58.3kWh model gets around 220 miles of estimated range. The larger 81.4kWh version stretches that to 320 miles on the front-wheel-drive variant, with AWD available. DC fast charging goes from 10 to 80% in 29 to 31 minutes. Dual 12.3-inch screens, physical climate controls, a wireless charger, and USB charging points built into the rear seatbacks are all welcome. The flush door handles aren't Consumer Reports' favorite, and the rear ones sit high enough that small children may struggle to reach them. Rear seat headroom is snug for anyone over 5'10". On sale late 2026, starting just over $35,000.</description>
+    </item>
+
+    <item>
+      <title>At the New York Auto Show, Nobody Is Going All-In on Electric Anymore</title>
+      <link>https://nexusevnews.com/articles/new-york-auto-show-2026-evs-hybrids-and-market-uncertainty.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/new-york-auto-show-2026-evs-hybrids-and-market-uncertainty.html</guid>
+      <pubDate>Sun, 05 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Business Today TV</dc:creator>
+      <category>News</category>
+      <description>Business Today TV reports from the 2026 New York International Auto Show, where the mood is notably cautious. US EV sales have slipped from close to 10% of total auto sales to around 6.5%, and the removal of federal purchase incentives has further dampened momentum. Subaru unveiled the Getaway, a three-row electric SUV with over 500km of range, alongside a new Forester Wilderness Hybrid. Kia showed the EV3 alongside the Seltos in gas and hybrid form. Hyundai noted its hybrid lineup is outpacing EV sales. The counterforce: rising fuel prices tied to Middle East tensions are nudging some buyers, especially in California, back toward electric. The industry picture is less a retreat from EVs and more a calculated hedge.</description>
+    </item>
 
 
   </channel>
 </rss>
-

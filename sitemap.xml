@@ -3,184 +3,42 @@
 
   <url>
     <loc>https://nexusevnews.com/</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-04-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://nexusevnews.com/articles/lightship-rv-arrives-out-of-spec-first-setup-tour-testing.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://nexusevnews.com/articles/2026-polestar-4-quirks-features-no-rear-window-doug-demuro.html</loc>
+    <lastmod>2026-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://nexusevnews.com/articles/2027-mercedes-eqs-facelift-800v-steer-by-wire-autogefuhl.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://nexusevnews.com/articles/rome-energy-powerbridge-pro-tesla-home-backup-240v-review.html</loc>
+    <lastmod>2026-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://nexusevnews.com/articles/ionna-driver-lounge-forest-park-dcfc-news-april-2026.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://nexusevnews.com/articles/rivian-r2-epa-battery-chemistry-nca-range-tradeoff.html</loc>
+    <lastmod>2026-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://nexusevnews.com/articles/denza-z9-gt-1156hp-crab-walk-pivot-turn-review.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://nexusevnews.com/articles/nissan-juke-electric-reveal-ev-platform-v2g-uk.html</loc>
+    <lastmod>2026-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://nexusevnews.com/articles/mercedes-cla-ev-350-review-underrated-electric-sedan.html</loc>
-    <lastmod>2026-04-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/volvo-ce-a30-a40-electric-articulated-haulers-serial-production.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/hyundai-ioniq-6n-review-supercar-autotrader.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/byd-chinese-ev-europe-us-tariffs-cbs-sunday-morning.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/y-volt-surge-v-review-48hp-electric-motocross-logan-taylor.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-
-
-  <url>
-    <loc>https://nexusevnews.com/articles/ev-camping-roundtable-five-setups-lightning-rivian-model-y-esprinter.html</loc>
-    <lastmod>2026-04-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/tesla-model-3-battery-health-379000-miles-drive-protected.html</loc>
-    <lastmod>2026-04-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/martin-green-perc-solar-cell-history-abc-news.html</loc>
-    <lastmod>2026-04-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/china-wind-solar-surpasses-coal-canada-ai-grid-cbc-news.html</loc>
-    <lastmod>2026-04-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/delhi-ev-retrofitting-diesel-trucks-ix-energy-dw-rev.html</loc>
-    <lastmod>2026-04-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/honda-super-n-first-look-boost-mode-fake-gears-sub-20k.html</loc>
-    <lastmod>2026-04-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/used-ev-bargains-australia-half-price-redriven-2026.html</loc>
-    <lastmod>2026-04-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/tesla-semi-factory-sparks-nevada-first-look-mass-production.html</loc>
-    <lastmod>2026-04-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/rivian-r1t-quad-motor-vs-corvette-z06-drag-race-carwow.html</loc>
-    <lastmod>2026-04-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/hyundai-ioniq-venus-concept-art-of-steel-erev-beijing-2026.html</loc>
-    <lastmod>2026-04-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/opinion-ev-jargon-guide.html</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/subaru-trailseeker-2026-review-range-charging-test-gjeebs.html</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/cupra-raval-reveal-specs-price-autogefuhl.html</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/hyundai-ioniq9-inster-chabak-car-camping-test-motorpoint.html</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/denza-flash-charger-europe-first-off-grid-97-percent-9-minutes.html</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/tesla-new-smaller-cheaper-suv-in-development-2026.html</loc>
-    <lastmod>2026-04-10</lastmod>
+    <loc>https://nexusevnews.com/articles/italy-ev-adoption-problem-charging-infrastructure.html</loc>
+    <lastmod>2026-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -222,7 +80,7 @@
 
   <url>
     <loc>https://nexusevnews.com/opinion.html</loc>
-    <lastmod>2026-04-10</lastmod>
+    <lastmod>2026-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1560,12 +1418,5 @@
     <lastmod>2026-03-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/archive-march-2026.html</loc>
-    <lastmod>2026-04-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
