@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>The Renault 5 Has Been the Best Small EV for Over a Year. What Car? Just Found Something Better.</title>
+      <link>https://nexusevnews.com/articles/renault-5-vs-mg4-urban-vs-hyundai-inster-small-ev-shootout-what-car.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/renault-5-vs-mg4-urban-vs-hyundai-inster-small-ev-shootout-what-car.html</guid>
+      <pubDate>Fri, 17 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>What Car?</dc:creator>
+      <category>Reviews</category>
+      <description>What Car? runs the Renault 5, MG4 Urban, and Hyundai Inster through two days of city driving, motorway runs, interior tests, a drag race, and real-world range calculations. The MG4 Urban long range premium is more efficient, more practical, better equipped, and the only one with a five-star Euro NCAP rating. The Renault 5 Techno Plus costs £23,945 after the government grant, pulled hardest at the fast charger, and is the most fun to drive. The Inster has the best rear headroom, sliding rear seats, and returned the highest potential real-world range at 190 miles. The Renault 5 lost its crown.</description>
+    </item>
+
+    <item>
+      <title>Toyota Fixed the Range, Kept the Reliability, and Added a 10-Year Warranty. The C-HR Plus Is Hard to Ignore.</title>
+      <link>https://nexusevnews.com/articles/toyota-chr-plus-ev-review-cargurus-uk.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/toyota-chr-plus-ev-review-cargurus-uk.html</guid>
+      <pubDate>Fri, 17 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>CarGurus UK</dc:creator>
+      <category>Reviews</category>
+      <description>The Toyota C-HR Plus mid-spec Design trim packs a 77 kWh battery, 221 horsepower, and a 377-mile WLTP range. In real-world testing, CarGurus UK saw just over 4 miles per kWh and well over 300 miles from a full charge. Rapid charging tops out at 150 kW. Entry-level Icon trim qualifies for the £1,500 electric car grant, putting the base car under £33,000. Service the car at Toyota and the warranty extends to 10 years and 100,000 miles, with the battery guaranteed to hold at least 70% capacity for 10 years. The rear seat is the honest compromise.</description>
+    </item>
+
+    <item>
+      <title>A Used Porsche Taycan and a New Tesla Model 3 Performance Now Cost the Same. Which One Do You Actually Want?</title>
+      <link>https://nexusevnews.com/articles/porsche-taycan-4s-vs-tesla-model-3-performance-comparison-gjeebs.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/porsche-taycan-4s-vs-tesla-model-3-performance-comparison-gjeebs.html</guid>
+      <pubDate>Fri, 17 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Gjeebs</dc:creator>
+      <category>Reviews</category>
+      <description>Depreciation has done something interesting. A used Porsche Taycan 4S has landed at roughly the same price as a new Tesla Model 3 Performance. The Model 3 Performance hits 0-60 in 2.9 seconds, runs Tesla's Supercharger network with Grok-powered AI navigation, has better trunk space, superior rear passenger room, and seats Gjeebs calls some of the best ever made. The Taycan brings genuine sports car feel, air suspension, and presence. The Taycan wins on feel. The Model 3 wins on everything practical.</description>
+    </item>
+
+    <item>
+      <title>Tires Built Specifically for Electric Trucks Are a Real Thing Now, and This One Is Genuinely Good</title>
+      <link>https://nexusevnews.com/articles/hankook-ion-ht-ev-truck-suv-tire-review-out-of-spec.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/hankook-ion-ht-ev-truck-suv-tire-review-out-of-spec.html</guid>
+      <pubDate>Fri, 17 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Reviews</category>
+      <description>Kyle from Out of Spec Reviews puts the Hankook iON HT on his Rivian R1T and runs it on a private track and extended highway miles. The iON HT is an all-season tire engineered for the weight, torque, and rolling resistance demands of electric trucks and large SUVs. On the highway at 75 mph, the electric motors were louder than the tires, which is the compliment. After 500 to 700 miles on the R1T, efficiency has been notably strong.</description>
+    </item>
+
+    <item>
+      <title>Cars Have Not Done This Yet. This Motorcycle Has Solid-State as Standard.</title>
+      <link>https://nexusevnews.com/articles/verge-ts-pro-solid-state-battery-fastest-charging-motorcycle.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/verge-ts-pro-solid-state-battery-fastest-charging-motorcycle.html</guid>
+      <pubDate>Fri, 17 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Verge Motorcycles</dc:creator>
+      <category>Battery Tech</category>
+      <description>Verge Motorcycles put solid-state batteries into production in Q1 2026 with the TS Pro, the first production vehicle of any kind to ship solid-state as standard. The base pack holds 20.2 kWh total with 18 kWh nominal capacity and a real-world range claim of up to 217 miles. It charges at up to 100 kW, reaching 80% in under 10 minutes. The solid-state chemistry runs air cooling only with no liquid cooling system. The hub motor produces 102 kW and 1,000 Nm of torque. Zero to 100 km/h takes 3.5 seconds.</description>
+    </item>
 
     <item>
       <title>VW Listened to Every Complaint. The New ID.3 Neo Has Real Buttons, a Real Interior, and Something to Prove.</title>
@@ -165,56 +215,6 @@
       <dc:creator>Auto Focus</dc:creator>
       <category>Reviews</category>
       <description>Auto Focus spends a week with the Mercedes CLA 350 electric, starting at $50,000 and landing at around $65,000 as tested. The rear axle runs a two-speed gearbox, and at highway speeds you actually feel it shift, something most EVs never do. Two charge ports live in the same motorized flap: NACS and a separate Level 2 AC inlet, neither needing an adapter. There is a usable frunk. The optional Burmester speakers are worth the $800. Ride quality is smooth and notably quiet on 19-inch wheels. The back seat is a B-minus thanks to a high floor and sloping roofline, and there is no next-song button on the steering wheel, a strange miss for a $65,000 car. The honest 300-mile range is a genuine selling point in a segment that is almost out of options.</description>
-    </item>
-
-    <item>
-      <title>The World's First Electric Articulated Haulers Just Went Into Serial Production. The Team That Built Them Got a Little Emotional.</title>
-      <link>https://nexusevnews.com/articles/volvo-ce-a30-a40-electric-articulated-haulers-serial-production.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/volvo-ce-a30-a40-electric-articulated-haulers-serial-production.html</guid>
-      <pubDate>Mon, 13 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Volvo Construction Equipment</dc:creator>
-      <category>News</category>
-      <description>Volvo Construction Equipment has started serial production of the A30 and A40 Electric, the world's first battery electric articulated haulers in their size class. The machines deliver the same performance as their diesel counterparts. The team worked flat, pulling desks right next to the assembly line during development. The moment the first machine was assembled, flashed with new software, and started with a key turn is something the engineers say they will never forget. Both models are now being readied for delivery to the first customers.</description>
-    </item>
-
-    <item>
-      <title>Is the Ioniq 6N a Supercar? Autotrader Took It to a Racetrack to Find Out.</title>
-      <link>https://nexusevnews.com/articles/hyundai-ioniq-6n-review-supercar-autotrader.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/hyundai-ioniq-6n-review-supercar-autotrader.html</guid>
-      <pubDate>Mon, 13 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Autotrader</dc:creator>
-      <category>Reviews</category>
-      <description>Autotrader's Rory takes the £65,000 Hyundai Ioniq 6N to the Castellolí circuit near Barcelona: 650 PS, 0-to-62 in 3.2 seconds, drift optimizer, N Grin Boost, a simulated 8-speed DCT that beeps when you need to shift, and 260 kW rapid charging for 10-to-80% in around 18 minutes. He also sits down with engineer Tyrone Johnson, the man behind the Focus RS and Mustang, to hear why the fake gears and synthetic sound are serious engineering and not a gimmick. Verdict: not quite a supercar. Definitely a super car.</description>
-    </item>
-
-    <item>
-      <title>BYD Is Selling Out Across Europe. Americans Have No Idea What They're Missing.</title>
-      <link>https://nexusevnews.com/articles/byd-chinese-ev-europe-us-tariffs-cbs-sunday-morning.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-chinese-ev-europe-us-tariffs-cbs-sunday-morning.html</guid>
-      <pubDate>Mon, 13 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>CBS Sunday Morning</dc:creator>
-      <category>News</category>
-      <description>CBS Sunday Morning visits a BYD dealership in London where a Lexus owner is trading up to a Sealion 7. BYD, which started as a battery company and owns its whole supply chain, can reportedly build EVs for around 25% less than Western competitors. In the US, 100% tariffs effectively close the market to Chinese imports. In Norway, 97% of new car sales are electric. In China, roughly half. The US is under 10%. One British BYD owner on his American family's reaction: jealous.</description>
-    </item>
-
-    <item>
-      <title>This E-Bike Hits 67 mph and Claims Hellcat-Level Torque. Logan Taylor Rode It in Overalls.</title>
-      <link>https://nexusevnews.com/articles/y-volt-surge-v-review-48hp-electric-motocross-logan-taylor.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/y-volt-surge-v-review-48hp-electric-motocross-logan-taylor.html</guid>
-      <pubDate>Mon, 13 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Logan Taylor</dc:creator>
-      <category>Reviews</category>
-      <description>Logan Taylor unboxes and rides the Y-Volt Surge V, which Y-Volt bills as the most powerful e-bike in its size class at 48 horsepower. GPS top speed: 67 mph. Y-Volt claims 700 ft-lb of torque. The package includes oversized four-piston brakes, RFID and physical key unlock, forged carbon components, a dark-mode screen, and lit side panels. Sport mode has a noticeable mid-throttle power surge. Sponsored by Y-Volt, but Logan had full editorial control.</description>
-    </item>
-
-    <item>
-      <title>Rivian Is Building a 40,000 Sq Ft Showroom, Service Hub, and Charging Stop Right Off I-4 in Orlando</title>
-      <link>https://riviantrackr.com/news/rivian-is-building-a-massive-new-space-right-in-orlandos-tourist-corridor/</link>
-      <guid isPermaLink="true">https://riviantrackr.com/news/rivian-is-building-a-massive-new-space-right-in-orlandos-tourist-corridor/</guid>
-      <pubDate>Mon, 13 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>RivianTrackr</dc:creator>
-      <category>News</category>
-      <description>Jose Castillo at RivianTrackr stopped by the cleared lot off I-4 across from Millenia Mall where Rivian is constructing a 40,000 sq ft facility combining a showroom, service center, and charging hub. Construction goes vertical later this year. It is Rivian's third Orlando-area location, after Jetstream Drive and the Shader Road service center that opened last July. Rivian's name comes from the Indian River Lagoon in Florida, making Central Florida a little more than just another expansion dot.</description>
     </item>
   </channel>
 </rss>
