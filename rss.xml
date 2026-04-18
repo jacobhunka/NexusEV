@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>BYD's Luxury EV Has 1,156 HP, Closes Its Own Doors, and Charges in Nine Minutes</title>
+      <link>https://nexusevnews.com/articles/denza-z9-gt-review-autotrader-122kwh-9-minute-charge.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/denza-z9-gt-review-autotrader-122kwh-9-minute-charge.html</guid>
+      <pubDate>Sat, 18 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Autotrader</dc:creator>
+      <category>Reviews</category>
+      <description>The Denza Z9 GT is BYD's premium performance EV at around £105,000 in the UK. Three motors produce 1,156 PS and 1,200 Nm of torque. The 122 kWh battery claims 600 km WLTP range. Using BYD's own flash chargers, it goes from 10 to 97 percent in nine minutes. Those chargers store energy in Blade Battery packs on-site, requiring only a modest grid connection. Denza plans 3,000 of them across Europe within 12 months. Rear-wheel steering enables crab walk, a pencil compass spin-on-the-spot, and a 4.6 m turning circle. Autotrader had three hours with the car on French roads.</description>
+    </item>
+
+    <item>
+      <title>Porsche's Wireless Charger Hits 92% Efficiency. Engineering Explained Was a Skeptic. Not Anymore.</title>
+      <link>https://nexusevnews.com/articles/porsche-cayenne-electric-wireless-charging-engineering-explained.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/porsche-cayenne-electric-wireless-charging-engineering-explained.html</guid>
+      <pubDate>Sat, 18 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Engineering Explained</dc:creator>
+      <category>Charging</category>
+      <description>Engineering Explained's Jason Fenske went in expecting to dismiss wireless EV charging on the Porsche Cayenne Electric and came out convinced. The system achieves 89 to 92 percent efficiency, better than Level 1 wired at 60 percent. At 11 kW it charges faster than Porsche's mobile connector. Floor pad costs around $6,500, vehicle receiver around $1,650. Over 200,000 miles the extra cost of wireless versus Level 2 wired is roughly $1,000. Safety systems include radar for living objects, metal detection, and temperature sensors. Oak Ridge National Lab tested wireless charging on a Porsche Taycan at 270 kW and 95 percent efficiency.</description>
+    </item>
+
+    <item>
+      <title>431 Miles of Range, Best-in-Class Frunk, and Door Handles That Refuse to Work. The Lucid Air Is Almost Brilliant.</title>
+      <link>https://nexusevnews.com/articles/2026-lucid-air-touring-review-the-straight-pipes.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/2026-lucid-air-touring-review-the-straight-pipes.html</guid>
+      <pubDate>Sat, 18 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>TheStraightPipes</dc:creator>
+      <category>Reviews</category>
+      <description>Jacob from TheStraightPipes spends a week with the 2026 Lucid Air Touring: 620 hp, 885 lb-ft, 92 kWh battery, and a rated 431-mile range. In cold weather around 3°C, 50% battery showed approximately 300 km remaining. The 900V architecture supports up to 350 kW DC charging. The glass canopy and best-in-class frunk earn genuine praise. Wireless CarPlay worked until it stopped. The key fob has no buttons. Door handles sometimes do not present. Starts at $112,800 CAD.</description>
+    </item>
+
+    <item>
+      <title>Tesla FSD Is Live in the Netherlands. Here's What Has to Happen Before the Rest of Europe Gets It.</title>
+      <link>https://nexusevnews.com/articles/tesla-fsd-netherlands-approved-eu-rollout-explained.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-fsd-netherlands-approved-eu-rollout-explained.html</guid>
+      <pubDate>Sat, 18 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Autospec Roaming</dc:creator>
+      <category>News</category>
+      <description>The Dutch Vehicle Authority approved Tesla FSD on April 10 after 18 months of testing and 1.6 million-plus kilometres on EU roads. EU-wide rollout requires a majority vote from all 27 member states. The EU version differs from the US one: no speed profiles, on-screen notifications for every manoeuvre, stricter driver monitoring, and pre-approval required for future software updates. The system turns off when crossing into a non-approved country. Purchase price is €7,500, with a €99 monthly subscription now live in the Netherlands.</description>
+    </item>
+
+    <item>
+      <title>The Lightship's Trek Drive Let a Rivian R1S Tow 80 Miles on 36% Battery and Arrive With 13% Left</title>
+      <link>https://nexusevnews.com/articles/lightship-rv-trek-drive-rivian-r1s-80-mile-tow-test.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/lightship-rv-trek-drive-rivian-r1s-80-mile-tow-test.html</guid>
+      <pubDate>Sat, 18 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Deep Dives</category>
+      <description>Kyle loads the Lightship onto a Rivian R1S at 36% battery with 80 miles to go. Trek Drive, the trailer's 78 kWh battery and rear-axle motor, pushed 13 to 30 kW throughout the run. Efficiency in the Rivian held at 2.3 to 2.45 miles per kWh while towing at up to 70 mph. They arrived with 13% in the truck and 70% in the trailer after using only about 30 kWh from the Rivian across 71 miles. Without Trek Drive, they would not have made it. The Lightship starts around $155,000 and climbs above $170,000 with Trek Drive.</description>
+    </item>
 
     <item>
       <title>The Renault 5 Has Been the Best Small EV for Over a Year. What Car? Just Found Something Better.</title>
@@ -167,54 +217,5 @@
       <description>Andrew Till visits Rome to find out why Italy's EV adoption rate sits at just 6.2 percent while the EU averaged 17.4 percent in 2025. Half of Italian dwellings are apartments, making home charging difficult, but Spain has an even higher apartment density and is one of Europe's fastest-growing EV markets, driven by consistent incentives since 2019 and mandatory low-emission zones in cities over 50,000 since 2023. Italy's eco bonus offered up to 13,750 euros for lower-income buyers, and when the 595 million euro fund launched in October 2025, it was exhausted in a single day. The Italian-built Fiat 500e costs at least 9,950 euros after grants, while the Leapmotor T3 with scrappage drops to 4,900 euros and is outselling nearly everything else.</description>
     </item>
 
-    <item>
-      <title>The Lightship RV Has Arrived. 77 kWh, Solar Roof, and a Hitch That Makes Your Truck Forget It's Towing.</title>
-      <link>https://nexusevnews.com/articles/lightship-rv-arrives-out-of-spec-first-setup-tour-testing.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/lightship-rv-arrives-out-of-spec-first-setup-tour-testing.html</guid>
-      <pubDate>Tue, 14 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Deep Dives</category>
-      <description>Out of Spec Reviews welcomes the Lightship aero-electric travel trailer for a week of real-world testing at their North Carolina track. Co-founder Ben walks Kyle through the whole setup: 77 kWh lithium battery, a solar-covered roof, and Trek Drive, a force-sensing system built into the hitch coupler that measures drag from the tow vehicle and offsets it with an onboard motor. The result is a trailer that reportedly becomes effectively weightless to whatever is pulling it. The Atmos trim unit on hand is VIN 6 off their Broomfield, Colorado production line, priced at approximately $180,000. Kyle plans to tow it with a Cybertruck, Silverado EV, a gas Super Duty, and a Tahoe. DC fast charging and solar-to-high-voltage-battery are both still coming via software update.</description>
-    </item>
-
-    <item>
-      <title>The Mercedes EQS Finally Gets Good. 800V, 122 kWh, and an F1 Steering Wheel That Actually Makes Sense.</title>
-      <link>https://nexusevnews.com/articles/2027-mercedes-eqs-facelift-800v-steer-by-wire-autogefuhl.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/2027-mercedes-eqs-facelift-800v-steer-by-wire-autogefuhl.html</guid>
-      <pubDate>Tue, 14 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Autogefühl</dc:creator>
-      <category>Reviews</category>
-      <description>Thomas from Autogefühl drives the refreshed Mercedes EQS, and the battery story alone earns attention. The large pack is now 122 kWh net, the small one 112 kWh, and both charge on a new 800V architecture with peak rates up to 350 kW. That gets you 10-80% in about 25 minutes. Entry price in Germany drops to 94,000 euros, a figure that changes the company car tax math across Europe. The optional steer-by-wire system pairs with a flat F1-style steering wheel, cutting full lock-to-lock down to a fraction of a rotation. Thomas drives it through an obstacle course back-to-back with a pre-facelift model, and the difference is hard to ignore.</description>
-    </item>
-
-    <item>
-      <title>Ionna Built a Charging Lounge That Beats the Airport One. Plus: Kwik Trip Added Five Stations in a Week.</title>
-      <link>https://nexusevnews.com/articles/ionna-driver-lounge-forest-park-dcfc-news-april-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ionna-driver-lounge-forest-park-dcfc-news-april-2026.html</guid>
-      <pubDate>Tue, 14 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec BITS</dc:creator>
-      <category>Charging</category>
-      <description>Walter tours Ionna's new driver's lounge at Forest Park, Georgia, immediately off I-75 near Atlanta Hartsfield. Alpitronic hyperchargers, canopy, Corian countertops, vending machines stocked with Red Bull, and seating that actually works. Walter's verdict: better than the BP lounge at LAX. The weekly DCFC roundup covers Kwik Trip's Kwik Charge network jumping from 10 to 16 stations across Wisconsin and Minnesota in a single week. Also this week: Pilot Flying J shutting down existing 4-stall stations to expand stall counts, Tesla Supercharger opening 10 new locations, BYD's 1 MW flash charger demonstrated in Europe, and Walmart adding seven more charging sites.</description>
-    </item>
-
-    <item>
-      <title>1,156 HP, Crab Walk, and It Parks Itself by Spinning on One Wheel. Meet the Denza Z9 GT.</title>
-      <link>https://nexusevnews.com/articles/denza-z9-gt-1156hp-crab-walk-pivot-turn-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/denza-z9-gt-1156hp-crab-walk-pivot-turn-review.html</guid>
-      <pubDate>Tue, 14 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Roaming</dc:creator>
-      <category>Reviews</category>
-      <description>William from Out of Spec Roaming gets behind the wheel of the Denza Z9 GT, BYD's luxury performance brand. Three motors produce 1,156 hp. A 122 kWh LFP blade battery on a true 1,000V architecture holds around 300 kW at a public European charger well into a high state of charge. With BYD's own flash chargers, the Z9 GT goes from 10% to 97% in about 9 minutes. Independent rear-wheel steering lets each rear wheel turn in opposite directions, enabling a pivot-around-one-wheel parking move and crab walk on command. At roughly €115,000 in Europe, it is one of the most capable cars on the market, and the accelerator mapping and infotainment are not quite at that level yet.</description>
-    </item>
-
-    <item>
-      <title>The Most Underrated Electric Sedan Under $70K Has Two Charge Ports, a Real Frunk, and a Gear Shift You Can Actually Feel</title>
-      <link>https://nexusevnews.com/articles/mercedes-cla-ev-350-review-underrated-electric-sedan.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/mercedes-cla-ev-350-review-underrated-electric-sedan.html</guid>
-      <pubDate>Tue, 14 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Auto Focus</dc:creator>
-      <category>Reviews</category>
-      <description>Auto Focus spends a week with the Mercedes CLA 350 electric, starting at $50,000 and landing at around $65,000 as tested. The rear axle runs a two-speed gearbox, and at highway speeds you actually feel it shift, something most EVs never do. Two charge ports live in the same motorized flap: NACS and a separate Level 2 AC inlet, neither needing an adapter. There is a usable frunk. The optional Burmester speakers are worth the $800. Ride quality is smooth and notably quiet on 19-inch wheels. The back seat is a B-minus thanks to a high floor and sloping roofline, and there is no next-song button on the steering wheel, a strange miss for a $65,000 car. The honest 300-mile range is a genuine selling point in a segment that is almost out of options.</description>
-    </item>
   </channel>
 </rss>
