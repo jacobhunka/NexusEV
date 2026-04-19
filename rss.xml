@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>340 Miles, One Charging Stop, and a Lot of German Motorway. The BMW iX3 Actually Delivered.</title>
+      <link>https://nexusevnews.com/articles/bmw-ix3-road-trip-review-real-world-range-fast-charging-autogefuhl.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-road-trip-review-real-world-range-fast-charging-autogefuhl.html</guid>
+      <pubDate>Sun, 19 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Autogef&#252;hl</dc:creator>
+      <category>Reviews</category>
+      <description>Autogef&#252;hl drives the base BMW iX3, with the 108.7 kWh battery and 20-inch wheels, 550 km to Berlin at Autobahn speeds and back without charging. On 20-inch wheels, consumption at 100 km/h came to 16 kWh per 100 km, a real-world range of roughly 680 km. At 130 km/h, that rose to 22 kWh, good for around 500 km. The outbound charging stop at a 400 kW station went from 15% to 80% in approximately 18 minutes, averaging 280 kW. The return trip covered 530 km with 10% remaining, pointing to a maximum of about 590 km on one charge.</description>
+    </item>
+
+    <item>
+      <title>40,000 Miles, One Deer, Two Tire Disasters. Car and Driver's BMW i4 Test Is Finally Done.</title>
+      <link>https://nexusevnews.com/articles/bmw-i4-xdrive40-40000-mile-long-term-review-car-and-driver.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-i4-xdrive40-40000-mile-long-term-review-car-and-driver.html</guid>
+      <pubDate>Sun, 19 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Car and Driver</dc:creator>
+      <category>Reviews</category>
+      <description>Car and Driver put a 2024 BMW i4 xDrive40 through 40,000 miles. The xDrive40 makes 396 horsepower and tested to 60 mph in 4.4 seconds. EPA range is 279 miles on 19-inch wheels. The factory Hankook summer tires chunked during instrumented testing. An aftermarket winter tire set introduced sloppy handling that BMW-spec Goodyear Ultragrip tires fixed. A deer strike cost $16,500 in repairs. One scheduled service visit in 40,000 miles covered everything under BMW's complimentary program. Multiple editors called it one of the best-driving BMWs regardless of powertrain.</description>
+    </item>
+
+    <item>
+      <title>The Renault 5 and Nissan Micra Share the Same Platform, Battery, and Factory. One of Them Costs Less Per Month and Looks Better.</title>
+      <link>https://nexusevnews.com/articles/renault-5-vs-nissan-micra-ev-twin-test-electrifying.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/renault-5-vs-nissan-micra-ev-twin-test-electrifying.html</guid>
+      <pubDate>Sun, 19 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>Reviews</category>
+      <description>The Renault 5 and new Nissan Micra share the same platform, 52 kWh battery, 148 horsepower motor, and French factory. Both charge at 11 kW AC and 100 kW DC. The Renault 5 Techno Plus costs &#163;23,945 after the &#163;3,750 grant; the Micra Advance costs &#163;23,245. On finance, the Renault works out to &#163;348 per month versus &#163;371 for the Micra. Driven back to back on English B-roads, both presenters found the two indistinguishable by feel. The Micra has regen paddles for one-pedal driving that the Renault 5 does not yet offer. The Renault wins on styling, finance, and interior personality.</description>
+    </item>
+
+    <item>
+      <title>Ethiopia Banned Gas and Diesel Car Imports and Built Africa's Biggest Dam. Its EV Fleet Has Nearly Quadrupled Since.</title>
+      <link>https://nexusevnews.com/articles/ethiopia-ev-electric-buses-hydropower-ban-dw-rev.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ethiopia-ev-electric-buses-hydropower-ban-dw-rev.html</guid>
+      <pubDate>Sun, 19 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>DW REV</dc:creator>
+      <category>News</category>
+      <description>Ethiopia is targeting half a million EVs on the road by 2030, with over 97 percent of its electricity from hydropower. The Grand Ethiopian Renaissance Dam, Africa's largest, began operation in 2025 at 5,150 megawatts. Over 100 electric buses carry more than 90,000 passengers daily in Addis Ababa. The EV fleet has grown from around 30,000 vehicles two years ago to nearly 120,000. A 2024 ban on gasoline and diesel car imports was driven by a fuel import bill of close to four billion euros annually. Around 500 charging stations exist nationally, nearly all in the capital.</description>
+    </item>
+
+    <item>
+      <title>Walmart Just Opened Its First Charger North of the 37th Parallel. It Costs 37% Less Than Nearby Tesla.</title>
+      <link>https://nexusevnews.com/articles/walmart-ev-charging-new-jersey-freehold-400kw-state-of-charge.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/walmart-ev-charging-new-jersey-freehold-400kw-state-of-charge.html</guid>
+      <pubDate>Sun, 19 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>State of Charge</dc:creator>
+      <category>Charging</category>
+      <description>Walmart's DC fast charging network now has 31 locations, with the newest at a Freehold, New Jersey Supercenter, the first site north of the 37th parallel. The station uses eight Alpitronic HYC400 chargers rated at up to 400 kW each, with both CCS and NACS connectors per pedestal. State of Charge paid $0.39 per kWh. The nearest Tesla Supercharger about two miles away was showing $0.62 per kWh at the same time. Charging requires the Walmart app and a QR scan. Walmart is not adding new third-party chargers to its properties, and existing network agreements are expected to wind down as leases expire.</description>
+    </item>
 
     <item>
       <title>BYD's Luxury EV Has 1,156 HP, Closes Its Own Doors, and Charges in Nine Minutes</title>
@@ -167,55 +217,6 @@
       <description>SBS News reporter Alexandra Jones travels to Dubbo, NSW, the first Renewable Energy Zone in New South Wales, to find out who actually benefits when wind and solar farms reshape regional Australia. She visits an agrisolar farm under 64,000 panels, a community cooperative in Orange, and an Aboriginal Land Council that secured a stake in a major battery facility. Researchers say resolving First Nations land claims could unlock up to 18 times more solar and 22 times more wind in those areas. Some neighbouring landowners report falling property values.</description>
     </item>
 
-    <item>
-      <title>The 2026 Polestar 4 Has No Rear Window, No Key Buttons, and Mood Lighting Named After Planets</title>
-      <link>https://nexusevnews.com/articles/2026-polestar-4-quirks-features-no-rear-window-doug-demuro.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/2026-polestar-4-quirks-features-no-rear-window-doug-demuro.html</guid>
-      <pubDate>Wed, 15 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Doug DeMuro</dc:creator>
-      <category>Reviews</category>
-      <description>Doug DeMuro works through every quirk of the 2026 Polestar 4, starting with the big one: there is no rear window. Polestar removed it entirely, replacing it with a digital rear-view mirror and using the reclaimed space to stretch the interior. The body style confusion runs deep. Polestar calls it an SUV coupe, but at 60 inches tall it sits only two inches above a Toyota Camry. The single-motor base starts at around $58,000 with 275 hp and 310 miles of range. The dual-motor steps up to 535 hp and 3.5 seconds to 60, starting around $64,000, though the test car checked out at just over $80,000. Inside: planet-named ambiance modes, a proximity-only key fob with zero buttons, and a rear seat roomy enough that China feels like the intended audience. DougScore: 64 out of 100.</description>
-    </item>
-
-    <item>
-      <title>This Device Tricks Your Tesla Into Thinking It's Charging. Then It Powers Your House Instead.</title>
-      <link>https://nexusevnews.com/articles/roam-energy-powerbridge-pro-tesla-home-backup-240v-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/roam-energy-powerbridge-pro-tesla-home-backup-240v-review.html</guid>
-      <pubDate>Wed, 15 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>State of Charge</dc:creator>
-      <category>Deep Dives</category>
-      <description>The Roam Energy PowerBridge Pro plugs into a CCS-enabled Tesla, tricks the car into thinking it is DC fast charging, and pulls electricity out of the battery instead. The first-generation model was limited to 3,500 watts at 120 volts. The Pro adds a 240-volt output capable of up to 7,500 watts through a NEMA 14-50 outlet, enough to run a home through a power outage using a standard generator inlet. State of Charge's Tom tests a heater and convection oven drawing a combined 3,300 watts at 120V, then charges his Ford F-150 Lightning at 240V for 40 minutes without interruption. Compatible with CCS-enabled Teslas from 2021 forward, or older models with Tesla's retrofit. Safety certifications were pending at time of review.</description>
-    </item>
-
-    <item>
-      <title>The Rivian R2's 335-Mile Range Is Not the Real Story. The Battery Chemistry Is.</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-epa-battery-chemistry-nca-range-tradeoff.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-epa-battery-chemistry-nca-range-tradeoff.html</guid>
-      <pubDate>Wed, 15 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Travis Ketchum</dc:creator>
-      <category>Battery Tech</category>
-      <description>Travis Ketchum digs into what Rivian's EPA filing for the R2 actually reveals. The 335-mile result on the 21-inch range wheels is exactly in line with expectations. What stood out was the battery chemistry: Rivian chose NCA rather than the NMC chemistry in R1 vehicles. NCA packs more range into a smaller, lighter, cheaper pack, which is central to hitting 300-plus miles at this price point. The tradeoff is sensitivity to heat and repeated DC fast charging, with research suggesting 10 to 15 percent capacity loss around 300 cycles. Rivian is adding an in-car battery degradation tracking screen. The R2 also qualifies for the Section 179 business deduction at its 6,173-pound GVWR.</description>
-    </item>
-
-    <item>
-      <title>The Nissan Juke Has Gone Electric. It Is Still Completely Unhinged.</title>
-      <link>https://nexusevnews.com/articles/nissan-juke-electric-reveal-ev-platform-v2g-uk.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/nissan-juke-electric-reveal-ev-platform-v2g-uk.html</guid>
-      <pubDate>Wed, 15 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>News</category>
-      <description>Electrifying gets an exclusive look at the electric Nissan Juke at Nissan's headquarters in Japan. The Juke helped launch the compact crossover segment in 2010 and has sold over 1.5 million units in Europe. It is going fully electric for the first time. The production car tracks closely to the 2023 Hyper Punk concept, with layered geometric lighting and origami panel lines. It sits on Nissan's dedicated EV platform, will support vehicle-to-grid technology, and will be built at the Sunderland factory in the UK. Target pricing is aimed at the current Juke's mid-to-high 20,000-pound range.</description>
-    </item>
-
-    <item>
-      <title>Italy Burned Through 595 Million Euros in EV Incentives in One Day. The Market Still Has Not Taken Off.</title>
-      <link>https://nexusevnews.com/articles/italy-ev-adoption-problem-charging-infrastructure.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/italy-ev-adoption-problem-charging-infrastructure.html</guid>
-      <pubDate>Wed, 15 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Andrew Till / Mr. EV</dc:creator>
-      <category>News</category>
-      <description>Andrew Till visits Rome to find out why Italy's EV adoption rate sits at just 6.2 percent while the EU averaged 17.4 percent in 2025. Half of Italian dwellings are apartments, making home charging difficult, but Spain has an even higher apartment density and is one of Europe's fastest-growing EV markets, driven by consistent incentives since 2019 and mandatory low-emission zones in cities over 50,000 since 2023. Italy's eco bonus offered up to 13,750 euros for lower-income buyers, and when the 595 million euro fund launched in October 2025, it was exhausted in a single day. The Italian-built Fiat 500e costs at least 9,950 euros after grants, while the Leapmotor T3 with scrappage drops to 4,900 euros and is outselling nearly everything else.</description>
-    </item>
 
   </channel>
 </rss>
