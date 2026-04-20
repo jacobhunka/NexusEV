@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>The 2025 Cadillac Optiq Starts at $56,000 and Drives Like It Costs More</title>
+      <link>https://nexusevnews.com/articles/2025-cadillac-optiq-review-quirks-features-doug-demuro.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/2025-cadillac-optiq-review-quirks-features-doug-demuro.html</guid>
+      <pubDate>Mon, 20 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Doug DeMuro</dc:creator>
+      <category>Reviews</category>
+      <description>Doug DeMuro covers the 2025 Cadillac Optiq, a fully electric midsize SUV with around 300 miles of range, roughly 300 horsepower, and 0-60 in the mid-fives. It starts at about $56,000, well below rivals like the Polestar 3 and BMW iX despite a comparable real-world experience. Standard all-wheel drive, Super Cruise, and a rear-seat household outlet are included. The 500E4 badge on the tail denotes torque in Newton meters, not horsepower. Doug gives it 56 out of 100.</description>
+    </item>
+
+    <item>
+      <title>China Controls 70% of Global EV Production. Here's What That Looks Like Across Southeast Asia.</title>
+      <link>https://nexusevnews.com/articles/china-ev-dominance-asia-pacific-bbc-world-service.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/china-ev-dominance-asia-pacific-bbc-world-service.html</guid>
+      <pubDate>Mon, 20 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>BBC World Service</dc:creator>
+      <category>News</category>
+      <description>The BBC World Service's Asia Specific podcast examines how China's EV dominance is reshaping the auto industry. According to the IEA, China accounts for more than 70 percent of global EV production, with more than half the cars sold in China now electric or hybrid. Chinese manufacturers are expanding factory operations into Thailand, Malaysia, and Indonesia; BYD was Singapore's top-selling car brand last year. The episode covers government policy, tariff tensions in Europe and the US, and why Chinese brands are pricing carefully abroad.</description>
+    </item>
+
+    <item>
+      <title>574 Miles of WLTP Range, the Kia e-Niro's Last Chapter, and Tesla FSD Gets Dutch Approval</title>
+      <link>https://nexusevnews.com/articles/kilowatt-half-hour-ep-102-mercedes-eqs-574-miles-kia-eniro-electrifying.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/kilowatt-half-hour-ep-102-mercedes-eqs-574-miles-kia-eniro-electrifying.html</guid>
+      <pubDate>Mon, 20 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>News</category>
+      <description>Electrifying's Kilowatt Half Hour covers the Mercedes EQS hitting 574 miles WLTP, with real-world bad-weather range still around 470 miles. Kia is discontinuing the e-Niro after 100,000 EV sales in the UK, with the EV3 and EV2 set to fill the gap. Tesla's Full Self-Driving Supervised system received approval from Dutch regulators after 18 months of road testing. Volkswagen previewed the ID Polo, ID Polo GTI, and ID3 Neo at a major Hamburg launch event.</description>
+    </item>
+
+    <item>
+      <title>The 2026 Renault Twingo Electric Adds 50 kW DC Fast Charging and Starts Under &#8364;21,500</title>
+      <link>https://nexusevnews.com/articles/2026-renault-twingo-electric-first-drive-jr-car-reviews.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/2026-renault-twingo-electric-first-drive-jr-car-reviews.html</guid>
+      <pubDate>Mon, 20 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>JR Car Reviews</dc:creator>
+      <category>Reviews</category>
+      <description>JR Car Reviews drives the 2026 Renault Twingo E-Tech Electric at the Slovenian factory where it is built alongside the Clio. The car runs a 60 kW motor producing 82 horsepower, paired with a 37.5 kWh LFP battery. WLTP range sits around 280 km. This generation adds 50 kW DC charging for the first time, alongside standard 6.5 kW AC. The top-spec version is priced at around &#8364;21,500. Front suspension components come from the R5; rear from the Captur. 0-100 km/h takes around 12.1 seconds.</description>
+    </item>
+
+    <item>
+      <title>An American in Shanghai on What BYD, NIO, XPeng, and Zeekr Are Really Building</title>
+      <link>https://nexusevnews.com/articles/china-ev-market-byd-nio-xpeng-wheelsboy-motortrend.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/china-ev-market-byd-nio-xpeng-wheelsboy-motortrend.html</guid>
+      <pubDate>Mon, 20 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>MotorTrend Channel</dc:creator>
+      <category>Deep Dives</category>
+      <description>MotorTrend interviews Ethan Robertson of Wheels, who is fluent in Mandarin and based in Shanghai, and has reviewed hundreds of Chinese EVs since 2019. He breaks down which brands have global staying power, where Tesla stands in the Chinese market, and why the domestic price war is forcing consolidation. His list for brands with international potential: BYD first, then Zeekr from Geely Group, followed by NIO, Xpeng, and Leauto. He also covers why a BYD Seagull-equivalent simply does not exist in the US market.</description>
+    </item>
 
     <item>
       <title>340 Miles, One Charging Stop, and a Lot of German Motorway. The BMW iX3 Actually Delivered.</title>
@@ -165,56 +215,6 @@
       <dc:creator>Verge Motorcycles</dc:creator>
       <category>Battery Tech</category>
       <description>Verge Motorcycles put solid-state batteries into production in Q1 2026 with the TS Pro, the first production vehicle of any kind to ship solid-state as standard. The base pack holds 20.2 kWh total with 18 kWh nominal capacity and a real-world range claim of up to 217 miles. It charges at up to 100 kW, reaching 80% in under 10 minutes. The solid-state chemistry runs air cooling only with no liquid cooling system. The hub motor produces 102 kW and 1,000 Nm of torque. Zero to 100 km/h takes 3.5 seconds.</description>
-    </item>
-
-    <item>
-      <title>VW Listened to Every Complaint. The New ID.3 Neo Has Real Buttons, a Real Interior, and Something to Prove.</title>
-      <link>https://nexusevnews.com/articles/vw-id3-neo-facelift-real-buttons-new-interior-autogefuhl.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/vw-id3-neo-facelift-real-buttons-new-interior-autogefuhl.html</guid>
-      <pubDate>Thu, 16 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Autogef&#252;hl</dc:creator>
-      <category>Reviews</category>
-      <description>Thomas from Autogef&#252;hl walks through the pre-production VW ID.3 Neo. Four individual window switches replace the infamous single-button layout. Physical climate dials are back. A 10-inch instrument cluster and 13-inch infotainment screen arrive alongside a steering wheel with actual tactile buttons. The 79 kWh NMC pack hits 168 kW DC and 10 to 80 percent in around 29 minutes. New LFP options start at 50 kWh and 58 kWh. WLTP range clears 600 km, and real motorway cruising lands around 400 km. Thomas calls the update a genuine turning point for a brand that had lost its way.</description>
-    </item>
-
-    <item>
-      <title>The Cybertruck Blinked. The Rivian Didn't. First Lightship Trek Drive Tow Test Results Are In.</title>
-      <link>https://nexusevnews.com/articles/lightship-rv-cybertruck-r1t-trek-drive-first-tow-out-of-spec.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/lightship-rv-cybertruck-r1t-trek-drive-first-tow-out-of-spec.html</guid>
-      <pubDate>Thu, 16 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec BITS</dc:creator>
-      <category>Deep Dives</category>
-      <description>Kyle gets the first press loan of the Lightship aero-electric trailer alongside Cybertruck owner Maryanne and co-founder Ben. At 75 mph, the Cybertruck towed the Lightship solidly. Then a left turn signal and brake light issue with the seven-pin connector prevented Trek Drive from being tested. The Rivian R1T dual motor stepped in, Trek Drive activated immediately, held 15 to 20 kW at 65 mph, scaled to 30 kW on hills, and cut off cleanly at around 77 mph. DC fast charging on the trailer at up to 150 kW is still coming via software update.</description>
-    </item>
-
-    <item>
-      <title>Rivian's Old Battery Packs Are Getting a Second Life Powering the Factory That Built Them</title>
-      <link>https://nexusevnews.com/articles/rivian-redwood-materials-second-life-battery-energy-storage-normal-illinois.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-redwood-materials-second-life-battery-energy-storage-normal-illinois.html</guid>
-      <pubDate>Thu, 16 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Rivian Newsroom</dc:creator>
-      <category>News</category>
-      <description>New U.S. grid infrastructure takes 5 to 12 years to build. Rivian and Redwood Materials are not waiting. According to a Rivian press release, the two companies are deploying second-life Rivian battery packs at the Normal, Illinois plant as on-site peak demand storage. It is the first known closed-loop program where an automaker's retired packs power the factory that built them. Redwood was founded by former Tesla CTO JB Straubel. Nissan, BMW, and VW have all tried second-life battery projects. None closed the loop like this.</description>
-    </item>
-
-    <item>
-      <title>BYD Cut the Price, Added a Frunk, and Jumped to 800V. The Atto 3 Evo Is Hard to Argue With.</title>
-      <link>https://nexusevnews.com/articles/byd-atto-3-evo-review-800v-frunk-cheaper-uk.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-atto-3-evo-review-800v-frunk-cheaper-uk.html</guid>
-      <pubDate>Thu, 16 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Everything Electric CARS</dc:creator>
-      <category>Reviews</category>
-      <description>The BYD Atto 3 Evo arrives in the UK with a frunk the original never had, a 585-litre boot (over 1,000 with seats folded), 800V architecture matching a Porsche Taycan for charge speed, and a battery that grew from around 60 kWh to 74.8 kWh at the same weight. Every variant costs approximately 700 pounds less than the equivalent original Atto 3. UK pricing sits between 37,000 and 42,000 pounds. The 8-year, 150,000-mile battery warranty has not changed.</description>
-    </item>
-
-    <item>
-      <title>64,000 Solar Panels, a Community Farm, and Some Very Unhappy Neighbours. Australia's Clean Energy Revolution Has a People Problem.</title>
-      <link>https://nexusevnews.com/articles/australia-renewable-energy-zones-dubbo-community-sbs-news.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/australia-renewable-energy-zones-dubbo-community-sbs-news.html</guid>
-      <pubDate>Thu, 16 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>SBS News</dc:creator>
-      <category>Solar &amp; Renewables</category>
-      <description>SBS News reporter Alexandra Jones travels to Dubbo, NSW, the first Renewable Energy Zone in New South Wales, to find out who actually benefits when wind and solar farms reshape regional Australia. She visits an agrisolar farm under 64,000 panels, a community cooperative in Orange, and an Aboriginal Land Council that secured a stake in a major battery facility. Researchers say resolving First Nations land claims could unlock up to 18 times more solar and 22 times more wind in those areas. Some neighbouring landowners report falling property values.</description>
     </item>
 
 
