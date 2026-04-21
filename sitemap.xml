@@ -3,9 +3,44 @@
 
   <url>
     <loc>https://nexusevnews.com/</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/subaru-uncharted-ev-review-auto-focus.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/mercedes-c-class-electric-2027-reveal-autogefuhl.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/hyundai-ioniq-3-first-look-frankfurt-everything-electric.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/rivian-r2-interior-design-official.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/australia-ev-sales-record-march-2026-current-affair.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <url>
