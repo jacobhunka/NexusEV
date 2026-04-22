@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,46 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>The 2027 Chevrolet Bolt Charges Three Times Faster Than Its Predecessor. Here's What the Data Shows.</title>
+      <link>https://nexusevnews.com/articles/2027-chevrolet-bolt-ev-dc-fast-charge-analysis-state-of-charge.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/2027-chevrolet-bolt-ev-dc-fast-charge-analysis-state-of-charge.html</guid>
+      <pubDate>Wed, 22 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>State Of Charge</dc:creator>
+      <category>Charging</category>
+      <description>State Of Charge tests the 2027 Bolt RS at a 350 kW EVgo station. The LFP pack peaks at 158 kW, hits 70 percent in 30 minutes, and completes a full charge in under an hour. The original Bolt needed more than two hours for the same session. GM claims 26 minutes from 10 to 80 percent; this first test on a 22-mile-old battery showed 33.3 minutes, with a follow-up planned. EPA-rated range is 262 miles. Base price starts under $30,000.</description>
+    </item>
+
+    <item>
+      <title>A San Francisco Arcade Operator Fit a Skeeball Machine in the TELO Truck. Done.</title>
+      <link>https://nexusevnews.com/articles/telo-truck-joey-the-cat-arcade-operator-skeeball.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/telo-truck-joey-the-cat-arcade-operator-skeeball.html</guid>
+      <pubDate>Wed, 22 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>TELO Trucks</dc:creator>
+      <category>News</category>
+      <description>Joey the Cat runs 40 Bay Area bar locations and moves about 50 skeeball machines and hundreds of arcade games between them. His test for the TELO electric truck: does a skeeball machine fit in the bed? It does, with room left for his tools. He currently hauls in a 2011 Toyota Tacoma and a 2021 Mercedes Sprinter van and wants a smaller electric option that can handle city parking without giving up cargo utility. Episode 8 of TELO's How Will You TELO? series.</description>
+    </item>
+
+    <item>
+      <title>CATL Unveiled Six Battery Technologies at Its 2026 Tech Day. The Headline Numbers Are Striking.</title>
+      <link>https://nexusevnews.com/articles/catl-tech-day-2026-shenxing-qilin-condensed-battery.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/catl-tech-day-2026-shenxing-qilin-condensed-battery.html</guid>
+      <pubDate>Wed, 22 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Everything Electric APAC</dc:creator>
+      <category>Battery Tech</category>
+      <description>CATL's Super Technology Day brought the third-generation Shenxing battery at 10 to 80 percent in 3 minutes 44 seconds and 1,000 cycles with above 90 percent capacity retention. The Qilin Condensed Battery reaches 350 Wh/kg and 760 Wh/L for 1,500 km of range in a sedan. The third-generation Qilin LFP hits 280 Wh/kg and 3 MW peak power. The Naxtra sodium-ion battery is moving to large-scale production. CATL also announced 4,000 integrated charge-swap stations covering nearly 190 cities by end of 2026.</description>
+    </item>
+
+    <item>
+      <title>13 Months and 38,700 Miles in a Used Taycan 4S: The Full Ownership Report</title>
+      <link>https://nexusevnews.com/articles/13-months-used-porsche-taycan-4s-ownership-review-tom-voelk.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/13-months-used-porsche-taycan-4s-ownership-review-tom-voelk.html</guid>
+      <pubDate>Wed, 22 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Driven Car Reviews</dc:creator>
+      <category>Used EVs</category>
+      <description>Tom Voelk bought a 2021 Taycan 4S CPO for $74,000 against a $163,000 MSRP. After 13 months: one software glitch that cleared with a five-minute lock-and-walk-away, several pre-purchase recalls already handled, and strong pack health. After a manual rebalance, indicated range is 215 miles in cold weather and expected to return to around 260 miles in summer. He charges overnight at 9 cents per kWh in Seattle. He would buy it again.</description>
+    </item>
 
     <item>
       <title>Subaru's New Uncharted EV Is Good Looking and Hard to Recommend</title>
@@ -175,46 +215,6 @@
       <dc:creator>Autotrader</dc:creator>
       <category>Reviews</category>
       <description>The Denza Z9 GT is BYD's premium performance EV at around £105,000 in the UK. Three motors produce 1,156 PS and 1,200 Nm of torque. The 122 kWh battery claims 600 km WLTP range. Using BYD's own flash chargers, it goes from 10 to 97 percent in nine minutes. Those chargers store energy in Blade Battery packs on-site, requiring only a modest grid connection. Denza plans 3,000 of them across Europe within 12 months. Rear-wheel steering enables crab walk, a pencil compass spin-on-the-spot, and a 4.6 m turning circle. Autotrader had three hours with the car on French roads.</description>
-    </item>
-
-    <item>
-      <title>Porsche's Wireless Charger Hits 92% Efficiency. Engineering Explained Was a Skeptic. Not Anymore.</title>
-      <link>https://nexusevnews.com/articles/porsche-cayenne-electric-wireless-charging-engineering-explained.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/porsche-cayenne-electric-wireless-charging-engineering-explained.html</guid>
-      <pubDate>Sat, 18 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Engineering Explained</dc:creator>
-      <category>Charging</category>
-      <description>Engineering Explained's Jason Fenske went in expecting to dismiss wireless EV charging on the Porsche Cayenne Electric and came out convinced. The system achieves 89 to 92 percent efficiency, better than Level 1 wired at 60 percent. At 11 kW it charges faster than Porsche's mobile connector. Floor pad costs around $6,500, vehicle receiver around $1,650. Over 200,000 miles the extra cost of wireless versus Level 2 wired is roughly $1,000. Safety systems include radar for living objects, metal detection, and temperature sensors. Oak Ridge National Lab tested wireless charging on a Porsche Taycan at 270 kW and 95 percent efficiency.</description>
-    </item>
-
-    <item>
-      <title>431 Miles of Range, Best-in-Class Frunk, and Door Handles That Refuse to Work. The Lucid Air Is Almost Brilliant.</title>
-      <link>https://nexusevnews.com/articles/2026-lucid-air-touring-review-the-straight-pipes.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/2026-lucid-air-touring-review-the-straight-pipes.html</guid>
-      <pubDate>Sat, 18 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>TheStraightPipes</dc:creator>
-      <category>Reviews</category>
-      <description>Jacob from TheStraightPipes spends a week with the 2026 Lucid Air Touring: 620 hp, 885 lb-ft, 92 kWh battery, and a rated 431-mile range. In cold weather around 3°C, 50% battery showed approximately 300 km remaining. The 900V architecture supports up to 350 kW DC charging. The glass canopy and best-in-class frunk earn genuine praise. Wireless CarPlay worked until it stopped. The key fob has no buttons. Door handles sometimes do not present. Starts at $112,800 CAD.</description>
-    </item>
-
-    <item>
-      <title>Tesla FSD Is Live in the Netherlands. Here's What Has to Happen Before the Rest of Europe Gets It.</title>
-      <link>https://nexusevnews.com/articles/tesla-fsd-netherlands-approved-eu-rollout-explained.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-fsd-netherlands-approved-eu-rollout-explained.html</guid>
-      <pubDate>Sat, 18 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Autospec Roaming</dc:creator>
-      <category>News</category>
-      <description>The Dutch Vehicle Authority approved Tesla FSD on April 10 after 18 months of testing and 1.6 million-plus kilometres on EU roads. EU-wide rollout requires a majority vote from all 27 member states. The EU version differs from the US one: no speed profiles, on-screen notifications for every manoeuvre, stricter driver monitoring, and pre-approval required for future software updates. The system turns off when crossing into a non-approved country. Purchase price is €7,500, with a €99 monthly subscription now live in the Netherlands.</description>
-    </item>
-
-    <item>
-      <title>The Lightship's Trek Drive Let a Rivian R1S Tow 80 Miles on 36% Battery and Arrive With 13% Left</title>
-      <link>https://nexusevnews.com/articles/lightship-rv-trek-drive-rivian-r1s-80-mile-tow-test.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/lightship-rv-trek-drive-rivian-r1s-80-mile-tow-test.html</guid>
-      <pubDate>Sat, 18 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Deep Dives</category>
-      <description>Kyle loads the Lightship onto a Rivian R1S at 36% battery with 80 miles to go. Trek Drive, the trailer's 78 kWh battery and rear-axle motor, pushed 13 to 30 kW throughout the run. Efficiency in the Rivian held at 2.3 to 2.45 miles per kWh while towing at up to 70 mph. They arrived with 13% in the truck and 70% in the trailer after using only about 30 kWh from the Rivian across 71 miles. Without Trek Drive, they would not have made it. The Lightship starts around $155,000 and climbs above $170,000 with Trek Drive.</description>
     </item>
 
 
