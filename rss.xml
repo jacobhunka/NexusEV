@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>The R2 Is Rivian's Mass-Market Moment. A $5.8B Software Licensing Deal Hints at What Comes Next.</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-production-begins-rj-scaringe-bloomberg.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-production-begins-rj-scaringe-bloomberg.html</guid>
+      <pubDate>Thu, 23 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Bloomberg Technology</dc:creator>
+      <category>News</category>
+      <description>RJ Scaringe tells Bloomberg the R2 is in production with strong early demand. The lineup runs from $45,000 to $57,000, straddling the US average new car price. Point-to-point Level 2 autonomy arrives later in 2026; Level 3 follows in 2027. A second R2 variant at the end of 2026 adds Rivian's in-house 800-TOPS silicon and LiDAR. Scaringe also outlined Rivian's technology licensing strategy: the $5.8 billion VW deal covers Rivian's OS and compute stack, with autonomy licensing described as a longer-term target.</description>
+    </item>
+
+    <item>
+      <title>BMW's Updated 7 Series Has a New Face, 36 Speakers, and a Rear Screen That Streams YouTube</title>
+      <link>https://nexusevnews.com/articles/bmw-7-series-2027-facelift-autogefuhl.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-7-series-2027-facelift-autogefuhl.html</guid>
+      <pubDate>Thu, 23 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Autogef&#252;hl</dc:creator>
+      <category>Deep Dives</category>
+      <description>Autogef&#252;hl does a full walkaround of the refreshed BMW 7 Series. The i7 gains 10 kWh for a 112.5 kWh pack, still on 400-volt architecture with 250 kW DC max and 29 minutes from 10 to 80 percent. The 740 xDrive runs a 3-liter inline-6 with 400 horsepower and 5.1 seconds to 100 km/h. The M760e PHEV tops out at 571 horsepower and 4.3 seconds; its PHEV battery is 18.7 kWh with AC charging only. The interior borrows from the Neue Klasse with a Panoramic Vision strip; the updated rear theater screen streams YouTube directly. Pricing starts at 120,000 euros.</description>
+    </item>
+
+    <item>
+      <title>Quebec Has About Half of Canada's EV Charging. A Tour of Autoroute 20 Shows Why.</title>
+      <link>https://nexusevnews.com/articles/quebec-ev-charging-autoroute-20-tour.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/quebec-ev-charging-autoroute-20-tour.html</guid>
+      <pubDate>Thu, 23 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Roaming</dc:creator>
+      <category>Charging</category>
+      <description>Quebec hosts roughly half of all EV charging stations in Canada, powered by hydroelectricity at around 10 cents Canadian per kWh at home. Out of Spec Roaming drives an F-150 Lightning along Autoroute 20, covering Circuit Electric, Tesla, Parkland, Kushtar, and smaller regional networks. Circuit Electric pricing tiers to around 50 cents per kWh; Tesla is the cheapest option at about 47 cents ad hoc or 26 cents on subscription. The largest charging site in Canada is in St-Louis-de-Blandford with 44 chargers. Pull-through capability for trucks and trailers is now standard at provincial rest areas.</description>
+    </item>
+
+    <item>
+      <title>Smart's New City EV Is 2.97 Metres Long, Offers 300 km of Range, and Includes V2L</title>
+      <link>https://nexusevnews.com/articles/smart-number-2-city-ev-first-look.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/smart-number-2-city-ev-first-look.html</guid>
+      <pubDate>Thu, 23 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric APAC</dc:creator>
+      <category>News</category>
+      <description>The Smart #2 is a compact four-seater on a purpose-designed platform called ECA, developed since 2019. It is 2.97 meters long and 1.9 meters wide, with a 6.95-meter turning circle. Claimed range is 300 km WLTP or 400 km CLTC, with V2L and DC fast charging included. Design was handled by Smart's European studio, reviving the two-tone body language of the original. The production-ready version debuts at Paris in October 2026, with sales expected early next year. A second vehicle shown, the Smart #6 sedan hybrid, is currently planned for China only.</description>
+    </item>
+
+    <item>
+      <title>Oil Prices Are Pushing Consumers Toward EVs. China Is Best Positioned to Benefit.</title>
+      <link>https://nexusevnews.com/articles/ev-demand-oil-prices-china-global-competition.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ev-demand-oil-prices-china-global-competition.html</guid>
+      <pubDate>Thu, 23 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>DW News</dc:creator>
+      <category>News</category>
+      <description>DW News examines how oil prices spiking from the Iran conflict are creating new urgency around EV adoption. Germany's EV registrations exceeded gasoline car sales for the first time in March. EU pump prices averaged &#8364;1.81 per liter in mid-April. In the US, EV demand dropped sharply after the federal tax credit was eliminated; VW sold just 250 ID4s in the three months after the credit ended and has paused Tennessee production of the model. China produces more than half of all EVs globally, controls over 80 percent of rare earth processing capacity, and Chinese brands hold over 80 percent of Brazil's EV market.</description>
+    </item>
 
     <item>
       <title>The 2027 Chevrolet Bolt Charges Three Times Faster Than Its Predecessor. Here's What the Data Shows.</title>
@@ -165,56 +215,6 @@
       <dc:creator>Autogef&#252;hl</dc:creator>
       <category>Reviews</category>
       <description>Autogef&#252;hl drives the base BMW iX3, with the 108.7 kWh battery and 20-inch wheels, 550 km to Berlin at Autobahn speeds and back without charging. On 20-inch wheels, consumption at 100 km/h came to 16 kWh per 100 km, a real-world range of roughly 680 km. At 130 km/h, that rose to 22 kWh, good for around 500 km. The outbound charging stop at a 400 kW station went from 15% to 80% in approximately 18 minutes, averaging 280 kW. The return trip covered 530 km with 10% remaining, pointing to a maximum of about 590 km on one charge.</description>
-    </item>
-
-    <item>
-      <title>40,000 Miles, One Deer, Two Tire Disasters. Car and Driver's BMW i4 Test Is Finally Done.</title>
-      <link>https://nexusevnews.com/articles/bmw-i4-xdrive40-40000-mile-long-term-review-car-and-driver.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-i4-xdrive40-40000-mile-long-term-review-car-and-driver.html</guid>
-      <pubDate>Sun, 19 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Car and Driver</dc:creator>
-      <category>Reviews</category>
-      <description>Car and Driver put a 2024 BMW i4 xDrive40 through 40,000 miles. The xDrive40 makes 396 horsepower and tested to 60 mph in 4.4 seconds. EPA range is 279 miles on 19-inch wheels. The factory Hankook summer tires chunked during instrumented testing. An aftermarket winter tire set introduced sloppy handling that BMW-spec Goodyear Ultragrip tires fixed. A deer strike cost $16,500 in repairs. One scheduled service visit in 40,000 miles covered everything under BMW's complimentary program. Multiple editors called it one of the best-driving BMWs regardless of powertrain.</description>
-    </item>
-
-    <item>
-      <title>The Renault 5 and Nissan Micra Share the Same Platform, Battery, and Factory. One of Them Costs Less Per Month and Looks Better.</title>
-      <link>https://nexusevnews.com/articles/renault-5-vs-nissan-micra-ev-twin-test-electrifying.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/renault-5-vs-nissan-micra-ev-twin-test-electrifying.html</guid>
-      <pubDate>Sun, 19 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>Reviews</category>
-      <description>The Renault 5 and new Nissan Micra share the same platform, 52 kWh battery, 148 horsepower motor, and French factory. Both charge at 11 kW AC and 100 kW DC. The Renault 5 Techno Plus costs &#163;23,945 after the &#163;3,750 grant; the Micra Advance costs &#163;23,245. On finance, the Renault works out to &#163;348 per month versus &#163;371 for the Micra. Driven back to back on English B-roads, both presenters found the two indistinguishable by feel. The Micra has regen paddles for one-pedal driving that the Renault 5 does not yet offer. The Renault wins on styling, finance, and interior personality.</description>
-    </item>
-
-    <item>
-      <title>Ethiopia Banned Gas and Diesel Car Imports and Built Africa's Biggest Dam. Its EV Fleet Has Nearly Quadrupled Since.</title>
-      <link>https://nexusevnews.com/articles/ethiopia-ev-electric-buses-hydropower-ban-dw-rev.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ethiopia-ev-electric-buses-hydropower-ban-dw-rev.html</guid>
-      <pubDate>Sun, 19 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>DW REV</dc:creator>
-      <category>News</category>
-      <description>Ethiopia is targeting half a million EVs on the road by 2030, with over 97 percent of its electricity from hydropower. The Grand Ethiopian Renaissance Dam, Africa's largest, began operation in 2025 at 5,150 megawatts. Over 100 electric buses carry more than 90,000 passengers daily in Addis Ababa. The EV fleet has grown from around 30,000 vehicles two years ago to nearly 120,000. A 2024 ban on gasoline and diesel car imports was driven by a fuel import bill of close to four billion euros annually. Around 500 charging stations exist nationally, nearly all in the capital.</description>
-    </item>
-
-    <item>
-      <title>Walmart Just Opened Its First Charger North of the 37th Parallel. It Costs 37% Less Than Nearby Tesla.</title>
-      <link>https://nexusevnews.com/articles/walmart-ev-charging-new-jersey-freehold-400kw-state-of-charge.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/walmart-ev-charging-new-jersey-freehold-400kw-state-of-charge.html</guid>
-      <pubDate>Sun, 19 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>State of Charge</dc:creator>
-      <category>Charging</category>
-      <description>Walmart's DC fast charging network now has 31 locations, with the newest at a Freehold, New Jersey Supercenter, the first site north of the 37th parallel. The station uses eight Alpitronic HYC400 chargers rated at up to 400 kW each, with both CCS and NACS connectors per pedestal. State of Charge paid $0.39 per kWh. The nearest Tesla Supercharger about two miles away was showing $0.62 per kWh at the same time. Charging requires the Walmart app and a QR scan. Walmart is not adding new third-party chargers to its properties, and existing network agreements are expected to wind down as leases expire.</description>
-    </item>
-
-    <item>
-      <title>BYD's Luxury EV Has 1,156 HP, Closes Its Own Doors, and Charges in Nine Minutes</title>
-      <link>https://nexusevnews.com/articles/denza-z9-gt-review-autotrader-122kwh-9-minute-charge.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/denza-z9-gt-review-autotrader-122kwh-9-minute-charge.html</guid>
-      <pubDate>Sat, 18 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Autotrader</dc:creator>
-      <category>Reviews</category>
-      <description>The Denza Z9 GT is BYD's premium performance EV at around £105,000 in the UK. Three motors produce 1,156 PS and 1,200 Nm of torque. The 122 kWh battery claims 600 km WLTP range. Using BYD's own flash chargers, it goes from 10 to 97 percent in nine minutes. Those chargers store energy in Blade Battery packs on-site, requiring only a modest grid connection. Denza plans 3,000 of them across Europe within 12 months. Rear-wheel steering enables crab walk, a pencil compass spin-on-the-spot, and a 4.6 m turning circle. Autotrader had three hours with the car on French roads.</description>
     </item>
 
 
