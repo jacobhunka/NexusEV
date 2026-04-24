@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 21:30:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,16 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>The Licensing Business Nobody Saw Coming</title>
+      <link>https://nexusevnews.com/opinion-rivian-licensing-business.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/opinion-rivian-licensing-business.html</guid>
+      <pubDate>Fri, 24 Apr 2026 21:30:00 +0000</pubDate>
+      <dc:creator>Jacob Hunka</dc:creator>
+      <category>Opinion</category>
+      <description>Rivian's $5.8 billion deal with Volkswagen has been treated as a one-off. I don't think it is. I see it as the first proof point in a second business Rivian has been quietly building for years, and the next twelve months will show whether it works.</description>
+    </item>
 
     <item>
       <title>The R2 Is Rivian's Mass-Market Moment. A $5.8B Software Licensing Deal Hints at What Comes Next.</title>
@@ -207,15 +217,6 @@
       <description>MotorTrend interviews Ethan Robertson of Wheels, who is fluent in Mandarin and based in Shanghai, and has reviewed hundreds of Chinese EVs since 2019. He breaks down which brands have global staying power, where Tesla stands in the Chinese market, and why the domestic price war is forcing consolidation. His list for brands with international potential: BYD first, then Zeekr from Geely Group, followed by NIO, Xpeng, and Leauto. He also covers why a BYD Seagull-equivalent simply does not exist in the US market.</description>
     </item>
 
-    <item>
-      <title>340 Miles, One Charging Stop, and a Lot of German Motorway. The BMW iX3 Actually Delivered.</title>
-      <link>https://nexusevnews.com/articles/bmw-ix3-road-trip-review-real-world-range-fast-charging-autogefuhl.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-road-trip-review-real-world-range-fast-charging-autogefuhl.html</guid>
-      <pubDate>Sun, 19 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Autogef&#252;hl</dc:creator>
-      <category>Reviews</category>
-      <description>Autogef&#252;hl drives the base BMW iX3, with the 108.7 kWh battery and 20-inch wheels, 550 km to Berlin at Autobahn speeds and back without charging. On 20-inch wheels, consumption at 100 km/h came to 16 kWh per 100 km, a real-world range of roughly 680 km. At 130 km/h, that rose to 22 kWh, good for around 500 km. The outbound charging stop at a 400 kW station went from 15% to 80% in approximately 18 minutes, averaging 280 kW. The return trip covered 530 km with 10% remaining, pointing to a maximum of about 590 km on one charge.</description>
-    </item>
 
 
   </channel>
