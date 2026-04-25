@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 21:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>Hyundai's Ioniq V Debuts in Beijing With a 27-Inch 4K Screen and 600 km of Range</title>
+      <link>https://nexusevnews.com/articles/hyundai-ioniq-v-debut-beijing-auto-show-otofootage.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/hyundai-ioniq-v-debut-beijing-auto-show-otofootage.html</guid>
+      <pubDate>Sat, 25 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>OtoFootage / Car and Driver</dc:creator>
+      <category>News</category>
+      <description>The Hyundai Ioniq V is the first dedicated production model for Hyundai's revived Ioniq brand in China, debuting at the 2026 Beijing Auto Show. Built on an 800-volt eGMP platform and derived from the Venus concept, it measures just under 193 inches long on a 2.9-meter wheelbase and is confirmed for over 600 km of range on the CLTC standard. A 27-inch ultra-thin 4K panoramic display spans the dashboard. The interior adds Airhug massage seats, Nebula ambient lighting, Dolby Atmos sound, and rear-wheel-drive and all-wheel-drive powertrain options. Hyundai plans to supply Britain, Europe, and the Middle East from China after a late-2026 production start.</description>
+    </item>
+
+    <item>
+      <title>Tesla's Longer Model Y Has a Functional Third Row and a Strong Case for Family Buyers</title>
+      <link>https://nexusevnews.com/articles/tesla-model-y-l-third-row-first-look-out-of-spec.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-y-l-third-row-first-look-out-of-spec.html</guid>
+      <pubDate>Sat, 25 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Reviews</category>
+      <description>Out of Spec Reviews gets a first look at the Tesla Model Y L in China. The L stretches the standard platform to fit a real third row: at 6'1&quot;, Kyle sat in all three rows simultaneously with knee clearance in the back. The top-spec long-range variant carries approximately 84-to-88 kWh of LG cells, dual-motor all-wheel drive, and 250 kW peak DC charging. Second-row seating is captain's chairs only. Adaptive damping and double glazing are standard. The wireless phone charger has been upgraded to 50 watts with active cooling. A US prototype has been spotted.</description>
+    </item>
+
+    <item>
+      <title>A $35,000 Manual Sports Car vs a $55,000 Electric Sedan: Which One Do You Actually Want to Drive?</title>
+      <link>https://nexusevnews.com/articles/subaru-brz-ts-vs-tesla-model-3-performance-gjeebs.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/subaru-brz-ts-vs-tesla-model-3-performance-gjeebs.html</guid>
+      <pubDate>Sat, 25 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Gjeebs</dc:creator>
+      <category>Reviews</category>
+      <description>Gjeebs drives the Subaru BRZ TS and Tesla Model 3 Performance back to back. BRZ TS: 228 hp, 187 lb-ft, around 2,900 pounds, six-speed manual only, Brembo brakes, Michelin Pilot Sport 4 tires, roughly $35,000. Model 3 Performance: 510 hp, 553 lb-ft, 2.9 seconds to 60, about 300 miles of range, around $55,000, and roughly 1,100 pounds heavier. The BRZ TS is naturally aspirated with no direct competition, good for track days and learning the limits of a car. The Model 3 wins on every daily-use metric. Both are valid at different life stages.</description>
+    </item>
+
+    <item>
+      <title>BMW Brings Three Neue Klasse Premieres to Beijing, Including an i3 With 1,000 km of Range</title>
+      <link>https://nexusevnews.com/articles/bmw-neue-klasse-ix3-i3-7-series-auto-china-beijing-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-neue-klasse-ix3-i3-7-series-auto-china-beijing-2026.html</guid>
+      <pubDate>Sat, 25 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>BMW Group</dc:creator>
+      <category>News</category>
+      <description>BMW revealed the iX3 Long Wheelbase, i3 Long Wheelbase, and refreshed 7 Series at Auto China 2026 in Beijing, all built on the Neue Klasse platform. The i3 Long Wheelbase, the second-generation electric 3 Series for China, is rated at over 1,000 km on CLTC. The i7 electric 7 Series carries close to 800 km of CLTC range. A fourth car, the iX3 Flow Edition, uses E-Ink panels on major exterior body components. All vehicles share BMW's panoramic iDrive and Level 2 navigation-guided assistance developed with Chinese AI partner Momenta. BMW has committed to 40 new or updated models by 2027.</description>
+    </item>
+
+    <item>
+      <title>The Ioniq 5 N and the Dodge Charger EV Both Claim to Be Fun. One of Them Actually Is.</title>
+      <link>https://nexusevnews.com/articles/ioniq-5n-vs-dodge-charger-daytona-engineering-fun-ev-the-drive.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ioniq-5n-vs-dodge-charger-daytona-engineering-fun-ev-the-drive.html</guid>
+      <pubDate>Sat, 25 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>The Drive</dc:creator>
+      <category>Deep Dives</category>
+      <description>Kyle and Nick from The Drive take the Hyundai Ioniq 5 N and Dodge Charger Daytona EV to Chuck Walla Raceway and a canyon road. Both cars have over 640 horsepower and all-wheel drive. The Charger weighs approximately 5,800 pounds; the Ioniq 5 N is roughly 1,000 pounds lighter. On track, the Ioniq 5 N was communicative with paddle-operated simulated shifts and adjustable torque vectoring. The Charger showed throttle lag and persistent understeer. Porsche has since begun adding virtual gear shifts to its own EVs after evaluating the Ioniq 5 N.</description>
+    </item>
 
     <item>
       <title>The Licensing Business Nobody Saw Coming</title>
@@ -167,55 +217,10 @@
       <description>Tom Voelk bought a 2021 Taycan 4S CPO for $74,000 against a $163,000 MSRP. After 13 months: one software glitch that cleared with a five-minute lock-and-walk-away, several pre-purchase recalls already handled, and strong pack health. After a manual rebalance, indicated range is 215 miles in cold weather and expected to return to around 260 miles in summer. He charges overnight at 9 cents per kWh in Seattle. He would buy it again.</description>
     </item>
 
-    <item>
-      <title>Subaru's New Uncharted EV Is Good Looking and Hard to Recommend</title>
-      <link>https://nexusevnews.com/articles/subaru-uncharted-ev-review-auto-focus.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/subaru-uncharted-ev-review-auto-focus.html</guid>
-      <pubDate>Tue, 21 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Auto Focus</dc:creator>
-      <category>Reviews</category>
-      <description>Auto Focus reviews the Subaru Uncharted, a dual-motor AWD electric crossover with a 75 kWh battery, 338 hp, and roughly 250 miles of real-world range. The GT trim runs about $45,000; the base starts near $35,000. It shares its platform with Toyota's current EV, and the familiar trade-offs follow: a 150 kW charging ceiling and modest range make road trips a chore. The exterior design and composed ride quality are genuine positives. The Chevy Bolt EUV beats it on value at the low end; the Model Y covers the high end.</description>
-    </item>
 
-    <item>
-      <title>Mercedes Reveals the Electric C-Class With 330 kW Charging and 4-Second Acceleration</title>
-      <link>https://nexusevnews.com/articles/mercedes-c-class-electric-2027-reveal-autogefuhl.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/mercedes-c-class-electric-2027-reveal-autogefuhl.html</guid>
-      <pubDate>Tue, 21 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Autogef&#252;hl</dc:creator>
-      <category>Deep Dives</category>
-      <description>Autogef&#252;hl covers the full reveal of the all-new electric Mercedes C-Class in Portugal. The C400 gets two motors, a two-speed transmission, and 0 to 100 km/h in 4 seconds. The 94.5 kWh net battery supports 330 kW DC peak charging, with 10 to 80 percent in 22 minutes. Pricing starts below 70,000 euros, with a fully specced car approaching 90,000 euros. The MBEA platform is shared with the GLC EQ. The BMW i3 counters with a larger 108.7 kWh battery; the C-Class answers with quicker acceleration and an optional air suspension plus rear-axle steering package.</description>
-    </item>
 
-    <item>
-      <title>Hyundai's IONIQ 3 Has 490 km of Range and a Boot That Hides an Entire Suitcase</title>
-      <link>https://nexusevnews.com/articles/hyundai-ioniq-3-first-look-frankfurt-everything-electric.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/hyundai-ioniq-3-first-look-frankfurt-everything-electric.html</guid>
-      <pubDate>Tue, 21 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Everything Electric CARS</dc:creator>
-      <category>News</category>
-      <description>Everything Electric CARS gets an early look at the Hyundai IONIQ 3 in Frankfurt. Two battery options: 42.2 kWh for 335 km, or 61 kWh for 490 km. Starting price is expected in the mid-&#163;20,000s, with the N-Line top trim north of &#163;30,000. UK deliveries are planned by end of summer 2026. The IONIQ 3 shares the EGMP platform with the Kia EV2 but its aerodynamic hatch shape adds 42 km of range on the long-range pack. A hidden lower boot compartment brings total cargo capacity to 441 liters.</description>
-    </item>
 
-    <item>
-      <title>Inside the Rivian R2: Upcycled Wood, a Linear Dash, and Design Built Around Adventure</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-interior-design-official.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-interior-design-official.html</guid>
-      <pubDate>Tue, 21 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Rivian</dc:creator>
-      <category>Deep Dives</category>
-      <description>Rivian's official interior design walkthrough for the R2 covers the decisions behind the cabin. Nature is the stated inspiration. Upcycled birch from the furniture industry runs throughout, styled after mid-century modern furniture rather than conventional automotive trim. The linear dashboard layout is designed to make the interior feel wider than the vehicle's footprint. The design team describes the goal as balancing technology with the R2's physical capabilities across on-road, off-road, and storage use.</description>
-    </item>
 
-    <item>
-      <title>Australia Hit a Monthly EV Sales Record in March 2026. Charging Infrastructure Is the Next Problem.</title>
-      <link>https://nexusevnews.com/articles/australia-ev-sales-record-march-2026-current-affair.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/australia-ev-sales-record-march-2026-current-affair.html</guid>
-      <pubDate>Tue, 21 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>A Current Affair</dc:creator>
-      <category>News</category>
-      <description>A Current Affair reports on Australia's EV market after March 2026 set a new record, with more sales that month than between 2011 and 2021 combined. Market share now sits at 14.8 percent, driven partly by rising fuel costs tied to Middle East oil supply tensions. The Tesla Model Y is Drive's 2026 Car of the Year. The BYD Shark electric ute is drawing interest from tradespeople. Industry analysts say charging infrastructure, particularly outside major cities, is now the primary barrier to broader adoption.</description>
-    </item>
 
 
 

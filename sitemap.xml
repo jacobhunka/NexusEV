@@ -3,9 +3,44 @@
 
   <url>
     <loc>https://nexusevnews.com/</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-04-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/hyundai-ioniq-v-debut-beijing-auto-show-otofootage.html</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/tesla-model-y-l-third-row-first-look-out-of-spec.html</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/subaru-brz-ts-vs-tesla-model-3-performance-gjeebs.html</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/bmw-neue-klasse-ix3-i3-7-series-auto-china-beijing-2026.html</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/ioniq-5n-vs-dodge-charger-daytona-engineering-fun-ev-the-drive.html</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <url>
