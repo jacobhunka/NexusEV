@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>From Battery Startup to World's Biggest EV Maker: Inside BYD's Five-Year Run</title>
+      <link>https://nexusevnews.com/articles/byd-five-year-rise-global-ev-leader-bloomberg.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-five-year-rise-global-ev-leader-bloomberg.html</guid>
+      <pubDate>Sun, 26 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Bloomberg Television</dc:creator>
+      <category>Deep Dives</category>
+      <description>In five years China moved from sixth in global auto exports to first. BYD beat Tesla in total EV sales in 2025, employs close to a million people, and files 52 patents every working day. Bloomberg reports from Paris, where BYD launched a luxury EV and where Ford CEO Jim Farley described seeing BYD's operation as the most humbling experience of his career. A 100% US tariff is keeping the cars out of American dealerships. Trade talks between Washington and Beijing are underway.</description>
+    </item>
+
+    <item>
+      <title>GM Hits Pause on EV Trucks. Mercedes Goes Electric-Only on the C-Class. A Gas Car Podcast Takes Stock.</title>
+      <link>https://nexusevnews.com/articles/this-car-pod-ep108-gm-ev-pause-mercedes-electric-c-class.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/this-car-pod-ep108-gm-ev-pause-mercedes-electric-c-class.html</guid>
+      <pubDate>Sun, 26 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>This Car Pod</dc:creator>
+      <category>News</category>
+      <description>GM has announced it is pausing its next generation of full-size electric trucks. The Ford Lightning was already cancelled. Meanwhile Mercedes revealed the new C-Class as electric-only, going on sale in early 2027. The hosts of a gas car podcast picture themselves in a nursing home years from now, laughing at the idea that soccer moms once drove children to practice in cars powered by controlled combustion. Their punchline: that moment hasn't arrived in America yet. European EV sales in March rose 50%.</description>
+    </item>
+
+    <item>
+      <title>Formula E's Gen 4 Car Does 0-60 in 1.8 Seconds on Road Tires. The Sport Is Not Playing Around Anymore.</title>
+      <link>https://nexusevnews.com/articles/formula-e-gen-4-performance-leap-aldas.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/formula-e-gen-4-performance-leap-aldas.html</guid>
+      <pubDate>Sun, 26 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Aldas</dc:creator>
+      <category>Deep Dives</category>
+      <description>Formula E's Gen 4 car produces 600 kW, roughly 805 horsepower, and reaches 0-60 mph in 1.88 seconds on grooved road-spec tires. It laps permanent tracks around 10 seconds faster than the Gen 3 EVO. The series is shifting toward more permanent circuits to match the new performance level. Development driver James Rossa, a former F1 test driver at BAR and Force India, says Gen 4 now offers Formula 2 and 3 drivers a genuine world championship alternative to Formula 1.</description>
+    </item>
+
+    <item>
+      <title>Americans Can't Buy Chinese EVs. They Can't Stop Watching Videos About Them.</title>
+      <link>https://nexusevnews.com/articles/americans-crave-chinese-evs-social-media-tariffs.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/americans-crave-chinese-evs-social-media-tariffs.html</guid>
+      <pubDate>Sun, 26 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Bloomberg Television</dc:creator>
+      <category>News</category>
+      <description>A 100% tariff plus a 2025 tech-linked ban keep Chinese EVs out of US showrooms. The average new US car price is around $50,000. Multiple capable Chinese EVs are priced well under $40,000 at home. Marques Brownlee's review of the Xiaomi SU7 passed 10 million views. Bloomberg looks at the technology gap, the social media appetite, and why the future of the US auto industry may hinge on how open American companies become to Chinese technology.</description>
+    </item>
+
+    <item>
+      <title>Three Things Volkswagen Needs to Fix Before Its Chinese Rivals Close the Gap Completely</title>
+      <link>https://nexusevnews.com/articles/volkswagen-id7-tourer-gtx-three-fixes-out-of-spec-roaming.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/volkswagen-id7-tourer-gtx-three-fixes-out-of-spec-roaming.html</guid>
+      <pubDate>Sun, 26 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Roaming</dc:creator>
+      <category>Reviews</category>
+      <description>Out of Spec Roaming drives the VW ID.7 Tourer GTX over a Norwegian mountain pass in winter. The car averaged 19.2 kWh per 100 km over 478 km of cold driving and charged from 17% to 53% in 11 minutes at close to 200 kW. Three things still need fixing: software, interior quality, and charging speed. A Rivian/VW joint venture is working on future architecture. The urgency: Chinese EV brands are already offering better interiors and more technology at comparable prices.</description>
+    </item>
 
     <item>
       <title>Hyundai's Ioniq V Debuts in Beijing With a 27-Inch 4K Screen and 600 km of Range</title>
@@ -167,55 +217,11 @@
       <description>The Smart #2 is a compact four-seater on a purpose-designed platform called ECA, developed since 2019. It is 2.97 meters long and 1.9 meters wide, with a 6.95-meter turning circle. Claimed range is 300 km WLTP or 400 km CLTC, with V2L and DC fast charging included. Design was handled by Smart's European studio, reviving the two-tone body language of the original. The production-ready version debuts at Paris in October 2026, with sales expected early next year. A second vehicle shown, the Smart #6 sedan hybrid, is currently planned for China only.</description>
     </item>
 
-    <item>
-      <title>Oil Prices Are Pushing Consumers Toward EVs. China Is Best Positioned to Benefit.</title>
-      <link>https://nexusevnews.com/articles/ev-demand-oil-prices-china-global-competition.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ev-demand-oil-prices-china-global-competition.html</guid>
-      <pubDate>Thu, 23 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>DW News</dc:creator>
-      <category>News</category>
-      <description>DW News examines how oil prices spiking from the Iran conflict are creating new urgency around EV adoption. Germany's EV registrations exceeded gasoline car sales for the first time in March. EU pump prices averaged &#8364;1.81 per liter in mid-April. In the US, EV demand dropped sharply after the federal tax credit was eliminated; VW sold just 250 ID4s in the three months after the credit ended and has paused Tennessee production of the model. China produces more than half of all EVs globally, controls over 80 percent of rare earth processing capacity, and Chinese brands hold over 80 percent of Brazil's EV market.</description>
-    </item>
 
-    <item>
-      <title>The 2027 Chevrolet Bolt Charges Three Times Faster Than Its Predecessor. Here's What the Data Shows.</title>
-      <link>https://nexusevnews.com/articles/2027-chevrolet-bolt-ev-dc-fast-charge-analysis-state-of-charge.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/2027-chevrolet-bolt-ev-dc-fast-charge-analysis-state-of-charge.html</guid>
-      <pubDate>Wed, 22 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>State Of Charge</dc:creator>
-      <category>Charging</category>
-      <description>State Of Charge tests the 2027 Bolt RS at a 350 kW EVgo station. The LFP pack peaks at 158 kW, hits 70 percent in 30 minutes, and completes a full charge in under an hour. The original Bolt needed more than two hours for the same session. GM claims 26 minutes from 10 to 80 percent; this first test on a 22-mile-old battery showed 33.3 minutes, with a follow-up planned. EPA-rated range is 262 miles. Base price starts under $30,000.</description>
-    </item>
 
-    <item>
-      <title>A San Francisco Arcade Operator Fit a Skeeball Machine in the TELO Truck. Done.</title>
-      <link>https://nexusevnews.com/articles/telo-truck-joey-the-cat-arcade-operator-skeeball.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/telo-truck-joey-the-cat-arcade-operator-skeeball.html</guid>
-      <pubDate>Wed, 22 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>TELO Trucks</dc:creator>
-      <category>News</category>
-      <description>Joey the Cat runs 40 Bay Area bar locations and moves about 50 skeeball machines and hundreds of arcade games between them. His test for the TELO electric truck: does a skeeball machine fit in the bed? It does, with room left for his tools. He currently hauls in a 2011 Toyota Tacoma and a 2021 Mercedes Sprinter van and wants a smaller electric option that can handle city parking without giving up cargo utility. Episode 8 of TELO's How Will You TELO? series.</description>
-    </item>
 
-    <item>
-      <title>CATL Unveiled Six Battery Technologies at Its 2026 Tech Day. The Headline Numbers Are Striking.</title>
-      <link>https://nexusevnews.com/articles/catl-tech-day-2026-shenxing-qilin-condensed-battery.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/catl-tech-day-2026-shenxing-qilin-condensed-battery.html</guid>
-      <pubDate>Wed, 22 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Everything Electric APAC</dc:creator>
-      <category>Battery Tech</category>
-      <description>CATL's Super Technology Day brought the third-generation Shenxing battery at 10 to 80 percent in 3 minutes 44 seconds and 1,000 cycles with above 90 percent capacity retention. The Qilin Condensed Battery reaches 350 Wh/kg and 760 Wh/L for 1,500 km of range in a sedan. The third-generation Qilin LFP hits 280 Wh/kg and 3 MW peak power. The Naxtra sodium-ion battery is moving to large-scale production. CATL also announced 4,000 integrated charge-swap stations covering nearly 190 cities by end of 2026.</description>
-    </item>
-
-    <item>
-      <title>13 Months and 38,700 Miles in a Used Taycan 4S: The Full Ownership Report</title>
-      <link>https://nexusevnews.com/articles/13-months-used-porsche-taycan-4s-ownership-review-tom-voelk.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/13-months-used-porsche-taycan-4s-ownership-review-tom-voelk.html</guid>
-      <pubDate>Wed, 22 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Driven Car Reviews</dc:creator>
-      <category>Used EVs</category>
-      <description>Tom Voelk bought a 2021 Taycan 4S CPO for $74,000 against a $163,000 MSRP. After 13 months: one software glitch that cleared with a five-minute lock-and-walk-away, several pre-purchase recalls already handled, and strong pack health. After a manual rebalance, indicated range is 215 miles in cold weather and expected to return to around 260 miles in summer. He charges overnight at 9 cents per kWh in Seattle. He would buy it again.</description>
-    </item>
+  </channel>
+</rss>
 
 
 
