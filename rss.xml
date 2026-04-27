@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -18,7 +18,57 @@
     <category>Battery Technology</category>
 
     <item>
-      <title>From Battery Startup to World's Biggest EV Maker: Inside BYD's Five-Year Run</title>
+      <title>All Six World Car Awards Went to EVs. The 2026 NY Auto Show Made the Case Without Apology.</title>
+      <link>https://nexusevnews.com/articles/ny-auto-show-2026-ev-sweep-all-six-world-car-awards-go-electric.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ny-auto-show-2026-ev-sweep-all-six-world-car-awards-go-electric.html</guid>
+      <pubDate>Mon, 27 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Forbes</dc:creator>
+      <category>News</category>
+      <description>The 2026 New York Auto Show put electric vehicles in nearly every exhibit, from the Hyundai Ioniq 6N winning World Performance Car of the Year to Lucid's Gravity claiming the World Luxury Car title with 820 horsepower and 450 miles of range. The Porsche Cayenne Electric made its North American debut, redesigned from the ground up. And when the World Car Awards tallied all six categories, every winner was electric. Forbes walked the full floor.</description>
+    </item>
+
+    <item>
+      <title>Greg Jackson Would Fix the UK Energy Market in Three Steps. The First One Is Hiding in Plain Sight.</title>
+      <link>https://nexusevnews.com/articles/everything-electric-live-greg-jackson-rory-sutherland-energy-market.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/everything-electric-live-greg-jackson-rory-sutherland-energy-market.html</guid>
+      <pubDate>Mon, 27 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric Show</dc:creator>
+      <category>Deep Dives</category>
+      <description>Octopus Energy CEO Greg Jackson, behavioral scientist Rory Sutherland, and Robert Llewellyn on a live Oxford Street panel. UK electricity costs four times more than gas; in Norway it is 1.15 times. Jackson's three fixes: zonal pricing, more onshore wind, and long-distance interconnectors. Sutherland covers EV adoption psychology and the sigmoid curve. Llewellyn adds that 100 million-plus EVs have already displaced the equivalent of 70 percent of Iran's total fossil fuel output annually.</description>
+    </item>
+
+    <item>
+      <title>China's Electric Truck Market Crossed 50 Percent of Monthly Sales. The IEA Called It.</title>
+      <link>https://nexusevnews.com/articles/electric-trucks-china-50-percent-sales-iea-2025-just-have-a-think.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/electric-trucks-china-50-percent-sales-iea-2025-just-have-a-think.html</guid>
+      <pubDate>Mon, 27 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Just Have a Think</dc:creator>
+      <category>Deep Dives</category>
+      <description>Per the IEA's Global EV Outlook 2025, electric heavy trucks reached around 22 percent of new truck sales in China in H1 2025 and reportedly crossed 50 percent of monthly sales in December 2025. More than 80 percent of global electric truck sales happen in China. This video covers the economics, CATL's battery swapping network covering 150,000 km of expressways, and how Europe and the US compare.</description>
+    </item>
+
+    <item>
+      <title>Rivian R2, Volvo EX60, Tesla Cybercab, and Kia EV3 All Entered Production in the Same Week</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-volvo-ex60-tesla-cybercab-kia-ev3-production-starts.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-volvo-ex60-tesla-cybercab-kia-ev3-production-starts.html</guid>
+      <pubDate>Mon, 27 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Bits</dc:creator>
+      <category>News</category>
+      <description>A tornado hit Rivian's Normal, Illinois factory and production of sellable R2 units started anyway. The Volvo EX60 entered production in Sweden with European deliveries this summer. The Kia EV3 entered pre-production in Mexico at an expected starting price around $35,000. The Tesla Cybercab entered production as well. Also covered: Hyundai Ioniq 3 reveal, Porsche Cayenne Coupe EV, Tesla Model Y L US testing, and the electric-only Mercedes C-Class.</description>
+    </item>
+
+    <item>
+      <title>The Alpine A390 GT Is Fast Enough and Comfortable Enough to Make You Forget It's Supposed to Be Sporty</title>
+      <link>https://nexusevnews.com/articles/alpine-a390-gt-review-autobahn-autotopnl.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/alpine-a390-gt-review-autobahn-autotopnl.html</guid>
+      <pubDate>Mon, 27 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>AutoTopNL</dc:creator>
+      <category>Reviews</category>
+      <description>Three motors, 400 horsepower, 661 Nm, 89 kWh battery, WLTP range of 557 km. AutoTopNL tests the Alpine A390 GT on the Autobahn and records a 4.73-second 0-100 km/h run. The car weighs over 2,100 kg and handles it with hydraulic bump stops and a compliant suspension. A GTS variant with 470 horsepower and 0-100 in 3.9 seconds arrives later in 2026.</description>
+    </item>
+
+    <item>
+      <title>From Battery Startup to World&#8217;s Biggest EV Maker: Inside BYD&#8217;s Five-Year Run</title>
       <link>https://nexusevnews.com/articles/byd-five-year-rise-global-ev-leader-bloomberg.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/byd-five-year-rise-global-ev-leader-bloomberg.html</guid>
       <pubDate>Sun, 26 Apr 2026 22:00:00 +0000</pubDate>
@@ -164,72 +214,8 @@
       <pubDate>Fri, 24 Apr 2026 20:00:00 +0000</pubDate>
       <dc:creator>Bloomberg Originals</dc:creator>
       <category>Battery Tech</category>
-      <description>Bloomberg Originals traces China's dominance across the lithium-ion battery supply chain, from raw material refining to cell production. A 2001 state strategy and the 2015 Made in China 2025 plan designated batteries and EVs as national priorities. Four of the top five global battery makers are Chinese. The film profiles GM's new LMR chemistry targeting 2028 commercial launch for SUVs and pickup trucks, Gotion's first US factory in Manteno, Illinois (currently 300 employees, scaling to 750 by end of 2026), and Norwegian recycler Hydrovolt, which processes around 200 types of used EV batteries into black mass for re-refining.</description>
+      <description>Bloomberg Originals traces China's dominance across the lithium-ion battery supply chain, from raw material refining to cell production. A 2001 state strategy and the 2015 Made in China 2025 plan designated batteries and EVs as national priorities. Four of the top five global battery makers are Chinese. The film profiles GM's new LMR chemistry targeting 2028 commercial launch for SUVs and pickup trucks, Gotion's first US factory in Manteno, Illinois, and Norwegian recycler Hydrovolt, which processes around 200 types of used EV batteries into black mass for re-refining.</description>
     </item>
-
-    <item>
-      <title>This UK Organic Farm Had Solar for Years. The Batteries Are What Made It Work.</title>
-      <link>https://nexusevnews.com/articles/sheepdrove-farm-solar-battery-storage-victron.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/sheepdrove-farm-solar-battery-storage-victron.html</guid>
-      <pubDate>Fri, 24 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Victron Energy</dc:creator>
-      <category>Solar</category>
-      <description>Sheepdrove Organic Farm in Berkshire had over a thousand solar panels, wind turbines, and ground-source heat pumps but kept selling cheap daytime power and buying it back at higher cost in the evening. The solution: nine Victron 15 kVA Quattro inverter chargers totaling 135 kVA, paired with 160 kWh of battery storage. The system follows a defined priority order: power site loads first, charge batteries second, export surplus third. In winter the farm draws around one megawatt hour per day; heat pumps alone account for 300 to 400 kWh. Grid protection uses Modbus communication with Fronius inverters to cap export at 300 amps.</description>
-    </item>
-
-    <item>
-      <title>The R2 Is Rivian's Mass-Market Moment. A $5.8B Software Licensing Deal Hints at What Comes Next.</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-production-begins-rj-scaringe-bloomberg.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-production-begins-rj-scaringe-bloomberg.html</guid>
-      <pubDate>Thu, 23 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Bloomberg Technology</dc:creator>
-      <category>News</category>
-      <description>RJ Scaringe tells Bloomberg the R2 is in production with strong early demand. The lineup runs from $45,000 to $57,000, straddling the US average new car price. Point-to-point Level 2 autonomy arrives later in 2026; Level 3 follows in 2027. A second R2 variant at the end of 2026 adds Rivian's in-house 800-TOPS silicon and LiDAR. Scaringe also outlined Rivian's technology licensing strategy: the $5.8 billion VW deal covers Rivian's OS and compute stack, with autonomy licensing described as a longer-term target.</description>
-    </item>
-
-    <item>
-      <title>BMW's Updated 7 Series Has a New Face, 36 Speakers, and a Rear Screen That Streams YouTube</title>
-      <link>https://nexusevnews.com/articles/bmw-7-series-2027-facelift-autogefuhl.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-7-series-2027-facelift-autogefuhl.html</guid>
-      <pubDate>Thu, 23 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Autogef&#252;hl</dc:creator>
-      <category>Deep Dives</category>
-      <description>Autogef&#252;hl does a full walkaround of the refreshed BMW 7 Series. The i7 gains 10 kWh for a 112.5 kWh pack, still on 400-volt architecture with 250 kW DC max and 29 minutes from 10 to 80 percent. The 740 xDrive runs a 3-liter inline-6 with 400 horsepower and 5.1 seconds to 100 km/h. The M760e PHEV tops out at 571 horsepower and 4.3 seconds; its PHEV battery is 18.7 kWh with AC charging only. The interior borrows from the Neue Klasse with a Panoramic Vision strip; the updated rear theater screen streams YouTube directly. Pricing starts at 120,000 euros.</description>
-    </item>
-
-    <item>
-      <title>Quebec Has About Half of Canada's EV Charging. A Tour of Autoroute 20 Shows Why.</title>
-      <link>https://nexusevnews.com/articles/quebec-ev-charging-autoroute-20-tour.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/quebec-ev-charging-autoroute-20-tour.html</guid>
-      <pubDate>Thu, 23 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Roaming</dc:creator>
-      <category>Charging</category>
-      <description>Quebec hosts roughly half of all EV charging stations in Canada, powered by hydroelectricity at around 10 cents Canadian per kWh at home. Out of Spec Roaming drives an F-150 Lightning along Autoroute 20, covering Circuit Electric, Tesla, Parkland, Kushtar, and smaller regional networks. Circuit Electric pricing tiers to around 50 cents per kWh; Tesla is the cheapest option at about 47 cents ad hoc or 26 cents on subscription. The largest charging site in Canada is in St-Louis-de-Blandford with 44 chargers. Pull-through capability for trucks and trailers is now standard at provincial rest areas.</description>
-    </item>
-
-    <item>
-      <title>Smart's New City EV Is 2.97 Metres Long, Offers 300 km of Range, and Includes V2L</title>
-      <link>https://nexusevnews.com/articles/smart-number-2-city-ev-first-look.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/smart-number-2-city-ev-first-look.html</guid>
-      <pubDate>Thu, 23 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Everything Electric APAC</dc:creator>
-      <category>News</category>
-      <description>The Smart #2 is a compact four-seater on a purpose-designed platform called ECA, developed since 2019. It is 2.97 meters long and 1.9 meters wide, with a 6.95-meter turning circle. Claimed range is 300 km WLTP or 400 km CLTC, with V2L and DC fast charging included. Design was handled by Smart's European studio, reviving the two-tone body language of the original. The production-ready version debuts at Paris in October 2026, with sales expected early next year. A second vehicle shown, the Smart #6 sedan hybrid, is currently planned for China only.</description>
-    </item>
-
-
-
-
-  </channel>
-</rss>
-
-
-
-
-
-
-
-
 
   </channel>
 </rss>
