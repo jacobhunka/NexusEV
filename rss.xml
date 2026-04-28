@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>BYD&#8217;s Megawatt Flash Charger Passed an Unscripted Test: A Wrecked Car, 30 Percent, No Setup</title>
+      <link>https://nexusevnews.com/articles/byd-flash-charging-china-verified-megawatt.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-flash-charging-china-verified-megawatt.html</guid>
+      <pubDate>Tue, 28 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Charging</category>
+      <description>Out of Spec Reviews flew to Beijing to verify BYD&#8217;s flash charging claims on a damaged Denza Z9 GT with no preconditioning. From 30 to 97 percent in just under eight minutes. The hardware draws 500 kW from the grid and supplements it with two 200 kWh on-site battery packs at 1,000 volts. BYD plans 20,000 units in China by end of 2026 and 3,000 in Europe near term.</description>
+    </item>
+
+    <item>
+      <title>This German Factory Stores Summer Heat Underground and Pays Almost Nothing for Energy</title>
+      <link>https://nexusevnews.com/articles/german-factory-stores-summer-heat-underground-year-round.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/german-factory-stores-summer-heat-underground-year-round.html</guid>
+      <pubDate>Tue, 28 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>renewables film</dc:creator>
+      <category>Solar</category>
+      <description>A metal parts manufacturer in southwest Germany heats and cools its factory for 1.6 cents per kWh with no gas connection. Solar collectors charge 5,000-plus cubic meters of soil beneath the building each summer; heat pumps draw it back through 45 km of pipes in winter. The system paid back in three and a half years.</description>
+    </item>
+
+    <item>
+      <title>The Updated Audi Q4 e-tron Gets the Interior It Always Needed. Charging Speed Is Still the Weak Link.</title>
+      <link>https://nexusevnews.com/articles/audi-q4-etron-2026-upgraded-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/audi-q4-etron-2026-upgraded-review.html</guid>
+      <pubDate>Tue, 28 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>Reviews</category>
+      <description>Electrifying reviews the updated Q4 e-tron: up to 370 miles of range, a new dual-screen interior, vehicle-to-load, and DC charging up to 185 kW on the top model. UK pricing expected from around £41,000. Charging speed still trails several rivals.</description>
+    </item>
+
+    <item>
+      <title>They Installed an £8,000 Home Battery With No Solar. Two Months Later, Here Are the Numbers.</title>
+      <link>https://nexusevnews.com/articles/home-battery-no-solar-8000-pound-juracell-results.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/home-battery-no-solar-8000-pound-juracell-results.html</guid>
+      <pubDate>Tue, 28 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>iHeat</dc:creator>
+      <category>Deep Dives</category>
+      <description>iHeat revisits a Juracell battery install at a UK home using 15,000 to 20,000 kWh a year. Daily costs dropped from £10-15 to around £5.50. Payback projected at two and a half to three years. The hybrid inverter supports solar as a future add-on without any equipment replacement.</description>
+    </item>
+
+    <item>
+      <title>Tesla&#8217;s Three-Row Model Y L Is Already on Sale in China. We Sat in Every Seat.</title>
+      <link>https://nexusevnews.com/articles/tesla-model-y-l-china-first-look-three-row-family-suv.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-y-l-china-first-look-three-row-family-suv.html</guid>
+      <pubDate>Tue, 28 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Kim Java</dc:creator>
+      <category>Reviews</category>
+      <description>Kim Java walks through the Model Y L at Tesla&#8217;s Beijing delivery center alongside a Juniper Model Y and a Model X. Seven inches longer, six-seat captain layout, 89 cu ft of cargo. Third-row headroom impressed at 5&#8217;10&#8221;. US prototype spotted; estimated price $55,000 to $59,000 if it arrives.</description>
+    </item>
 
     <item>
       <title>All Six World Car Awards Went to EVs. The 2026 NY Auto Show Made the Case Without Apology.</title>
@@ -167,55 +217,6 @@
       <description>Kyle and Nick from The Drive take the Hyundai Ioniq 5 N and Dodge Charger Daytona EV to Chuck Walla Raceway and a canyon road. Both cars have over 640 horsepower and all-wheel drive. The Charger weighs approximately 5,800 pounds; the Ioniq 5 N is roughly 1,000 pounds lighter. On track, the Ioniq 5 N was communicative with paddle-operated simulated shifts and adjustable torque vectoring. The Charger showed throttle lag and persistent understeer. Porsche has since begun adding virtual gear shifts to its own EVs after evaluating the Ioniq 5 N.</description>
     </item>
 
-    <item>
-      <title>The Licensing Business Nobody Saw Coming</title>
-      <link>https://nexusevnews.com/opinion-rivian-licensing-business.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/opinion-rivian-licensing-business.html</guid>
-      <pubDate>Fri, 24 Apr 2026 21:30:00 +0000</pubDate>
-      <dc:creator>Jacob Hunka</dc:creator>
-      <category>Opinion</category>
-      <description>Rivian's $5.8 billion deal with Volkswagen has been treated as a one-off. I don't think it is. I see it as the first proof point in a second business Rivian has been quietly building for years, and the next twelve months will show whether it works.</description>
-    </item>
-
-    <item>
-      <title>The New Cayenne Coupé Goes Electric, and the Range Numbers Back Up the Lower Roofline</title>
-      <link>https://nexusevnews.com/articles/porsche-cayenne-turbo-coupe-electric-reveal-autogefuhl.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/porsche-cayenne-turbo-coupe-electric-reveal-autogefuhl.html</guid>
-      <pubDate>Fri, 24 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Autogef&#252;hl</dc:creator>
-      <category>Reviews</category>
-      <description>The all-new Cayenne Coupé shares the SUV's 4.99-meter length but sits 2.4 centimeters lower, cutting drag from 0.25 to 0.23. The 108 kWh net battery charges at up to 400 kW DC on 800-volt architecture; Porsche's own test with the SUV hit 10 to 80 percent in under 15 minutes. Three trims available: base at 4.8 seconds, S at 3.8 seconds, Turbo at 2.5 seconds 0 to 100 km/h. German pricing runs &#8364;109,000 to &#8364;169,000, each &#8364;4,000 above the equivalent SUV. Dual-side AC charging, optional electric doors that close when the seatbelt is fastened, and a Coupé-exclusive lightweight package saving around 18 kilograms.</description>
-    </item>
-
-    <item>
-      <title>Fourteen Years, 3% of Parts in Common. The Story of How the Tesla Model S Changed Everything.</title>
-      <link>https://nexusevnews.com/articles/tesla-model-s-final-signature-edition-hagerty.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-s-final-signature-edition-hagerty.html</guid>
-      <pubDate>Fri, 24 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Hagerty</dc:creator>
-      <category>Deep Dives</category>
-      <description>Tesla has released a final Signature Edition to mark the end of the Model S after 14 years. Jason Cammisa's retrospective for Hagerty puts the production run in perspective: only 3% of parts are shared between the 2012 original and the 2026 car. A conventional automaker carries over around 50% of parts even after a full generation change. The long-range model lost 375 pounds and became roughly 40% more efficient through thousands of rolling changes. The video also compares the Model S directly to the BMW M5 across the same 14-year span, covering speed, weight, efficiency, and price.</description>
-    </item>
-
-    <item>
-      <title>Solar Grew Faster Than Any Other Energy Source Last Year. Renewables Are Now Absorbing All New Demand.</title>
-      <link>https://nexusevnews.com/articles/renewable-energy-met-all-new-demand-2025-cbc.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/renewable-energy-met-all-new-demand-2025-cbc.html</guid>
-      <pubDate>Fri, 24 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>CBC News</dc:creator>
-      <category>Solar</category>
-      <description>The IEA and UK think tank Ember both published reports this week showing solar outpaced every other fuel source from 2024 to 2025, driven by China and India. Global solar output now matches total EU electricity consumption across all 27 member states. Renewables as a group are absorbing all new global electricity demand, meaning no new fossil fuel capacity is required to close the gap. The CBC's Anand Ram also covers Pakistan's estimated $12 billion in avoided costs from solar adoption during the current Iranian oil disruption, with analysis from Jessica Isaacs of the World Resources Institute.</description>
-    </item>
-
-    <item>
-      <title>How China Came to Control Every Critical Link in the Global EV Battery Supply Chain</title>
-      <link>https://nexusevnews.com/articles/ev-battery-supply-chain-china-bloomberg.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ev-battery-supply-chain-china-bloomberg.html</guid>
-      <pubDate>Fri, 24 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Bloomberg Originals</dc:creator>
-      <category>Battery Tech</category>
-      <description>Bloomberg Originals traces China's dominance across the lithium-ion battery supply chain, from raw material refining to cell production. A 2001 state strategy and the 2015 Made in China 2025 plan designated batteries and EVs as national priorities. Four of the top five global battery makers are Chinese. The film profiles GM's new LMR chemistry targeting 2028 commercial launch for SUVs and pickup trucks, Gotion's first US factory in Manteno, Illinois, and Norwegian recycler Hydrovolt, which processes around 200 types of used EV batteries into black mass for re-refining.</description>
-    </item>
 
   </channel>
 </rss>
