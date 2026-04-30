@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>Volkswagen's ID Polo Opens at €24,900 with Physical Controls, 440-Liter Boot, and a GTI Coming Later</title>
+      <link>https://nexusevnews.com/articles/vw-id-polo-2027-full-reveal.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/vw-id-polo-2027-full-reveal.html</guid>
+      <pubDate>Thu, 30 Apr 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Autogefühl</dc:creator>
+      <category>Reviews</category>
+      <description>The 2027 VW ID Polo arrives at €24,900 with a 37 kWh LFP battery and 27-minute 10-to-80 percent charging. A 52 kWh NMC option charges in 24 minutes at 105 kW DC and carries a WLTP range of 450 km. The Style high trim gets matrix LEDs, 18-inch alloys, and retro Golf 1-style gauge displays on the 13-inch screen. Physical climate dials and real steering wheel buttons return across all trims. A 440-liter trunk and a fully equipped Style spec that can reach around €37,000 round out the range. A GTI with DCC adaptive suspension follows later.</description>
+    </item>
+
+    <item>
+      <title>Tesla FSD vs. Xpeng NGP on the Same Chinese Route: Closer Than Expected</title>
+      <link>https://nexusevnews.com/articles/tesla-fsd-vs-xpeng-p7-china-self-driving.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-fsd-vs-xpeng-p7-china-self-driving.html</guid>
+      <pubDate>Thu, 30 Apr 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Kim Java</dc:creator>
+      <category>Deep Dives</category>
+      <description>Tesla FSD version 13.2.9 and Xpeng's NextGen Pilot VLA 2.0 ran the same route through a dense, unpredictable Chinese city. Both are camera-only systems. Tesla hesitated at key intersections and navigated down two wrong roads. Xpeng threaded traffic more aggressively and its co-pilot mode allowed steering input without disengagement. Xpeng starts at around $30,000 USD equivalent and includes full self-driving in the price. Tesla charges $99 a month for FSD access. Final scores: Xpeng 8 out of 10, Tesla 7 out of 10.</description>
+    </item>
+
+    <item>
+      <title>Lynk &amp; Co's GT Concept at Beijing: A Button Drops It 15mm, Extends It 100mm, and Raises a Wing</title>
+      <link>https://nexusevnews.com/articles/lynk-co-gt-beijing-auto-show-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/lynk-co-gt-beijing-auto-show-2026.html</guid>
+      <pubDate>Thu, 30 Apr 2026 20:30:00 +0000</pubDate>
+      <dc:creator>DPCcars</dc:creator>
+      <category>News</category>
+      <description>Lynk &amp; Co revealed a 2+2 GT concept at Beijing finished in Apex Blue paint. A Plus button on the center console drops the car 15mm, extends the body 100mm with active front and rear aero, and deploys a rear wing. The brand claims 0-100 km/h in 2 seconds. The interior combines an open 2+2 space in white digital shimmer leather with a driver-focused cockpit. No powertrain specs were disclosed. Lynk &amp; Co also previewed a new interface system called Link IO designed to be less intrusive than current touchscreen setups.</description>
+    </item>
+
+    <item>
+      <title>CATL's Shenxing Version 3 Charges in 6 Minutes and Retains 90 Percent After 1,000 Cycles</title>
+      <link>https://nexusevnews.com/articles/catl-shenxing-version-3-battery.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/catl-shenxing-version-3-battery.html</guid>
+      <pubDate>Thu, 30 Apr 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Ziroth</dc:creator>
+      <category>Battery Tech</category>
+      <description>CATL's Shenxing Version 3 battery adds 100 km of range in 30 seconds and completes a full charge in 6 minutes. Cell resistance was halved via three changes: shorter 300mm cells, a proprietary SEI layer additive that makes the interface more robust and conductive, and expanded graphite anode layers for easier lithium ion movement. A second cooling plate doubles the heat removal rate. The pack stays below 70 degrees Celsius under fast charging and charges from 10 to 80 percent at minus 30 degrees Celsius in 8 minutes 30 seconds. After 1,000 fast-charge cycles, it retains 90 percent of original capacity.</description>
+    </item>
+
+    <item>
+      <title>Dreamy, Known for Cleaning Robots, Unveiled an EV Concept Claiming 0-100 km/h in 0.9 Seconds</title>
+      <link>https://nexusevnews.com/articles/dreamy-nebula-next-01-rocket-ev.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/dreamy-nebula-next-01-rocket-ev.html</guid>
+      <pubDate>Thu, 30 Apr 2026 19:30:00 +0000</pubDate>
+      <dc:creator>CGTN America</dc:creator>
+      <category>News</category>
+      <description>Chinese robotics firm Dreamy unveiled two vehicles at its San Francisco conference: the Nebula Next 01 jet edition concept, using aerospace rocket technology in a twin-engine layout with a claimed 0-to-100 km/h time of 0.9 seconds, and a production Nebula Next 01 EV hyper sedan targeted for the second half of 2027. The production car runs a central brain architecture with sub-agents managing the cockpit, chassis, and powertrain. Dreamy named Tesla as a potential collaborator rather than a rival. No battery size, range, or pricing was disclosed.</description>
+    </item>
 
     <item>
       <title>carwow Compares the BMW iX3, Audi Q6, and Tesla Model Y Across Seven Categories</title>
@@ -166,58 +216,6 @@
       <category>Reviews</category>
       <description>Three motors, 400 horsepower, 661 Nm, 89 kWh battery, WLTP range of 557 km. AutoTopNL tests the Alpine A390 GT on the Autobahn and records a 4.73-second 0-100 km/h run. The car weighs over 2,100 kg and handles it with hydraulic bump stops and a compliant suspension. A GTS variant with 470 horsepower and 0-100 in 3.9 seconds arrives later in 2026.</description>
     </item>
-
-    <item>
-      <title>From Battery Startup to World&#8217;s Biggest EV Maker: Inside BYD&#8217;s Five-Year Run</title>
-      <link>https://nexusevnews.com/articles/byd-five-year-rise-global-ev-leader-bloomberg.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-five-year-rise-global-ev-leader-bloomberg.html</guid>
-      <pubDate>Sun, 26 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Bloomberg Television</dc:creator>
-      <category>Deep Dives</category>
-      <description>In five years China moved from sixth in global auto exports to first. BYD beat Tesla in total EV sales in 2025, employs close to a million people, and files 52 patents every working day. Bloomberg reports from Paris, where BYD launched a luxury EV and where Ford CEO Jim Farley described seeing BYD's operation as the most humbling experience of his career. A 100% US tariff is keeping the cars out of American dealerships. Trade talks between Washington and Beijing are underway.</description>
-    </item>
-
-    <item>
-      <title>GM Hits Pause on EV Trucks. Mercedes Goes Electric-Only on the C-Class. A Gas Car Podcast Takes Stock.</title>
-      <link>https://nexusevnews.com/articles/this-car-pod-ep108-gm-ev-pause-mercedes-electric-c-class.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/this-car-pod-ep108-gm-ev-pause-mercedes-electric-c-class.html</guid>
-      <pubDate>Sun, 26 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>This Car Pod</dc:creator>
-      <category>News</category>
-      <description>GM has announced it is pausing its next generation of full-size electric trucks. The Ford Lightning was already cancelled. Meanwhile Mercedes revealed the new C-Class as electric-only, going on sale in early 2027. The hosts of a gas car podcast picture themselves in a nursing home years from now, laughing at the idea that soccer moms once drove children to practice in cars powered by controlled combustion. Their punchline: that moment hasn't arrived in America yet. European EV sales in March rose 50%.</description>
-    </item>
-
-    <item>
-      <title>Formula E's Gen 4 Car Does 0-60 in 1.8 Seconds on Road Tires. The Sport Is Not Playing Around Anymore.</title>
-      <link>https://nexusevnews.com/articles/formula-e-gen-4-performance-leap-aldas.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/formula-e-gen-4-performance-leap-aldas.html</guid>
-      <pubDate>Sun, 26 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Aldas</dc:creator>
-      <category>Deep Dives</category>
-      <description>Formula E's Gen 4 car produces 600 kW, roughly 805 horsepower, and reaches 0-60 mph in 1.88 seconds on grooved road-spec tires. It laps permanent tracks around 10 seconds faster than the Gen 3 EVO. The series is shifting toward more permanent circuits to match the new performance level. Development driver James Rossa, a former F1 test driver at BAR and Force India, says Gen 4 now offers Formula 2 and 3 drivers a genuine world championship alternative to Formula 1.</description>
-    </item>
-
-    <item>
-      <title>Americans Can't Buy Chinese EVs. They Can't Stop Watching Videos About Them.</title>
-      <link>https://nexusevnews.com/articles/americans-crave-chinese-evs-social-media-tariffs.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/americans-crave-chinese-evs-social-media-tariffs.html</guid>
-      <pubDate>Sun, 26 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Bloomberg Television</dc:creator>
-      <category>News</category>
-      <description>A 100% tariff plus a 2025 tech-linked ban keep Chinese EVs out of US showrooms. The average new US car price is around $50,000. Multiple capable Chinese EVs are priced well under $40,000 at home. Marques Brownlee's review of the Xiaomi SU7 passed 10 million views. Bloomberg looks at the technology gap, the social media appetite, and why the future of the US auto industry may hinge on how open American companies become to Chinese technology.</description>
-    </item>
-
-    <item>
-      <title>Three Things Volkswagen Needs to Fix Before Its Chinese Rivals Close the Gap Completely</title>
-      <link>https://nexusevnews.com/articles/volkswagen-id7-tourer-gtx-three-fixes-out-of-spec-roaming.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/volkswagen-id7-tourer-gtx-three-fixes-out-of-spec-roaming.html</guid>
-      <pubDate>Sun, 26 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Roaming</dc:creator>
-      <category>Reviews</category>
-      <description>Out of Spec Roaming drives the VW ID.7 Tourer GTX over a Norwegian mountain pass in winter. The car averaged 19.2 kWh per 100 km over 478 km of cold driving and charged from 17% to 53% in 11 minutes at close to 200 kW. Three things still need fixing: software, interior quality, and charging speed. A Rivian/VW joint venture is working on future architecture. The urgency: Chinese EV brands are already offering better interiors and more technology at comparable prices.</description>
-    </item>
-
-
 
   </channel>
 </rss>
