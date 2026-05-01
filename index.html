@@ -1703,12 +1703,15 @@
     primary.sort((a, b) => getTs(b) - getTs(a));
     secondary.sort((a, b) => getTs(b) - getTs(a));
     const reordered = [];
+    const placedAds = new Set();
     primary.forEach((el, i) => {
       reordered.push(el);
-      if (i === 5 && adCards.length >= 1) reordered.push(adCards[0]);
-      if (i === 14 && adCards.length >= 2) reordered.push(adCards[1]);
+      if (i === 5  && adCards[0]) { reordered.push(adCards[0]); placedAds.add(adCards[0]); }
+      if (i === 14 && adCards[1]) { reordered.push(adCards[1]); placedAds.add(adCards[1]); }
     });
     secondary.forEach(el => reordered.push(el));
+    // Any ad card not placed inline goes at the very end so it never floats to position 0
+    adCards.forEach(ad => { if (!placedAds.has(ad)) reordered.push(ad); });
     reordered.forEach(el => grid.appendChild(el));
   }
 
@@ -1727,7 +1730,7 @@
     // Secondary cards always appear on page 2+, keeping page 1 clean and current.
     // When a category filter is active, secondary/primary distinction is ignored.
     const primaryCount = currentCategory === null
-      ? visibleCards.filter(c => c.dataset && !c.dataset.secondary).length
+      ? visibleCards.filter(c => c.dataset && c.dataset.ts && !c.dataset.secondary).length
       : visibleCards.length;
     function pageSize(page) {
       if (page === 1 && currentCategory === null) {
