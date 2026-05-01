@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>Scout Traveler and Terra in Person: 500 Miles, Body-on-Frame, and Under $60,000</title>
+      <link>https://nexusevnews.com/articles/scout-traveler-terra-first-look-gjeebs.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/scout-traveler-terra-first-look-gjeebs.html</guid>
+      <pubDate>Fri, 01 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Gjeebs</dc:creator>
+      <category>News</category>
+      <description>The Scout Traveler is a full-size EREV SUV with 350 miles of battery range and a built-in generator that extends total range to 500 miles. The Terra truck seats six with a front bench. Both start under $60,000. Software is co-developed with Rivian. Production is targeted for 2027 with customer deliveries in 2028. Body-on-frame, solid rear axle, NACS charging port, and a direct-to-consumer sales model. Manufactured in South Carolina.</description>
+    </item>
+
+    <item>
+      <title>The NIO ET9 in Beijing: 925V, 600 kW Charging, and a Suspension You Can Watch from the Back Seat</title>
+      <link>https://nexusevnews.com/articles/nio-et9-beijing-drive-out-of-spec.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/nio-et9-beijing-drive-out-of-spec.html</guid>
+      <pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Reviews</category>
+      <description>Out of Spec Reviews drove the NIO ET9 through Beijing traffic and an early-morning parking lot session. The $100,000 luxury sedan runs on a fully in-house 925V electrical architecture with active suspension, steer-by-wire, rear steer, and DC charging approaching 600 kW. Battery swap takes about 3 minutes. Dual rear seat screens display live suspension power consumption. Not sold outside China. Main criticisms: steer-by-wire response slower than Cybertruck, and active suspension did not fully absorb initial bump impacts.</description>
+    </item>
+
+    <item>
+      <title>New EVs Now Average Less Than New Petrol Cars in the UK, and the Numbers Have a Catch</title>
+      <link>https://nexusevnews.com/articles/uk-evs-now-cheaper-than-petrol-cars-autotrader-data.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/uk-evs-now-cheaper-than-petrol-cars-autotrader-data.html</guid>
+      <pubDate>Fri, 01 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Autotrader</dc:creator>
+      <category>Deep Dives</category>
+      <description>Autotrader UK data shows the average new EV price has fallen £785 below the average new petrol car price for the first time. The crossover is entirely discount-driven: without incentives, EVs are still around 15 percent more expensive. The UK government EV grant contributes up to £3,750 off qualifying vehicles under £37,000 through 2028. Battery costs have fallen 93 percent since 2010. The Renault 5 was the most inquired EV on the platform in April 2026. The VW Golf was the most popular car overall.</description>
+    </item>
+
+    <item>
+      <title>Rivian Q1 2026: R2 Production Starts, Georgia Capacity Raised to 300,000 Units, Guidance Intact</title>
+      <link>https://nexusevnews.com/articles/rivian-q1-2026-earnings-r2-production-starts.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-q1-2026-earnings-r2-production-starts.html</guid>
+      <pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Travis Ketchum</dc:creator>
+      <category>News</category>
+      <description>Rivian delivered 10,365 vehicles in Q1 2026 and posted $1.4 billion in revenue at a 9 percent gross margin. Software and services generated $473 million, up 49 percent year over year, with $282 million from the Volkswagen joint venture. Georgia plant first-phase capacity was raised from 200,000 to 300,000 annual units. Cash on hand: $4.8 billion. A DOE loan of up to $4.5 billion covers Georgia construction. Full-year delivery guidance of 62,000 to 67,000 vehicles is unchanged. Public R2 deliveries expected around June. RAP1 autonomy chip on track.</description>
+    </item>
+
+    <item>
+      <title>Nissan's Series Hybrid for the US Rogue: The Engine Charges the Battery. That Is All It Does.</title>
+      <link>https://nexusevnews.com/articles/nissan-e-power-rogue-series-hybrid-first-drive.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/nissan-e-power-rogue-series-hybrid-first-drive.html</guid>
+      <pubDate>Fri, 01 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Munro Live</dc:creator>
+      <category>Reviews</category>
+      <description>Munro Live drove Nissan's third-generation e-POWER system, a series hybrid where the petrol engine has no mechanical connection to the wheels. The engine acts solely as a generator. A 5-in-1 modular unit packages components for reduced mass and better reliability. The European front-wheel-drive version produces 210 horsepower. The US Rogue version arriving later in 2026 adds a rear motor and all-wheel drive. Engine NVH on startup was nearly imperceptible during the drive in Farmington Hills, Michigan.</description>
+    </item>
 
     <item>
       <title>Volkswagen's ID Polo Opens at €24,900 with Physical Controls, 440-Liter Boot, and a GTI Coming Later</title>
@@ -165,56 +215,6 @@
       <dc:creator>Kim Java</dc:creator>
       <category>Reviews</category>
       <description>Kim Java walks through the Model Y L at Tesla&#8217;s Beijing delivery center alongside a Juniper Model Y and a Model X. Seven inches longer, six-seat captain layout, 89 cu ft of cargo. Third-row headroom impressed at 5&#8217;10&#8221;. US prototype spotted; estimated price $55,000 to $59,000 if it arrives.</description>
-    </item>
-
-    <item>
-      <title>All Six World Car Awards Went to EVs. The 2026 NY Auto Show Made the Case Without Apology.</title>
-      <link>https://nexusevnews.com/articles/ny-auto-show-2026-ev-sweep-all-six-world-car-awards-go-electric.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ny-auto-show-2026-ev-sweep-all-six-world-car-awards-go-electric.html</guid>
-      <pubDate>Mon, 27 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Forbes</dc:creator>
-      <category>News</category>
-      <description>The 2026 New York Auto Show put electric vehicles in nearly every exhibit, from the Hyundai Ioniq 6N winning World Performance Car of the Year to Lucid's Gravity claiming the World Luxury Car title with 820 horsepower and 450 miles of range. The Porsche Cayenne Electric made its North American debut, redesigned from the ground up. And when the World Car Awards tallied all six categories, every winner was electric. Forbes walked the full floor.</description>
-    </item>
-
-    <item>
-      <title>Greg Jackson Would Fix the UK Energy Market in Three Steps. The First One Is Hiding in Plain Sight.</title>
-      <link>https://nexusevnews.com/articles/everything-electric-live-greg-jackson-rory-sutherland-energy-market.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/everything-electric-live-greg-jackson-rory-sutherland-energy-market.html</guid>
-      <pubDate>Mon, 27 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Everything Electric Show</dc:creator>
-      <category>Deep Dives</category>
-      <description>Octopus Energy CEO Greg Jackson, behavioral scientist Rory Sutherland, and Robert Llewellyn on a live Oxford Street panel. UK electricity costs four times more than gas; in Norway it is 1.15 times. Jackson's three fixes: zonal pricing, more onshore wind, and long-distance interconnectors. Sutherland covers EV adoption psychology and the sigmoid curve. Llewellyn adds that 100 million-plus EVs have already displaced the equivalent of 70 percent of Iran's total fossil fuel output annually.</description>
-    </item>
-
-    <item>
-      <title>China's Electric Truck Market Crossed 50 Percent of Monthly Sales. The IEA Called It.</title>
-      <link>https://nexusevnews.com/articles/electric-trucks-china-50-percent-sales-iea-2025-just-have-a-think.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/electric-trucks-china-50-percent-sales-iea-2025-just-have-a-think.html</guid>
-      <pubDate>Mon, 27 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Just Have a Think</dc:creator>
-      <category>Deep Dives</category>
-      <description>Per the IEA's Global EV Outlook 2025, electric heavy trucks reached around 22 percent of new truck sales in China in H1 2025 and reportedly crossed 50 percent of monthly sales in December 2025. More than 80 percent of global electric truck sales happen in China. This video covers the economics, CATL's battery swapping network covering 150,000 km of expressways, and how Europe and the US compare.</description>
-    </item>
-
-    <item>
-      <title>Rivian R2, Volvo EX60, Tesla Cybercab, and Kia EV3 All Entered Production in the Same Week</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-volvo-ex60-tesla-cybercab-kia-ev3-production-starts.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-volvo-ex60-tesla-cybercab-kia-ev3-production-starts.html</guid>
-      <pubDate>Mon, 27 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Bits</dc:creator>
-      <category>News</category>
-      <description>A tornado hit Rivian's Normal, Illinois factory and production of sellable R2 units started anyway. The Volvo EX60 entered production in Sweden with European deliveries this summer. The Kia EV3 entered pre-production in Mexico at an expected starting price around $35,000. The Tesla Cybercab entered production as well. Also covered: Hyundai Ioniq 3 reveal, Porsche Cayenne Coupe EV, Tesla Model Y L US testing, and the electric-only Mercedes C-Class.</description>
-    </item>
-
-    <item>
-      <title>The Alpine A390 GT Is Fast Enough and Comfortable Enough to Make You Forget It's Supposed to Be Sporty</title>
-      <link>https://nexusevnews.com/articles/alpine-a390-gt-review-autobahn-autotopnl.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/alpine-a390-gt-review-autobahn-autotopnl.html</guid>
-      <pubDate>Mon, 27 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>AutoTopNL</dc:creator>
-      <category>Reviews</category>
-      <description>Three motors, 400 horsepower, 661 Nm, 89 kWh battery, WLTP range of 557 km. AutoTopNL tests the Alpine A390 GT on the Autobahn and records a 4.73-second 0-100 km/h run. The car weighs over 2,100 kg and handles it with hydraulic bump stops and a compliant suspension. A GTS variant with 470 horsepower and 0-100 in 3.9 seconds arrives later in 2026.</description>
     </item>
 
   </channel>
