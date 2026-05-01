@@ -1363,7 +1363,7 @@
 
   <!-- ITALY EV ADOPTION PROBLEM - ANDREW TILL / MR. EV (NEWS) -->
 
-<article class="card" data-category="opinion" data-ts="2026-04-11T21:30:00">
+<article class="card" data-category="opinion" data-ts="2026-04-11T21:30:00" data-secondary="true">
 <a aria-label="Opinion: The Oil Change Economy. What maintenance really costs over 100,000 miles." class="card-link" href="opinion-ev-maintenance.html"></a>
 <div class="card-img-wrap">
 <span class="card-tag tag-opinion">Opinion</span>
@@ -1386,7 +1386,7 @@
 </div>
 </article>
 
-<article class="card" data-category="opinion" data-ts="2026-03-30T21:30:00">
+<article class="card" data-category="opinion" data-ts="2026-03-30T21:30:00" data-secondary="true">
 <a aria-label="Opinion: Not a Feed. Not an Algorithm. A Person. The founder of nexusEVnews on how he curates the site and the creators worth your attention in 2026." class="card-link" href="opinion-not-a-feed.html"></a>
 <div class="card-img-wrap">
 <span class="card-tag tag-opinion">Opinion</span>
@@ -1409,7 +1409,7 @@
 </div>
 </article>
 
-<article class="card" data-category="opinion" data-ts="2026-03-30T20:45:00">
+<article class="card" data-category="opinion" data-ts="2026-03-30T20:45:00" data-secondary="true">
 <a aria-label="Opinion: Gas Car vs. EV: Total Lifetime CO2 Emissions, Every Tonne Counted - A full cradle-to-scrapyard accounting for both vehicles, and where one permanently outpaces the other." class="card-link" href="opinion-ev-co2-lifetime.html"></a>
 <div class="card-img-wrap">
 <span class="card-tag tag-opinion">Opinion</span>
@@ -1432,7 +1432,7 @@
 </div>
 </article>
 
-<article class="card" data-category="opinion" data-ts="2026-03-28T21:30:00">
+<article class="card" data-category="opinion" data-ts="2026-03-28T21:30:00" data-secondary="true">
 <a aria-label="Opinion: Rivian and the Stakeholder - before the IPO, RJ Scaringe set aside one percent of company equity for the natural world. Here is what that has come to mean." class="card-link" href="opinion-rivian-foundation.html"></a>
 <div class="card-img-wrap">
 <span class="card-tag tag-opinion">Opinion</span>
@@ -1455,7 +1455,7 @@
 </div>
 </article>
 
-<article class="card" data-category="opinion" data-ts="2026-03-26T21:00:00">
+<article class="card" data-category="opinion" data-ts="2026-03-26T21:00:00" data-secondary="true">
 <a aria-label="Read: Under Your Hood: A Space Heater That Occasionally Moves Things Forward" class="card-link" href="opinion-ev-efficiency.html"></a>
 <div class="card-img-wrap">
 <span class="card-tag tag-opinion">Opinion</span>
@@ -1478,7 +1478,7 @@
 </div>
 </article>
 
-<article class="card" data-category="opinion" data-ts="2026-03-20T21:30:00">
+<article class="card" data-category="opinion" data-ts="2026-03-20T21:30:00" data-secondary="true">
 <a aria-label="Read: EVs Catch Fire 60 Times Less Often Than Gas Cars. Here Is the Data." class="card-link" href="opinion-ev-fire-statistics.html"></a>
 <div class="card-img-wrap">
 <span class="card-tag tag-opinion">Opinion</span>
@@ -1501,7 +1501,7 @@
 </div>
 </article>
 
-<article class="card" data-category="opinion" data-ts="2026-03-17T21:30:00">
+<article class="card" data-category="opinion" data-ts="2026-03-17T21:30:00" data-secondary="true">
 <a aria-label="Opinion: The Charging Time Argument Is Built on a Math Problem. Here Is the Math." class="card-link" href="opinion-ev-charging-time.html"></a>
 <div class="card-img-wrap">
 <span class="card-tag tag-opinion">Opinion</span>
@@ -1524,7 +1524,7 @@
 </div>
 </article>
 
-<article class="card" data-category="opinion" data-ts="2026-03-12T22:00:00">
+<article class="card" data-category="opinion" data-ts="2026-03-12T22:00:00" data-secondary="true">
 <a aria-label="Opinion: You'll Fall for the Rivian R2's Features and Price. You'll Stay for Its People and Culture." class="card-link" href="opinion-rivian-r2.html"></a>
 <div class="card-img-wrap">
 <span class="card-tag tag-opinion">Opinion</span>
@@ -1547,7 +1547,7 @@
 </div>
 </article>
 
-<article class="card" data-category="opinion" data-ts="2026-03-08T19:45:00">
+<article class="card" data-category="opinion" data-ts="2026-03-08T19:45:00" data-secondary="true">
 <a aria-label="Opinion: Charging Forward  -  How States Are Solving the EV Apartment Problem" class="card-link" href="opinion.html"></a>
 <div class="card-img-wrap">
 <span class="card-tag tag-opinion">Opinion</span>
@@ -1698,14 +1698,17 @@
   function sortGrid() {
     const allChildren = Array.from(grid.children);
     const adCards     = allChildren.filter(el => el.dataset.ad);
-    const articles    = allChildren.filter(el => el.dataset.ts);
-    articles.sort((a, b) => getTs(b) - getTs(a));
+    const primary     = allChildren.filter(el => el.dataset.ts && !el.dataset.secondary);
+    const secondary   = allChildren.filter(el => el.dataset.ts && el.dataset.secondary);
+    primary.sort((a, b) => getTs(b) - getTs(a));
+    secondary.sort((a, b) => getTs(b) - getTs(a));
     const reordered = [];
-    articles.forEach((el, i) => {
+    primary.forEach((el, i) => {
       reordered.push(el);
       if (i === 5 && adCards.length >= 1) reordered.push(adCards[0]);
       if (i === 14 && adCards.length >= 2) reordered.push(adCards[1]);
     });
+    secondary.forEach(el => reordered.push(el));
     reordered.forEach(el => grid.appendChild(el));
   }
 
@@ -1720,10 +1723,17 @@
   }
 
   function applyPagination(visibleCards) {
-    // Page 1 on "All" needs 17 articles: featured(3) + ad(1) + 17 = 21 slots = 5 full rows of 4
-    // All other pages use 16 (4 full rows of 4)
+    // Page 1 on "All": show only primary (non-secondary) cards, up to CARDS_PAGE_ONE.
+    // Secondary cards always appear on page 2+, keeping page 1 clean and current.
+    // When a category filter is active, secondary/primary distinction is ignored.
+    const primaryCount = currentCategory === null
+      ? visibleCards.filter(c => c.dataset && !c.dataset.secondary).length
+      : visibleCards.length;
     function pageSize(page) {
-      return (page === 1 && currentCategory === null) ? CARDS_PAGE_ONE : CARDS_PER_PAGE;
+      if (page === 1 && currentCategory === null) {
+        return primaryCount > 0 ? primaryCount : CARDS_PAGE_ONE;
+      }
+      return CARDS_PER_PAGE;
     }
 
     // Calculate total pages accounting for variable page 1 size
