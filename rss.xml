@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>How Pancake-Shaped Motors Could Cut 200 kg from an Electric Car</title>
+      <link>https://nexusevnews.com/articles/yasa-axial-flux-motor-ev-weight-200kg.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/yasa-axial-flux-motor-ev-weight-200kg.html</guid>
+      <pubDate>Sat, 02 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric TECH</dc:creator>
+      <category>Deep Dives</category>
+      <description>YASA's axial flux motors are about 20% as thick as a conventional unit and weigh roughly a quarter as much, yet deliver three to four times the power density. Their Oxford factory ships 25,000 units a year. One prototype produced 1,000 horsepower from a motor weighing 12.7 kilograms. Mercedes-Benz acquired YASA in 2021.</description>
+    </item>
+
+    <item>
+      <title>XPeng's City Driving System Takes on FSD in Beijing Traffic</title>
+      <link>https://nexusevnews.com/articles/xpeng-p7-ultra-vla-2-self-driving-beijing.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/xpeng-p7-ultra-vla-2-self-driving-beijing.html</guid>
+      <pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Reviews</category>
+      <description>Kyle Conner drove Tesla FSD in China for 45 minutes, then ran XPeng VLA 2.0 on public roads the same day. The P7 Ultra costs around 300,000 RMB ($42,000 USD), charges at roughly 500 kW, makes 600 horsepower, and uses cameras and radar without lidar.</description>
+    </item>
+
+    <item>
+      <title>This Netherlands E-Bike Commuter Hits 53 km/h on a 1,000W Mid-Drive</title>
+      <link>https://nexusevnews.com/articles/tongsheng-1000w-mid-drive-ebike-commuter-build.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tongsheng-1000w-mid-drive-ebike-commuter-build.html</guid>
+      <pubDate>Sat, 02 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>FLATLANDER TECH</dc:creator>
+      <category>Deep Dives</category>
+      <description>A Netherlands-based builder converts a standard bike with a Tongsheng 1,000W mid-drive motor, 52V battery tucked into rear panniers, and a 3D-printed phone mount. Cruising speed with the current cassette: 53 km/h. The frame looks unmodified until you look closely.</description>
+    </item>
+
+    <item>
+      <title>Tesla Merges FSD, Smart Summon, and Robotaxi onto One Neural Network</title>
+      <link>https://nexusevnews.com/articles/tesla-fsd-14-3-2-mercedes-drops-lidar-ev-news.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-fsd-14-3-2-mercedes-drops-lidar-ev-news.html</guid>
+      <pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Ryan Shaw</dc:creator>
+      <category>News</category>
+      <description>FSD 14.3.2 puts all three driving systems on a shared model. Also this week: Mercedes removes lidar from its 2027 C-Class and CLA EVs, Tesla Semi production confirmed at 50,000 units per year, and one Illinois driver cut his Tesla insurance bill by 86% using Safety Score 3.0.</description>
+    </item>
+
+    <item>
+      <title>BMW iX3 vs Mercedes GLC Electric: Which German SUV Gets the Reset Right?</title>
+      <link>https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-electric-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-electric-2026.html</guid>
+      <pubDate>Sat, 02 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>CAR magazine</dc:creator>
+      <category>Reviews</category>
+      <description>Two days of back-to-back driving. The GLC Electric rides on air suspension, packs a 39.1-inch hyperscreen, and claims 406 miles. The iX3 claims 500 miles, charges faster at 400 kW, and handles better. Boot space: identical at 520 litres. Real-world consumption: nearly equal.</description>
+    </item>
 
     <item>
       <title>Scout Traveler and Terra in Person: 500 Miles, Body-on-Frame, and Under $60,000</title>
@@ -165,56 +215,6 @@
       <dc:creator>Undecided with Matt Ferrell</dc:creator>
       <category>Battery Tech</category>
       <description>Cala Systems builds a $2,999 heat pump water heater that schedules heating around electricity pricing, solar forecasts, and occupancy patterns. Matt Ferrell tours the factory and works through the economics: the heat pump itself saves roughly $550 a year versus electric resistance; smart scheduling on time-of-use plans adds another $100 to $310 annually. A California Energy Commission study found 15 to 19 percent additional savings from intelligent scheduling.</description>
-    </item>
-
-    <item>
-      <title>BYD&#8217;s Megawatt Flash Charger Passed an Unscripted Test: A Wrecked Car, 30 Percent, No Setup</title>
-      <link>https://nexusevnews.com/articles/byd-flash-charging-china-verified-megawatt.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-flash-charging-china-verified-megawatt.html</guid>
-      <pubDate>Tue, 28 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Charging</category>
-      <description>Out of Spec Reviews flew to Beijing to verify BYD&#8217;s flash charging claims on a damaged Denza Z9 GT with no preconditioning. From 30 to 97 percent in just under eight minutes. The hardware draws 500 kW from the grid and supplements it with two 200 kWh on-site battery packs at 1,000 volts. BYD plans 20,000 units in China by end of 2026 and 3,000 in Europe near term.</description>
-    </item>
-
-    <item>
-      <title>This German Factory Stores Summer Heat Underground and Pays Almost Nothing for Energy</title>
-      <link>https://nexusevnews.com/articles/german-factory-stores-summer-heat-underground-year-round.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/german-factory-stores-summer-heat-underground-year-round.html</guid>
-      <pubDate>Tue, 28 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>renewables film</dc:creator>
-      <category>Solar</category>
-      <description>A metal parts manufacturer in southwest Germany heats and cools its factory for 1.6 cents per kWh with no gas connection. Solar collectors charge 5,000-plus cubic meters of soil beneath the building each summer; heat pumps draw it back through 45 km of pipes in winter. The system paid back in three and a half years.</description>
-    </item>
-
-    <item>
-      <title>The Updated Audi Q4 e-tron Gets the Interior It Always Needed. Charging Speed Is Still the Weak Link.</title>
-      <link>https://nexusevnews.com/articles/audi-q4-etron-2026-upgraded-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/audi-q4-etron-2026-upgraded-review.html</guid>
-      <pubDate>Tue, 28 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>Reviews</category>
-      <description>Electrifying reviews the updated Q4 e-tron: up to 370 miles of range, a new dual-screen interior, vehicle-to-load, and DC charging up to 185 kW on the top model. UK pricing expected from around £41,000. Charging speed still trails several rivals.</description>
-    </item>
-
-    <item>
-      <title>They Installed an £8,000 Home Battery With No Solar. Two Months Later, Here Are the Numbers.</title>
-      <link>https://nexusevnews.com/articles/home-battery-no-solar-8000-pound-juracell-results.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/home-battery-no-solar-8000-pound-juracell-results.html</guid>
-      <pubDate>Tue, 28 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>iHeat</dc:creator>
-      <category>Deep Dives</category>
-      <description>iHeat revisits a Juracell battery install at a UK home using 15,000 to 20,000 kWh a year. Daily costs dropped from £10-15 to around £5.50. Payback projected at two and a half to three years. The hybrid inverter supports solar as a future add-on without any equipment replacement.</description>
-    </item>
-
-    <item>
-      <title>Tesla&#8217;s Three-Row Model Y L Is Already on Sale in China. We Sat in Every Seat.</title>
-      <link>https://nexusevnews.com/articles/tesla-model-y-l-china-first-look-three-row-family-suv.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-y-l-china-first-look-three-row-family-suv.html</guid>
-      <pubDate>Tue, 28 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Kim Java</dc:creator>
-      <category>Reviews</category>
-      <description>Kim Java walks through the Model Y L at Tesla&#8217;s Beijing delivery center alongside a Juniper Model Y and a Model X. Seven inches longer, six-seat captain layout, 89 cu ft of cargo. Third-row headroom impressed at 5&#8217;10&#8221;. US prototype spotted; estimated price $55,000 to $59,000 if it arrives.</description>
     </item>
 
   </channel>
