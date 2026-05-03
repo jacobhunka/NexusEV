@@ -18,6 +18,16 @@
     <category>Battery Technology</category>
 
     <item>
+      <title>Atlanta, Rivian, and the Quiet Coincidence</title>
+      <link>https://nexusevnews.com/opinion-atlanta-rivian-quiet-coincidence.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/opinion-atlanta-rivian-quiet-coincidence.html</guid>
+      <pubDate>Sun, 03 May 2026 17:00:00 +0000</pubDate>
+      <dc:creator>Jacob Hunka</dc:creator>
+      <category>Opinion</category>
+      <description>Atlanta has a failing air quality grade and a Rivian plant on its doorstep. A hypothetical about what one city could do with the electric mobility infrastructure that already exists — R2 autonomous taxis, ALSO cargo quads, e-bikes, and ZTL-style restricted zones — and what the health data says the stakes actually are. Includes data from the HEI lockdown air quality study (Chen et al., 2025) and the American Lung Association's 2025 Atlanta air quality report.</description>
+    </item>
+
+    <item>
       <title>One Wheel, 1,000 Horsepower: Inside the YASA In-Wheel Motor System</title>
       <link>https://nexusevnews.com/articles/yasa-in-wheel-motor-1000hp-drive-system-design.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/yasa-in-wheel-motor-1000hp-drive-system-design.html</guid>
@@ -205,16 +215,6 @@
       <dc:creator>Ziroth</dc:creator>
       <category>Battery Tech</category>
       <description>CATL's Shenxing Version 3 battery adds 100 km of range in 30 seconds and completes a full charge in 6 minutes. Cell resistance was halved via three changes: shorter 300mm cells, a proprietary SEI layer additive that makes the interface more robust and conductive, and expanded graphite anode layers for easier lithium ion movement. A second cooling plate doubles the heat removal rate. The pack stays below 70 degrees Celsius under fast charging and charges from 10 to 80 percent at minus 30 degrees Celsius in 8 minutes 30 seconds. After 1,000 fast-charge cycles, it retains 90 percent of original capacity.</description>
-    </item>
-
-    <item>
-      <title>Dreamy, Known for Cleaning Robots, Unveiled an EV Concept Claiming 0-100 km/h in 0.9 Seconds</title>
-      <link>https://nexusevnews.com/articles/dreamy-nebula-next-01-rocket-ev.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/dreamy-nebula-next-01-rocket-ev.html</guid>
-      <pubDate>Thu, 30 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>CGTN America</dc:creator>
-      <category>News</category>
-      <description>Chinese robotics firm Dreamy unveiled two vehicles at its San Francisco conference: the Nebula Next 01 jet edition concept, using aerospace rocket technology in a twin-engine layout with a claimed 0-to-100 km/h time of 0.9 seconds, and a production Nebula Next 01 EV hyper sedan targeted for the second half of 2027. The production car runs a central brain architecture with sub-agents managing the cockpit, chassis, and powertrain. Dreamy named Tesla as a potential collaborator rather than a rival. No battery size, range, or pricing was disclosed.</description>
     </item>
 
   </channel>
