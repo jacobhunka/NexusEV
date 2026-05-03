@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>One Wheel, 1,000 Horsepower: Inside the YASA In-Wheel Motor System</title>
+      <link>https://nexusevnews.com/articles/yasa-in-wheel-motor-1000hp-drive-system-design.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/yasa-in-wheel-motor-1000hp-drive-system-design.html</guid>
+      <pubDate>Sun, 03 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Ziroth</dc:creator>
+      <category>Deep Dives</category>
+      <description>YASA and Drive System Design built an in-wheel system delivering 750 kW peak and 400 kW continuous that weighs the same as the brakes, upright, and wheel bearings it replaces. The 12-kilogram axial flux motor pairs with a 6.2:1 planetary gearbox, and the assembly is validated under 3G cornering loads using a hydraulic multi-axis test rig.</description>
+    </item>
+
+    <item>
+      <title>Off the Grid on $25,500: Running a Full House, an EV, and a Bitcoin Miner on Solar</title>
+      <link>https://nexusevnews.com/articles/ecoflow-delta-pro-ultra-x-25500-solar-house-full-setup.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ecoflow-delta-pro-ultra-x-25500-solar-house-full-setup.html</guid>
+      <pubDate>Sun, 03 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Minute Man Solar</dc:creator>
+      <category>Solar</category>
+      <description>An EcoFlow Delta Pro Ultra X with six battery modules, 23 bifacial panels on portable stands, and a grid interlock kit runs a full California house, a Rivian R1S, a Bitcoin miner, and a 3D print farm for $25,500. No permits required for the temporary panel setup.</description>
+    </item>
+
+    <item>
+      <title>Three Wheels, Solar Panels, and a 2026 Delivery Target: Inside Aptera's Factory</title>
+      <link>https://nexusevnews.com/articles/aptera-solar-ev-ceo-interview-factory-tour-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/aptera-solar-ev-ceo-interview-factory-tour-2026.html</guid>
+      <pubDate>Sun, 03 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Realistick</dc:creator>
+      <category>Deep Dives</category>
+      <description>Aptera's CEO walked through the Carlsbad factory ahead of a planned end-of-2026 launch. The three-wheeled solar EV targets 100 Wh per mile on a 43 kWh pack, uses a 150 kW Vitesco motor, and is priced at $40,000 at launch.</description>
+    </item>
+
+    <item>
+      <title>Nico Müller Wins in Berlin at the 69th Attempt, on Porsche's 75th Motorsport Anniversary</title>
+      <link>https://nexusevnews.com/articles/nico-muller-first-win-formula-e-berlin-season-12.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/nico-muller-first-win-formula-e-berlin-season-12.html</guid>
+      <pubDate>Sun, 03 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Formula E</dc:creator>
+      <category>News</category>
+      <description>After 69 career starts, Nico Müller took his first Formula E victory at the Berlin E-Prix, driving for Porsche on the team's 75th motorsport anniversary. Eduardo Mortara leads the drivers championship by four points after round 7 of season 12.</description>
+    </item>
+
+    <item>
+      <title>BYD Flash Charging Gets a Real-World Test, and It Holds Up</title>
+      <link>https://nexusevnews.com/articles/byd-flash-charging-real-world-test-batteries-included-podcast.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-flash-charging-real-world-test-batteries-included-podcast.html</guid>
+      <pubDate>Sun, 03 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Batteries Included Podcast</dc:creator>
+      <category>Battery Tech</category>
+      <description>Kyle Conner tested BYD flash charging on a crashed, unprepped Denza in China and completed 10 to 80 percent in approximately seven minutes. BYD has 200 stations live in China and 2,500 more units ready to activate.</description>
+    </item>
 
     <item>
       <title>How Pancake-Shaped Motors Could Cut 200 kg from an Electric Car</title>
@@ -165,56 +215,6 @@
       <dc:creator>CGTN America</dc:creator>
       <category>News</category>
       <description>Chinese robotics firm Dreamy unveiled two vehicles at its San Francisco conference: the Nebula Next 01 jet edition concept, using aerospace rocket technology in a twin-engine layout with a claimed 0-to-100 km/h time of 0.9 seconds, and a production Nebula Next 01 EV hyper sedan targeted for the second half of 2027. The production car runs a central brain architecture with sub-agents managing the cockpit, chassis, and powertrain. Dreamy named Tesla as a potential collaborator rather than a rival. No battery size, range, or pricing was disclosed.</description>
-    </item>
-
-    <item>
-      <title>carwow Compares the BMW iX3, Audi Q6, and Tesla Model Y Across Seven Categories</title>
-      <link>https://nexusevnews.com/articles/bmw-ix3-audi-q6-tesla-model-y-premium-suv-comparison.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-audi-q6-tesla-model-y-premium-suv-comparison.html</guid>
-      <pubDate>Wed, 29 Apr 2026 22:00:00 +0000</pubDate>
-      <dc:creator>carwow</dc:creator>
-      <category>Reviews</category>
-      <description>Mat Watson and Rory run the BMW iX3, Audi Q6 Sportback, and Tesla Model Y Long Range through seven categories. The Audi enters at 326 horsepower versus the BMW's 469 and Tesla's 507, finishing the quarter mile in 14.8 seconds to the others' 12.8. The Audi leads on motorway refinement and braking. The Tesla wins five of seven categories overall and is priced around £7,000 lower than the BMW and Audi at current UK rates.</description>
-    </item>
-
-    <item>
-      <title>TheStraightPipes Review the 2026 Lotus Eletre Carbon: 726 lb-ft, 800V, Built in China</title>
-      <link>https://nexusevnews.com/articles/lotus-eletre-carbon-review-jacob-yuri.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/lotus-eletre-carbon-review-jacob-yuri.html</guid>
-      <pubDate>Wed, 29 Apr 2026 21:00:00 +0000</pubDate>
-      <dc:creator>TheStraightPipes</dc:creator>
-      <category>Reviews</category>
-      <description>Jacob and Yuri from TheStraightPipes test the Lotus Eletre Carbon in Canada at 30 percent battery and come away more impressed than expected. The car uses 800-volt architecture, a two-speed transmission, carbon ceramic brakes, active anti-roll bars, and active four-wheel steering. Range is rated at 385 km. Canadian pricing starts at $179,000 CAD, with US pricing listed around $229,900 at time of filming subject to tariff-related changes.</description>
-    </item>
-
-    <item>
-      <title>Doug DeMuro Reviews the 2026 Tesla Model Y Standard: Competent Daily Driver, Not a Luxury Car</title>
-      <link>https://nexusevnews.com/articles/2026-tesla-model-y-standard-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/2026-tesla-model-y-standard-review.html</guid>
-      <pubDate>Wed, 29 Apr 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Doug DeMuro</dc:creator>
-      <category>Reviews</category>
-      <description>The 2026 Tesla Model Y Standard starts around $41,500 with roughly 300 horsepower and about 320 miles of range. Doug DeMuro covers fit and finish concerns on his 4,000-mile test car, the all-screen interior, rear seat space, and new 2026 features including an optional third-row seat at $2,500. DougScore: 55 out of 100, placing it near the bottom of its competitive set on weekend driving while ranking second in daily-use categories.</description>
-    </item>
-
-    <item>
-      <title>Inside Hyundai&#8217;s Metaplant America: Where the Ioniq 5 and Ioniq 9 Are Built</title>
-      <link>https://nexusevnews.com/articles/inside-hyundai-metaplant-america-ioniq-factory-tour.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/inside-hyundai-metaplant-america-ioniq-factory-tour.html</guid>
-      <pubDate>Wed, 29 Apr 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Deep Dives</category>
-      <description>Out of Spec Reviews tours Hyundai's 3,000-acre Metaplant America in Savannah, Georgia, currently producing the Ioniq 5 and Ioniq 9 at around 300,000 vehicles per year with a path to 500,000. Boston Dynamics Spot robots inspect vehicle bodies. An LG battery cell plant is under construction on site. Hydrogen fuel cell semi-trucks move goods across the campus. A Waymo Ioniq 5 built at the plant targets up to 50,000 units by 2028.</description>
-    </item>
-
-    <item>
-      <title>The Smart Heat Pump Water Heater as a Thermal Battery: Inside Cala Systems&#8217; Factory</title>
-      <link>https://nexusevnews.com/articles/cala-systems-smart-heat-pump-water-heater-thermal-battery.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/cala-systems-smart-heat-pump-water-heater-thermal-battery.html</guid>
-      <pubDate>Wed, 29 Apr 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Undecided with Matt Ferrell</dc:creator>
-      <category>Battery Tech</category>
-      <description>Cala Systems builds a $2,999 heat pump water heater that schedules heating around electricity pricing, solar forecasts, and occupancy patterns. Matt Ferrell tours the factory and works through the economics: the heat pump itself saves roughly $550 a year versus electric resistance; smart scheduling on time-of-use plans adds another $100 to $310 annually. A California Energy Commission study found 15 to 19 percent additional savings from intelligent scheduling.</description>
     </item>
 
   </channel>
