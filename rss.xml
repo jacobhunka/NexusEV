@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>Three Charger Failures Later, a Naval Engineer Finally Gets His La Mesa EV Circuit Fixed</title>
+      <link>https://nexusevnews.com/articles/ev-home-charger-safety-la-mesa-recharge-rescue.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ev-home-charger-safety-la-mesa-recharge-rescue.html</guid>
+      <pubDate>Tue, 05 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>State of Charge</dc:creator>
+      <category>Charging</category>
+      <description>A 22-year active-duty naval engineer in La Mesa lost three Wallbox chargers to a badly installed 60-amp circuit with nicked wires, the wrong wire type, and an unnecessary junction box. Tom Moloughney and Trout Electric spent 12 hours diagnosing and rebuilding the whole run.</description>
+    </item>
+
+    <item>
+      <title>The Volkswagen Three-Row That Sells in China for $51,000 and Won't Come Here Anytime Soon</title>
+      <link>https://nexusevnews.com/articles/volkswagen-id-era-9x-china-range-extended-ev.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/volkswagen-id-era-9x-china-range-extended-ev.html</guid>
+      <pubDate>Tue, 05 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Reviews</category>
+      <description>The ID. Era 9X is a 500-horsepower range-extended three-row EV on an 800V architecture, built through a SAIC-Volkswagen joint venture and selling in China for around $51,000 fully loaded. Out of Spec Reviews and a German EV creator toured the car at the Beijing Auto Show.</description>
+    </item>
+
+    <item>
+      <title>Geely Already Has US Factories, Dealerships, and a Brand That Could Sell Here Tomorrow</title>
+      <link>https://nexusevnews.com/articles/geely-us-market-position-volvo-polestar-zeekr.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/geely-us-market-position-volvo-polestar-zeekr.html</guid>
+      <pubDate>Tue, 05 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>CNBC</dc:creator>
+      <category>News</category>
+      <description>Through its stakes in Volvo, Polestar, and Lotus, Geely Holding already has US dealership networks, a South Carolina factory, and established supply chains. Analysts identify Zeekr as the most likely next brand entry point for US consumers.</description>
+    </item>
+
+    <item>
+      <title>How Fast Do EV Batteries Actually Degrade, and How to Test One Before You Buy</title>
+      <link>https://nexusevnews.com/articles/used-ev-battery-health-how-to-check-before-buying.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/used-ev-battery-health-how-to-check-before-buying.html</guid>
+      <pubDate>Tue, 05 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Engineering with Rosie</dc:creator>
+      <category>Used EVs</category>
+      <description>A Geotab study of over 20,000 EVs finds average battery capacity loss of 2.3% per year. Engineering with Rosie covers the data, the causes of faster degradation, and two practical tools for checking state of health before buying a used EV.</description>
+    </item>
+
+    <item>
+      <title>A Stripped, Caged, 315-Wide Tesla Model 3 Performance Laps the Nürburgring</title>
+      <link>https://nexusevnews.com/articles/tesla-model-3-performance-widebody-nurburgring.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-3-performance-widebody-nurburgring.html</guid>
+      <pubDate>Tue, 05 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Misha Charoudin</dc:creator>
+      <category>Reviews</category>
+      <description>A privately built carbon widebody Tesla Model 3 Performance with a full cage, KW two-way competition suspension, StopTech brakes, and 315-section tires laps the Nürburgring in a public trackday session. Misha Charoudin drove it and found a work in progress with genuinely strong brakes.</description>
+    </item>
 
     <item>
       <title>CATL at Auto China: Superfast Charging, 99-Second Battery Swaps, and the Whole Ecosystem Behind It</title>
@@ -165,56 +215,6 @@
       <dc:creator>Ryan Shaw</dc:creator>
       <category>News</category>
       <description>FSD 14.3.2 puts all three driving systems on a shared model. Also this week: Mercedes removes lidar from its 2027 C-Class and CLA EVs, Tesla Semi production confirmed at 50,000 units per year, and one Illinois driver cut his Tesla insurance bill by 86% using Safety Score 3.0.</description>
-    </item>
-
-    <item>
-      <title>BMW iX3 vs Mercedes GLC Electric: Which German SUV Gets the Reset Right?</title>
-      <link>https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-electric-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-electric-2026.html</guid>
-      <pubDate>Sat, 02 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>CAR magazine</dc:creator>
-      <category>Reviews</category>
-      <description>Two days of back-to-back driving. The GLC Electric rides on air suspension, packs a 39.1-inch hyperscreen, and claims 406 miles. The iX3 claims 500 miles, charges faster at 400 kW, and handles better. Boot space: identical at 520 litres. Real-world consumption: nearly equal.</description>
-    </item>
-
-    <item>
-      <title>Scout Traveler and Terra in Person: 500 Miles, Body-on-Frame, and Under $60,000</title>
-      <link>https://nexusevnews.com/articles/scout-traveler-terra-first-look-gjeebs.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/scout-traveler-terra-first-look-gjeebs.html</guid>
-      <pubDate>Fri, 01 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Gjeebs</dc:creator>
-      <category>News</category>
-      <description>The Scout Traveler is a full-size EREV SUV with 350 miles of battery range and a built-in generator that extends total range to 500 miles. The Terra truck seats six with a front bench. Both start under $60,000. Software is co-developed with Rivian. Production is targeted for 2027 with customer deliveries in 2028. Body-on-frame, solid rear axle, NACS charging port, and a direct-to-consumer sales model. Manufactured in South Carolina.</description>
-    </item>
-
-    <item>
-      <title>The NIO ET9 in Beijing: 925V, 600 kW Charging, and a Suspension You Can Watch from the Back Seat</title>
-      <link>https://nexusevnews.com/articles/nio-et9-beijing-drive-out-of-spec.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/nio-et9-beijing-drive-out-of-spec.html</guid>
-      <pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Reviews</category>
-      <description>Out of Spec Reviews drove the NIO ET9 through Beijing traffic and an early-morning parking lot session. The $100,000 luxury sedan runs on a fully in-house 925V electrical architecture with active suspension, steer-by-wire, rear steer, and DC charging approaching 600 kW. Battery swap takes about 3 minutes. Dual rear seat screens display live suspension power consumption. Not sold outside China. Main criticisms: steer-by-wire response slower than Cybertruck, and active suspension did not fully absorb initial bump impacts.</description>
-    </item>
-
-    <item>
-      <title>New EVs Now Average Less Than New Petrol Cars in the UK, and the Numbers Have a Catch</title>
-      <link>https://nexusevnews.com/articles/uk-evs-now-cheaper-than-petrol-cars-autotrader-data.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/uk-evs-now-cheaper-than-petrol-cars-autotrader-data.html</guid>
-      <pubDate>Fri, 01 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Autotrader</dc:creator>
-      <category>Deep Dives</category>
-      <description>Autotrader UK data shows the average new EV price has fallen £785 below the average new petrol car price for the first time. The crossover is entirely discount-driven: without incentives, EVs are still around 15 percent more expensive. The UK government EV grant contributes up to £3,750 off qualifying vehicles under £37,000 through 2028. Battery costs have fallen 93 percent since 2010. The Renault 5 was the most inquired EV on the platform in April 2026. The VW Golf was the most popular car overall.</description>
-    </item>
-
-    <item>
-      <title>Rivian Q1 2026: R2 Production Starts, Georgia Capacity Raised to 300,000 Units, Guidance Intact</title>
-      <link>https://nexusevnews.com/articles/rivian-q1-2026-earnings-r2-production-starts.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-q1-2026-earnings-r2-production-starts.html</guid>
-      <pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Travis Ketchum</dc:creator>
-      <category>News</category>
-      <description>Rivian delivered 10,365 vehicles in Q1 2026 and posted $1.4 billion in revenue at a 9 percent gross margin. Software and services generated $473 million, up 49 percent year over year, with $282 million from the Volkswagen joint venture. Georgia plant first-phase capacity was raised from 200,000 to 300,000 annual units. Cash on hand: $4.8 billion. A DOE loan of up to $4.5 billion covers Georgia construction. Full-year delivery guidance of 62,000 to 67,000 vehicles is unchanged. Public R2 deliveries expected around June. RAP1 autonomy chip on track.</description>
     </item>
 
 
