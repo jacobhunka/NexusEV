@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>2027 Volvo EX60: A Fully New Electric SUV With Up to 400 Miles of Range</title>
+      <link>https://nexusevnews.com/articles/volvo-ex60-2027-all-electric-suv-full-tour.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/volvo-ex60-2027-all-electric-suv-full-tour.html</guid>
+      <pubDate>Wed, 06 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Doug DeMuro</dc:creator>
+      <category>Reviews</category>
+      <description>Volvo's EX60 is a ground-up electric SUV, 4 inches longer than the XC60, with three trim levels from 370 hp and 310 miles up to 670 hp and 400 miles. NACS is standard, 10 to 80 percent takes around 16 minutes, and US sales start this summer in the mid-to-high $50,000 range.</description>
+    </item>
+
+    <item>
+      <title>Three Cheap EVs, 186 Miles Through Rural Wales: How Did They Hold Up?</title>
+      <link>https://nexusevnews.com/articles/cheap-ev-road-trip-wales-byd-dolphin-citroen-ec3-leap-motor.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/cheap-ev-road-trip-wales-byd-dolphin-citroen-ec3-leap-motor.html</guid>
+      <pubDate>Wed, 06 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric</dc:creator>
+      <category>Reviews</category>
+      <description>A BYD Dolphin Surf, Citroën eC3, and Leap Motor T03 tackle the A470 from North Wales to Cardiff. All three completed the 186-mile route, but both the BYD and Citroën fell well short of their claimed 100 kW charging peaks in real-world conditions.</description>
+    </item>
+
+    <item>
+      <title>Rivian Is Scaling Its Charging Network Ahead of R2 and Opening It to All EVs</title>
+      <link>https://nexusevnews.com/articles/rivian-adventure-network-scaling-for-r2.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-adventure-network-scaling-for-r2.html</guid>
+      <pubDate>Wed, 06 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Rivian</dc:creator>
+      <category>Charging</category>
+      <description>The Adventure Network is expanding with taller chargers, longer cables, and pre-wired underground capacity at existing sites, now open to all EV brands. Most sites have around six stalls today, but the groundwork is already done to expand quickly as R2 demand grows.</description>
+    </item>
+
+    <item>
+      <title>CATL's Shenxing Gen 3 Battery Charges From 10 to 80 Percent in Under 4 Minutes</title>
+      <link>https://nexusevnews.com/articles/catl-shenxing-gen3-fast-charging-long-range-battery-swap.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/catl-shenxing-gen3-fast-charging-long-range-battery-swap.html</guid>
+      <pubDate>Wed, 06 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Battery Tech</category>
+      <description>CATL's Shenxing Generation 3 LFP pack reaches 10 to 80 percent in 3 minutes 40 seconds and full charge in 6 minutes 27 seconds. Cell resistance is 0.25 milliohms, state of health stays above 90 percent after 1,000 cycles, and cold weather at minus 30 degrees Celsius adds only about 3 minutes.</description>
+    </item>
+
+    <item>
+      <title>Pakistan's Solar Boom Is Shielding Some Homes From Energy Shocks. Not Everyone Can Afford It.</title>
+      <link>https://nexusevnews.com/articles/pakistan-solar-boom-iran-war-energy-shock.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/pakistan-solar-boom-iran-war-energy-shock.html</guid>
+      <pubDate>Wed, 06 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>DW News</dc:creator>
+      <category>Solar</category>
+      <description>Grid tariffs rose 155 percent from 2021 to 2024, pushing Pakistan to become the world's largest importer of Chinese solar panels. The government has since taxed panel and battery imports and cut the solar buyback rate by 60 percent, limiting who can access the benefits.</description>
+    </item>
 
     <item>
       <title>Three Charger Failures Later, a Naval Engineer Finally Gets His La Mesa EV Circuit Fixed</title>
@@ -167,55 +217,6 @@
       <description>After 69 career starts, Nico Müller took his first Formula E victory at the Berlin E-Prix, driving for Porsche on the team's 75th motorsport anniversary. Eduardo Mortara leads the drivers championship by four points after round 7 of season 12.</description>
     </item>
 
-    <item>
-      <title>BYD Flash Charging Gets a Real-World Test, and It Holds Up</title>
-      <link>https://nexusevnews.com/articles/byd-flash-charging-real-world-test-batteries-included-podcast.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-flash-charging-real-world-test-batteries-included-podcast.html</guid>
-      <pubDate>Sun, 03 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Batteries Included Podcast</dc:creator>
-      <category>Battery Tech</category>
-      <description>Kyle Conner tested BYD flash charging on a crashed, unprepped Denza in China and completed 10 to 80 percent in approximately seven minutes. BYD has 200 stations live in China and 2,500 more units ready to activate.</description>
-    </item>
-
-    <item>
-      <title>How Pancake-Shaped Motors Could Cut 200 kg from an Electric Car</title>
-      <link>https://nexusevnews.com/articles/yasa-axial-flux-motor-ev-weight-200kg.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/yasa-axial-flux-motor-ev-weight-200kg.html</guid>
-      <pubDate>Sat, 02 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Everything Electric TECH</dc:creator>
-      <category>Deep Dives</category>
-      <description>YASA's axial flux motors are about 20% as thick as a conventional unit and weigh roughly a quarter as much, yet deliver three to four times the power density. Their Oxford factory ships 25,000 units a year. One prototype produced 1,000 horsepower from a motor weighing 12.7 kilograms. Mercedes-Benz acquired YASA in 2021.</description>
-    </item>
-
-    <item>
-      <title>XPeng's City Driving System Takes on FSD in Beijing Traffic</title>
-      <link>https://nexusevnews.com/articles/xpeng-p7-ultra-vla-2-self-driving-beijing.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/xpeng-p7-ultra-vla-2-self-driving-beijing.html</guid>
-      <pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Reviews</category>
-      <description>Kyle Conner drove Tesla FSD in China for 45 minutes, then ran XPeng VLA 2.0 on public roads the same day. The P7 Ultra costs around 300,000 RMB ($42,000 USD), charges at roughly 500 kW, makes 600 horsepower, and uses cameras and radar without lidar.</description>
-    </item>
-
-    <item>
-      <title>This Netherlands E-Bike Commuter Hits 53 km/h on a 1,000W Mid-Drive</title>
-      <link>https://nexusevnews.com/articles/tongsheng-1000w-mid-drive-ebike-commuter-build.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tongsheng-1000w-mid-drive-ebike-commuter-build.html</guid>
-      <pubDate>Sat, 02 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>FLATLANDER TECH</dc:creator>
-      <category>Deep Dives</category>
-      <description>A Netherlands-based builder converts a standard bike with a Tongsheng 1,000W mid-drive motor, 52V battery tucked into rear panniers, and a 3D-printed phone mount. Cruising speed with the current cassette: 53 km/h. The frame looks unmodified until you look closely.</description>
-    </item>
-
-    <item>
-      <title>Tesla Merges FSD, Smart Summon, and Robotaxi onto One Neural Network</title>
-      <link>https://nexusevnews.com/articles/tesla-fsd-14-3-2-mercedes-drops-lidar-ev-news.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-fsd-14-3-2-mercedes-drops-lidar-ev-news.html</guid>
-      <pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Ryan Shaw</dc:creator>
-      <category>News</category>
-      <description>FSD 14.3.2 puts all three driving systems on a shared model. Also this week: Mercedes removes lidar from its 2027 C-Class and CLA EVs, Tesla Semi production confirmed at 50,000 units per year, and one Illinois driver cut his Tesla insurance bill by 86% using Safety Score 3.0.</description>
-    </item>
 
 
   </channel>

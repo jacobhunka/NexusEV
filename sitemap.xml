@@ -3,9 +3,44 @@
 
   <url>
     <loc>https://nexusevnews.com/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/volvo-ex60-2027-all-electric-suv-full-tour.html</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/cheap-ev-road-trip-wales-byd-dolphin-citroen-ec3-leap-motor.html</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/rivian-adventure-network-scaling-for-r2.html</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/catl-shenxing-gen3-fast-charging-long-range-battery-swap.html</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/pakistan-solar-boom-iran-war-energy-shock.html</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <url>
