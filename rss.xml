@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,56 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>Rivian's CEO on R2, AI-Defined Vehicles, and Why Every Automaker Needs a Software Platform</title>
+      <link>https://nexusevnews.com/articles/rivian-rj-scaringe-r2-ai-defined-vehicles-act-expo.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-rj-scaringe-r2-ai-defined-vehicles-act-expo.html</guid>
+      <pubDate>Thu, 07 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>The Electric Duo</dc:creator>
+      <category>Deep Dives</category>
+      <description>RJ Scaringe speaks at ACT Expo about ramping the $45,000 R2, the $5.8 billion Volkswagen software licensing deal, Amazon's 30,000-plus electric vans, and his argument that a connected, self-driving platform will be a prerequisite for market share by 2035.</description>
+    </item>
+
+    <item>
+      <title>How a Japanese Climate Activist Got 17 Coal Projects Cancelled and What She's Building Next</title>
+      <link>https://nexusevnews.com/articles/kimiko-hirata-japan-coal-cancellations-clean-energy-ted.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/kimiko-hirata-japan-coal-cancellations-clean-energy-ted.html</guid>
+      <pubDate>Thu, 07 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>TED</dc:creator>
+      <category>Deep Dives</category>
+      <description>Kimiko Hirata's multi-year campaign against coal expansion in Japan led to 17 project cancellations totaling 9 gigawatts, Japan's first shareholder climate activism at Mizuho bank, and a new think tank building the affirmative case for 90 percent renewables.</description>
+    </item>
+
+    <item>
+      <title>VW, BMW, and Mercedes Are Running Full Urban Driver Assistance in China. Western Buyers Don't Get It.</title>
+      <link>https://nexusevnews.com/articles/momenta-driver-assistance-vw-bmw-mercedes-china-first-look.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/momenta-driver-assistance-vw-bmw-mercedes-china-first-look.html</guid>
+      <pubDate>Thu, 07 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Reviews</category>
+      <description>Out of Spec Reviews drives the Volkswagen ID Era 9X through Beijing traffic on the Momenta driver assistance system, which also runs in BMW and Mercedes vehicles in China. The result is comparable to Tesla FSD. Western markets get Travel Assist.</description>
+    </item>
+
+    <item>
+      <title>A Solar EV Charger That Arrives on a Truck, Needs No Foundations, and Pays Back the Hospital That Owns It</title>
+      <link>https://nexusevnews.com/articles/halo-fasthub-solar-ev-charging-manchester-hospital.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/halo-fasthub-solar-ev-charging-manchester-hospital.html</guid>
+      <pubDate>Thu, 07 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric TECH</dc:creator>
+      <category>Charging</category>
+      <description>3TI's Halo FastHub installs at a Manchester hospital in three days with no concrete foundations, solar supplementing 30 to 40 percent of charging, and revenue from electricity sales going back to the hospital that owns the units.</description>
+    </item>
+
+    <item>
+      <title>Ford Is Building a $30,000 Electric Truck Designed to Compete With What China Offers</title>
+      <link>https://nexusevnews.com/articles/ford-30000-electric-truck-announced.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ford-30000-electric-truck-announced.html</guid>
+      <pubDate>Thu, 07 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>MS NOW</dc:creator>
+      <category>News</category>
+      <description>Ford has revealed a secretly developed $30,000 American-made electric truck with around 300 miles of range, timed as battery costs fall below $100 per kilowatt-hour for the first time and US EV demand rises.</description>
+    </item>
 
     <item>
       <title>2027 Volvo EX60: A Fully New Electric SUV With Up to 400 Miles of Range</title>
@@ -158,16 +208,6 @@
     </item>
 
     <item>
-      <title>One Year of Solar and Battery: Under £3,000 Saved, 6.4 Years to Break Even</title>
-      <link>https://nexusevnews.com/articles/solar-battery-full-year-review-18990-payback-64-years.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/solar-battery-full-year-review-18990-payback-64-years.html</guid>
-      <pubDate>Mon, 04 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Andrew Till / Mr. EV</dc:creator>
-      <category>Solar</category>
-      <description>After 12 months with 30 solar panels and two Alpha batteries, a UK homeowner saved just under £3,000. The payback on an £18,990 system works out to 6.4 years, better than the installer's original 7 to 8 year estimate.</description>
-    </item>
-
-    <item>
       <title>Atlanta, Rivian, and the Quiet Coincidence</title>
       <link>https://nexusevnews.com/opinion-atlanta-rivian-quiet-coincidence.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-atlanta-rivian-quiet-coincidence.html</guid>
@@ -175,46 +215,6 @@
       <dc:creator>Jacob Hunka</dc:creator>
       <category>Opinion</category>
       <description>Atlanta has a failing air quality grade and a Rivian plant on its doorstep. A hypothetical about what one city could do with the electric mobility infrastructure that already exists — R2 autonomous taxis, ALSO cargo quads, e-bikes, and ZTL-style restricted zones — and what the health data says the stakes actually are. Includes data from the HEI lockdown air quality study (Chen et al., 2025) and the American Lung Association's 2025 Atlanta air quality report.</description>
-    </item>
-
-    <item>
-      <title>One Wheel, 1,000 Horsepower: Inside the YASA In-Wheel Motor System</title>
-      <link>https://nexusevnews.com/articles/yasa-in-wheel-motor-1000hp-drive-system-design.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/yasa-in-wheel-motor-1000hp-drive-system-design.html</guid>
-      <pubDate>Sun, 03 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Ziroth</dc:creator>
-      <category>Deep Dives</category>
-      <description>YASA and Drive System Design built an in-wheel system delivering 750 kW peak and 400 kW continuous that weighs the same as the brakes, upright, and wheel bearings it replaces. The 12-kilogram axial flux motor pairs with a 6.2:1 planetary gearbox, and the assembly is validated under 3G cornering loads using a hydraulic multi-axis test rig.</description>
-    </item>
-
-    <item>
-      <title>Off the Grid on $25,500: Running a Full House, an EV, and a Bitcoin Miner on Solar</title>
-      <link>https://nexusevnews.com/articles/ecoflow-delta-pro-ultra-x-25500-solar-house-full-setup.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ecoflow-delta-pro-ultra-x-25500-solar-house-full-setup.html</guid>
-      <pubDate>Sun, 03 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Minute Man Solar</dc:creator>
-      <category>Solar</category>
-      <description>An EcoFlow Delta Pro Ultra X with six battery modules, 23 bifacial panels on portable stands, and a grid interlock kit runs a full California house, a Rivian R1S, a Bitcoin miner, and a 3D print farm for $25,500. No permits required for the temporary panel setup.</description>
-    </item>
-
-    <item>
-      <title>Three Wheels, Solar Panels, and a 2026 Delivery Target: Inside Aptera's Factory</title>
-      <link>https://nexusevnews.com/articles/aptera-solar-ev-ceo-interview-factory-tour-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/aptera-solar-ev-ceo-interview-factory-tour-2026.html</guid>
-      <pubDate>Sun, 03 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Realistick</dc:creator>
-      <category>Deep Dives</category>
-      <description>Aptera's CEO walked through the Carlsbad factory ahead of a planned end-of-2026 launch. The three-wheeled solar EV targets 100 Wh per mile on a 43 kWh pack, uses a 150 kW Vitesco motor, and is priced at $40,000 at launch.</description>
-    </item>
-
-    <item>
-      <title>Nico Müller Wins in Berlin at the 69th Attempt, on Porsche's 75th Motorsport Anniversary</title>
-      <link>https://nexusevnews.com/articles/nico-muller-first-win-formula-e-berlin-season-12.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/nico-muller-first-win-formula-e-berlin-season-12.html</guid>
-      <pubDate>Sun, 03 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Formula E</dc:creator>
-      <category>News</category>
-      <description>After 69 career starts, Nico Müller took his first Formula E victory at the Berlin E-Prix, driving for Porsche on the team's 75th motorsport anniversary. Eduardo Mortara leads the drivers championship by four points after round 7 of season 12.</description>
     </item>
 
 
