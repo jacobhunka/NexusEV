@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,46 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>Tesla Semi's Series Production Model, Explained by the Engineer Behind It</title>
+      <link>https://nexusevnews.com/articles/series-production-tesla-semi-tour-dan-priestley-act-expo.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/series-production-tesla-semi-tour-dan-priestley-act-expo.html</guid>
+      <pubDate>Fri, 08 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Reviews</category>
+      <description>Kyle Conner and Tesla Semi program lead Dan Priestley walk through the changes from the early beta fleet to the current series production truck, covering the new 4680 battery pack, MCS 3.2 charging standard, dual-axle drivetrain design, and the 25 kW ePTO port being standardized for electric trailer equipment.</description>
+    </item>
+
+    <item>
+      <title>Porsche Taycan Turbo GT with Manthey Kit Sets New EV Record at the Nürburgring</title>
+      <link>https://nexusevnews.com/articles/porsche-taycan-turbo-gt-manthey-kit-nurburgring-record.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/porsche-taycan-turbo-gt-manthey-kit-nurburgring-record.html</guid>
+      <pubDate>Fri, 08 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Porsche</dc:creator>
+      <category>Reviews</category>
+      <description>On-board footage from Lars Kern's 6:55.533 Nordschleife record lap on April 15, beating the previous electric executive car record by more than nine seconds. The Manthey Kit is the first developed for an electric Porsche and covers aerodynamics, powertrain, brakes, suspension, and wheels.</description>
+    </item>
+
+    <item>
+      <title>Waymo and Zoox Are Competing for the Ride-Hailing Market. The Economics Are Still Being Worked Out.</title>
+      <link>https://nexusevnews.com/articles/waymo-zoox-robotaxis-reshape-ride-hailing-ft.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/waymo-zoox-robotaxis-reshape-ride-hailing-ft.html</guid>
+      <pubDate>Fri, 08 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Financial Times</dc:creator>
+      <category>News</category>
+      <description>The FT examines how Waymo and Amazon-owned Zoox are reshaping urban ride-hailing, with Waymo logging 127 million driverless miles with no fatal crashes and robo taxi fares running roughly a third above comparable Uber rides in San Francisco.</description>
+    </item>
+
+    <item>
+      <title>Lexus Reveals the 2027 TZ: A Three-Row Electric SUV Built Around Cabin Silence and V2H Power</title>
+      <link>https://nexusevnews.com/articles/2027-lexus-tz-world-premiere-three-row-electric-suv.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/2027-lexus-tz-world-premiere-three-row-electric-suv.html</guid>
+      <pubDate>Fri, 08 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>REC Anything</dc:creator>
+      <category>News</category>
+      <description>Lexus unveiled the 2027 TZ at Toyota's Technical Center in Japan, presenting a three-row BEV with V2H bidirectional charging, a 5.2-second 0-100 km/h time, 3,500 lb towing capacity, and access to the NACS Supercharger network.</description>
+    </item>
 
     <item>
       <title>Rivian's CEO on R2, AI-Defined Vehicles, and Why Every Automaker Needs a Software Platform</title>
@@ -165,46 +205,6 @@
       <dc:creator>Misha Charoudin</dc:creator>
       <category>Reviews</category>
       <description>A privately built carbon widebody Tesla Model 3 Performance with a full cage, KW two-way competition suspension, StopTech brakes, and 315-section tires laps the Nürburgring in a public trackday session. Misha Charoudin drove it and found a work in progress with genuinely strong brakes.</description>
-    </item>
-
-    <item>
-      <title>CATL at Auto China: Superfast Charging, 99-Second Battery Swaps, and the Whole Ecosystem Behind It</title>
-      <link>https://nexusevnews.com/articles/catl-auto-china-shenxing-battery-swap-ecosystem-kim-java.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/catl-auto-china-shenxing-battery-swap-ecosystem-kim-java.html</guid>
-      <pubDate>Mon, 04 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Kim Java</dc:creator>
-      <category>Battery Tech</category>
-      <description>Kim Java flew to Auto China to see CATL's Shenxing III LFP battery, which charges from 10 to 80 percent in under four minutes, alongside the Qilin 3 NCM pack and a battery swap network that processes a full pack change in 99 seconds.</description>
-    </item>
-
-    <item>
-      <title>EV Adoption Is Outrunning Oil Prices. New Research Explains Why.</title>
-      <link>https://nexusevnews.com/articles/lse-research-ev-transition-systemic-path-dependent.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/lse-research-ev-transition-systemic-path-dependent.html</guid>
-      <pubDate>Mon, 04 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Just Have a Think</dc:creator>
-      <category>Deep Dives</category>
-      <description>A London School of Economics paper published in March 2025 argues that EV adoption is now driven by systemic, path-dependent forces, shaped by infrastructure, policy, and self-reinforcing feedback loops rather than oil price movements alone.</description>
-    </item>
-
-    <item>
-      <title>2026 Polestar 3: More Power, Faster Charging, Slightly Less Range</title>
-      <link>https://nexusevnews.com/articles/2026-polestar-3-review-800v-faster-charging-dual-motor.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/2026-polestar-3-review-800v-faster-charging-dual-motor.html</guid>
-      <pubDate>Mon, 04 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Autotrader</dc:creator>
-      <category>Reviews</category>
-      <description>The updated Polestar 3 gains 800V architecture, 350 kW charging, and 536 bhp from revised dual motors. The trade-off is a smaller battery and a maximum range of 394 miles, down from the previous long-range model.</description>
-    </item>
-
-    <item>
-      <title>China's Best-Selling Car Is Coming to Europe: First Look at the Geely EX2</title>
-      <link>https://nexusevnews.com/articles/geely-ex2-china-bestselling-ev-europe-uk-first-look.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/geely-ex2-china-bestselling-ev-europe-uk-first-look.html</guid>
-      <pubDate>Mon, 04 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>News</category>
-      <description>The Geely EX2 outsold every other car in China last year with around 465,000 units. It arrives in the UK in late 2026 priced from around £20,000, with a 375-litre boot, a 75-litre frunk, and a choice of 30 or 40 kWh batteries.</description>
     </item>
 
     <item>
