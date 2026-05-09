@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,66 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+    <item>
+      <title>Two Batteries, One Hitch, and the Case for All-Electric Glamping</title>
+      <link>https://nexusevnews.com/opinion-rivian-lightship-glamping.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/opinion-rivian-lightship-glamping.html</guid>
+      <pubDate>Sat, 09 May 2026 21:30:00 +0000</pubDate>
+      <dc:creator>Jacob Hunka</dc:creator>
+      <category>Opinion</category>
+      <description>The Lightship AE1 carries its own 69 kWh battery and 80 kW motor to neutralize trailer drag on the tow vehicle. Paired with a Rivian, the real-world efficiency numbers are hard to argue with. This is what all-electric glamping looks like when the hardware actually works.</description>
+    </item>
+
+    <item>
+      <title>Rivian Has an Uber Robotaxi Deal, a DoorDash Bot Spinoff, and Made the $20,000 VW ID.1 Possible</title>
+      <link>https://nexusevnews.com/articles/rivian-uber-robotaxi-also-doordash-vw-id1-munro-live.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-uber-robotaxi-also-doordash-vw-id1-munro-live.html</guid>
+      <pubDate>Sat, 09 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Munro Live</dc:creator>
+      <category>News</category>
+      <description>RJ Scaringe confirmed a deal with Uber to build a robotaxi on the R2 platform and described DoorDash delivery bots being built by Rivian spinoff ALSO. He also explained how the same zonal computing architecture behind the R1 and R2 let Volkswagen engineer the ID.1 at a roughly $20,000 price point.</description>
+    </item>
+
+    <item>
+      <title>Scout's Traveler and Terra Get a Style Refresh. The 2027 Production Target Hasn't Changed.</title>
+      <link>https://nexusevnews.com/articles/scout-traveler-terra-mudfest-2026-update-production-timeline.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/scout-traveler-terra-mudfest-2026-update-production-timeline.html</guid>
+      <pubDate>Sat, 09 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>The Fast Lane Car</dc:creator>
+      <category>News</category>
+      <description>The Traveler wears a new matte white called White Cap with 20-inch wheels and 35-inch KO3 tires, and the brick-red interior is the most complete cabin look yet. Running and driving mules are in cold-weather testing in Europe. Production is still on for 2027, deliveries in 2028, and 85% of reservations are the range-extended Harvester trim.</description>
+    </item>
+
+    <item>
+      <title>Sierro Is a Plug-In Home Battery Backup That Skips the Electrician</title>
+      <link>https://nexusevnews.com/articles/sierro-home-battery-backup-lfp-plug-in-kim-java.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/sierro-home-battery-backup-lfp-plug-in-kim-java.html</guid>
+      <pubDate>Sat, 09 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Kim Java</dc:creator>
+      <category>Battery Tech</category>
+      <description>Sierro is a plug-in LFP home battery that plugs into a standard outlet, switches over in under 15 milliseconds during a power outage, and supports MPPT solar charging. Rated for 8,000 cycles with a five-year warranty and no installation required.</description>
+    </item>
+
+    <item>
+      <title>Wayve CEO on Why Licensing Its AI Driver Is the Biggest Bet in Autonomous Vehicles</title>
+      <link>https://nexusevnews.com/articles/wayve-ceo-ai-self-driving-licensing-model-bloomberg.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/wayve-ceo-ai-self-driving-licensing-model-bloomberg.html</guid>
+      <pubDate>Sat, 09 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Bloomberg Technology</dc:creator>
+      <category>Deep Dives</category>
+      <description>Wayve's CEO argued that licensing its AI driving platform to automakers represents a larger market than building cars or running robotaxi fleets. A live demonstration in London's Kings Cross used six cameras and one radar with no maps, and the safety driver's hands stayed off the wheel throughout.</description>
+    </item>
+
+    <item>
+      <title>The Chevrolet Bolt Is Back, and It's Still the Best-Value EV You Can Buy</title>
+      <link>https://nexusevnews.com/articles/chevrolet-bolt-ev-return-review-edmunds.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/chevrolet-bolt-ev-return-review-edmunds.html</guid>
+      <pubDate>Sat, 09 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Edmunds Cars</dc:creator>
+      <category>Reviews</category>
+      <description>Edmunds tested the returning Chevrolet Bolt and found 290 real-world miles against a 262-mile EPA estimate, a starting price just under $29,000, NACS charging that runs three times faster than the previous generation, and a chassis that still surprises at this price point.</description>
+    </item>
 
     <item>
       <title>Tesla Semi's Series Production Model, Explained by the Engineer Behind It</title>
@@ -155,56 +215,6 @@
       <dc:creator>DW News</dc:creator>
       <category>Solar</category>
       <description>Grid tariffs rose 155 percent from 2021 to 2024, pushing Pakistan to become the world's largest importer of Chinese solar panels. The government has since taxed panel and battery imports and cut the solar buyback rate by 60 percent, limiting who can access the benefits.</description>
-    </item>
-
-    <item>
-      <title>Three Charger Failures Later, a Naval Engineer Finally Gets His La Mesa EV Circuit Fixed</title>
-      <link>https://nexusevnews.com/articles/ev-home-charger-safety-la-mesa-recharge-rescue.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ev-home-charger-safety-la-mesa-recharge-rescue.html</guid>
-      <pubDate>Tue, 05 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>State of Charge</dc:creator>
-      <category>Charging</category>
-      <description>A 22-year active-duty naval engineer in La Mesa lost three Wallbox chargers to a badly installed 60-amp circuit with nicked wires, the wrong wire type, and an unnecessary junction box. Tom Moloughney and Trout Electric spent 12 hours diagnosing and rebuilding the whole run.</description>
-    </item>
-
-    <item>
-      <title>The Volkswagen Three-Row That Sells in China for $51,000 and Won't Come Here Anytime Soon</title>
-      <link>https://nexusevnews.com/articles/volkswagen-id-era-9x-china-range-extended-ev.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/volkswagen-id-era-9x-china-range-extended-ev.html</guid>
-      <pubDate>Tue, 05 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Reviews</category>
-      <description>The ID. Era 9X is a 500-horsepower range-extended three-row EV on an 800V architecture, built through a SAIC-Volkswagen joint venture and selling in China for around $51,000 fully loaded. Out of Spec Reviews and a German EV creator toured the car at the Beijing Auto Show.</description>
-    </item>
-
-    <item>
-      <title>Geely Already Has US Factories, Dealerships, and a Brand That Could Sell Here Tomorrow</title>
-      <link>https://nexusevnews.com/articles/geely-us-market-position-volvo-polestar-zeekr.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/geely-us-market-position-volvo-polestar-zeekr.html</guid>
-      <pubDate>Tue, 05 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>CNBC</dc:creator>
-      <category>News</category>
-      <description>Through its stakes in Volvo, Polestar, and Lotus, Geely Holding already has US dealership networks, a South Carolina factory, and established supply chains. Analysts identify Zeekr as the most likely next brand entry point for US consumers.</description>
-    </item>
-
-    <item>
-      <title>How Fast Do EV Batteries Actually Degrade, and How to Test One Before You Buy</title>
-      <link>https://nexusevnews.com/articles/used-ev-battery-health-how-to-check-before-buying.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/used-ev-battery-health-how-to-check-before-buying.html</guid>
-      <pubDate>Tue, 05 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Engineering with Rosie</dc:creator>
-      <category>Used EVs</category>
-      <description>A Geotab study of over 20,000 EVs finds average battery capacity loss of 2.3% per year. Engineering with Rosie covers the data, the causes of faster degradation, and two practical tools for checking state of health before buying a used EV.</description>
-    </item>
-
-    <item>
-      <title>A Stripped, Caged, 315-Wide Tesla Model 3 Performance Laps the Nürburgring</title>
-      <link>https://nexusevnews.com/articles/tesla-model-3-performance-widebody-nurburgring.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-3-performance-widebody-nurburgring.html</guid>
-      <pubDate>Tue, 05 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Misha Charoudin</dc:creator>
-      <category>Reviews</category>
-      <description>A privately built carbon widebody Tesla Model 3 Performance with a full cage, KW two-way competition suspension, StopTech brakes, and 315-section tires laps the Nürburgring in a public trackday session. Misha Charoudin drove it and found a work in progress with genuinely strong brakes.</description>
     </item>
 
     <item>
