@@ -338,6 +338,10 @@
   .card-img-wrap { overflow: hidden; position: relative; }
   .card-img.logo-img { object-fit: contain; background: var(--surface2); padding: 1.5rem; filter: brightness(1); }
   .card:hover .card-img.logo-img { filter: brightness(1); transform: none; }
+  .brief-collage { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; width: 100%; aspect-ratio: 16/9; gap: 1px; background: var(--bg); }
+  .brief-collage img { width: 100%; height: 100%; object-fit: cover; display: block; filter: brightness(0.88); transition: filter 0.3s; }
+  .card:hover .brief-collage img { filter: brightness(1.02); }
+  .brief-collage-fade { position: absolute; inset: 0; background: linear-gradient(to bottom, transparent 55%, rgba(10,11,15,0.55) 100%); pointer-events: none; }
 
   .card-tag {
     position: absolute;
@@ -1721,7 +1725,13 @@
        aria-label="Daily Thread: The EV market is splitting into two lanes at once. Today's five stories cover a $3,500 e-bike, a $25,000 truck, a €100,000 luxury SUV, a Daniel Craig ad, and a forest camping trip. The gap between them is the story."></a>
     <div class="card-img-wrap">
       <span class="card-tag tag-brief">Daily Brief</span>
-      <img src="/favicon.png" class="card-img logo-img" alt="nexusEVnews daily brief"/>
+      <div class="brief-collage">
+        <img src="https://img.youtube.com/vi/M5jF-i-wv8U/mqdefault.jpg" alt="BMW iX road trip" loading="lazy">
+        <img src="https://img.youtube.com/vi/OxWH2cE2x1U/mqdefault.jpg" alt="Also TMB e-bike" loading="lazy">
+        <img src="https://img.youtube.com/vi/L6_9_HHLOSY/mqdefault.jpg" alt="Slate truck" loading="lazy">
+        <img src="https://img.youtube.com/vi/SGnFFnXN-f4/mqdefault.jpg" alt="EV glamping" loading="lazy">
+      </div>
+      <div class="brief-collage-fade"></div>
     </div>
     <div class="card-body">
       <div class="card-source">nexusEVnews</div>
