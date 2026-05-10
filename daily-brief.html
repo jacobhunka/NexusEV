@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5TSZNJ78Y5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-5TSZNJ78Y5');
+</script>
+<!-- AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3373030770873954"
+     crossorigin="anonymous"></script>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Daily Brief | nexusEVnews</title>
+<meta name="description" content="A short editorial thread connecting each day's EV stories. Published daily by nexusEVnews."/>
+<link rel="canonical" href="https://nexusevnews.com/daily-brief.html"/>
+<link rel="icon" href="/favicon.png" type="image/png"/>
+<!-- Open Graph -->
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="Daily Brief | nexusEVnews"/>
+<meta property="og:description" content="A short editorial thread connecting each day's EV stories. Published daily by nexusEVnews."/>
+<meta property="og:image" content="https://nexusevnews.com/og-image.jpg"/>
+<meta property="og:url" content="https://nexusevnews.com/daily-brief.html"/>
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="Daily Brief | nexusEVnews"/>
+<meta name="twitter:description" content="A short editorial thread connecting each day's EV stories. Published daily by nexusEVnews."/>
+<meta name="twitter:image" content="https://nexusevnews.com/og-image.jpg"/>
+<meta name="twitter:site" content="@nexusevnews"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet"/>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #0a0b0f; --surface: #111318; --surface2: #1a1d24;
+    --border: #1f2330; --accent: #00d4ff; --text: #e8eaf0; --muted: #6b7280;
+    --brief: #f59e0b;
+  }
+  body { font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+  header { position: sticky; top: 0; z-index: 100; background: rgba(10,11,15,0.94); backdrop-filter: blur(14px); border-bottom: 1px solid var(--border); padding: 0 2rem; display: flex; align-items: center; justify-content: space-between; height: 62px; }
+  .logo { font-family: 'Bebas Neue', sans-serif; font-size: 1.85rem; letter-spacing: 0.06em; color: var(--text); text-decoration: none; display: flex; align-items: center; gap: 0.6rem; }
+  .logo .ev { color: var(--accent); }
+  .logo-text-wrap { display: flex; flex-direction: column; justify-content: center; line-height: 1; }
+  .logo-name { display: block; line-height: 1; }
+  .logo-tagline { font-family: 'DM Mono', monospace; font-size: 0.5rem; letter-spacing: 0.14em; color: var(--muted); text-transform: uppercase; display: block; margin-top: 3px; }
+  nav { display: flex; gap: 0.2rem; align-items: center; }
+  nav a { font-size: 0.76rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); text-decoration: none; padding: 0.35rem 0.7rem; border-radius: 4px; transition: color 0.2s, background 0.2s; }
+  nav a:hover { color: var(--text); background: var(--surface2); }
+  nav a.active { color: var(--brief); }
+
+  /* Page hero */
+  .brief-hero { max-width: 800px; margin: 0 auto; padding: 3.5rem 2rem 2rem; border-bottom: 1px solid var(--border); }
+  .brief-hero-label { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--brief); display: block; margin-bottom: 0.75rem; }
+  .brief-hero h1 { font-family: 'Bebas Neue', sans-serif; font-size: clamp(2.8rem, 7vw, 4.5rem); line-height: 1; letter-spacing: 0.03em; margin-bottom: 1rem; }
+  .brief-hero p { font-size: 0.95rem; color: var(--muted); line-height: 1.7; max-width: 560px; }
+
+  /* Entry list */
+  .brief-list { max-width: 800px; margin: 0 auto; padding: 0 2rem 5rem; }
+  .brief-entry { padding: 2.5rem 0; border-bottom: 1px solid var(--border); }
+  .brief-entry:last-child { border-bottom: none; }
+  .brief-entry-date { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--brief); margin-bottom: 0.6rem; display: block; }
+  .brief-entry h2 { font-family: 'Bebas Neue', sans-serif; font-size: clamp(1.5rem, 3vw, 2rem); line-height: 1.1; letter-spacing: 0.02em; margin-bottom: 0.75rem; }
+  .brief-entry h2 a { color: var(--text); text-decoration: none; transition: color 0.2s; }
+  .brief-entry h2 a:hover { color: var(--brief); }
+  .brief-entry-blurb { font-size: 0.95rem; color: var(--muted); line-height: 1.7; margin-bottom: 1rem; }
+  .brief-read { font-family: 'DM Mono', monospace; font-size: 0.7rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--brief); text-decoration: none; transition: opacity 0.2s; }
+  .brief-read:hover { opacity: 0.75; }
+
+  footer { border-top: 1px solid var(--border); padding: 2rem 2rem 3rem; text-align: center; }
+  footer p { font-family: 'DM Mono', monospace; font-size: 0.64rem; color: var(--muted); letter-spacing: 0.06em; line-height: 1.8; }
+  footer a { color: var(--accent); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+  @media (max-width: 700px) { nav { display: none; } .brief-hero { padding: 2.5rem 1.25rem 1.5rem; } .brief-list { padding: 0 1.25rem 4rem; } }
+</style>
+</head>
+<body>
+<header>
+  <a class="logo" href="/">
+    <svg aria-hidden="true" fill="none" height="40" viewBox="0 0 36 40" width="36">
+      <polygon fill="rgba(0,212,255,0.07)" points="18,2 34,11 34,29 18,38 2,29 2,11" stroke="rgba(0,212,255,0.35)" stroke-width="1"></polygon>
+      <polygon fill="rgba(0,212,255,0.1)" points="18,4 32,12 32,28 18,36 4,28 4,12" stroke="#00d4ff" stroke-width="1.5"></polygon>
+      <path d="M22 9L12 22H20L14 32L26 18H18L22 9Z" fill="#00d4ff"></path>
+    </svg>
+    <div class="logo-text-wrap">
+      <span class="logo-name">NEXUS<span class="ev">EV</span><span style="font-size:0.55em;color:var(--text);letter-spacing:0.02em;vertical-align:baseline;">news</span></span>
+      <span class="logo-tagline">EV &amp; Renewable Energy</span>
+    </div>
+  </a>
+  <nav>
+    <a href="/">Latest</a>
+    <a href="/#cardGrid">Reviews</a>
+    <a href="/#cardGrid">Battery Tech</a>
+    <a href="/#cardGrid">Charging</a>
+    <a href="/#cardGrid">Deep Dives</a>
+    <a href="/opinion.html">Opinion</a>
+    <a href="/daily-brief.html" class="active">Daily Brief</a>
+  </nav>
+</header>
+
+<div class="brief-hero">
+  <span class="brief-hero-label">nexusEVnews</span>
+  <h1>Daily Brief</h1>
+  <p>A short editorial thread connecting each day's stories. What does the news mean together? Published every day.</p>
+</div>
+
+<div class="brief-list">
+
+  <!-- ============================================================ -->
+  <!-- ADD NEW ENTRIES AT THE TOP. COPY THE BLOCK BELOW AND PASTE. -->
+  <!-- ============================================================ -->
+
+  <div class="brief-entry">
+    <span class="brief-entry-date">May 10, 2026</span>
+    <h2><a href="articles/daily-brief-may-10-2026.html">The EV Market Is Splitting in Two, and Today's Stories Show Both Sides</a></h2>
+    <p class="brief-entry-blurb">From a $3,500 e-bike to a €100,000 luxury SUV in one day. The affordable end is getting better faster than anyone expected. The premium end is getting more competitive. The middle is quietly getting squeezed.</p>
+    <a class="brief-read" href="articles/daily-brief-may-10-2026.html">Read thread &rarr;</a>
+  </div>
+
+</div>
+
+<footer>
+  <p>
+    <a href="https://nexuscurrent.beehiiv.com/subscribe" target="_blank" rel="noopener">Subscribe to Nexus Current</a> &nbsp;·&nbsp;
+    <a href="/about.html">About</a> &nbsp;·&nbsp;
+    <a href="/contact.html">Contact</a> &nbsp;·&nbsp;
+    <a href="/privacy.html">Privacy</a> &nbsp;·&nbsp;
+    <a href="/terms.html">Terms</a>
+  </p>
+  <p style="margin-top:0.5rem;">&copy; 2026 nexusEVnews. Independent. No brand deals.</p>
+</footer>
+</body>
+</html>

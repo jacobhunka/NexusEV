@@ -124,6 +124,8 @@
   nav a.active { color: var(--accent); }
   nav a.solar-nav { color: #c47d0a; }
   nav a.solar-nav:hover { color: var(--solar); background: rgba(245,158,11,0.08); }
+  nav a.brief-nav { color: #c47d0a; }
+  nav a.brief-nav:hover { color: #f59e0b; background: rgba(245,158,11,0.08); }
 
   .header-right { display: flex; align-items: center; gap: 0.75rem; }
 
@@ -926,6 +928,7 @@
 <a class="solar-nav" href="#cardGrid" onclick="filterFromNav(event,'solar')">Solar ☀</a>
 <a href="#cardGrid" onclick="filterFromNav(event,'deep-dives')">Deep Dives</a>
 <a href="opinion.html">Opinion</a>
+<a class="brief-nav" href="/daily-brief.html">Daily Brief</a>
 </nav>
 <div class="header-right">
 <button aria-label="Search articles" class="search-btn" onclick="searchOpen()">
