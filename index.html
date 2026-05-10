@@ -122,8 +122,6 @@
   }
   nav a:hover { color: var(--text); background: var(--surface2); }
   nav a.active { color: var(--accent); }
-  nav a.solar-nav { color: #c47d0a; }
-  nav a.solar-nav:hover { color: var(--solar); background: rgba(245,158,11,0.08); }
   nav a.brief-nav { color: #c47d0a; }
   nav a.brief-nav:hover { color: #f59e0b; background: rgba(245,158,11,0.08); }
 
@@ -226,6 +224,24 @@
     text-transform: uppercase;
     margin-top: 0.65rem;
   }
+  .hero-brief-line {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1rem;
+    color: var(--muted);
+    margin-top: 0.75rem;
+    letter-spacing: 0.01em;
+    max-width: 560px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5;
+  }
+  .hero-brief-line a {
+    color: #f59e0b;
+    text-decoration: none;
+    font-weight: 500;
+    transition: opacity 0.2s;
+  }
+  .hero-brief-line a:hover { opacity: 0.75; }
   .hero-headline {
     font-family: 'Bebas Neue', sans-serif;
     font-size: clamp(2.31rem, 5.25vw, 4.725rem);
@@ -929,10 +945,10 @@
 <a href="#cardGrid" onclick="filterFromNav(event,'reviews')">Reviews</a>
 <a href="#cardGrid" onclick="filterFromNav(event,'battery-tech')">Battery Tech</a>
 <a href="#cardGrid" onclick="filterFromNav(event,'charging')">Charging</a>
-<a class="solar-nav" href="#cardGrid" onclick="filterFromNav(event,'solar')">Solar ☀</a>
+<a class="brief-nav" href="/daily-brief.html">Daily Brief</a>
 <a href="#cardGrid" onclick="filterFromNav(event,'deep-dives')">Deep Dives</a>
 <a href="opinion.html">Opinion</a>
-<a class="brief-nav" href="/daily-brief.html">Daily Brief</a>
+<a class="solar-nav" href="#cardGrid" onclick="filterFromNav(event,'solar')">Solar</a>
 </nav>
 <div class="header-right">
 <button aria-label="Search articles" class="search-btn" onclick="searchOpen()">
@@ -978,16 +994,13 @@
 <span class="hero-line-outline">CONNECTED.</span>
 </h1>
 <div class="hero-divider"></div>
-<div class="hero-sub">
-      Electric vehicles · Battery tech · Charging ·
-      <span>Solar &amp; renewables</span>
-</div>
 <div class="hero-date" id="heroDate">Sunday, May 10 · 2026</div>
-<div style="margin-top:1.5rem;">
-<a href="https://nexuscurrent.beehiiv.com/subscribe" rel="noopener" style="display:inline-block;font-family:'DM Sans',sans-serif;font-size:0.85rem;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;background:var(--accent);color:#000;padding:0.65rem 1.6rem;border-radius:4px;text-decoration:none;" target="_blank">
-        ⚡ Subscribe to Nexus Current
-      </a>
-<div style="font-size:0.78rem;color:var(--muted);margin-top:0.6rem;font-family:'DM Sans',sans-serif;line-height:1.55;max-width:340px;margin-left:auto;margin-right:auto;">The week's best EV and energy stories, curated by a human. No brand deals, no noise. Free, every week.</div>
+<div class="hero-brief-line">Today's thread: <a href="articles/daily-brief-may-10-2026.html">The EV Market Is Splitting in Two, and Today's Stories Show Both Sides</a> &rarr;</div>
+<div style="margin-top:1.5rem; display:inline-block; background:var(--surface2); border:1px solid var(--border); border-radius:8px; overflow:hidden; max-width:340px; width:100%;">
+  <a href="https://nexuscurrent.beehiiv.com/subscribe" rel="noopener" target="_blank" style="display:block; font-family:'DM Sans',sans-serif; font-size:0.85rem; font-weight:600; letter-spacing:0.06em; text-transform:uppercase; background:var(--accent); color:#000; padding:0.65rem 1.6rem; text-decoration:none;">
+    ⚡ Subscribe to Nexus Current
+  </a>
+  <div style="font-size:0.75rem; color:var(--muted); font-family:'DM Sans',sans-serif; line-height:1.55; padding:0.55rem 1rem;">The week's best EV and energy stories, curated by a human. No brand deals, no noise. Free, every week.</div>
 </div>
 </div>
 </div>
