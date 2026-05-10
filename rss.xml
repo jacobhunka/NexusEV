@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,57 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+
+    <item>
+      <title>The BMW iX Still Has Tricks the iX3 Can't Match, But the Price Gap Is Hard to Justify</title>
+      <link>https://nexusevnews.com/articles/bmw-ix-road-trip-review-range-charging-vs-ix3.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix-road-trip-review-range-charging-vs-ix3.html</guid>
+      <pubDate>Sun, 10 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Autogefühl</dc:creator>
+      <category>Reviews</category>
+      <description>Thomas and Lea run the facelifted BMW iX on a full German Autobahn road trip. Real-world mixed range came in around 480 km, roughly 120 km behind the iX3 under the same conditions, and the 195 kW charging peak adds up to a 30-minute stop versus the iX3's 21 minutes.</description>
+    </item>
+
+    <item>
+      <title>Rivian's Spin-Off Built a 100-Mile E-Bike With No Chain and Automotive-Grade Ambitions</title>
+      <link>https://nexusevnews.com/articles/also-tmb-e-bike-rivian-pedal-by-wire-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/also-tmb-e-bike-rivian-pedal-by-wire-review.html</guid>
+      <pubDate>Sun, 10 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>MotorTrend Channel</dc:creator>
+      <category>Deep Dives</category>
+      <description>The Also TMB is a pedal-by-wire electric bike that spun out of Rivian, using Rivian R1 battery cells and a series-hybrid drivetrain with no mechanical chain. Starting at $3,500, it weighs 80 lbs, claims 100 miles of range, and tops out at 28 mph assisted.</description>
+    </item>
+
+    <item>
+      <title>You Know BYD Means Business When Daniel Craig Is Narrating the Ad</title>
+      <link>https://nexusevnews.com/articles/byd-denza-daniel-craig-brand-ad.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-denza-daniel-craig-brand-ad.html</guid>
+      <pubDate>Sun, 10 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>BYD Global</dc:creator>
+      <category>News</category>
+      <description>BYD's premium DENZA brand released a global brand film featuring Daniel Craig. No specs, no range figures, just a cinematic minute about change and new roads, signaling where BYD intends to compete next.</description>
+    </item>
+
+    <item>
+      <title>The $25,000 Electric Truck Made in Indiana That You're Allowed to Fix Yourself</title>
+      <link>https://nexusevnews.com/articles/slate-truck-25k-ev-diy-repair-jay-leno.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-truck-25k-ev-diy-repair-jay-leno.html</guid>
+      <pubDate>Sun, 10 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Jay Leno's Garage</dc:creator>
+      <category>Reviews</category>
+      <description>Jay Leno drives a prototype of the Slate truck, a modular electric pickup priced in the mid-$20,000s, built in Warsaw, Indiana. It has exposed fasteners, no paint, a composite body, and explicit right-to-repair support including DIY warranty repairs through a 4,000-shop independent service network.</description>
+    </item>
+
+    <item>
+      <title>A Quiet Forest Night With a BYD Sealion 7 and an Attached Tent: No Agenda</title>
+      <link>https://nexusevnews.com/articles/byd-sealion7-ev-camping-asmr-forest-setup.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-sealion7-ev-camping-asmr-forest-setup.html</guid>
+      <pubDate>Sun, 10 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>FISH13</dc:creator>
+      <category>Deep Dives</category>
+      <description>A BYD Sealion 7 powers the Arbor Outdoor HEXONA tent for a quiet forest overnight with no talking and no range test. Vehicle-to-load EV camping done in a calm, ASMR style. Contains paid promotion for BYD Korea and Arbor Outdoor.</description>
+    </item>
 
     <item>
       <title>Two Batteries, One Hitch, and the Case for All-Electric Glamping</title>
@@ -157,65 +208,11 @@
       <description>3TI's Halo FastHub installs at a Manchester hospital in three days with no concrete foundations, solar supplementing 30 to 40 percent of charging, and revenue from electricity sales going back to the hospital that owns the units.</description>
     </item>
 
-    <item>
-      <title>Ford Is Building a $30,000 Electric Truck Designed to Compete With What China Offers</title>
-      <link>https://nexusevnews.com/articles/ford-30000-electric-truck-announced.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ford-30000-electric-truck-announced.html</guid>
-      <pubDate>Thu, 07 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>MS NOW</dc:creator>
-      <category>News</category>
-      <description>Ford has revealed a secretly developed $30,000 American-made electric truck with around 300 miles of range, timed as battery costs fall below $100 per kilowatt-hour for the first time and US EV demand rises.</description>
-    </item>
 
-    <item>
-      <title>2027 Volvo EX60: A Fully New Electric SUV With Up to 400 Miles of Range</title>
-      <link>https://nexusevnews.com/articles/volvo-ex60-2027-all-electric-suv-full-tour.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/volvo-ex60-2027-all-electric-suv-full-tour.html</guid>
-      <pubDate>Wed, 06 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Doug DeMuro</dc:creator>
-      <category>Reviews</category>
-      <description>Volvo's EX60 is a ground-up electric SUV, 4 inches longer than the XC60, with three trim levels from 370 hp and 310 miles up to 670 hp and 400 miles. NACS is standard, 10 to 80 percent takes around 16 minutes, and US sales start this summer in the mid-to-high $50,000 range.</description>
-    </item>
 
-    <item>
-      <title>Three Cheap EVs, 186 Miles Through Rural Wales: How Did They Hold Up?</title>
-      <link>https://nexusevnews.com/articles/cheap-ev-road-trip-wales-byd-dolphin-citroen-ec3-leap-motor.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/cheap-ev-road-trip-wales-byd-dolphin-citroen-ec3-leap-motor.html</guid>
-      <pubDate>Wed, 06 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Everything Electric</dc:creator>
-      <category>Reviews</category>
-      <description>A BYD Dolphin Surf, Citroën eC3, and Leap Motor T03 tackle the A470 from North Wales to Cardiff. All three completed the 186-mile route, but both the BYD and Citroën fell well short of their claimed 100 kW charging peaks in real-world conditions.</description>
-    </item>
 
-    <item>
-      <title>Rivian Is Scaling Its Charging Network Ahead of R2 and Opening It to All EVs</title>
-      <link>https://nexusevnews.com/articles/rivian-adventure-network-scaling-for-r2.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-adventure-network-scaling-for-r2.html</guid>
-      <pubDate>Wed, 06 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Rivian</dc:creator>
-      <category>Charging</category>
-      <description>The Adventure Network is expanding with taller chargers, longer cables, and pre-wired underground capacity at existing sites, now open to all EV brands. Most sites have around six stalls today, but the groundwork is already done to expand quickly as R2 demand grows.</description>
-    </item>
 
-    <item>
-      <title>CATL's Shenxing Gen 3 Battery Charges From 10 to 80 Percent in Under 4 Minutes</title>
-      <link>https://nexusevnews.com/articles/catl-shenxing-gen3-fast-charging-long-range-battery-swap.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/catl-shenxing-gen3-fast-charging-long-range-battery-swap.html</guid>
-      <pubDate>Wed, 06 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Battery Tech</category>
-      <description>CATL's Shenxing Generation 3 LFP pack reaches 10 to 80 percent in 3 minutes 40 seconds and full charge in 6 minutes 27 seconds. Cell resistance is 0.25 milliohms, state of health stays above 90 percent after 1,000 cycles, and cold weather at minus 30 degrees Celsius adds only about 3 minutes.</description>
-    </item>
 
-    <item>
-      <title>Pakistan's Solar Boom Is Shielding Some Homes From Energy Shocks. Not Everyone Can Afford It.</title>
-      <link>https://nexusevnews.com/articles/pakistan-solar-boom-iran-war-energy-shock.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/pakistan-solar-boom-iran-war-energy-shock.html</guid>
-      <pubDate>Wed, 06 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>DW News</dc:creator>
-      <category>Solar</category>
-      <description>Grid tariffs rose 155 percent from 2021 to 2024, pushing Pakistan to become the world's largest importer of Chinese solar panels. The government has since taxed panel and battery imports and cut the solar buyback rate by 60 percent, limiting who can access the benefits.</description>
-    </item>
 
     <item>
       <title>Atlanta, Rivian, and the Quiet Coincidence</title>
