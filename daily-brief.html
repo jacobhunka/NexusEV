@@ -15,21 +15,9 @@
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>Daily Brief | nexusEVnews</title>
-<meta name="description" content="A short editorial thread connecting each day's EV stories. Published daily by nexusEVnews."/>
+<meta name="description" content="Every day's editorial thread from nexusEVnews. Five stories, one connecting idea, and a bottom line."/>
 <link rel="canonical" href="https://nexusevnews.com/daily-brief.html"/>
 <link rel="icon" href="/favicon.png" type="image/png"/>
-<!-- Open Graph -->
-<meta property="og:type" content="website"/>
-<meta property="og:title" content="Daily Brief | nexusEVnews"/>
-<meta property="og:description" content="A short editorial thread connecting each day's EV stories. Published daily by nexusEVnews."/>
-<meta property="og:image" content="https://nexusevnews.com/og-image.jpg"/>
-<meta property="og:url" content="https://nexusevnews.com/daily-brief.html"/>
-<!-- Twitter Card -->
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:title" content="Daily Brief | nexusEVnews"/>
-<meta name="twitter:description" content="A short editorial thread connecting each day's EV stories. Published daily by nexusEVnews."/>
-<meta name="twitter:image" content="https://nexusevnews.com/og-image.jpg"/>
-<meta name="twitter:site" content="@nexusevnews"/>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet"/>
 <style>
@@ -37,7 +25,6 @@
   :root {
     --bg: #0a0b0f; --surface: #111318; --surface2: #1a1d24;
     --border: #1f2330; --accent: #00d4ff; --text: #e8eaf0; --muted: #6b7280;
-    --brief: #f59e0b;
   }
   body { font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
   header { position: sticky; top: 0; z-index: 100; background: rgba(10,11,15,0.94); backdrop-filter: blur(14px); border-bottom: 1px solid var(--border); padding: 0 2rem; display: flex; align-items: center; justify-content: space-between; height: 62px; }
@@ -49,31 +36,24 @@
   nav { display: flex; gap: 0.2rem; align-items: center; }
   nav a { font-size: 0.76rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); text-decoration: none; padding: 0.35rem 0.7rem; border-radius: 4px; transition: color 0.2s, background 0.2s; }
   nav a:hover { color: var(--text); background: var(--surface2); }
-  nav a.active { color: var(--brief); }
-
-  /* Page hero */
-  .brief-hero { max-width: 800px; margin: 0 auto; padding: 3.5rem 2rem 2rem; border-bottom: 1px solid var(--border); }
-  .brief-hero-label { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--brief); display: block; margin-bottom: 0.75rem; }
-  .brief-hero h1 { font-family: 'Bebas Neue', sans-serif; font-size: clamp(2.8rem, 7vw, 4.5rem); line-height: 1; letter-spacing: 0.03em; margin-bottom: 1rem; }
-  .brief-hero p { font-size: 0.95rem; color: var(--muted); line-height: 1.7; max-width: 560px; }
-
-  /* Entry list */
-  .brief-list { max-width: 800px; margin: 0 auto; padding: 0 2rem 5rem; }
-  .brief-entry { padding: 2.5rem 0; border-bottom: 1px solid var(--border); }
-  .brief-entry:last-child { border-bottom: none; }
-  .brief-entry-date { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--brief); margin-bottom: 0.6rem; display: block; }
-  .brief-entry h2 { font-family: 'Bebas Neue', sans-serif; font-size: clamp(1.5rem, 3vw, 2rem); line-height: 1.1; letter-spacing: 0.02em; margin-bottom: 0.75rem; }
-  .brief-entry h2 a { color: var(--text); text-decoration: none; transition: color 0.2s; }
-  .brief-entry h2 a:hover { color: var(--brief); }
-  .brief-entry-blurb { font-size: 0.95rem; color: var(--muted); line-height: 1.7; margin-bottom: 1rem; }
-  .brief-read { font-family: 'DM Mono', monospace; font-size: 0.7rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--brief); text-decoration: none; transition: opacity 0.2s; }
-  .brief-read:hover { opacity: 0.75; }
-
+  .brief-wrap { max-width: 800px; margin: 0 auto; padding: 3rem 2rem 5rem; }
+  .brief-header { margin-bottom: 3rem; }
+  .brief-header h1 { font-family: 'Bebas Neue', sans-serif; font-size: clamp(2.2rem, 5vw, 3.5rem); letter-spacing: 0.03em; line-height: 1.05; margin-bottom: 0.75rem; }
+  .brief-header p { color: var(--muted); font-size: 0.95rem; line-height: 1.65; max-width: 560px; }
+  .brief-list { display: flex; flex-direction: column; gap: 0; }
+  .brief-entry { border-top: 1px solid var(--border); padding: 2rem 0; }
+  .brief-entry-date { font-family: 'DM Mono', monospace; font-size: 0.62rem; letter-spacing: 0.1em; text-transform: uppercase; color: #f59e0b; display: block; margin-bottom: 0.6rem; }
+  .brief-entry h2 { font-family: 'Bebas Neue', sans-serif; font-size: clamp(1.4rem, 3vw, 1.9rem); letter-spacing: 0.02em; line-height: 1.1; margin-bottom: 0.75rem; }
+  .brief-entry h2 a { color: var(--text); text-decoration: none; }
+  .brief-entry h2 a:hover { color: var(--accent); }
+  .brief-entry-blurb { color: var(--muted); font-size: 0.9rem; line-height: 1.65; margin-bottom: 1rem; }
+  .brief-read { font-family: 'DM Mono', monospace; font-size: 0.68rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); text-decoration: none; }
+  .brief-read:hover { text-decoration: underline; }
   footer { border-top: 1px solid var(--border); padding: 2rem 2rem 3rem; text-align: center; }
   footer p { font-family: 'DM Mono', monospace; font-size: 0.64rem; color: var(--muted); letter-spacing: 0.06em; line-height: 1.8; }
   footer a { color: var(--accent); text-decoration: none; }
   footer a:hover { text-decoration: underline; }
-  @media (max-width: 700px) { nav { display: none; } .brief-hero { padding: 2.5rem 1.25rem 1.5rem; } .brief-list { padding: 0 1.25rem 4rem; } }
+  @media (max-width: 700px) { nav { display: none; } .brief-wrap { padding: 2rem 1.25rem 4rem; } }
 </style>
 </head>
 <body>
@@ -96,21 +76,24 @@
     <a href="/#cardGrid">Charging</a>
     <a href="/#cardGrid">Deep Dives</a>
     <a href="/opinion.html">Opinion</a>
-    <a href="/daily-brief.html" class="active">Daily Brief</a>
+    <a href="/daily-brief.html">Daily Brief</a>
   </nav>
 </header>
 
-<div class="brief-hero">
-  <span class="brief-hero-label">nexusEVnews</span>
-  <h1>Daily Brief</h1>
-  <p>A short editorial thread connecting each day's stories. What does the news mean together? Published every day.</p>
-</div>
+<div class="brief-wrap">
+  <div class="brief-header">
+    <h1>Daily Brief</h1>
+    <p>Each day, five stories and one connecting thread. Not a summary: an observation about what the day's coverage means together. Published every weekday.</p>
+  </div>
 
-<div class="brief-list">
+  <div class="brief-list">
 
-  <!-- ============================================================ -->
-  <!-- ADD NEW ENTRIES AT THE TOP. COPY THE BLOCK BELOW AND PASTE. -->
-  <!-- ============================================================ -->
+  <div class="brief-entry">
+    <span class="brief-entry-date">May 11, 2026</span>
+    <h2><a href="articles/daily-brief-may-11-2026.html">The Gap Between the Spec Sheet and the Road Trip</a></h2>
+    <p class="brief-entry-blurb">Five stories today, and a thread runs through all of them: the difference between what an EV claims and what it delivers when you're actually moving. The BMW iX3 won the road trip on range and hardware, then lost on charging cost. CATL's 4-minute charge needs 1,500 kW infrastructure that doesn't exist. The Corsa can't route a charge stop. The Renault 5 just works.</p>
+    <a class="brief-read" href="articles/daily-brief-may-11-2026.html">Read thread &rarr;</a>
+  </div>
 
   <div class="brief-entry">
     <span class="brief-entry-date">May 10, 2026</span>
@@ -119,6 +102,7 @@
     <a class="brief-read" href="articles/daily-brief-may-10-2026.html">Read thread &rarr;</a>
   </div>
 
+  </div>
 </div>
 
 <footer>

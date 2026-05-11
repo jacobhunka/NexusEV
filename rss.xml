@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -17,6 +17,66 @@
     <category>Solar</category>
     <category>Battery Technology</category>
 
+
+    <item>
+      <title>The BMW iX3 Gets to Yorkshire First, But the Tesla Costs a Third Less to Charge</title>
+      <link>https://nexusevnews.com/articles/bmw-ix3-vs-tesla-model-y-600-mile-road-trip.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-vs-tesla-model-y-600-mile-road-trip.html</guid>
+      <pubDate>Mon, 11 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>What Car?</dc:creator>
+      <category>Reviews</category>
+      <description>What Car? drives the BMW iX3 and Tesla Model Y on a 500-mile London-to-Yorkshire round trip. The iX3 arrived first, logged real-world range of around 393 miles, and averaged 170 kW charging. The Tesla charged at 129 kW on average and cost £36 less to run over the full trip on Supercharger pricing.</description>
+    </item>
+
+    <item>
+      <title>Six More Inches, a Drain Plug, and a Tow Hitch: Why Most Buyers Land on the Model Y</title>
+      <link>https://nexusevnews.com/articles/tesla-model-y-vs-model-3-gjeebs-comparison.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-y-vs-model-3-gjeebs-comparison.html</guid>
+      <pubDate>Mon, 11 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Gjeebs</dc:creator>
+      <category>Reviews</category>
+      <description>A dual owner of the Tesla Model 3 and Model Y compares both cars in detail. The premium variants are $42 apart per month on a 60-month loan. The Model Y adds six inches of rear legroom, 8 more cubic feet of cargo space, a frunk drain plug, and a tow hitch the Model 3 cannot have. Range difference: six miles.</description>
+    </item>
+
+    <item>
+      <title>Two Million EVs in the UK, the Renault 5 Is Outselling Everything, and the Corsa GSE Looks Like Trouble</title>
+      <link>https://nexusevnews.com/articles/kilowatt-half-hour-ep105-uk-ev-sales-2-million.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/kilowatt-half-hour-ep105-uk-ev-sales-2-million.html</guid>
+      <pubDate>Mon, 11 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>News</category>
+      <description>The UK crossed 2 million EVs with April registrations up almost 60% year-on-year. The Renault 5 was April's bestselling EV at £230 per month. The Vauxhall Corsa GSE brings 281 hp and a limited-slip differential. CATL announced a semi-solid-state battery rated at 930 miles on the Chinese test cycle.</description>
+    </item>
+
+    <item>
+      <title>A Week With the Vauxhall Corsa Electric: It Drives Like a Corsa, and That's the Whole Point</title>
+      <link>https://nexusevnews.com/articles/vauxhall-corsa-electric-week-review-mr-ev.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/vauxhall-corsa-electric-week-review-mr-ev.html</guid>
+      <pubDate>Mon, 11 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Andrew Till / Mr. EV</dc:creator>
+      <category>Reviews</category>
+      <description>Andrew Till spends a week with the Vauxhall Corsa Electric GS at £29,740, covering daily use, a Southampton round trip, and a rapid charge. Real-world efficiency was around 4 miles per kWh. The sat nav cannot plan charge stops without a paid third-party app, which matters on a 221-mile car.</description>
+    </item>
+
+    <item>
+      <title>CATL's CTO Says Solid State Is Still Years From Mass Production, and the BMW iX3 Surprised Even BMW</title>
+      <link>https://nexusevnews.com/articles/catl-cto-three-minute-charging-sodium-solid-state.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/catl-cto-three-minute-charging-sodium-solid-state.html</guid>
+      <pubDate>Mon, 11 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Everything Electric TECH</dc:creator>
+      <category>Battery Tech</category>
+      <description>Everything Electric interviews CATL's overseas CTO at the 2026 Beijing Motor Show. The flash-charging Shenxing cell hits 10-80% in 3 minutes 44 seconds but requires 1,500 kW infrastructure. Solid-state demo cars are 1-2 years away; mass production is further out. BMW iX3 demand exceeded BMW's own internal forecasts.</description>
+    </item>
+
+    <item>
+      <title>The Gap Between the Spec Sheet and the Road Trip</title>
+      <link>https://nexusevnews.com/articles/daily-brief-may-11-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/daily-brief-may-11-2026.html</guid>
+      <pubDate>Mon, 11 May 2026 19:00:00 +0000</pubDate>
+      <dc:creator>nexusEVnews</dc:creator>
+      <category>Daily Brief</category>
+      <description>Today's five stories tell the same story from different angles: EV hardware is advancing faster than the ecosystem around it. The cars are getting longer range, faster charging, and more performance. The charging networks, navigation software, and pricing structures haven't kept up. The thread that runs from CATL's lab through a Yorkshire road trip to a Kent supermarket car park.</description>
+    </item>
 
     <item>
       <title>The BMW iX Still Has Tricks the iX3 Can't Match, But the Price Gap Is Hard to Justify</title>
@@ -147,67 +207,6 @@
       <category>Reviews</category>
       <description>On-board footage from Lars Kern's 6:55.533 Nordschleife record lap on April 15, beating the previous electric executive car record by more than nine seconds. The Manthey Kit is the first developed for an electric Porsche and covers aerodynamics, powertrain, brakes, suspension, and wheels.</description>
     </item>
-
-    <item>
-      <title>Waymo and Zoox Are Competing for the Ride-Hailing Market. The Economics Are Still Being Worked Out.</title>
-      <link>https://nexusevnews.com/articles/waymo-zoox-robotaxis-reshape-ride-hailing-ft.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/waymo-zoox-robotaxis-reshape-ride-hailing-ft.html</guid>
-      <pubDate>Fri, 08 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Financial Times</dc:creator>
-      <category>News</category>
-      <description>The FT examines how Waymo and Amazon-owned Zoox are reshaping urban ride-hailing, with Waymo logging 127 million driverless miles with no fatal crashes and robo taxi fares running roughly a third above comparable Uber rides in San Francisco.</description>
-    </item>
-
-    <item>
-      <title>Lexus Reveals the 2027 TZ: A Three-Row Electric SUV Built Around Cabin Silence and V2H Power</title>
-      <link>https://nexusevnews.com/articles/2027-lexus-tz-world-premiere-three-row-electric-suv.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/2027-lexus-tz-world-premiere-three-row-electric-suv.html</guid>
-      <pubDate>Fri, 08 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>REC Anything</dc:creator>
-      <category>News</category>
-      <description>Lexus unveiled the 2027 TZ at Toyota's Technical Center in Japan, presenting a three-row BEV with V2H bidirectional charging, a 5.2-second 0-100 km/h time, 3,500 lb towing capacity, and access to the NACS Supercharger network.</description>
-    </item>
-
-    <item>
-      <title>Rivian's CEO on R2, AI-Defined Vehicles, and Why Every Automaker Needs a Software Platform</title>
-      <link>https://nexusevnews.com/articles/rivian-rj-scaringe-r2-ai-defined-vehicles-act-expo.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-rj-scaringe-r2-ai-defined-vehicles-act-expo.html</guid>
-      <pubDate>Thu, 07 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>The Electric Duo</dc:creator>
-      <category>Deep Dives</category>
-      <description>RJ Scaringe speaks at ACT Expo about ramping the $45,000 R2, the $5.8 billion Volkswagen software licensing deal, Amazon's 30,000-plus electric vans, and his argument that a connected, self-driving platform will be a prerequisite for market share by 2035.</description>
-    </item>
-
-    <item>
-      <title>How a Japanese Climate Activist Got 17 Coal Projects Cancelled and What She's Building Next</title>
-      <link>https://nexusevnews.com/articles/kimiko-hirata-japan-coal-cancellations-clean-energy-ted.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/kimiko-hirata-japan-coal-cancellations-clean-energy-ted.html</guid>
-      <pubDate>Thu, 07 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>TED</dc:creator>
-      <category>Deep Dives</category>
-      <description>Kimiko Hirata's multi-year campaign against coal expansion in Japan led to 17 project cancellations totaling 9 gigawatts, Japan's first shareholder climate activism at Mizuho bank, and a new think tank building the affirmative case for 90 percent renewables.</description>
-    </item>
-
-    <item>
-      <title>VW, BMW, and Mercedes Are Running Full Urban Driver Assistance in China. Western Buyers Don't Get It.</title>
-      <link>https://nexusevnews.com/articles/momenta-driver-assistance-vw-bmw-mercedes-china-first-look.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/momenta-driver-assistance-vw-bmw-mercedes-china-first-look.html</guid>
-      <pubDate>Thu, 07 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Reviews</category>
-      <description>Out of Spec Reviews drives the Volkswagen ID Era 9X through Beijing traffic on the Momenta driver assistance system, which also runs in BMW and Mercedes vehicles in China. The result is comparable to Tesla FSD. Western markets get Travel Assist.</description>
-    </item>
-
-    <item>
-      <title>A Solar EV Charger That Arrives on a Truck, Needs No Foundations, and Pays Back the Hospital That Owns It</title>
-      <link>https://nexusevnews.com/articles/halo-fasthub-solar-ev-charging-manchester-hospital.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/halo-fasthub-solar-ev-charging-manchester-hospital.html</guid>
-      <pubDate>Thu, 07 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Everything Electric TECH</dc:creator>
-      <category>Charging</category>
-      <description>3TI's Halo FastHub installs at a Manchester hospital in three days with no concrete foundations, solar supplementing 30 to 40 percent of charging, and revenue from electricity sales going back to the hospital that owns the units.</description>
-    </item>
-
 
 
 
