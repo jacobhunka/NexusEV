@@ -15,9 +15,18 @@
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>Daily Brief | nexusEVnews</title>
-<meta name="description" content="Every day's editorial thread from nexusEVnews. Five stories, one connecting idea, and a bottom line."/>
+<meta name="description" content="The nexusEVnews Daily Brief: original editorial threads connecting each day's EV and energy stories. Written by a human editor, published daily."/>
 <link rel="canonical" href="https://nexusevnews.com/daily-brief.html"/>
 <link rel="icon" href="/favicon.png" type="image/png"/>
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="Daily Brief | nexusEVnews"/>
+<meta property="og:description" content="The nexusEVnews Daily Brief: original editorial threads connecting each day's EV and energy stories. Written by a human editor, published daily."/>
+<meta property="og:image" content="https://nexusevnews.com/og-image.jpg"/>
+<meta property="og:url" content="https://nexusevnews.com/daily-brief.html"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="Daily Brief | nexusEVnews"/>
+<meta name="twitter:description" content="The nexusEVnews Daily Brief: original editorial threads connecting each day's EV and energy stories."/>
+<meta name="twitter:site" content="@nexusevnews"/>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet"/>
 <style>
@@ -25,6 +34,7 @@
   :root {
     --bg: #0a0b0f; --surface: #111318; --surface2: #1a1d24;
     --border: #1f2330; --accent: #00d4ff; --text: #e8eaf0; --muted: #6b7280;
+    --amber: #f59e0b;
   }
   body { font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
   header { position: sticky; top: 0; z-index: 100; background: rgba(10,11,15,0.94); backdrop-filter: blur(14px); border-bottom: 1px solid var(--border); padding: 0 2rem; display: flex; align-items: center; justify-content: space-between; height: 62px; }
@@ -36,24 +46,27 @@
   nav { display: flex; gap: 0.2rem; align-items: center; }
   nav a { font-size: 0.76rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); text-decoration: none; padding: 0.35rem 0.7rem; border-radius: 4px; transition: color 0.2s, background 0.2s; }
   nav a:hover { color: var(--text); background: var(--surface2); }
-  .brief-wrap { max-width: 800px; margin: 0 auto; padding: 3rem 2rem 5rem; }
-  .brief-header { margin-bottom: 3rem; }
-  .brief-header h1 { font-family: 'Bebas Neue', sans-serif; font-size: clamp(2.2rem, 5vw, 3.5rem); letter-spacing: 0.03em; line-height: 1.05; margin-bottom: 0.75rem; }
-  .brief-header p { color: var(--muted); font-size: 0.95rem; line-height: 1.65; max-width: 560px; }
-  .brief-list { display: flex; flex-direction: column; gap: 0; }
-  .brief-entry { border-top: 1px solid var(--border); padding: 2rem 0; }
-  .brief-entry-date { font-family: 'DM Mono', monospace; font-size: 0.62rem; letter-spacing: 0.1em; text-transform: uppercase; color: #f59e0b; display: block; margin-bottom: 0.6rem; }
-  .brief-entry h2 { font-family: 'Bebas Neue', sans-serif; font-size: clamp(1.4rem, 3vw, 1.9rem); letter-spacing: 0.02em; line-height: 1.1; margin-bottom: 0.75rem; }
-  .brief-entry h2 a { color: var(--text); text-decoration: none; }
-  .brief-entry h2 a:hover { color: var(--accent); }
-  .brief-entry-blurb { color: var(--muted); font-size: 0.9rem; line-height: 1.65; margin-bottom: 1rem; }
-  .brief-read { font-family: 'DM Mono', monospace; font-size: 0.68rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); text-decoration: none; }
-  .brief-read:hover { text-decoration: underline; }
+  nav a.brief-nav { color: #c47d0a; }
+  nav a.brief-nav:hover { color: var(--amber); background: rgba(245,158,11,0.08); }
+  .page-wrap { max-width: 800px; margin: 0 auto; padding: 3rem 2rem 5rem; }
+  .page-tag { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--amber); margin-bottom: 1rem; display: block; }
+  .page-title { font-family: 'Bebas Neue', sans-serif; font-size: clamp(2rem, 5vw, 3rem); line-height: 1.1; margin-bottom: 0.75rem; }
+  .page-intro { font-size: 0.95rem; color: var(--muted); line-height: 1.7; margin-bottom: 3rem; padding-bottom: 2rem; border-bottom: 1px solid var(--border); }
+  .brief-list { display: flex; flex-direction: column; gap: 2.5rem; }
+  .brief-entry { border-bottom: 1px solid var(--border); padding-bottom: 2.5rem; }
+  .brief-entry:last-child { border-bottom: none; }
+  .brief-entry-date { font-family: 'DM Mono', monospace; font-size: 0.62rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); display: block; margin-bottom: 0.5rem; }
+  .brief-entry h2 { font-family: 'Bebas Neue', sans-serif; font-size: 1.6rem; line-height: 1.15; margin-bottom: 0.65rem; }
+  .brief-entry h2 a { color: var(--text); text-decoration: none; transition: color 0.2s; }
+  .brief-entry h2 a:hover { color: var(--amber); }
+  .brief-entry-blurb { font-size: 0.9rem; color: var(--muted); line-height: 1.7; margin-bottom: 1rem; }
+  .brief-read { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--amber); text-decoration: none; transition: opacity 0.2s; }
+  .brief-read:hover { opacity: 0.75; }
   footer { border-top: 1px solid var(--border); padding: 2rem 2rem 3rem; text-align: center; }
   footer p { font-family: 'DM Mono', monospace; font-size: 0.64rem; color: var(--muted); letter-spacing: 0.06em; line-height: 1.8; }
   footer a { color: var(--accent); text-decoration: none; }
   footer a:hover { text-decoration: underline; }
-  @media (max-width: 700px) { nav { display: none; } .brief-wrap { padding: 2rem 1.25rem 4rem; } }
+  @media (max-width: 700px) { nav { display: none; } .page-wrap { padding: 2rem 1.25rem 4rem; } }
 </style>
 </head>
 <body>
@@ -71,36 +84,39 @@
   </a>
   <nav>
     <a href="/">Latest</a>
-    <a href="/#cardGrid">Reviews</a>
-    <a href="/#cardGrid">Battery Tech</a>
-    <a href="/#cardGrid">Charging</a>
     <a href="/#cardGrid">Deep Dives</a>
     <a href="/opinion.html">Opinion</a>
-    <a href="/daily-brief.html">Daily Brief</a>
+    <a class="brief-nav" href="/daily-brief.html">Daily Brief</a>
   </nav>
 </header>
 
-<div class="brief-wrap">
-  <div class="brief-header">
-    <h1>Daily Brief</h1>
-    <p>Each day, five stories and one connecting thread. Not a summary: an observation about what the day's coverage means together. Published every weekday.</p>
-  </div>
+<div class="page-wrap">
+  <span class="page-tag">Editorial</span>
+  <h1 class="page-title">Daily Brief</h1>
+  <p class="page-intro">Each day's five stories, connected by an editorial thread. This is the part of nexusEVnews where a human editor asks: what do these stories mean together?</p>
 
   <div class="brief-list">
 
-  <div class="brief-entry">
-    <span class="brief-entry-date">May 11, 2026</span>
-    <h2><a href="articles/daily-brief-may-11-2026.html">The Gap Between the Spec Sheet and the Road Trip</a></h2>
-    <p class="brief-entry-blurb">Five stories today, and a thread runs through all of them: the difference between what an EV claims and what it delivers when you're actually moving. The BMW iX3 won the road trip on range and hardware, then lost on charging cost. CATL's 4-minute charge needs 1,500 kW infrastructure that doesn't exist. The Corsa can't route a charge stop. The Renault 5 just works.</p>
-    <a class="brief-read" href="articles/daily-brief-may-11-2026.html">Read thread &rarr;</a>
-  </div>
+    <div class="brief-entry">
+      <span class="brief-entry-date">May 12, 2026</span>
+      <h2><a href="articles/daily-brief-may-12-2026.html">The EV Market Has Stopped Being One Market</a></h2>
+      <p class="brief-entry-blurb">Today's stories span a 36-pound urban scooter, a nearly-three-ton Chinese luxury SUV, and a £27,000 price gap between two people carriers that do the same job. The EV conversation has fragmented completely. There are now dozens of different EV buyers, and today's stories are aimed at different ones.</p>
+      <a class="brief-read" href="articles/daily-brief-may-12-2026.html">Read thread &rarr;</a>
+    </div>
 
-  <div class="brief-entry">
-    <span class="brief-entry-date">May 10, 2026</span>
-    <h2><a href="articles/daily-brief-may-10-2026.html">The EV Market Is Splitting in Two, and Today's Stories Show Both Sides</a></h2>
-    <p class="brief-entry-blurb">From a $3,500 e-bike to a €100,000 luxury SUV in one day. The affordable end is getting better faster than anyone expected. The premium end is getting more competitive. The middle is quietly getting squeezed.</p>
-    <a class="brief-read" href="articles/daily-brief-may-10-2026.html">Read thread &rarr;</a>
-  </div>
+    <div class="brief-entry">
+      <span class="brief-entry-date">May 11, 2026</span>
+      <h2><a href="articles/daily-brief-may-11-2026.html">The Gap Between the Spec Sheet and the Road Trip</a></h2>
+      <p class="brief-entry-blurb">Five stories today, and a thread runs through all of them: the difference between what an EV claims and what it delivers when you're actually moving. The BMW iX3 won the road trip on range and hardware, then lost on charging cost. CATL's 4-minute charge needs 1,500 kW infrastructure that doesn't exist. The Corsa can't route a charge stop. The Renault 5 just works.</p>
+      <a class="brief-read" href="articles/daily-brief-may-11-2026.html">Read thread &rarr;</a>
+    </div>
+
+    <div class="brief-entry">
+      <span class="brief-entry-date">May 10, 2026</span>
+      <h2><a href="articles/daily-brief-may-10-2026.html">The EV Market Is Splitting in Two, and Today's Stories Show Both Sides</a></h2>
+      <p class="brief-entry-blurb">From a $3,500 e-bike to a €100,000 luxury SUV in one day. The affordable end is getting better faster than anyone expected. The premium end is getting more competitive. The middle is quietly getting squeezed.</p>
+      <a class="brief-read" href="articles/daily-brief-may-10-2026.html">Read thread &rarr;</a>
+    </div>
 
   </div>
 </div>

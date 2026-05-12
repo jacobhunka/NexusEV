@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -17,6 +17,56 @@
     <category>Solar</category>
     <category>Battery Technology</category>
 
+
+    <item>
+      <title>Infinite Machine's Alto Wants to Fill the Gap Between an E-Bike and a Vespa</title>
+      <link>https://nexusevnews.com/articles/infinite-machine-alto-electric-class3-scooter-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/infinite-machine-alto-electric-class3-scooter-review.html</guid>
+      <pubDate>Tue, 12 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>InsideEVs</dc:creator>
+      <category>Reviews</category>
+      <description>A New York startup built a class-3 electric scooter that needs no plates and no insurance in most states. It does 28 mph, has full suspension and a removable 1.2 kWh battery, and a GPS chip that keeps transmitting even after you pull the battery out. InsideEVs spent a week riding it around Manhattan, including leaving it outside for five days.</description>
+    </item>
+
+    <item>
+      <title>Hammond Drove the NIO ES9 Around Shanghai. The Suspension Was What Surprised Him Most.</title>
+      <link>https://nexusevnews.com/articles/nio-es9-hammond-proving-ground-test-drive.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/nio-es9-hammond-proving-ground-test-drive.html</guid>
+      <pubDate>Tue, 12 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric APAC</dc:creator>
+      <category>Reviews</category>
+      <description>NIO puts tiny hydraulic pumps directly at each wheel rather than routing pressure from a central unit. On Belgian paving stones at speed, the only evidence you're on them is the sound. A crowdsourced pothole database shared across every NIO vehicle pre-arms the suspension before the rough surface arrives.</description>
+    </item>
+
+    <item>
+      <title>The PV5 Starts at £31,495 After the UK EV Grant. The ID.Buzz Starts at £60,000. Electrifying Drove Both.</title>
+      <link>https://nexusevnews.com/articles/kia-pv5-vs-vw-id-buzz-people-carrier-comparison.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/kia-pv5-vs-vw-id-buzz-people-carrier-comparison.html</guid>
+      <pubDate>Tue, 12 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>Reviews</category>
+      <description>More boot space, a V2L socket, regen paddles, and one-pedal driving at roughly half the price. Both reviewers chose the Kia. The Buzz wins on power, range, electric sliding doors, and cabin quality. Neither is a bad choice, but the £27,000 gap makes one of them much easier to justify.</description>
+    </item>
+
+    <item>
+      <title>CES 2026's Electric Micromobility Floor: From a 36-lb Carbon Scooter to a 94 mph Speed Machine</title>
+      <link>https://nexusevnews.com/articles/ces-2026-electric-scooters-motorcycles-ebikes-roundup.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ces-2026-electric-scooters-motorcycles-ebikes-roundup.html</guid>
+      <pubDate>Tue, 12 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>EV Tech Steven</dc:creator>
+      <category>Deep Dives</category>
+      <description>EV Tech Steven covered 14 electric two-wheelers from the CES floor: the all-carbon Novos light bike at 80 mph and 100 units, the InMotion RS Pro at 94 mph with a dashboard worth using, the LivaQ eQuad with four hub motors and 200 miles of range, and a rideable carry-on suitcase with a built-in power bank.</description>
+    </item>
+
+    <item>
+      <title>Xiaomi Hired Engineers From BMW, Porsche, and Lamborghini. EU Entry Is Second Half 2027.</title>
+      <link>https://nexusevnews.com/articles/xiaomi-ev-europe-entry-bmw-porsche-engineers.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/xiaomi-ev-europe-entry-bmw-porsche-engineers.html</guid>
+      <pubDate>Tue, 12 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Roaming</dc:creator>
+      <category>News</category>
+      <description>Fifty engineers in a Munich R&amp;D centre. One ran the BMW M4 GT3 race programme. One tuned the 3 Series, Z4, and X5 chassis. One designed the exterior of the Porsche 992 GT3 RS. Another led the AMG Vision GT. Xiaomi has delivered over 400,000 vehicles and is targeting half a million in 2026.</description>
+    </item>
 
     <item>
       <title>The BMW iX3 Gets to Yorkshire First, But the Tesla Costs a Third Less to Charge</title>
@@ -157,61 +207,6 @@
       <category>News</category>
       <description>The Traveler wears a new matte white called White Cap with 20-inch wheels and 35-inch KO3 tires, and the brick-red interior is the most complete cabin look yet. Running and driving mules are in cold-weather testing in Europe. Production is still on for 2027, deliveries in 2028, and 85% of reservations are the range-extended Harvester trim.</description>
     </item>
-
-    <item>
-      <title>Sierro Is a Plug-In Home Battery Backup That Skips the Electrician</title>
-      <link>https://nexusevnews.com/articles/sierro-home-battery-backup-lfp-plug-in-kim-java.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/sierro-home-battery-backup-lfp-plug-in-kim-java.html</guid>
-      <pubDate>Sat, 09 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Kim Java</dc:creator>
-      <category>Battery Tech</category>
-      <description>Sierro is a plug-in LFP home battery that plugs into a standard outlet, switches over in under 15 milliseconds during a power outage, and supports MPPT solar charging. Rated for 8,000 cycles with a five-year warranty and no installation required.</description>
-    </item>
-
-    <item>
-      <title>Wayve CEO on Why Licensing Its AI Driver Is the Biggest Bet in Autonomous Vehicles</title>
-      <link>https://nexusevnews.com/articles/wayve-ceo-ai-self-driving-licensing-model-bloomberg.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/wayve-ceo-ai-self-driving-licensing-model-bloomberg.html</guid>
-      <pubDate>Sat, 09 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Bloomberg Technology</dc:creator>
-      <category>Deep Dives</category>
-      <description>Wayve's CEO argued that licensing its AI driving platform to automakers represents a larger market than building cars or running robotaxi fleets. A live demonstration in London's Kings Cross used six cameras and one radar with no maps, and the safety driver's hands stayed off the wheel throughout.</description>
-    </item>
-
-    <item>
-      <title>The Chevrolet Bolt Is Back, and It's Still the Best-Value EV You Can Buy</title>
-      <link>https://nexusevnews.com/articles/chevrolet-bolt-ev-return-review-edmunds.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/chevrolet-bolt-ev-return-review-edmunds.html</guid>
-      <pubDate>Sat, 09 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Edmunds Cars</dc:creator>
-      <category>Reviews</category>
-      <description>Edmunds tested the returning Chevrolet Bolt and found 290 real-world miles against a 262-mile EPA estimate, a starting price just under $29,000, NACS charging that runs three times faster than the previous generation, and a chassis that still surprises at this price point.</description>
-    </item>
-
-    <item>
-      <title>Tesla Semi's Series Production Model, Explained by the Engineer Behind It</title>
-      <link>https://nexusevnews.com/articles/series-production-tesla-semi-tour-dan-priestley-act-expo.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/series-production-tesla-semi-tour-dan-priestley-act-expo.html</guid>
-      <pubDate>Fri, 08 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Reviews</category>
-      <description>Kyle Conner and Tesla Semi program lead Dan Priestley walk through the changes from the early beta fleet to the current series production truck, covering the new 4680 battery pack, MCS 3.2 charging standard, dual-axle drivetrain design, and the 25 kW ePTO port being standardized for electric trailer equipment.</description>
-    </item>
-
-    <item>
-      <title>Porsche Taycan Turbo GT with Manthey Kit Sets New EV Record at the Nürburgring</title>
-      <link>https://nexusevnews.com/articles/porsche-taycan-turbo-gt-manthey-kit-nurburgring-record.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/porsche-taycan-turbo-gt-manthey-kit-nurburgring-record.html</guid>
-      <pubDate>Fri, 08 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Porsche</dc:creator>
-      <category>Reviews</category>
-      <description>On-board footage from Lars Kern's 6:55.533 Nordschleife record lap on April 15, beating the previous electric executive car record by more than nine seconds. The Manthey Kit is the first developed for an electric Porsche and covers aerodynamics, powertrain, brakes, suspension, and wheels.</description>
-    </item>
-
-
-
-
-
 
     <item>
       <title>Atlanta, Rivian, and the Quiet Coincidence</title>
