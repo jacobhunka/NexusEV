@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,57 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+
+
+    <item>
+      <title>Rivian's New AI Can Change Your Drive Mode, Read Your Texts, and Submit Bug Reports</title>
+      <link>https://nexusevnews.com/articles/rivian-assistant-2026-15-software-update-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-assistant-2026-15-software-update-review.html</guid>
+      <pubDate>Wed, 13 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>RivianTrackr</dc:creator>
+      <category>Reviews</category>
+      <description>Rivian Assistant runs on Google Gemini and does what no other production in-car AI currently does: it controls the vehicle. Drive mode, ride height, seat heat, SMS replies, navigation with charging stops. It also needs a $15 monthly subscription, can't adjust your charge limit, and won't touch the wipers. RivianTrackr spent 25 minutes breaking it.</description>
+    </item>
+
+    <item>
+      <title>226 hp, 441L Boot, and More Character Than the ID Polo Will Ever Have</title>
+      <link>https://nexusevnews.com/articles/cupra-raval-first-drive-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/cupra-raval-first-drive-review.html</guid>
+      <pubDate>Wed, 13 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>Reviews</category>
+      <description>The CUPRA Raval shares its platform with the ID Polo but adds an e-LSD, launch control, a 15mm-lower suspension, and a boot bigger than a Golf. Starting from £23,785. The VZ does 0-62 in 6.8 seconds and makes Barcelona rush hour feel interesting. Electrifying drove it, and the steering is still too light.</description>
+    </item>
+
+    <item>
+      <title>Four Anker Solix Batteries, Three Months, and Almost No Savings. Here's Why.</title>
+      <link>https://nexusevnews.com/articles/anker-solix-e10-home-battery-3-month-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/anker-solix-e10-home-battery-3-month-review.html</guid>
+      <pubDate>Wed, 13 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Everyday Chris</dc:creator>
+      <category>Battery Tech</category>
+      <description>The Anker Solix E10 does everything it says: discharges during peak rates, recharges overnight, switches over in 20 milliseconds when the grid drops. The problem is no solar. Without panels charging the batteries for free during the day, the math barely pencils out. And nobody in Orange County will install panels on an HOA roof.</description>
+    </item>
+
+    <item>
+      <title>Five Aptera Vehicles Off the Line. 50,000 Reservations Are Waiting.</title>
+      <link>https://nexusevnews.com/articles/aptera-five-validation-vehicles-assembly-line.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/aptera-five-validation-vehicles-assembly-line.html</guid>
+      <pubDate>Wed, 13 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Aptera</dc:creator>
+      <category>News</category>
+      <description>Aptera has completed five vehicles on its 14-station Carlsbad validation line and documented cycle time improvements with each successive build. The fleet will expand into a full testing program covering road performance, safety, software, and solar energy collection. No production start date has been announced.</description>
+    </item>
+
+    <item>
+      <title>BYD Starts Below $12,000. China Is Near 70% of Global EV Sales. The US Has a 100% Tariff.</title>
+      <link>https://nexusevnews.com/articles/china-ev-byd-us-tariffs-global-market.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/china-ev-byd-us-tariffs-global-market.html</guid>
+      <pubDate>Wed, 13 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>NBC News</dc:creator>
+      <category>News</category>
+      <description>NBC News drove a BYD in China. Massage seats, autonomous parking, sub-$12,000 price point. The US blocks all Chinese EVs with a 100% tariff, which keeps the comparison theoretical but doesn't stop the videos from going viral. China is approaching 70% of all EVs sold globally.</description>
+    </item>
 
 
     <item>
@@ -149,36 +200,6 @@
     </item>
 
     <item>
-      <title>You Know BYD Means Business When Daniel Craig Is Narrating the Ad</title>
-      <link>https://nexusevnews.com/articles/byd-denza-daniel-craig-brand-ad.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-denza-daniel-craig-brand-ad.html</guid>
-      <pubDate>Sun, 10 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>BYD Global</dc:creator>
-      <category>News</category>
-      <description>BYD's premium DENZA brand released a global brand film featuring Daniel Craig. No specs, no range figures, just a cinematic minute about change and new roads, signaling where BYD intends to compete next.</description>
-    </item>
-
-    <item>
-      <title>The $25,000 Electric Truck Made in Indiana That You're Allowed to Fix Yourself</title>
-      <link>https://nexusevnews.com/articles/slate-truck-25k-ev-diy-repair-jay-leno.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-truck-25k-ev-diy-repair-jay-leno.html</guid>
-      <pubDate>Sun, 10 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Jay Leno's Garage</dc:creator>
-      <category>Reviews</category>
-      <description>Jay Leno drives a prototype of the Slate truck, a modular electric pickup priced in the mid-$20,000s, built in Warsaw, Indiana. It has exposed fasteners, no paint, a composite body, and explicit right-to-repair support including DIY warranty repairs through a 4,000-shop independent service network.</description>
-    </item>
-
-    <item>
-      <title>A Quiet Forest Night With a BYD Sealion 7 and an Attached Tent: No Agenda</title>
-      <link>https://nexusevnews.com/articles/byd-sealion7-ev-camping-asmr-forest-setup.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-sealion7-ev-camping-asmr-forest-setup.html</guid>
-      <pubDate>Sun, 10 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>FISH13</dc:creator>
-      <category>Deep Dives</category>
-      <description>A BYD Sealion 7 powers the Arbor Outdoor HEXONA tent for a quiet forest overnight with no talking and no range test. Vehicle-to-load EV camping done in a calm, ASMR style. Contains paid promotion for BYD Korea and Arbor Outdoor.</description>
-    </item>
-
-    <item>
       <title>Two Batteries, One Hitch, and the Case for All-Electric Glamping</title>
       <link>https://nexusevnews.com/opinion-rivian-lightship-glamping.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-rivian-lightship-glamping.html</guid>
@@ -186,26 +207,6 @@
       <dc:creator>Jacob Hunka</dc:creator>
       <category>Opinion</category>
       <description>The Lightship AE1 carries its own 69 kWh battery and 80 kW motor to neutralize trailer drag on the tow vehicle. Paired with a Rivian, the real-world efficiency numbers are hard to argue with. This is what all-electric glamping looks like when the hardware actually works.</description>
-    </item>
-
-    <item>
-      <title>Rivian Has an Uber Robotaxi Deal, a DoorDash Bot Spinoff, and Made the $20,000 VW ID.1 Possible</title>
-      <link>https://nexusevnews.com/articles/rivian-uber-robotaxi-also-doordash-vw-id1-munro-live.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-uber-robotaxi-also-doordash-vw-id1-munro-live.html</guid>
-      <pubDate>Sat, 09 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Munro Live</dc:creator>
-      <category>News</category>
-      <description>RJ Scaringe confirmed a deal with Uber to build a robotaxi on the R2 platform and described DoorDash delivery bots being built by Rivian spinoff ALSO. He also explained how the same zonal computing architecture behind the R1 and R2 let Volkswagen engineer the ID.1 at a roughly $20,000 price point.</description>
-    </item>
-
-    <item>
-      <title>Scout's Traveler and Terra Get a Style Refresh. The 2027 Production Target Hasn't Changed.</title>
-      <link>https://nexusevnews.com/articles/scout-traveler-terra-mudfest-2026-update-production-timeline.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/scout-traveler-terra-mudfest-2026-update-production-timeline.html</guid>
-      <pubDate>Sat, 09 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>The Fast Lane Car</dc:creator>
-      <category>News</category>
-      <description>The Traveler wears a new matte white called White Cap with 20-inch wheels and 35-inch KO3 tires, and the brick-red interior is the most complete cabin look yet. Running and driving mules are in cold-weather testing in Europe. Production is still on for 2027, deliveries in 2028, and 85% of reservations are the range-extended Harvester trim.</description>
     </item>
 
     <item>
