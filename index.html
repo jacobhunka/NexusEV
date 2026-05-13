@@ -3628,8 +3628,9 @@
       : visibleCards.length;
     function pageSize(page) {
       if (page === 1 && currentCategory === null) {
-        const adOffset = visibleCards.slice(0, primaryCount + 2).filter(c => c.dataset.ad).length;
-        return primaryCount > 0 ? primaryCount + adOffset : CARDS_PAGE_ONE;
+        const cappedPrimary = Math.min(primaryCount, CARDS_PAGE_ONE);
+        const adOffset = visibleCards.slice(0, cappedPrimary + 2).filter(c => c.dataset.ad).length;
+        return cappedPrimary + adOffset;
       }
       return CARDS_PER_PAGE;
     }
