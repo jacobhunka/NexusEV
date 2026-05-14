@@ -206,6 +206,52 @@
   }
   .about-strip a:hover { text-decoration: underline; }
 
+  /* ── R2 TRACKER BANNER ── */
+  .r2-banner {
+    background: linear-gradient(90deg, rgba(0,212,255,0.10) 0%, rgba(0,212,255,0.04) 60%, transparent 100%);
+    border-bottom: 1px solid rgba(0,212,255,0.25);
+    padding: 0.55rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  .r2-banner-text {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.82rem;
+    color: var(--muted);
+    letter-spacing: 0.01em;
+  }
+  .r2-banner-text strong { color: var(--text); font-weight: 600; }
+  .r2-banner-link {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    background: var(--accent);
+    color: #000;
+    text-decoration: none;
+    padding: 0.3rem 0.85rem;
+    border-radius: 4px;
+    white-space: nowrap;
+    transition: opacity 0.2s;
+  }
+  .r2-banner-link:hover { opacity: 0.82; }
+  .r2-banner-pill {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.6rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--accent);
+    background: rgba(0,212,255,0.1);
+    border: 1px solid rgba(0,212,255,0.25);
+    padding: 0.18rem 0.55rem;
+    border-radius: 3px;
+    white-space: nowrap;
+  }
+
   /* ── HERO STRIP ── */
   .hero-strip {
     padding: 2.5rem 2rem 0;
@@ -958,6 +1004,13 @@
 <a class="newsletter-btn" href="https://nexuscurrent.beehiiv.com/subscribe" rel="noopener" style="text-decoration:none;" target="_blank">Subscribe</a>
 </div>
 </header>
+
+<!-- R2 TRACKER BANNER -->
+<div class="r2-banner">
+  <span class="r2-banner-pill">New</span>
+  <span class="r2-banner-text"><strong>Rivian R2 Delivery Tracker</strong> &mdash; See who has their keys. Add your data. Estimate your delivery date.</span>
+  <a class="r2-banner-link" href="https://rivian-r2-tracker.nexusevnews.com" rel="noopener" target="_blank">Track Your R2 &rarr;</a>
+</div>
 <!-- TICKER -->
 <div aria-hidden="true" class="ticker-wrap">
 <div class="ticker-label">⚡ Live</div>
