@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -17,6 +17,66 @@
     <category>Solar</category>
     <category>Battery Technology</category>
 
+
+    <item>
+      <title>He Flew 8,000 Miles to Test Chinese EVs. The XPeng's Self-Driving on Chaotic Streets Changed His Mind.</title>
+      <link>https://nexusevnews.com/articles/chinese-ev-xpeng-catl-battery-swap-rich-rebuilds.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/chinese-ev-xpeng-catl-battery-swap-rich-rebuilds.html</guid>
+      <pubDate>Thu, 14 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Rich Rebuilds</dc:creator>
+      <category>Deep Dives</category>
+      <description>Rich arrived with skepticism and a pair of broken Alibaba shocks as a reference point. He left with footage of a 90-second battery swap, a P7 navigating chaotic Guangzhou streets without intervention, and a taxi battery at 88% health after 500,000 miles. The cheap-knockoff narrative didn't survive contact with the evidence.</description>
+    </item>
+
+    <item>
+      <title>The Electric Retrofit That Cuts Semi Truck Diesel Consumption by Up to 65%. No New Tractor Required.</title>
+      <link>https://nexusevnews.com/articles/range-energy-electrified-semi-trailer-out-of-spec.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/range-energy-electrified-semi-trailer-out-of-spec.html</guid>
+      <pubDate>Thu, 14 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Battery Tech</category>
+      <description>Range Energy retrofits existing semi trailers with an electric powertrain in four hours, cutting tractor diesel by 40% and powering the refrigeration unit electrically from regen for up to 65% combined fuel savings per daily route. Sysco is the first major customer. At current diesel prices, payback is around two years.</description>
+    </item>
+
+    <item>
+      <title>Designed Like a Lotus Chassis, Folds in 10 Seconds, and Was Ridden Up Snowdon to Prove a Point</title>
+      <link>https://nexusevnews.com/articles/flit-m2-folding-ebike-cambridge-everything-electric.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/flit-m2-folding-ebike-cambridge-everything-electric.html</guid>
+      <pubDate>Thu, 14 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Everything Electric TECH</dc:creator>
+      <category>Reviews</category>
+      <description>Cambridge startup FLIT built the M2 folding e-bike from scratch using automotive bonding technology, with the battery positioned inside the frame. The fold mechanism is patented. At £2,739 it weighs 14.5 kg, covers around 50 km, and accommodates riders from 4'10" to 6'6". They rode it up Snowdon on one charge to settle the small-wheel debate.</description>
+    </item>
+
+    <item>
+      <title>Toyota Added 140mm to the bZ4X, Created a 669L Boot and a 1,500 kg Tow Rating. Is That Enough?</title>
+      <link>https://nexusevnews.com/articles/toyota-bz4x-touring-first-drive-electrifying.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/toyota-bz4x-touring-first-drive-electrifying.html</guid>
+      <pubDate>Thu, 14 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>Reviews</category>
+      <description>Electrifying drove the Toyota bZ4X Touring in Slovenia. The 140mm extension adds 148 litres of boot space, a 1,500 kg tow rating, and roof rails. Real-world range on varied roads was around 260 miles against a 366-mile WLTP claim. The front-wheel drive entry-level at £45,995 is the right buy over the 380 hp all-wheel drive variant.</description>
+    </item>
+
+    <item>
+      <title>The Hansshow Tesla Supercharger Extension Cable Failed on Both Test Vehicles. Here's What Happened.</title>
+      <link>https://nexusevnews.com/articles/hansshow-tesla-supercharger-extension-cable-state-of-charge.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/hansshow-tesla-supercharger-extension-cable-state-of-charge.html</guid>
+      <pubDate>Thu, 14 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>State Of Charge</dc:creator>
+      <category>Charging</category>
+      <description>State of Charge stress-tested the Hansshow Gen 2 production extension cable at 500 amps. The Rivian R1S stopped charging at 17 minutes. The Ford F-150 Lightning stopped at 8 minutes. Two vehicles, two stalls, same outcome. The likely cause is pin-level overheating in the Tesla NACS connector. A replacement unit is coming.</description>
+    </item>
+
+    <item>
+      <title>Four Pass, One Fails</title>
+      <link>https://nexusevnews.com/articles/daily-brief-may-14-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/daily-brief-may-14-2026.html</guid>
+      <pubDate>Thu, 14 May 2026 19:00:00 +0000</pubDate>
+      <dc:creator>nexusEVnews</dc:creator>
+      <category>Daily Brief</category>
+      <description>Five pieces of EV hardware got tested today, not just described. China's XPeng navigated chaotic Guangzhou streets on its own. Range Energy's trailer retrofit pencils out financially. The FLIT M2 folded in 10 seconds and climbed a mountain. The bZ4X Touring did what it claimed. The Hansshow cable stopped charging after 17 minutes on the Rivian and 8 on the Lightning. Four pass, one fails.</description>
+    </item>
 
     <item>
       <title>Rivian's New AI Can Change Your Drive Mode, Read Your Texts, and Submit Bug Reports</title>
@@ -137,66 +197,6 @@
       <dc:creator>Gjeebs</dc:creator>
       <category>Reviews</category>
       <description>A dual owner of the Tesla Model 3 and Model Y compares both cars in detail. The premium variants are $42 apart per month on a 60-month loan. The Model Y adds six inches of rear legroom, 8 more cubic feet of cargo space, a frunk drain plug, and a tow hitch the Model 3 cannot have. Range difference: six miles.</description>
-    </item>
-
-    <item>
-      <title>Two Million EVs in the UK, the Renault 5 Is Outselling Everything, and the Corsa GSE Looks Like Trouble</title>
-      <link>https://nexusevnews.com/articles/kilowatt-half-hour-ep105-uk-ev-sales-2-million.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/kilowatt-half-hour-ep105-uk-ev-sales-2-million.html</guid>
-      <pubDate>Mon, 11 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>News</category>
-      <description>The UK crossed 2 million EVs with April registrations up almost 60% year-on-year. The Renault 5 was April's bestselling EV at £230 per month. The Vauxhall Corsa GSE brings 281 hp and a limited-slip differential. CATL announced a semi-solid-state battery rated at 930 miles on the Chinese test cycle.</description>
-    </item>
-
-    <item>
-      <title>A Week With the Vauxhall Corsa Electric: It Drives Like a Corsa, and That's the Whole Point</title>
-      <link>https://nexusevnews.com/articles/vauxhall-corsa-electric-week-review-mr-ev.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/vauxhall-corsa-electric-week-review-mr-ev.html</guid>
-      <pubDate>Mon, 11 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Andrew Till / Mr. EV</dc:creator>
-      <category>Reviews</category>
-      <description>Andrew Till spends a week with the Vauxhall Corsa Electric GS at £29,740, covering daily use, a Southampton round trip, and a rapid charge. Real-world efficiency was around 4 miles per kWh. The sat nav cannot plan charge stops without a paid third-party app, which matters on a 221-mile car.</description>
-    </item>
-
-    <item>
-      <title>CATL's CTO Says Solid State Is Still Years From Mass Production, and the BMW iX3 Surprised Even BMW</title>
-      <link>https://nexusevnews.com/articles/catl-cto-three-minute-charging-sodium-solid-state.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/catl-cto-three-minute-charging-sodium-solid-state.html</guid>
-      <pubDate>Mon, 11 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Everything Electric TECH</dc:creator>
-      <category>Battery Tech</category>
-      <description>Everything Electric interviews CATL's overseas CTO at the 2026 Beijing Motor Show. The flash-charging Shenxing cell hits 10-80% in 3 minutes 44 seconds but requires 1,500 kW infrastructure. Solid-state demo cars are 1-2 years away; mass production is further out. BMW iX3 demand exceeded BMW's own internal forecasts.</description>
-    </item>
-
-    <item>
-      <title>The Gap Between the Spec Sheet and the Road Trip</title>
-      <link>https://nexusevnews.com/articles/daily-brief-may-11-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/daily-brief-may-11-2026.html</guid>
-      <pubDate>Mon, 11 May 2026 19:00:00 +0000</pubDate>
-      <dc:creator>nexusEVnews</dc:creator>
-      <category>Daily Brief</category>
-      <description>Today's five stories tell the same story from different angles: EV hardware is advancing faster than the ecosystem around it. The cars are getting longer range, faster charging, and more performance. The charging networks, navigation software, and pricing structures haven't kept up. The thread that runs from CATL's lab through a Yorkshire road trip to a Kent supermarket car park.</description>
-    </item>
-
-    <item>
-      <title>The BMW iX Still Has Tricks the iX3 Can't Match, But the Price Gap Is Hard to Justify</title>
-      <link>https://nexusevnews.com/articles/bmw-ix-road-trip-review-range-charging-vs-ix3.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix-road-trip-review-range-charging-vs-ix3.html</guid>
-      <pubDate>Sun, 10 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Autogefühl</dc:creator>
-      <category>Reviews</category>
-      <description>Thomas and Lea run the facelifted BMW iX on a full German Autobahn road trip. Real-world mixed range came in around 480 km, roughly 120 km behind the iX3 under the same conditions, and the 195 kW charging peak adds up to a 30-minute stop versus the iX3's 21 minutes.</description>
-    </item>
-
-    <item>
-      <title>Rivian's Spin-Off Built a 100-Mile E-Bike With No Chain and Automotive-Grade Ambitions</title>
-      <link>https://nexusevnews.com/articles/also-tmb-e-bike-rivian-pedal-by-wire-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/also-tmb-e-bike-rivian-pedal-by-wire-review.html</guid>
-      <pubDate>Sun, 10 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>MotorTrend Channel</dc:creator>
-      <category>Deep Dives</category>
-      <description>The Also TMB is a pedal-by-wire electric bike that spun out of Rivian, using Rivian R1 battery cells and a series-hybrid drivetrain with no mechanical chain. Starting at $3,500, it weighs 80 lbs, claims 100 miles of range, and tops out at 28 mph assisted.</description>
     </item>
 
     <item>
