@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -19,63 +19,53 @@
 
 
     <item>
-      <title>He Flew 8,000 Miles to Test Chinese EVs. The XPeng's Self-Driving on Chaotic Streets Changed His Mind.</title>
-      <link>https://nexusevnews.com/articles/chinese-ev-xpeng-catl-battery-swap-rich-rebuilds.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/chinese-ev-xpeng-catl-battery-swap-rich-rebuilds.html</guid>
-      <pubDate>Thu, 14 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Rich Rebuilds</dc:creator>
+      <title>The Zero-Resistance Motor Designed for Aviation Is Already Working. Data Centers Are First.</title>
+      <link>https://nexusevnews.com/articles/superconducting-motor-hinetics-aviation-zero-resistance.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/superconducting-motor-hinetics-aviation-zero-resistance.html</guid>
+      <pubDate>Fri, 15 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Ziroth</dc:creator>
       <category>Deep Dives</category>
-      <description>Rich arrived with skepticism and a pair of broken Alibaba shocks as a reference point. He left with footage of a 90-second battery swap, a P7 navigating chaotic Guangzhou streets without intervention, and a taxi battery at 88% health after 500,000 miles. The cheap-knockoff narrative didn't survive contact with the evidence.</description>
+      <description>Hinetics has built a superconducting motor that achieves 40 kW per kg at 99.5% efficiency by eliminating resistance entirely from the rotor electromagnets. The key engineering insight is a Stirling cycle cooling engine embedded in the spinning rotor itself. Baby Yoda, their proof-of-concept prototype, has logged hundreds of hours of testing and the first commercial target is generators for data centers, not aircraft.</description>
     </item>
 
     <item>
-      <title>The Electric Retrofit That Cuts Semi Truck Diesel Consumption by Up to 65%. No New Tractor Required.</title>
-      <link>https://nexusevnews.com/articles/range-energy-electrified-semi-trailer-out-of-spec.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/range-energy-electrified-semi-trailer-out-of-spec.html</guid>
-      <pubDate>Thu, 14 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
+      <title>The Lucid Air Touring Starts at $81,400 and Has Almost No Real Competition</title>
+      <link>https://nexusevnews.com/articles/lucid-air-touring-2026-driving-with-jonny.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/lucid-air-touring-2026-driving-with-jonny.html</guid>
+      <pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Driving With Jonny</dc:creator>
+      <category>Reviews</category>
+      <description>Johnny reviews the Touring trim of the Lucid Air: 620 hp, 885 lb-ft of torque, a drag coefficient of 0.21, and an interior that competes with cars costing twice as much. The Touring drops two battery packs from the standard model and shifts from 924 to 756 volts, but the torque figure and range around 460 miles hold up well at the $81,400 starting price.</description>
+    </item>
+
+    <item>
+      <title>CATL's Sodium Battery Is 65% Cheaper Than LFP at Cell Level. The Pack Math Is More Complicated.</title>
+      <link>https://nexusevnews.com/articles/catl-sodium-battery-cheap-evs-lfp-alternative.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/catl-sodium-battery-cheap-evs-lfp-alternative.html</guid>
+      <pubDate>Fri, 15 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Ben Alexxander</dc:creator>
       <category>Battery Tech</category>
-      <description>Range Energy retrofits existing semi trailers with an electric powertrain in four hours, cutting tractor diesel by 40% and powering the refrigeration unit electrically from regen for up to 65% combined fuel savings per daily route. Sysco is the first major customer. At current diesel prices, payback is around two years.</description>
+      <description>CATL's next-generation sodium-ion cell is currently $19 per kilowatt-hour at cell level, against $55 to $65 for LFP at comparable scale. Lifespan is claimed at 3.6 million miles before 85% capacity. Energy density has reached 175 Wh/kg. At pack level with cooling and electronics, the cost rises to around $40 to $45 per kilowatt-hour, but scaling on existing LFP production lines is possible within 12 to 24 months.</description>
     </item>
 
     <item>
-      <title>Designed Like a Lotus Chassis, Folds in 10 Seconds, and Was Ridden Up Snowdon to Prove a Point</title>
-      <link>https://nexusevnews.com/articles/flit-m2-folding-ebike-cambridge-everything-electric.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/flit-m2-folding-ebike-cambridge-everything-electric.html</guid>
-      <pubDate>Thu, 14 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Everything Electric TECH</dc:creator>
+      <title>First Time Inside the R2: Better Storage, Cushier Seats, Fewer Compromises Than the R1</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-first-impressions-tailosive-ev.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-first-impressions-tailosive-ev.html</guid>
+      <pubDate>Fri, 15 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Tailosive EV</dc:creator>
       <category>Reviews</category>
-      <description>Cambridge startup FLIT built the M2 folding e-bike from scratch using automotive bonding technology, with the battery positioned inside the frame. The fold mechanism is patented. At £2,739 it weighs 14.5 kg, covers around 50 km, and accommodates riders from 4'10" to 6'6". They rode it up Snowdon on one charge to settle the small-wheel debate.</description>
+      <description>Tailosive EV gets hands-on with the Rivian R2 at a show event alongside an R1S. The seats are noticeably cushier, there are two deep glove boxes, a built-in magnetic charger, and ambient lighting extending to the rear doors. The second row is genuinely comfortable for longer trips. The audio system drew the only clear criticism in an otherwise strong first impression.</description>
     </item>
 
     <item>
-      <title>Toyota Added 140mm to the bZ4X, Created a 669L Boot and a 1,500 kg Tow Rating. Is That Enough?</title>
-      <link>https://nexusevnews.com/articles/toyota-bz4x-touring-first-drive-electrifying.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/toyota-bz4x-touring-first-drive-electrifying.html</guid>
-      <pubDate>Thu, 14 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>Reviews</category>
-      <description>Electrifying drove the Toyota bZ4X Touring in Slovenia. The 140mm extension adds 148 litres of boot space, a 1,500 kg tow rating, and roof rails. Real-world range on varied roads was around 260 miles against a 366-mile WLTP claim. The front-wheel drive entry-level at £45,995 is the right buy over the 380 hp all-wheel drive variant.</description>
-    </item>
-
-    <item>
-      <title>The Hansshow Tesla Supercharger Extension Cable Failed on Both Test Vehicles. Here's What Happened.</title>
-      <link>https://nexusevnews.com/articles/hansshow-tesla-supercharger-extension-cable-state-of-charge.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/hansshow-tesla-supercharger-extension-cable-state-of-charge.html</guid>
-      <pubDate>Thu, 14 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>State Of Charge</dc:creator>
-      <category>Charging</category>
-      <description>State of Charge stress-tested the Hansshow Gen 2 production extension cable at 500 amps. The Rivian R1S stopped charging at 17 minutes. The Ford F-150 Lightning stopped at 8 minutes. Two vehicles, two stalls, same outcome. The likely cause is pin-level overheating in the Tesla NACS connector. A replacement unit is coming.</description>
-    </item>
-
-    <item>
-      <title>Four Pass, One Fails</title>
-      <link>https://nexusevnews.com/articles/daily-brief-may-14-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/daily-brief-may-14-2026.html</guid>
-      <pubDate>Thu, 14 May 2026 19:00:00 +0000</pubDate>
-      <dc:creator>nexusEVnews</dc:creator>
-      <category>Daily Brief</category>
-      <description>Five pieces of EV hardware got tested today, not just described. China's XPeng navigated chaotic Guangzhou streets on its own. Range Energy's trailer retrofit pencils out financially. The FLIT M2 folded in 10 seconds and climbed a mountain. The bZ4X Touring did what it claimed. The Hansshow cable stopped charging after 17 minutes on the Rivian and 8 on the Lightning. Four pass, one fails.</description>
+      <title>Formula E Gen4 Has 600 kW, Permanent Four-Wheel Drive, and Opens What Manufacturers Can Learn</title>
+      <link>https://nexusevnews.com/articles/formula-e-gen4-fia-electric-racing-road-relevance.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/formula-e-gen4-fia-electric-racing-road-relevance.html</guid>
+      <pubDate>Fri, 15 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>FIA / Formula E</dc:creator>
+      <category>Deep Dives</category>
+      <description>The FIA's Gen4 Formula E car delivers 600 kW in qualifying and 700 kW of regenerative braking. It is the first single-seater racing car with permanent four-wheel drive. Manufacturers now have full freedom to develop their own traction control, brake-by-wire, and torque distribution systems, with explicit intent to transfer that knowledge to production road cars.</description>
     </item>
 
     <item>
@@ -128,7 +118,6 @@
       <description>NBC News drove a BYD in China. Massage seats, autonomous parking, sub-$12,000 price point. The US blocks all Chinese EVs with a 100% tariff, which keeps the comparison theoretical but doesn't stop the videos from going viral. China is approaching 70% of all EVs sold globally.</description>
     </item>
 
-
     <item>
       <title>Infinite Machine's Alto Wants to Fill the Gap Between an E-Bike and a Vespa</title>
       <link>https://nexusevnews.com/articles/infinite-machine-alto-electric-class3-scooter-review.html</link>
@@ -160,16 +149,6 @@
     </item>
 
     <item>
-      <title>CES 2026's Electric Micromobility Floor: From a 36-lb Carbon Scooter to a 94 mph Speed Machine</title>
-      <link>https://nexusevnews.com/articles/ces-2026-electric-scooters-motorcycles-ebikes-roundup.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ces-2026-electric-scooters-motorcycles-ebikes-roundup.html</guid>
-      <pubDate>Tue, 12 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>EV Tech Steven</dc:creator>
-      <category>Deep Dives</category>
-      <description>EV Tech Steven covered 14 electric two-wheelers from the CES floor: the all-carbon Novos light bike at 80 mph and 100 units, the InMotion RS Pro at 94 mph with a dashboard worth using, the LivaQ eQuad with four hub motors and 200 miles of range, and a rideable carry-on suitcase with a built-in power bank.</description>
-    </item>
-
-    <item>
       <title>Xiaomi Hired Engineers From BMW, Porsche, and Lamborghini. EU Entry Is Second Half 2027.</title>
       <link>https://nexusevnews.com/articles/xiaomi-ev-europe-entry-bmw-porsche-engineers.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/xiaomi-ev-europe-entry-bmw-porsche-engineers.html</guid>
@@ -187,16 +166,6 @@
       <dc:creator>What Car?</dc:creator>
       <category>Reviews</category>
       <description>What Car? drives the BMW iX3 and Tesla Model Y on a 500-mile London-to-Yorkshire round trip. The iX3 arrived first, logged real-world range of around 393 miles, and averaged 170 kW charging. The Tesla charged at 129 kW on average and cost £36 less to run over the full trip on Supercharger pricing.</description>
-    </item>
-
-    <item>
-      <title>Six More Inches, a Drain Plug, and a Tow Hitch: Why Most Buyers Land on the Model Y</title>
-      <link>https://nexusevnews.com/articles/tesla-model-y-vs-model-3-gjeebs-comparison.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-y-vs-model-3-gjeebs-comparison.html</guid>
-      <pubDate>Mon, 11 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Gjeebs</dc:creator>
-      <category>Reviews</category>
-      <description>A dual owner of the Tesla Model 3 and Model Y compares both cars in detail. The premium variants are $42 apart per month on a 60-month loan. The Model Y adds six inches of rear legroom, 8 more cubic feet of cargo space, a frunk drain plug, and a tow hitch the Model 3 cannot have. Range difference: six miles.</description>
     </item>
 
     <item>
@@ -218,7 +187,6 @@
       <category>Opinion</category>
       <description>Atlanta has a failing air quality grade and a Rivian plant on its doorstep. A hypothetical about what one city could do with the electric mobility infrastructure that already exists — R2 autonomous taxis, ALSO cargo quads, e-bikes, and ZTL-style restricted zones — and what the health data says the stakes actually are. Includes data from the HEI lockdown air quality study (Chen et al., 2025) and the American Lung Association's 2025 Atlanta air quality report.</description>
     </item>
-
 
 
   </channel>
