@@ -925,6 +925,257 @@
     text-transform: uppercase;
     margin-bottom: 1rem;
   }
+
+  /* ── SOLARPUNK ANIMATED HERO ── */
+  .hero-strip {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    max-width: none;
+    width: 100%;
+    height: 640px;
+    overflow: hidden;
+    isolation: isolate;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .hero-strip > .hero-content {
+    position: relative;
+    z-index: 20;
+    padding: 0 2rem;
+    text-align: center;
+    max-width: 900px;
+  }
+
+  .sp-sky {
+    position: absolute; inset: 0; z-index: 1;
+    background:
+      linear-gradient(to bottom,
+        #4a9fd4 0%,
+        #6fb8de 18%,
+        #a8d6ea 42%,
+        #d4ecf3 62%,
+        #f5e1b8 82%,
+        #f0d49a 100%);
+    animation: sp-sky-breathe 60s ease-in-out infinite alternate;
+  }
+  @keyframes sp-sky-breathe {
+    0%   { filter: hue-rotate(0deg) brightness(1); }
+    100% { filter: hue-rotate(-6deg) brightness(1.04); }
+  }
+
+  .sp-sun {
+    position: absolute; top: 8%; right: 12%; z-index: 2;
+    width: 200px; height: 200px; border-radius: 50%;
+    background: radial-gradient(circle,
+      rgba(255,236,180,0.95) 0%,
+      rgba(255,220,140,0.55) 30%,
+      rgba(255,210,120,0.18) 60%,
+      transparent 75%);
+    filter: blur(2px);
+    animation: sp-sun-pulse 7s ease-in-out infinite;
+    pointer-events: none;
+  }
+  @keyframes sp-sun-pulse {
+    0%, 100% { transform: scale(1); opacity: 0.95; }
+    50%      { transform: scale(1.08); opacity: 1; }
+  }
+
+  .sp-hills {
+    position: absolute; left: -5%; right: -5%; width: 110%;
+    pointer-events: none;
+  }
+  .sp-hills svg { display: block; width: 100%; height: auto; }
+  .sp-hills.far  { bottom: 28%; opacity: 0.55; z-index: 3; animation: sp-drift 280s linear infinite; }
+  .sp-hills.mid  { bottom: 20%; opacity: 0.85; z-index: 4; animation: sp-drift 220s linear infinite -40s; }
+  .sp-hills.near { bottom: 13%; z-index: 6; animation: sp-drift 180s linear infinite -80s; }
+  @keyframes sp-drift {
+    from { transform: translateX(-5%); }
+    to   { transform: translateX(5%); }
+  }
+
+  .sp-cloud-layer { position: absolute; inset: 0; pointer-events: none; z-index: 5; }
+  .sp-cloud { position: absolute; filter: drop-shadow(0 6px 12px rgba(70,110,140,0.18)); will-change: transform; }
+  .sp-cloud svg { display: block; width: 100%; }
+  .sp-cloud.c1 { top: 8%;  width: 320px; animation: sp-cloud-drift 110s linear infinite, sp-bob 7s ease-in-out infinite; }
+  .sp-cloud.c2 { top: 18%; width: 460px; animation: sp-cloud-drift 160s linear infinite -40s, sp-bob 9s ease-in-out infinite -2s; }
+  .sp-cloud.c3 { top: 5%;  width: 240px; animation: sp-cloud-drift 90s  linear infinite -60s, sp-bob 6s ease-in-out infinite -1s; opacity: 0.85; }
+  .sp-cloud.c4 { top: 26%; width: 380px; animation: sp-cloud-drift 135s linear infinite -90s, sp-bob 8s ease-in-out infinite -3s; }
+  .sp-cloud.c5 { top: 14%; width: 200px; animation: sp-cloud-drift 75s  linear infinite -120s, sp-bob 5s ease-in-out infinite; opacity: 0.7; }
+  @keyframes sp-cloud-drift {
+    from { transform: translateX(-30vw); }
+    to   { transform: translateX(130vw); }
+  }
+  @keyframes sp-bob {
+    0%, 100% { margin-top: 0; }
+    50%      { margin-top: 8px; }
+  }
+
+  .sp-harvesters { position: absolute; bottom: 14%; left: 0; right: 0; height: 60%; pointer-events: none; z-index: 5; }
+  .sp-harvester { position: absolute; bottom: 0; display: flex; flex-direction: column; align-items: center; }
+  .sp-harvester .sp-pole {
+    width: 3px;
+    background: linear-gradient(to bottom, #4a5a6a, #2a3540 80%, #1d262e);
+    border-radius: 2px 2px 0 0;
+    box-shadow: 0 0 8px rgba(0,0,0,0.15);
+  }
+  .sp-harvester .sp-head { width: 26px; height: 30px; position: relative; margin-bottom: -2px; }
+  .sp-harvester .sp-head::before {
+    content: ""; position: absolute; inset: 0;
+    background: linear-gradient(155deg, #5a6878 0%, #2e3a48 100%);
+    clip-path: polygon(50% 0%, 100% 35%, 85% 100%, 15% 100%, 0% 35%);
+  }
+  .sp-harvester .sp-head::after {
+    content: ""; position: absolute; top: 18%; left: 18%; right: 18%; bottom: 22%;
+    background: linear-gradient(180deg, #00d4ff, #6ee5ff);
+    clip-path: polygon(50% 0%, 100% 40%, 80% 100%, 20% 100%, 0% 40%);
+    box-shadow: 0 0 18px var(--accent), 0 0 32px rgba(0,212,255,0.6);
+    animation: sp-glow 3.5s ease-in-out infinite;
+  }
+  @keyframes sp-glow {
+    0%, 100% { opacity: 0.85; filter: brightness(1); }
+    50%      { opacity: 1; filter: brightness(1.25); }
+  }
+  .sp-harvester.h1 { left: 18%; bottom: 38%; }
+  .sp-harvester.h1 .sp-pole { height: 240px; }
+  .sp-harvester.h2 { left: 38%; bottom: 30%; }
+  .sp-harvester.h2 .sp-pole { height: 320px; }
+  .sp-harvester.h3 { left: 74%; bottom: 28%; }
+  .sp-harvester.h3 .sp-pole { height: 280px; }
+
+  .sp-motes { position: absolute; inset: 0; pointer-events: none; z-index: 8; }
+  .sp-mote {
+    position: absolute; bottom: -20px;
+    width: 4px; height: 4px; border-radius: 50%;
+    background: rgba(255, 240, 200, 0.85);
+    box-shadow: 0 0 8px rgba(255, 220, 150, 0.65);
+    animation: sp-float linear infinite;
+    will-change: transform, opacity;
+  }
+  .sp-mote.cyan {
+    background: rgba(180, 240, 255, 0.9);
+    box-shadow: 0 0 10px rgba(0, 212, 255, 0.7);
+  }
+  @keyframes sp-float {
+    0%   { transform: translateY(0) translateX(0); opacity: 0; }
+    10%  { opacity: 1; }
+    50%  { transform: translateY(-380px) translateX(20px); }
+    90%  { opacity: 1; }
+    100% { transform: translateY(-720px) translateX(-15px); opacity: 0; }
+  }
+
+  .sp-grass {
+    position: absolute; bottom: 0; left: 0; right: 0;
+    height: 18%; z-index: 6;
+    background: linear-gradient(to bottom,
+      rgba(201, 168, 90, 0) 0%,
+      #d4b06a 8%,
+      #c9a157 35%,
+      #a88543 70%,
+      #8b6f34 100%);
+  }
+  .sp-grass::before {
+    content: ""; position: absolute; top: -10px; left: 0; right: 0; height: 20px;
+    background:
+      radial-gradient(ellipse 80px 14px at 5% 100%, #d4b06a 50%, transparent 51%),
+      radial-gradient(ellipse 100px 18px at 20% 100%, #d4b06a 50%, transparent 51%),
+      radial-gradient(ellipse 70px 12px at 35% 100%, #d4b06a 50%, transparent 51%),
+      radial-gradient(ellipse 90px 16px at 50% 100%, #d4b06a 50%, transparent 51%),
+      radial-gradient(ellipse 110px 14px at 65% 100%, #d4b06a 50%, transparent 51%),
+      radial-gradient(ellipse 80px 12px at 80% 100%, #d4b06a 50%, transparent 51%),
+      radial-gradient(ellipse 95px 16px at 95% 100%, #d4b06a 50%, transparent 51%);
+  }
+
+  /* Headline readability tweaks against the scene */
+  .hero-strip .hero-headline .hero-line-solid {
+    text-shadow: 0 2px 24px rgba(255,255,255,0.55), 0 1px 0 rgba(255,255,255,0.4);
+  }
+  .hero-strip .hero-headline .hero-line-outline {
+    -webkit-text-stroke: 2px var(--accent);
+    filter: drop-shadow(0 0 18px rgba(0,212,255,0.45));
+  }
+  .hero-strip .hero-date,
+  .hero-strip .hero-brief-line {
+    display: inline-block;
+    background: rgba(255,255,255,0.55);
+    padding: 5px 14px;
+    border-radius: 30px;
+    -webkit-backdrop-filter: blur(4px);
+    backdrop-filter: blur(4px);
+  }
+  .hero-strip .hero-divider { box-shadow: 0 0 12px rgba(0,212,255,0.5); }
+
+  /* Subtle solarpunk wash on the rest of the page */
+  body {
+    background:
+      radial-gradient(ellipse 90% 320px at 50% 0%, rgba(0,212,255,0.06), transparent 70%),
+      #ffffff;
+  }
+  .grid-wrap, .pagination-wrap, .about-curator, footer { position: relative; z-index: 2; }
+
+  /* Respect prefers-reduced-motion */
+  @media (prefers-reduced-motion: reduce) {
+    .sp-sky, .sp-sun, .sp-hills, .sp-cloud, .sp-mote, .sp-harvester .sp-head::after { animation: none !important; }
+  }
+
+  /* Mobile: shrink and simplify scene */
+  @media (max-width: 700px) {
+    .hero-strip { height: 520px; }
+    .sp-sun { width: 130px; height: 130px; top: 6%; right: 8%; }
+    .sp-harvester.h1 .sp-pole { height: 160px; }
+    .sp-harvester.h2 .sp-pole { height: 220px; }
+    .sp-harvester.h3 .sp-pole { height: 180px; }
+    .sp-cloud.c2, .sp-cloud.c4 { display: none; }
+  }
+
+  /* ── GHIBLI VIDEO HERO (overrides CSS scene) ── */
+  /* Hide CSS scene layers that conflict with the painted video */
+  .sp-sun,
+  .sp-hills,
+  .sp-harvesters,
+  .sp-cloud-layer,
+  .sp-grass {
+    display: none !important;
+  }
+
+  /* sp-sky becomes the video container */
+  .sp-sky {
+    background: #2a4d6d; /* fallback color matching painting's sky while video loads */
+    animation: none;
+    overflow: hidden;
+  }
+  .sp-video {
+    position: absolute; inset: 0;
+    width: 100%; height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    pointer-events: none;
+  }
+
+  /* Stronger headline contrast against the richer painted scene */
+  .hero-strip .hero-headline .hero-line-solid {
+    color: #0d0e12;
+    text-shadow:
+      0 2px 28px rgba(255,255,255,0.55),
+      0 0 18px rgba(255,255,255,0.45),
+      0 1px 0 rgba(255,255,255,0.5);
+  }
+  .hero-strip .hero-headline .hero-line-outline {
+    -webkit-text-stroke: 2.5px var(--accent);
+    filter:
+      drop-shadow(0 0 20px rgba(0,212,255,0.6))
+      drop-shadow(0 2px 14px rgba(0,0,0,0.35));
+  }
+  .hero-strip .hero-date,
+  .hero-strip .hero-brief-line {
+    background: rgba(255,255,255,0.78);
+    box-shadow: 0 2px 14px rgba(0,0,0,0.12);
+  }
+  .hero-strip .hero-divider {
+    box-shadow: 0 0 14px rgba(0,212,255,0.6);
+  }
 </style>
 <!-- Structured Data -->
 <script type="application/ld+json">
@@ -1039,23 +1290,55 @@
 <div class="about-strip">
 <p>The EV and energy stories that matter, usually before your feed finds them. No brand deals, no noise. <em>Independent.</em>  <a href="about.html">About us →</a></p>
 </div>
-<!-- HERO -->
+<!-- HERO (Solarpunk animated scene) -->
 <div class="hero-strip">
-<div>
-<h1 class="hero-headline">
-<span class="hero-line-solid">THE EV WORLD,</span>
-<span class="hero-line-outline">CONNECTED.</span>
-</h1>
-<div class="hero-divider"></div>
-<div class="hero-date" id="heroDate">Saturday, May 16 · 2026</div>
-<div class="hero-brief-line">Today's thread: <a href="articles/daily-brief-may-16-2026.html">Same Price Point. Very Different Answers.</a> &rarr;</div>
-<div style="margin-top:1.5rem; display:inline-block; background:var(--surface2); border:1px solid var(--border); border-radius:8px; overflow:hidden; max-width:340px; width:100%;">
-  <a href="https://nexuscurrent.beehiiv.com/subscribe" rel="noopener" target="_blank" style="display:block; font-family:'DM Sans',sans-serif; font-size:0.85rem; font-weight:600; letter-spacing:0.06em; text-transform:uppercase; background:var(--accent); color:#000; padding:0.65rem 1.6rem; text-decoration:none;">
-    ⚡ Subscribe to Nexus Current
-  </a>
-  <div style="font-size:0.75rem; color:var(--muted); font-family:'DM Sans',sans-serif; line-height:1.55; padding:0.55rem 1rem;">The week's best EV and energy stories, curated by a human. No brand deals, no noise. Free, every week.</div>
-</div>
-</div>
+  <!-- Scene layers (back → front) -->
+  <div class="sp-sky" aria-hidden="true">
+    <video class="sp-video" autoplay loop muted playsinline preload="auto" poster="hero-bg-poster.jpg">
+      <source src="hero-bg.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="sp-sun" aria-hidden="true"></div>
+  <div class="sp-hills far" aria-hidden="true">
+    <svg viewBox="0 0 1920 280" preserveAspectRatio="none"><path d="M 0 200 Q 240 80, 480 140 T 960 110 T 1440 150 T 1920 120 L 1920 280 L 0 280 Z" fill="#a8c6c0"/></svg>
+  </div>
+  <div class="sp-hills mid" aria-hidden="true">
+    <svg viewBox="0 0 1920 280" preserveAspectRatio="none"><path d="M 0 220 Q 320 120, 640 170 T 1280 140 T 1920 180 L 1920 280 L 0 280 Z" fill="#6fa088"/></svg>
+  </div>
+  <div class="sp-harvesters" aria-hidden="true">
+    <div class="sp-harvester h1"><div class="sp-head"></div><div class="sp-pole"></div></div>
+    <div class="sp-harvester h2"><div class="sp-head"></div><div class="sp-pole"></div></div>
+    <div class="sp-harvester h3"><div class="sp-head"></div><div class="sp-pole"></div></div>
+  </div>
+  <div class="sp-hills near" aria-hidden="true">
+    <svg viewBox="0 0 1920 240" preserveAspectRatio="none"><path d="M 0 200 Q 240 100, 480 160 T 960 130 Q 1200 100, 1440 170 T 1920 140 L 1920 240 L 0 240 Z" fill="#3e7a5e"/></svg>
+  </div>
+  <div class="sp-cloud-layer" aria-hidden="true">
+    <div class="sp-cloud c1"><svg viewBox="0 0 320 120"><g fill="white"><ellipse cx="60" cy="80" rx="50" ry="28"/><ellipse cx="120" cy="60" rx="60" ry="38"/><ellipse cx="190" cy="70" rx="55" ry="34"/><ellipse cx="250" cy="85" rx="48" ry="26"/><ellipse cx="160" cy="48" rx="40" ry="22"/></g></svg></div>
+    <div class="sp-cloud c2"><svg viewBox="0 0 460 140"><g fill="white"><ellipse cx="80" cy="100" rx="68" ry="34"/><ellipse cx="170" cy="80" rx="78" ry="44"/><ellipse cx="260" cy="70" rx="72" ry="42"/><ellipse cx="350" cy="85" rx="68" ry="38"/><ellipse cx="410" cy="100" rx="50" ry="28"/><ellipse cx="220" cy="55" rx="55" ry="28"/><ellipse cx="310" cy="55" rx="48" ry="24"/></g></svg></div>
+    <div class="sp-cloud c3"><svg viewBox="0 0 240 100"><g fill="white"><ellipse cx="50" cy="70" rx="42" ry="22"/><ellipse cx="110" cy="55" rx="50" ry="30"/><ellipse cx="170" cy="65" rx="48" ry="26"/><ellipse cx="210" cy="75" rx="30" ry="18"/></g></svg></div>
+    <div class="sp-cloud c4"><svg viewBox="0 0 380 130"><g fill="white"><ellipse cx="70" cy="90" rx="55" ry="30"/><ellipse cx="150" cy="75" rx="68" ry="38"/><ellipse cx="230" cy="70" rx="62" ry="36"/><ellipse cx="305" cy="85" rx="58" ry="32"/><ellipse cx="190" cy="50" rx="48" ry="22"/></g></svg></div>
+    <div class="sp-cloud c5"><svg viewBox="0 0 200 80"><g fill="white"><ellipse cx="40" cy="55" rx="34" ry="18"/><ellipse cx="90" cy="45" rx="42" ry="24"/><ellipse cx="140" cy="55" rx="38" ry="20"/><ellipse cx="170" cy="60" rx="24" ry="14"/></g></svg></div>
+  </div>
+  <div class="sp-motes" id="spMotes" aria-hidden="true"></div>
+  <div class="sp-grass" aria-hidden="true"></div>
+
+  <!-- Original hero copy (unchanged) -->
+  <div class="hero-content">
+    <h1 class="hero-headline">
+      <span class="hero-line-solid">THE EV WORLD,</span>
+      <span class="hero-line-outline">CONNECTED.</span>
+    </h1>
+    <div class="hero-divider"></div>
+    <div class="hero-date" id="heroDate">Saturday, May 16 · 2026</div>
+    <div class="hero-brief-line">Today's thread: <a href="articles/daily-brief-may-16-2026.html">Same Price Point. Very Different Answers.</a> &rarr;</div>
+    <div style="margin-top:1.5rem; display:inline-block; background:var(--surface2); border:1px solid var(--border); border-radius:8px; overflow:hidden; max-width:340px; width:100%;">
+      <a href="https://nexuscurrent.beehiiv.com/subscribe" rel="noopener" target="_blank" style="display:block; font-family:'DM Sans',sans-serif; font-size:0.85rem; font-weight:600; letter-spacing:0.06em; text-transform:uppercase; background:var(--accent); color:#000; padding:0.65rem 1.6rem; text-decoration:none;">
+        ⚡ Subscribe to Nexus Current
+      </a>
+      <div style="font-size:0.75rem; color:var(--muted); font-family:'DM Sans',sans-serif; line-height:1.55; padding:0.55rem 1rem;">The week's best EV and energy stories, curated by a human. No brand deals, no noise. Free, every week.</div>
+    </div>
+  </div>
 </div>
 <script>
   (function() {
@@ -1064,6 +1347,39 @@
     var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
     var el = document.getElementById('heroDate');
     if (el) el.textContent = days[d.getDay()] + ', ' + months[d.getMonth()] + ' ' + d.getDate() + ' \u00B7 ' + d.getFullYear();
+  })();
+</script>
+<!-- Solarpunk hero: spawn light motes -->
+<script>
+  (function spawnMotes() {
+    var layer = document.getElementById('spMotes');
+    if (!layer) return;
+    var COUNT = 16;
+    for (var i = 0; i < COUNT; i++) {
+      var m = document.createElement('div');
+      m.className = 'sp-mote' + (Math.random() < 0.35 ? ' cyan' : '');
+      var left = Math.random() * 100;
+      var dur = 11 + Math.random() * 14;
+      var delay = -Math.random() * dur;
+      var size = 2 + Math.random() * 3;
+      m.style.left = left + '%';
+      m.style.width = size + 'px';
+      m.style.height = size + 'px';
+      m.style.animationDuration = dur + 's';
+      m.style.animationDelay = delay + 's';
+      layer.appendChild(m);
+    }
+  })();
+
+  // Pause the hero video for users who prefer reduced motion (the poster image stays visible)
+  (function respectReducedMotion() {
+    if (!window.matchMedia) return;
+    var mq = window.matchMedia('(prefers-reduced-motion: reduce)');
+    if (!mq.matches) return;
+    document.querySelectorAll('video.sp-video').forEach(function(v) {
+      v.pause();
+      v.removeAttribute('autoplay');
+    });
   })();
 </script>
 <!-- CATEGORY PILLS -->
