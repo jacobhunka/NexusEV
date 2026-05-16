@@ -37,16 +37,21 @@
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   :root {
-    --bg: #ffffff;
-    --surface: #ffffff;
+    /* Editorial polish: warm parchment body, light-cyan cards pop off it */
+    --bg: #f6f1e6;            /* warm parchment, picks up wheat tones */
+    --bg-deep: #ede5d2;       /* deeper for footer / section ends */
+    --surface: #eef2e8;       /* pale sage — picks up Ghibli hills */
     --surface2: #f0f1f3;
-    --border: #e2e4e9;
+    --border: #e7e0d0;        /* warmer border on the cream */
+    --border-card: #d8dfce;   /* sage-leaning border for cards */
     --accent: #00d4ff;
     --accent2: #7fff6e;
     --solar: #f59e0b;
     --text: #0d0e12;
     --muted: #6b7280;
     --tag-bg: #dff4fa;
+    --card-shadow: 0 1px 2px rgba(60,80,40,0.04), 0 4px 14px rgba(60,80,40,0.07);
+    --card-shadow-hover: 0 4px 8px rgba(60,80,40,0.07), 0 14px 34px rgba(50,90,30,0.13);
   }
 
   html { scroll-behavior: smooth; overflow-x: hidden; }
@@ -1106,13 +1111,67 @@
   }
   .hero-strip .hero-divider { box-shadow: 0 0 12px rgba(0,212,255,0.5); }
 
-  /* Subtle solarpunk wash on the rest of the page */
+  /* Warm parchment body with subtle solarpunk cyan halo at the top */
   body {
     background:
-      radial-gradient(ellipse 90% 320px at 50% 0%, rgba(0,212,255,0.06), transparent 70%),
-      #ffffff;
+      radial-gradient(ellipse 90% 320px at 50% 0%, rgba(0,212,255,0.05), transparent 70%),
+      var(--bg);
   }
   .grid-wrap, .pagination-wrap, .about-curator, footer { position: relative; z-index: 2; }
+  .grid-wrap { background: transparent; }
+
+  /* Hero fades into the parchment so there's no hard cutoff */
+  .hero-strip::after {
+    content: "";
+    position: absolute;
+    bottom: 0; left: 0; right: 0;
+    height: 80px;
+    background: linear-gradient(to bottom, rgba(246,241,230,0) 0%, var(--bg) 100%);
+    z-index: 9;
+    pointer-events: none;
+  }
+
+  /* Cards: soft editorial shadow instead of hairline grid */
+  .card {
+    border: 1px solid var(--border-card);
+    border-radius: 6px;
+    box-shadow: var(--card-shadow);
+    transition: background 0.2s, box-shadow 0.25s, transform 0.25s;
+  }
+  /* Override the previous 4n+1 / right / bottom border rules */
+  .card:nth-child(4n+1),
+  .card { border-left: 1px solid var(--border-card); }
+  .card { border-right: 1px solid var(--border-card); border-bottom: 1px solid var(--border-card); border-top: 1px solid var(--border-card); }
+  .card:hover {
+    background: #ffffff;
+    box-shadow: var(--card-shadow-hover);
+    transform: translateY(-2px);
+  }
+
+  /* Ticker, search input, pagination, etc. keep pure white so they don't compete */
+  .ticker-wrap,
+  .yt-lightbox-inner,
+  .pagination-wrap button,
+  .search-input,
+  .ad-card { background: #ffffff; }
+
+  /* Active "All" tab keeps its cyan identity against sage cards */
+  .cat:hover, .cat.active { background: var(--tag-bg); }
+
+  /* Restore a small gap between cards so the shadows breathe */
+  .grid-wrap { gap: 1.25rem; }
+
+  /* Pagination + about-curator harmonize with the new body */
+  .about-curator {
+    background: linear-gradient(180deg, var(--bg) 0%, var(--bg-deep) 100%);
+    border-top: 1px solid var(--border);
+  }
+  footer { background: var(--bg-deep); border-top: 1px solid var(--border); }
+  .pagination-wrap button { background: var(--surface); border-color: var(--border-card); box-shadow: 0 1px 2px rgba(60,50,30,0.04); }
+
+  /* Card footer divider in card color */
+  .card-footer { border-top-color: var(--border-card); }
+  .card-arrow { border-color: var(--border-card); }
 
   /* Respect prefers-reduced-motion */
   @media (prefers-reduced-motion: reduce) {
