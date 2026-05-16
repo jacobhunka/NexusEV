@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -17,6 +17,56 @@
     <category>Solar</category>
     <category>Battery Technology</category>
 
+
+    <item>
+      <title>Volkswagen&#8217;s First Electric GTI: 226 hp, 24-Minute Charging, and a &#8364;40,000 Question</title>
+      <link>https://nexusevnews.com/articles/vw-id-polo-gti-electric-reveal-autogefuhl.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/vw-id-polo-gti-electric-reveal-autogefuhl.html</guid>
+      <pubDate>Sat, 16 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Autogef&#252;hl</dc:creator>
+      <category>Reviews</category>
+      <description>Autogef&#252;hl examines the pre-production ID Polo GTI: 226 hp on the front axle with an electronic differential lock, DCC adaptive suspension exclusive to the GTI trim, a 52 kWh NMC battery with 105 kW DC charging from 10 to 80 percent in 24 minutes, and a top speed of 175 km/h. Clark tartan seats, a physical GTI button on the steering wheel that triggers a dedicated drive mode and retro gauge display, and 440 litres of boot space. Pricing is not yet confirmed but expected around &#8364;40,000.</description>
+    </item>
+
+    <item>
+      <title>Munro Live Breaks Down the R2 at ACT Expo: The Cost-Reduction Story Is in the Details</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-act-expo-engineering-munro-live.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-act-expo-engineering-munro-live.html</guid>
+      <pubDate>Sat, 16 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Munro Live</dc:creator>
+      <category>Deep Dives</category>
+      <description>Sandy Munro&#8217;s team walks through the Rivian R2 at ACT Expo 2026 with a Rivian fleet sales representative. The conversation covers the simplified single-piece frunk liner with fewer fasteners versus the R1, a clamshell hood, squared mirror arms, a recessed rear wiper tested extensively for drainage and ice, and the Halo haptic electromechanical scroll wheels that adjust detent resistance and throw contextually based on which vehicle setting is being changed. The R2 launches at $57,990 with 330 miles of range and 0 to 60 in 3.5 seconds.</description>
+    </item>
+
+    <item>
+      <title>The R2 Configurator Is Live: What the Launch Package Includes and How to Save $650</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-launch-configurator-pricing-travis-ketchum.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-launch-configurator-pricing-travis-ketchum.html</guid>
+      <pubDate>Sat, 16 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Travis Ketchum</dc:creator>
+      <category>Deep Dives</category>
+      <description>Travis Ketchum walks through every option on the live R2 configurator. Paint runs from free for Escer Silver to $2,000 for Midnight, Catalina Cove, and Launch Green. The all-terrain 20-inch wheel upgrade is $1,000 and drops range from 330 to 307 miles. The compact spare adds $755. Buyers in 13 qualifying states, including California, Washington, New York, and Colorado, can receive $650 in charging accessories at no added cost by selecting them at checkout. Launch Green is exclusive to performance launch edition orders.</description>
+    </item>
+
+    <item>
+      <title>BYD&#8217;s Atto 3 Evo Gets Blade 2 Battery, 220 kW Charging, and Rear-Wheel Drive</title>
+      <link>https://nexusevnews.com/articles/byd-atto-3-evo-blade-battery-2-upgrade-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-atto-3-evo-blade-battery-2-upgrade-2026.html</guid>
+      <pubDate>Sat, 16 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Ben Alexxander</dc:creator>
+      <category>Battery Tech</category>
+      <description>The Atto 3 Evo launches in China on May 21 and is expected in Australia and the UK by mid-2026. The Blade 2 battery upgrade brings DC charging to around 220 kW, up from 80 to 90 kW on the current model. The drivetrain shifts from front-wheel to rear-wheel drive producing 230 kW and 380 Nm of torque, with an AWD variant at 330 kW combined also planned. WLTP range is expected to exceed 500 km, up from 420 km. Revised rear suspension, a steering column gear selector, and new under-bonnet storage round out the update.</description>
+    </item>
+
+    <item>
+      <title>Ionna&#8217;s CEO on 110 Sites, No Public Funding, and the Charging Network America Needs</title>
+      <link>https://nexusevnews.com/articles/ionna-ev-charging-gemini-navigation-insideevs-podcast.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ionna-ev-charging-gemini-navigation-insideevs-podcast.html</guid>
+      <pubDate>Sat, 16 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>InsideEVs</dc:creator>
+      <category>Charging</category>
+      <description>InsideEVs speaks with Ionna CEO Seth Cutler: 110 live sites across 36 US states, 50 more under construction, 400 contracted, all at 400 kW per stall, built without public funding. The episode also covers Google Gemini conversational navigation tested in the Volvo EX60, which handled requests such as finding a fast charger near a gluten-free restaurant along a route. Grok integration in Tesla vehicles is also discussed. Separately: Mazda delays its ground-up EV architecture to 2029, and Tesla is beta testing Supercharger waitlists at five US sites.</description>
+    </item>
 
     <item>
       <title>The Zero-Resistance Motor Designed for Aviation Is Already Working. Data Centers Are First.</title>
@@ -148,25 +198,7 @@
       <description>More boot space, a V2L socket, regen paddles, and one-pedal driving at roughly half the price. Both reviewers chose the Kia. The Buzz wins on power, range, electric sliding doors, and cabin quality. Neither is a bad choice, but the £27,000 gap makes one of them much easier to justify.</description>
     </item>
 
-    <item>
-      <title>Xiaomi Hired Engineers From BMW, Porsche, and Lamborghini. EU Entry Is Second Half 2027.</title>
-      <link>https://nexusevnews.com/articles/xiaomi-ev-europe-entry-bmw-porsche-engineers.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/xiaomi-ev-europe-entry-bmw-porsche-engineers.html</guid>
-      <pubDate>Tue, 12 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Roaming</dc:creator>
-      <category>News</category>
-      <description>Fifty engineers in a Munich R&amp;D centre. One ran the BMW M4 GT3 race programme. One tuned the 3 Series, Z4, and X5 chassis. One designed the exterior of the Porsche 992 GT3 RS. Another led the AMG Vision GT. Xiaomi has delivered over 400,000 vehicles and is targeting half a million in 2026.</description>
-    </item>
 
-    <item>
-      <title>The BMW iX3 Gets to Yorkshire First, But the Tesla Costs a Third Less to Charge</title>
-      <link>https://nexusevnews.com/articles/bmw-ix3-vs-tesla-model-y-600-mile-road-trip.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-vs-tesla-model-y-600-mile-road-trip.html</guid>
-      <pubDate>Mon, 11 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>What Car?</dc:creator>
-      <category>Reviews</category>
-      <description>What Car? drives the BMW iX3 and Tesla Model Y on a 500-mile London-to-Yorkshire round trip. The iX3 arrived first, logged real-world range of around 393 miles, and averaged 170 kW charging. The Tesla charged at 129 kW on average and cost £36 less to run over the full trip on Supercharger pricing.</description>
-    </item>
 
     <item>
       <title>Two Batteries, One Hitch, and the Case for All-Electric Glamping</title>
