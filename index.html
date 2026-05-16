@@ -37,16 +37,16 @@
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   :root {
-    --bg: #0a0b0f;
-    --surface: #111318;
-    --surface2: #1a1d24;
-    --border: #1f2330;
+    --bg: #ffffff;
+    --surface: #ffffff;
+    --surface2: #f0f1f3;
+    --border: #e2e4e9;
     --accent: #00d4ff;
     --accent2: #7fff6e;
     --solar: #f59e0b;
-    --text: #e8eaf0;
+    --text: #0d0e12;
     --muted: #6b7280;
-    --tag-bg: #0f1a2e;
+    --tag-bg: #dff4fa;
   }
 
   html { scroll-behavior: smooth; overflow-x: hidden; }
@@ -64,7 +64,7 @@
     position: sticky;
     top: 0;
     z-index: 100;
-    background: rgba(10,11,15,0.94);
+    background: rgba(10,11,15,1);
     backdrop-filter: blur(14px);
     border-bottom: 1px solid var(--border);
     padding: 0 2rem;
@@ -78,14 +78,14 @@
     font-family: 'Bebas Neue', sans-serif;
     font-size: 1.85rem;
     letter-spacing: 0.06em;
-    color: var(--text);
+    color: #e8eaf0;
     text-decoration: none;
     display: flex;
     align-items: center;
     gap: 0.6rem;
   }
   .logo .ev { color: var(--accent); }
-  .logo .logo-news { font-size: 0.55em; color: var(--text); letter-spacing: 0.02em; vertical-align: baseline; }
+  .logo .logo-news { font-size: 0.55em; color: #e8eaf0; letter-spacing: 0.02em; vertical-align: baseline; }
   .logo-text-wrap {
     display: flex;
     flex-direction: column;
@@ -120,7 +120,7 @@
     border-radius: 4px;
     transition: color 0.2s, background 0.2s;
   }
-  nav a:hover { color: var(--text); background: var(--surface2); }
+  nav a:hover { color: #e8eaf0; background: #1a1d24; }
   nav a.active { color: var(--accent); }
   nav a.brief-nav { color: #c47d0a; }
   nav a.brief-nav:hover { color: #f59e0b; background: rgba(245,158,11,0.08); }
@@ -4039,18 +4039,25 @@
 </div>
 </article>
 
-<div aria-hidden="true" class="card ad-card" data-ad="true">
-<span>Advertisement</span>
-<div class="ad-card-inner">
-<span style="font-family:'DM Mono',monospace;font-size:0.58rem;letter-spacing:0.1em;color:var(--border);">300 × 250 AD UNIT</span>
-</div>
+<!-- REFERRAL CARD 1: Code-forward -->
+<div class="card ad-card" data-ad="true" style="background:#0a0b0f;justify-content:center;padding:1.5rem;gap:0.75rem;cursor:default;min-height:260px;">
+  <div style="font-family:'DM Mono',monospace;font-size:0.58rem;letter-spacing:0.12em;color:#FFB100;text-transform:uppercase;opacity:0.9">⚡ Rivian Referral Code</div>
+  <div style="font-family:'DM Mono',monospace;font-size:1.6rem;font-weight:500;color:#ffffff;letter-spacing:0.08em;line-height:1">JACOB1807128</div>
+  <div style="font-size:0.72rem;color:#6b7280;line-height:1.5">Use this code when ordering your Rivian and we both benefit. Full disclosure — I may receive a reward.</div>
+  <div style="display:flex;gap:0.5rem;margin-top:0.25rem;flex-wrap:wrap;">
+    <button onclick="navigator.clipboard.writeText('JACOB1807128');this.textContent='✓ Copied!';setTimeout(()=>this.textContent='Copy Code',2000)" style="font-family:'DM Mono',monospace;font-size:0.65rem;letter-spacing:0.08em;text-transform:uppercase;background:transparent;border:1px solid #2a2d38;color:#9ca3af;padding:0.45rem 0.9rem;border-radius:3px;cursor:pointer;">Copy Code</button>
+    <a href="https://rivian.com?referral=JACOB1807128" target="_blank" rel="noopener" style="font-family:'DM Mono',monospace;font-size:0.65rem;letter-spacing:0.08em;text-transform:uppercase;background:#FFB100;color:#000;padding:0.45rem 0.9rem;border-radius:3px;text-decoration:none;font-weight:700;">Order Rivian →</a>
+  </div>
 </div>
 
-<div aria-hidden="true" class="card ad-card" data-ad="true">
-<span>Advertisement</span>
-<div class="ad-card-inner">
-<span style="font-family:'DM Mono',monospace;font-size:0.58rem;letter-spacing:0.1em;color:var(--border);">300 × 250 AD UNIT</span>
-</div>
+<!-- REFERRAL CARD 2: Benefit-forward -->
+<div class="card ad-card" data-ad="true" style="background:linear-gradient(135deg,#1a1200 0%,#0a0b0f 100%);justify-content:center;padding:1.5rem;gap:0.6rem;cursor:default;min-height:260px;border-left:3px solid #FFB100;">
+  <div style="font-size:1rem;font-weight:700;color:#ffffff;line-height:1.3">Ordering a Rivian?<br/><span style="color:#FFB100">We both benefit.</span></div>
+  <div style="font-size:0.72rem;color:#6b7280;line-height:1.5">Enter my referral code at rivian.com when you place your order. Full disclosure — I may receive a reward if you use this code.</div>
+  <div style="background:#111000;border:1px solid #2a2000;border-radius:4px;padding:0.6rem 0.8rem;display:flex;align-items:center;justify-content:space-between;gap:0.5rem;">
+    <span style="font-family:'DM Mono',monospace;font-size:1rem;color:#FFB100;letter-spacing:0.06em;">JACOB1807128</span>
+    <a href="https://rivian.com?referral=JACOB1807128" target="_blank" rel="noopener" style="font-family:'DM Mono',monospace;font-size:0.6rem;letter-spacing:0.08em;text-transform:uppercase;background:transparent;border:1px solid #FFB100;color:#FFB100;padding:0.35rem 0.7rem;border-radius:3px;text-decoration:none;white-space:nowrap;">Use Code ↗</a>
+  </div>
 </div>
 
 </main>
@@ -4139,7 +4146,7 @@
 </div>
 <script>
   const CARDS_PER_PAGE = 16;
-  const CARDS_PAGE_ONE = 18; // featured(3 cols) + 2 ads(1 col each) + 15 articles = 20 slots → 5 full rows of 4
+  const CARDS_PAGE_ONE = 20; // featured(3 cols) + 2 ads(1 col each) + 19 articles = 24 slots → 6 full rows of 4
   let currentPage = 1;
   let currentCategory = null;
 
