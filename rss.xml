@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -19,6 +19,51 @@
 
 
     <item>
+      <title>Nyck de Vries Ends Four-Year Formula E Drought with Monaco Victory</title>
+      <link>https://nexusevnews.com/articles/nyck-de-vries-wins-2026-monaco-e-prix-mahindra.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/nyck-de-vries-wins-2026-monaco-e-prix-mahindra.html</guid>
+      <pubDate>Sun, 17 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Formula E</dc:creator>
+      <category>News</category>
+      <description>Mahindra Racing's Nyck de Vries won Round 9 at Monaco, ending four years without a Formula E win. Mitch Evans takes the championship lead from second place. Pepe Martí earns his first podium after a late penalty reshuffles the results.</description>
+    </item>
+    <item>
+      <title>Six Panels, One Trailer: Building a Mobile Solar Rig for an All-Electric Lawn Business</title>
+      <link>https://nexusevnews.com/articles/solar-powered-lawn-care-trailer-build-solarpunk-steve.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/solar-powered-lawn-care-trailer-build-solarpunk-steve.html</guid>
+      <pubDate>Sun, 17 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Solarpunk Steve</dc:creator>
+      <category>Solar</category>
+      <description>Solarpunk Steve built a solar-powered lawn care trailer with six 200W panels, an EG4 inverter, and a 5kW server rack battery to charge an all-electric mowing fleet on-site, measuring 780W real-world output in full sun.</description>
+    </item>
+    <item>
+      <title>Scaringe Confirms More R2 Models Are Coming. The R2X Is the Logical First.</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-more-variants-r2x-this-car-pod.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-more-variants-r2x-this-car-pod.html</guid>
+      <pubDate>Sun, 17 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>This Car Pod! Clips</dc:creator>
+      <category>News</category>
+      <description>Rivian CEO RJ Scaringe confirmed additional R2 variants are in development. The This Car Pod team identifies a performance off-road R2X as the most logical next step, following the pattern Rivian established with the R3X.</description>
+    </item>
+    <item>
+      <title>VW ID. Polo GTI Arrives, Jaguar Gets Its Production Name, and UK Used EV Sales Jump Nearly a Third</title>
+      <link>https://nexusevnews.com/articles/kilowatt-half-hour-ep-106-polo-gti-jaguar-type-01-used-ev-sales.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/kilowatt-half-hour-ep-106-polo-gti-jaguar-type-01-used-ev-sales.html</guid>
+      <pubDate>Sun, 17 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>Deep Dives</category>
+      <description>Kilowatt Half Hour Ep 106 covers the VW ID. Polo GTI with 226hp, Jaguar officially naming its electric GT the Type 01, and SMMT data showing UK used EV sales up nearly 33% in Q1 2026, reaching 1 in 23 used car transactions.</description>
+    </item>
+    <item>
+      <title>The Cheapest New EV in America Is Being Driven Coast to Coast on IONNA Charging Only</title>
+      <link>https://nexusevnews.com/articles/2027-chevy-bolt-ev-coast-to-coast-ionna-charging-out-of-spec.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/2027-chevy-bolt-ev-coast-to-coast-ionna-charging-out-of-spec.html</guid>
+      <pubDate>Sun, 17 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Charging</category>
+      <description>Out of Spec Reviews drives a 2027 Chevy Bolt EV from Virginia Beach to LA on IONNA stations only, stress-testing 150kW charging and LFP battery chemistry on a coast-to-coast route with no planned stops.</description>
+    </item>
+    <item>
       <title>Volkswagen&#8217;s First Electric GTI: 226 hp, 24-Minute Charging, and a &#8364;40,000 Question</title>
       <link>https://nexusevnews.com/articles/vw-id-polo-gti-electric-reveal-autogefuhl.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/vw-id-polo-gti-electric-reveal-autogefuhl.html</guid>
@@ -27,7 +72,6 @@
       <category>Reviews</category>
       <description>Autogef&#252;hl examines the pre-production ID Polo GTI: 226 hp on the front axle with an electronic differential lock, DCC adaptive suspension exclusive to the GTI trim, a 52 kWh NMC battery with 105 kW DC charging from 10 to 80 percent in 24 minutes, and a top speed of 175 km/h. Clark tartan seats, a physical GTI button on the steering wheel that triggers a dedicated drive mode and retro gauge display, and 440 litres of boot space. Pricing is not yet confirmed but expected around &#8364;40,000.</description>
     </item>
-
     <item>
       <title>Munro Live Breaks Down the R2 at ACT Expo: The Cost-Reduction Story Is in the Details</title>
       <link>https://nexusevnews.com/articles/rivian-r2-act-expo-engineering-munro-live.html</link>
@@ -37,7 +81,6 @@
       <category>Deep Dives</category>
       <description>Sandy Munro&#8217;s team walks through the Rivian R2 at ACT Expo 2026 with a Rivian fleet sales representative. The conversation covers the simplified single-piece frunk liner with fewer fasteners versus the R1, a clamshell hood, squared mirror arms, a recessed rear wiper tested extensively for drainage and ice, and the Halo haptic electromechanical scroll wheels that adjust detent resistance and throw contextually based on which vehicle setting is being changed. The R2 launches at $57,990 with 330 miles of range and 0 to 60 in 3.5 seconds.</description>
     </item>
-
     <item>
       <title>The R2 Configurator Is Live: What the Launch Package Includes and How to Save $650</title>
       <link>https://nexusevnews.com/articles/rivian-r2-launch-configurator-pricing-travis-ketchum.html</link>
@@ -47,7 +90,6 @@
       <category>Deep Dives</category>
       <description>Travis Ketchum walks through every option on the live R2 configurator. Paint runs from free for Escer Silver to $2,000 for Midnight, Catalina Cove, and Launch Green. The all-terrain 20-inch wheel upgrade is $1,000 and drops range from 330 to 307 miles. The compact spare adds $755. Buyers in 13 qualifying states, including California, Washington, New York, and Colorado, can receive $650 in charging accessories at no added cost by selecting them at checkout. Launch Green is exclusive to performance launch edition orders.</description>
     </item>
-
     <item>
       <title>BYD&#8217;s Atto 3 Evo Gets Blade 2 Battery, 220 kW Charging, and Rear-Wheel Drive</title>
       <link>https://nexusevnews.com/articles/byd-atto-3-evo-blade-battery-2-upgrade-2026.html</link>
@@ -57,7 +99,6 @@
       <category>Battery Tech</category>
       <description>The Atto 3 Evo launches in China on May 21 and is expected in Australia and the UK by mid-2026. The Blade 2 battery upgrade brings DC charging to around 220 kW, up from 80 to 90 kW on the current model. The drivetrain shifts from front-wheel to rear-wheel drive producing 230 kW and 380 Nm of torque, with an AWD variant at 330 kW combined also planned. WLTP range is expected to exceed 500 km, up from 420 km. Revised rear suspension, a steering column gear selector, and new under-bonnet storage round out the update.</description>
     </item>
-
     <item>
       <title>Ionna&#8217;s CEO on 110 Sites, No Public Funding, and the Charging Network America Needs</title>
       <link>https://nexusevnews.com/articles/ionna-ev-charging-gemini-navigation-insideevs-podcast.html</link>
@@ -67,7 +108,6 @@
       <category>Charging</category>
       <description>InsideEVs speaks with Ionna CEO Seth Cutler: 110 live sites across 36 US states, 50 more under construction, 400 contracted, all at 400 kW per stall, built without public funding. The episode also covers Google Gemini conversational navigation tested in the Volvo EX60, which handled requests such as finding a fast charger near a gluten-free restaurant along a route. Grok integration in Tesla vehicles is also discussed. Separately: Mazda delays its ground-up EV architecture to 2029, and Tesla is beta testing Supercharger waitlists at five US sites.</description>
     </item>
-
     <item>
       <title>The Zero-Resistance Motor Designed for Aviation Is Already Working. Data Centers Are First.</title>
       <link>https://nexusevnews.com/articles/superconducting-motor-hinetics-aviation-zero-resistance.html</link>
@@ -77,7 +117,6 @@
       <category>Deep Dives</category>
       <description>Hinetics has built a superconducting motor that achieves 40 kW per kg at 99.5% efficiency by eliminating resistance entirely from the rotor electromagnets. The key engineering insight is a Stirling cycle cooling engine embedded in the spinning rotor itself. Baby Yoda, their proof-of-concept prototype, has logged hundreds of hours of testing and the first commercial target is generators for data centers, not aircraft.</description>
     </item>
-
     <item>
       <title>The Lucid Air Touring Starts at $81,400 and Has Almost No Real Competition</title>
       <link>https://nexusevnews.com/articles/lucid-air-touring-2026-driving-with-jonny.html</link>
@@ -87,7 +126,6 @@
       <category>Reviews</category>
       <description>Johnny reviews the Touring trim of the Lucid Air: 620 hp, 885 lb-ft of torque, a drag coefficient of 0.21, and an interior that competes with cars costing twice as much. The Touring drops two battery packs from the standard model and shifts from 924 to 756 volts, but the torque figure and range around 460 miles hold up well at the $81,400 starting price.</description>
     </item>
-
     <item>
       <title>CATL's Sodium Battery Is 65% Cheaper Than LFP at Cell Level. The Pack Math Is More Complicated.</title>
       <link>https://nexusevnews.com/articles/catl-sodium-battery-cheap-evs-lfp-alternative.html</link>
@@ -97,7 +135,6 @@
       <category>Battery Tech</category>
       <description>CATL's next-generation sodium-ion cell is currently $19 per kilowatt-hour at cell level, against $55 to $65 for LFP at comparable scale. Lifespan is claimed at 3.6 million miles before 85% capacity. Energy density has reached 175 Wh/kg. At pack level with cooling and electronics, the cost rises to around $40 to $45 per kilowatt-hour, but scaling on existing LFP production lines is possible within 12 to 24 months.</description>
     </item>
-
     <item>
       <title>First Time Inside the R2: Better Storage, Cushier Seats, Fewer Compromises Than the R1</title>
       <link>https://nexusevnews.com/articles/rivian-r2-first-impressions-tailosive-ev.html</link>
@@ -107,7 +144,6 @@
       <category>Reviews</category>
       <description>Tailosive EV gets hands-on with the Rivian R2 at a show event alongside an R1S. The seats are noticeably cushier, there are two deep glove boxes, a built-in magnetic charger, and ambient lighting extending to the rear doors. The second row is genuinely comfortable for longer trips. The audio system drew the only clear criticism in an otherwise strong first impression.</description>
     </item>
-
     <item>
       <title>Formula E Gen4 Has 600 kW, Permanent Four-Wheel Drive, and Opens What Manufacturers Can Learn</title>
       <link>https://nexusevnews.com/articles/formula-e-gen4-fia-electric-racing-road-relevance.html</link>
@@ -117,7 +153,6 @@
       <category>Deep Dives</category>
       <description>The FIA's Gen4 Formula E car delivers 600 kW in qualifying and 700 kW of regenerative braking. It is the first single-seater racing car with permanent four-wheel drive. Manufacturers now have full freedom to develop their own traction control, brake-by-wire, and torque distribution systems, with explicit intent to transfer that knowledge to production road cars.</description>
     </item>
-
     <item>
       <title>Rivian's New AI Can Change Your Drive Mode, Read Your Texts, and Submit Bug Reports</title>
       <link>https://nexusevnews.com/articles/rivian-assistant-2026-15-software-update-review.html</link>
@@ -127,7 +162,6 @@
       <category>Reviews</category>
       <description>Rivian Assistant runs on Google Gemini and does what no other production in-car AI currently does: it controls the vehicle. Drive mode, ride height, seat heat, SMS replies, navigation with charging stops. It also needs a $15 monthly subscription, can't adjust your charge limit, and won't touch the wipers. RivianTrackr spent 25 minutes breaking it.</description>
     </item>
-
     <item>
       <title>226 hp, 441L Boot, and More Character Than the ID Polo Will Ever Have</title>
       <link>https://nexusevnews.com/articles/cupra-raval-first-drive-review.html</link>
@@ -137,57 +171,6 @@
       <category>Reviews</category>
       <description>The CUPRA Raval shares its platform with the ID Polo but adds an e-LSD, launch control, a 15mm-lower suspension, and a boot bigger than a Golf. Starting from £23,785. The VZ does 0-62 in 6.8 seconds and makes Barcelona rush hour feel interesting. Electrifying drove it, and the steering is still too light.</description>
     </item>
-
-    <item>
-      <title>Four Anker Solix Batteries, Three Months, and Almost No Savings. Here's Why.</title>
-      <link>https://nexusevnews.com/articles/anker-solix-e10-home-battery-3-month-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/anker-solix-e10-home-battery-3-month-review.html</guid>
-      <pubDate>Wed, 13 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Everyday Chris</dc:creator>
-      <category>Battery Tech</category>
-      <description>The Anker Solix E10 does everything it says: discharges during peak rates, recharges overnight, switches over in 20 milliseconds when the grid drops. The problem is no solar. Without panels charging the batteries for free during the day, the math barely pencils out. And nobody in Orange County will install panels on an HOA roof.</description>
-    </item>
-
-    <item>
-      <title>Five Aptera Vehicles Off the Line. 50,000 Reservations Are Waiting.</title>
-      <link>https://nexusevnews.com/articles/aptera-five-validation-vehicles-assembly-line.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/aptera-five-validation-vehicles-assembly-line.html</guid>
-      <pubDate>Wed, 13 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Aptera</dc:creator>
-      <category>News</category>
-      <description>Aptera has completed five vehicles on its 14-station Carlsbad validation line and documented cycle time improvements with each successive build. The fleet will expand into a full testing program covering road performance, safety, software, and solar energy collection. No production start date has been announced.</description>
-    </item>
-
-    <item>
-      <title>BYD Starts Below $12,000. China Is Near 70% of Global EV Sales. The US Has a 100% Tariff.</title>
-      <link>https://nexusevnews.com/articles/china-ev-byd-us-tariffs-global-market.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/china-ev-byd-us-tariffs-global-market.html</guid>
-      <pubDate>Wed, 13 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>NBC News</dc:creator>
-      <category>News</category>
-      <description>NBC News drove a BYD in China. Massage seats, autonomous parking, sub-$12,000 price point. The US blocks all Chinese EVs with a 100% tariff, which keeps the comparison theoretical but doesn't stop the videos from going viral. China is approaching 70% of all EVs sold globally.</description>
-    </item>
-
-    <item>
-      <title>Infinite Machine's Alto Wants to Fill the Gap Between an E-Bike and a Vespa</title>
-      <link>https://nexusevnews.com/articles/infinite-machine-alto-electric-class3-scooter-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/infinite-machine-alto-electric-class3-scooter-review.html</guid>
-      <pubDate>Tue, 12 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>InsideEVs</dc:creator>
-      <category>Reviews</category>
-      <description>A New York startup built a class-3 electric scooter that needs no plates and no insurance in most states. It does 28 mph, has full suspension and a removable 1.2 kWh battery, and a GPS chip that keeps transmitting even after you pull the battery out. InsideEVs spent a week riding it around Manhattan, including leaving it outside for five days.</description>
-    </item>
-
-    <item>
-      <title>Hammond Drove the NIO ES9 Around Shanghai. The Suspension Was What Surprised Him Most.</title>
-      <link>https://nexusevnews.com/articles/nio-es9-hammond-proving-ground-test-drive.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/nio-es9-hammond-proving-ground-test-drive.html</guid>
-      <pubDate>Tue, 12 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Everything Electric APAC</dc:creator>
-      <category>Reviews</category>
-      <description>NIO puts tiny hydraulic pumps directly at each wheel rather than routing pressure from a central unit. On Belgian paving stones at speed, the only evidence you're on them is the sound. A crowdsourced pothole database shared across every NIO vehicle pre-arms the suspension before the rough surface arrives.</description>
-    </item>
-
     <item>
       <title>The PV5 Starts at £31,495 After the UK EV Grant. The ID.Buzz Starts at £60,000. Electrifying Drove Both.</title>
       <link>https://nexusevnews.com/articles/kia-pv5-vs-vw-id-buzz-people-carrier-comparison.html</link>
@@ -197,9 +180,6 @@
       <category>Reviews</category>
       <description>More boot space, a V2L socket, regen paddles, and one-pedal driving at roughly half the price. Both reviewers chose the Kia. The Buzz wins on power, range, electric sliding doors, and cabin quality. Neither is a bad choice, but the £27,000 gap makes one of them much easier to justify.</description>
     </item>
-
-
-
     <item>
       <title>Two Batteries, One Hitch, and the Case for All-Electric Glamping</title>
       <link>https://nexusevnews.com/opinion-rivian-lightship-glamping.html</link>
@@ -209,7 +189,6 @@
       <category>Opinion</category>
       <description>The Lightship AE1 carries its own 69 kWh battery and 80 kW motor to neutralize trailer drag on the tow vehicle. Paired with a Rivian, the real-world efficiency numbers are hard to argue with. This is what all-electric glamping looks like when the hardware actually works.</description>
     </item>
-
     <item>
       <title>Atlanta, Rivian, and the Quiet Coincidence</title>
       <link>https://nexusevnews.com/opinion-atlanta-rivian-quiet-coincidence.html</link>
