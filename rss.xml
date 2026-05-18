@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -18,6 +18,51 @@
     <category>Battery Technology</category>
 
 
+    <item>
+      <title>500 Real Kilometers at Motorway Speed. The Mercedes CLA EQ Delivers More Than Its Battery Size Suggests.</title>
+      <link>https://nexusevnews.com/articles/mercedes-cla-eq-range-efficiency-road-test-autogefuehl.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/mercedes-cla-eq-range-efficiency-road-test-autogefuehl.html</guid>
+      <pubDate>Mon, 18 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Autogefühl</dc:creator>
+      <category>Reviews</category>
+      <description>Autogefühl drives the Mercedes CLA EQ from central Germany to Hamburg and back. The 85 kWh 4MATIC averaged 17 kWh per 100 km, projecting 500 km realistic range at 130 km/h. Fast charge session: 21 minutes, 175 kW average. Prices from under €50,000.</description>
+    </item>
+    <item>
+      <title>First Government Bid, First Customer Delivery: Solarpunk Steve Wins a County Emergency Management Solar Contract</title>
+      <link>https://nexusevnews.com/articles/solarpunk-steve-wins-government-solar-trailer-contract.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/solarpunk-steve-wins-government-solar-trailer-contract.html</guid>
+      <pubDate>Mon, 18 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Solarpunk Steve</dc:creator>
+      <category>Solar</category>
+      <description>Solarpunk Steve won a competitive government contract to build a mobile solar generator trailer for a county emergency management department 1,200 miles away. He had never bid on a government contract. He submitted a 23-page proposal and won. He has under one month to build and deliver.</description>
+    </item>
+    <item>
+      <title>Forged Wheels on the Rivian R1S Added Seven Miles of Range. The Other Changes Were the Point.</title>
+      <link>https://nexusevnews.com/articles/rivian-r1s-forged-wheels-efficiency-test-gjeebs.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r1s-forged-wheels-efficiency-test-gjeebs.html</guid>
+      <pubDate>Mon, 18 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Gjeebs</dc:creator>
+      <category>Reviews</category>
+      <description>Gjeebs swaps stock off-road wheels on a 2026 Rivian R1S for forged Atomic Wheels AWX with Hankook iON HT tires, 14 to 15 lbs lighter per corner. Range in conserve mode went from 372 to 379 miles. Cabin noise, steering feel, and ride quality improved significantly.</description>
+    </item>
+    <item>
+      <title>Kia Built a Van That Drives Like an EV and Priced It Within Three Grand of a Golf</title>
+      <link>https://nexusevnews.com/articles/kia-pv5-review-cars-uncovered.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/kia-pv5-review-cars-uncovered.html</guid>
+      <pubDate>Mon, 18 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Cars Uncovered</dc:creator>
+      <category>Reviews</category>
+      <description>Cars Uncovered reviews the Kia PV5 at £32,995. It converts between a family car, crew vehicle, and cargo van with a screwdriver. Holds 1,300 liters, charges at 150 kW, and runs quieter than two generations of Tesla Model 3. Long-range variant: 256 miles.</description>
+    </item>
+    <item>
+      <title>The CleverCharge Reads Your Car's OBD2 Port and Calls Itself the Smartest Home EV Charger. Mostly Right.</title>
+      <link>https://nexusevnews.com/articles/clevercharge-home-ev-charger-review-state-of-charge.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/clevercharge-home-ev-charger-review-state-of-charge.html</guid>
+      <pubDate>Mon, 18 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>State Of Charge</dc:creator>
+      <category>Charging</category>
+      <description>State of Charge reviews the CleverCharge Home. An OBD2 CleverKey dongle pulls battery state of health, real-world range estimates, and driving patterns into the app. Scores 4.2 out of 5 stars at $399 for the 40-amp version. Gaps: no power sharing, no charge stop control, AI cost comparison inaccurate.</description>
+    </item>
     <item>
       <title>Nyck de Vries Ends Four-Year Formula E Drought with Monaco Victory</title>
       <link>https://nexusevnews.com/articles/nyck-de-vries-wins-2026-monaco-e-prix-mahindra.html</link>
@@ -107,51 +152,6 @@
       <dc:creator>InsideEVs</dc:creator>
       <category>Charging</category>
       <description>InsideEVs speaks with Ionna CEO Seth Cutler: 110 live sites across 36 US states, 50 more under construction, 400 contracted, all at 400 kW per stall, built without public funding. The episode also covers Google Gemini conversational navigation tested in the Volvo EX60, which handled requests such as finding a fast charger near a gluten-free restaurant along a route. Grok integration in Tesla vehicles is also discussed. Separately: Mazda delays its ground-up EV architecture to 2029, and Tesla is beta testing Supercharger waitlists at five US sites.</description>
-    </item>
-    <item>
-      <title>The Zero-Resistance Motor Designed for Aviation Is Already Working. Data Centers Are First.</title>
-      <link>https://nexusevnews.com/articles/superconducting-motor-hinetics-aviation-zero-resistance.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/superconducting-motor-hinetics-aviation-zero-resistance.html</guid>
-      <pubDate>Fri, 15 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Ziroth</dc:creator>
-      <category>Deep Dives</category>
-      <description>Hinetics has built a superconducting motor that achieves 40 kW per kg at 99.5% efficiency by eliminating resistance entirely from the rotor electromagnets. The key engineering insight is a Stirling cycle cooling engine embedded in the spinning rotor itself. Baby Yoda, their proof-of-concept prototype, has logged hundreds of hours of testing and the first commercial target is generators for data centers, not aircraft.</description>
-    </item>
-    <item>
-      <title>The Lucid Air Touring Starts at $81,400 and Has Almost No Real Competition</title>
-      <link>https://nexusevnews.com/articles/lucid-air-touring-2026-driving-with-jonny.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/lucid-air-touring-2026-driving-with-jonny.html</guid>
-      <pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Driving With Jonny</dc:creator>
-      <category>Reviews</category>
-      <description>Johnny reviews the Touring trim of the Lucid Air: 620 hp, 885 lb-ft of torque, a drag coefficient of 0.21, and an interior that competes with cars costing twice as much. The Touring drops two battery packs from the standard model and shifts from 924 to 756 volts, but the torque figure and range around 460 miles hold up well at the $81,400 starting price.</description>
-    </item>
-    <item>
-      <title>CATL's Sodium Battery Is 65% Cheaper Than LFP at Cell Level. The Pack Math Is More Complicated.</title>
-      <link>https://nexusevnews.com/articles/catl-sodium-battery-cheap-evs-lfp-alternative.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/catl-sodium-battery-cheap-evs-lfp-alternative.html</guid>
-      <pubDate>Fri, 15 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Ben Alexxander</dc:creator>
-      <category>Battery Tech</category>
-      <description>CATL's next-generation sodium-ion cell is currently $19 per kilowatt-hour at cell level, against $55 to $65 for LFP at comparable scale. Lifespan is claimed at 3.6 million miles before 85% capacity. Energy density has reached 175 Wh/kg. At pack level with cooling and electronics, the cost rises to around $40 to $45 per kilowatt-hour, but scaling on existing LFP production lines is possible within 12 to 24 months.</description>
-    </item>
-    <item>
-      <title>First Time Inside the R2: Better Storage, Cushier Seats, Fewer Compromises Than the R1</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-first-impressions-tailosive-ev.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-first-impressions-tailosive-ev.html</guid>
-      <pubDate>Fri, 15 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Tailosive EV</dc:creator>
-      <category>Reviews</category>
-      <description>Tailosive EV gets hands-on with the Rivian R2 at a show event alongside an R1S. The seats are noticeably cushier, there are two deep glove boxes, a built-in magnetic charger, and ambient lighting extending to the rear doors. The second row is genuinely comfortable for longer trips. The audio system drew the only clear criticism in an otherwise strong first impression.</description>
-    </item>
-    <item>
-      <title>Formula E Gen4 Has 600 kW, Permanent Four-Wheel Drive, and Opens What Manufacturers Can Learn</title>
-      <link>https://nexusevnews.com/articles/formula-e-gen4-fia-electric-racing-road-relevance.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/formula-e-gen4-fia-electric-racing-road-relevance.html</guid>
-      <pubDate>Fri, 15 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>FIA / Formula E</dc:creator>
-      <category>Deep Dives</category>
-      <description>The FIA's Gen4 Formula E car delivers 600 kW in qualifying and 700 kW of regenerative braking. It is the first single-seater racing car with permanent four-wheel drive. Manufacturers now have full freedom to develop their own traction control, brake-by-wire, and torque distribution systems, with explicit intent to transfer that knowledge to production road cars.</description>
     </item>
     <item>
       <title>Rivian's New AI Can Change Your Drive Mode, Read Your Texts, and Submit Bug Reports</title>
