@@ -3,56 +3,93 @@
 
   <url>
     <loc>https://nexusevnews.com/daily-brief.html</loc>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
+    <loc>https://nexusevnews.com/articles/nyck-de-vries-wins-2026-monaco-e-prix-mahindra.html</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/mercedes-cla-eq-range-efficiency-road-test-autogefuehl.html</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/solarpunk-steve-wins-government-solar-trailer-contract.html</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/rivian-r1s-forged-wheels-efficiency-test-gjeebs.html</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/kia-pv5-review-cars-uncovered.html</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/clevercharge-home-ev-charger-review-state-of-charge.html</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/daily-brief-may-18-2026.html</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+
+  <url>
+    <loc>https://nexusevnews.com/articles/solar-powered-lawn-care-trailer-build-solarpunk-steve.html</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/rivian-r2-more-variants-r2x-this-car-pod.html</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/kilowatt-half-hour-ep-106-polo-gti-jaguar-type-01-used-ev-sales.html</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/2027-chevy-bolt-ev-coast-to-coast-ionna-charging-out-of-spec.html</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/daily-brief-may-17-2026.html</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://nexusevnews.com/</loc>
-    <lastmod>2026-05-14</lastmod>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/chinese-ev-xpeng-catl-battery-swap-rich-rebuilds.html</loc>
-    <lastmod>2026-05-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/range-energy-electrified-semi-trailer-out-of-spec.html</loc>
-    <lastmod>2026-05-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/flit-m2-folding-ebike-cambridge-everything-electric.html</loc>
-    <lastmod>2026-05-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/toyota-bz4x-touring-first-drive-electrifying.html</loc>
-    <lastmod>2026-05-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/hansshow-tesla-supercharger-extension-cable-state-of-charge.html</loc>
-    <lastmod>2026-05-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nexusevnews.com/articles/daily-brief-may-14-2026.html</loc>
-    <lastmod>2026-05-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <lastmod>2026-05-18</lastmod>
   </url>
 
   <url>
@@ -2663,6 +2700,133 @@
   <url>
     <loc>https://nexusevnews.com/articles/daily-brief-may-12-2026.html</loc>
     <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+
+  <url>
+    <loc>https://nexusevnews.com/articles/chinese-ev-xpeng-catl-battery-swap-rich-rebuilds.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/range-energy-electrified-semi-trailer-out-of-spec.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/flit-m2-folding-ebike-cambridge-everything-electric.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/toyota-bz4x-touring-first-drive-electrifying.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/hansshow-tesla-supercharger-extension-cable-state-of-charge.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/daily-brief-may-14-2026.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/superconducting-motor-hinetics-aviation-zero-resistance.html</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/lucid-air-touring-2026-driving-with-jonny.html</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/catl-sodium-battery-cheap-evs-lfp-alternative.html</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/rivian-r2-first-impressions-tailosive-ev.html</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/formula-e-gen4-fia-electric-racing-road-relevance.html</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/daily-brief-may-15-2026.html</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/vw-id-polo-gti-electric-reveal-autogefuhl.html</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/rivian-r2-act-expo-engineering-munro-live.html</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/rivian-r2-launch-configurator-pricing-travis-ketchum.html</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/byd-atto-3-evo-blade-battery-2-upgrade-2026.html</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/ionna-ev-charging-gemini-navigation-insideevs-podcast.html</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/daily-brief-may-16-2026.html</loc>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
