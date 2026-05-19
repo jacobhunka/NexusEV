@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -18,6 +18,51 @@
     <category>Battery Technology</category>
 
 
+    <item>
+      <title>The Mercedes GLC Electric Is Excellent to Drive and 111 Miles Short of Its Range Claim</title>
+      <link>https://nexusevnews.com/articles/mercedes-glc-electric-review-range-test-carwow.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/mercedes-glc-electric-review-range-test-carwow.html</guid>
+      <pubDate>Tue, 19 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>carwow</dc:creator>
+      <category>Reviews</category>
+      <description>carwow tests the Mercedes GLC electric: 490 hp, dual-motor four-wheel drive, 94 kWh battery, and a WLTP claim of 393 miles. Real-world result on a 40-minute test route: 282 miles. The car handles well and is fast. The 0 to 60 sprint came in at 4.06 seconds, quicker than the stated 4.3. The range gap and some budget-feeling interior materials are harder to excuse at £60,000 to £73,000.</description>
+    </item>
+    <item>
+      <title>Finland Turned Off Its Oil Heating This Winter. A Silo of Sand Took Over.</title>
+      <link>https://nexusevnews.com/articles/polarite-energy-sand-battery-finland-winter-survival.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/polarite-energy-sand-battery-finland-winter-survival.html</guid>
+      <pubDate>Tue, 19 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>IE Explains</dc:creator>
+      <category>Battery Tech</category>
+      <description>Polarite Energy's 100 MWh sand battery, the world's largest, heated a Finnish town of 5,000 through one of the harshest winters on record using 2,000 tonnes of soapstone at up to 600 degrees Celsius. Result: 100% oil reduction, 70% CO2 cut, 60% less wood chip combustion. System cost runs $10 to $50 per kWh against $100 to $200 for lithium-ion, with a 50-year projected lifespan.</description>
+    </item>
+    <item>
+      <title>Hyundai's Robotaxi Drove Itself Around Las Vegas for Six Weeks. Out of Spec Took a Ride.</title>
+      <link>https://nexusevnews.com/articles/motional-hyundai-ioniq5-robotaxi-las-vegas-review-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/motional-hyundai-ioniq5-robotaxi-las-vegas-review-2026.html</guid>
+      <pubDate>Tue, 19 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Deep Dives</category>
+      <description>Out of Spec Reviews rides Motional's Hyundai Ioniq 5 robotaxi in Las Vegas six weeks into commercial operation. The ride was smooth and confident for most of the route, then produced two phantom braking events and a blocked intersection. Safety monitors remain aboard. Removal is planned before end of 2026. A Zoox comparison ride taken immediately after performed worse.</description>
+    </item>
+    <item>
+      <title>Segway's Electric Dirt Bike Has 21 kW, Beast Mode, and a 62-Mile Software Lock on All of It</title>
+      <link>https://nexusevnews.com/articles/segway-xaber-300-electric-dirt-bike-first-ride-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/segway-xaber-300-electric-dirt-bike-first-ride-review.html</guid>
+      <pubDate>Tue, 19 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Electric Cycle Rider</dc:creator>
+      <category>Reviews</category>
+      <description>Six years after Segway left the electric dirt bike segment, the Xaber 300 arrives at $5,299 with 21 kW, four power modes, Marzocchi suspension, GPS, hill hold, traction control, and reverse. The top two power modes are locked until 62 miles are on the odometer. The first ride ran in modes 1 and 2 only. Wheelie mode and digital clutch are both coming via firmware update.</description>
+    </item>
+    <item>
+      <title>London Black Cabs Have Memorized 25,000 Streets Since 1865. Waymo Is Mapping Them Now.</title>
+      <link>https://nexusevnews.com/articles/london-black-cabs-waymo-autonomous-taxis-knowledge-test.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/london-black-cabs-waymo-autonomous-taxis-knowledge-test.html</guid>
+      <pubDate>Tue, 19 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>60 Minutes</dc:creator>
+      <category>News</category>
+      <description>60 Minutes reports on Waymo and UK startup Wave preparing to launch autonomous taxis in London, where black cab drivers must pass The Knowledge, a licensing exam running since 1865 requiring memorization of 25,000 streets. One candidate spent five years and 41 attempts before passing. London's licensed cab driver count has fallen from 25,000 to 16,000 over the past decade.</description>
+    </item>
     <item>
       <title>500 Real Kilometers at Motorway Speed. The Mercedes CLA EQ Delivers More Than Its Battery Size Suggests.</title>
       <link>https://nexusevnews.com/articles/mercedes-cla-eq-range-efficiency-road-test-autogefuehl.html</link>
@@ -134,51 +179,6 @@
       <dc:creator>Travis Ketchum</dc:creator>
       <category>Deep Dives</category>
       <description>Travis Ketchum walks through every option on the live R2 configurator. Paint runs from free for Escer Silver to $2,000 for Midnight, Catalina Cove, and Launch Green. The all-terrain 20-inch wheel upgrade is $1,000 and drops range from 330 to 307 miles. The compact spare adds $755. Buyers in 13 qualifying states, including California, Washington, New York, and Colorado, can receive $650 in charging accessories at no added cost by selecting them at checkout. Launch Green is exclusive to performance launch edition orders.</description>
-    </item>
-    <item>
-      <title>BYD&#8217;s Atto 3 Evo Gets Blade 2 Battery, 220 kW Charging, and Rear-Wheel Drive</title>
-      <link>https://nexusevnews.com/articles/byd-atto-3-evo-blade-battery-2-upgrade-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-atto-3-evo-blade-battery-2-upgrade-2026.html</guid>
-      <pubDate>Sat, 16 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Ben Alexxander</dc:creator>
-      <category>Battery Tech</category>
-      <description>The Atto 3 Evo launches in China on May 21 and is expected in Australia and the UK by mid-2026. The Blade 2 battery upgrade brings DC charging to around 220 kW, up from 80 to 90 kW on the current model. The drivetrain shifts from front-wheel to rear-wheel drive producing 230 kW and 380 Nm of torque, with an AWD variant at 330 kW combined also planned. WLTP range is expected to exceed 500 km, up from 420 km. Revised rear suspension, a steering column gear selector, and new under-bonnet storage round out the update.</description>
-    </item>
-    <item>
-      <title>Ionna&#8217;s CEO on 110 Sites, No Public Funding, and the Charging Network America Needs</title>
-      <link>https://nexusevnews.com/articles/ionna-ev-charging-gemini-navigation-insideevs-podcast.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ionna-ev-charging-gemini-navigation-insideevs-podcast.html</guid>
-      <pubDate>Sat, 16 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>InsideEVs</dc:creator>
-      <category>Charging</category>
-      <description>InsideEVs speaks with Ionna CEO Seth Cutler: 110 live sites across 36 US states, 50 more under construction, 400 contracted, all at 400 kW per stall, built without public funding. The episode also covers Google Gemini conversational navigation tested in the Volvo EX60, which handled requests such as finding a fast charger near a gluten-free restaurant along a route. Grok integration in Tesla vehicles is also discussed. Separately: Mazda delays its ground-up EV architecture to 2029, and Tesla is beta testing Supercharger waitlists at five US sites.</description>
-    </item>
-    <item>
-      <title>Rivian's New AI Can Change Your Drive Mode, Read Your Texts, and Submit Bug Reports</title>
-      <link>https://nexusevnews.com/articles/rivian-assistant-2026-15-software-update-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-assistant-2026-15-software-update-review.html</guid>
-      <pubDate>Wed, 13 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>RivianTrackr</dc:creator>
-      <category>Reviews</category>
-      <description>Rivian Assistant runs on Google Gemini and does what no other production in-car AI currently does: it controls the vehicle. Drive mode, ride height, seat heat, SMS replies, navigation with charging stops. It also needs a $15 monthly subscription, can't adjust your charge limit, and won't touch the wipers. RivianTrackr spent 25 minutes breaking it.</description>
-    </item>
-    <item>
-      <title>226 hp, 441L Boot, and More Character Than the ID Polo Will Ever Have</title>
-      <link>https://nexusevnews.com/articles/cupra-raval-first-drive-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/cupra-raval-first-drive-review.html</guid>
-      <pubDate>Wed, 13 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>Reviews</category>
-      <description>The CUPRA Raval shares its platform with the ID Polo but adds an e-LSD, launch control, a 15mm-lower suspension, and a boot bigger than a Golf. Starting from £23,785. The VZ does 0-62 in 6.8 seconds and makes Barcelona rush hour feel interesting. Electrifying drove it, and the steering is still too light.</description>
-    </item>
-    <item>
-      <title>The PV5 Starts at £31,495 After the UK EV Grant. The ID.Buzz Starts at £60,000. Electrifying Drove Both.</title>
-      <link>https://nexusevnews.com/articles/kia-pv5-vs-vw-id-buzz-people-carrier-comparison.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/kia-pv5-vs-vw-id-buzz-people-carrier-comparison.html</guid>
-      <pubDate>Tue, 12 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>Reviews</category>
-      <description>More boot space, a V2L socket, regen paddles, and one-pedal driving at roughly half the price. Both reviewers chose the Kia. The Buzz wins on power, range, electric sliding doors, and cabin quality. Neither is a bad choice, but the £27,000 gap makes one of them much easier to justify.</description>
     </item>
     <item>
       <title>Two Batteries, One Hitch, and the Case for All-Electric Glamping</title>
