@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -18,6 +18,51 @@
     <category>Battery Technology</category>
 
 
+    <item>
+      <title>The Audi e-tron&#8217;s Coolant Seal Will Eventually Fail. Here&#8217;s How to Know If It Already Has.</title>
+      <link>https://nexusevnews.com/articles/audi-e-tron-motor-coolant-intrusion-inspection-guide.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/audi-e-tron-motor-coolant-intrusion-inspection-guide.html</guid>
+      <pubDate>Wed, 20 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Renew</dc:creator>
+      <category>Used EVs</category>
+      <description>Out of Spec Renew inspects a 2019 Audi e-tron for motor coolant intrusion. The front motor drain plugs are dry. The rear motor catch reservoir is full of pink coolant. The motor is not yet affected, but the seal is clearly progressing toward failure.</description>
+    </item>
+    <item>
+      <title>Robert Llewellyn at 70: The Man Who Bet on Electric Vehicles Before Anyone Else Was Watching</title>
+      <link>https://nexusevnews.com/articles/robert-llewellyn-70-everything-electric-fully-charged-interview.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/robert-llewellyn-70-everything-electric-fully-charged-interview.html</guid>
+      <pubDate>Wed, 20 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric TECH</dc:creator>
+      <category>Deep Dives</category>
+      <description>Everything Electric marks Robert Llewellyn&#8217;s 70th birthday with a long-form interview covering 16 years of Fully Charged, Kryten, Scrapheap Challenge, the BBC rejecting his EV show pitch in 2009, and his measured optimism about the energy transition.</description>
+    </item>
+    <item>
+      <title>Inside the Sp&#233;irling Pure Build: AC Charging, Air Conditioning, and a Boot Fit for a Helmet</title>
+      <link>https://nexusevnews.com/articles/mcmurtry-speirling-pure-chassis-build-part-2.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/mcmurtry-speirling-pure-chassis-build-part-2.html</guid>
+      <pubDate>Wed, 20 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>McMurtry Automotive</dc:creator>
+      <category>Deep Dives</category>
+      <description>McMurtry Automotive Part 2 of the factory series shows the Sp&#233;irling Pure chassis going together: 4G braking from fan-generated downforce, a home-socket-compatible onboard charger at 7 kW, optional air conditioning, and a boot sized for a helmet.</description>
+    </item>
+    <item>
+      <title>McMurtry Has a New Factory, Nine Build Bays, and the First Production Sp&#233;irling Chassis on the Floor</title>
+      <link>https://nexusevnews.com/articles/mcmurtry-speirling-pure-new-factory-wotton-under-edge.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/mcmurtry-speirling-pure-new-factory-wotton-under-edge.html</guid>
+      <pubDate>Wed, 20 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>McMurtry Automotive</dc:creator>
+      <category>Deep Dives</category>
+      <description>McMurtry Automotive&#8217;s new Wotton-under-Edge facility has nine hand-build bays, a CMM inspection suite using Renishaw technology, and a full parts traceability system. The first production-spec Sp&#233;irling Pure chassis has arrived, carrying 100 kWh total and a 2.2-metre wheelbase.</description>
+    </item>
+    <item>
+      <title>Coulthard Drove the Gen4 Formula E Car at Monaco. He Won There Twice and Called This Faster.</title>
+      <link>https://nexusevnews.com/articles/formula-e-gen4-coulthard-monaco-first-drive-reaction.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/formula-e-gen4-coulthard-monaco-first-drive-reaction.html</guid>
+      <pubDate>Wed, 20 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>CGTN Sports Scene</dc:creator>
+      <category>News</category>
+      <description>David Coulthard drove Formula E&#8217;s new Gen4 car at Monte Carlo and called it the most acceleration he had ever felt at that circuit. The Gen4 runs permanent four-wheel drive. Coulthard won Monaco in F1 twice and said the car is redefining what a race car can do on corner exit.</description>
+    </item>
     <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
       <link>https://nexusevnews.com/opinion-r2-tracker.html</link>
@@ -134,60 +179,6 @@
       <dc:creator>Solarpunk Steve</dc:creator>
       <category>Solar</category>
       <description>Solarpunk Steve built a solar-powered lawn care trailer with six 200W panels, an EG4 inverter, and a 5kW server rack battery to charge an all-electric mowing fleet on-site, measuring 780W real-world output in full sun.</description>
-    </item>
-    <item>
-      <title>Scaringe Confirms More R2 Models Are Coming. The R2X Is the Logical First.</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-more-variants-r2x-this-car-pod.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-more-variants-r2x-this-car-pod.html</guid>
-      <pubDate>Sun, 17 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>This Car Pod! Clips</dc:creator>
-      <category>News</category>
-      <description>Rivian CEO RJ Scaringe confirmed additional R2 variants are in development. The This Car Pod team identifies a performance off-road R2X as the most logical next step, following the pattern Rivian established with the R3X.</description>
-    </item>
-    <item>
-      <title>VW ID. Polo GTI Arrives, Jaguar Gets Its Production Name, and UK Used EV Sales Jump Nearly a Third</title>
-      <link>https://nexusevnews.com/articles/kilowatt-half-hour-ep-106-polo-gti-jaguar-type-01-used-ev-sales.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/kilowatt-half-hour-ep-106-polo-gti-jaguar-type-01-used-ev-sales.html</guid>
-      <pubDate>Sun, 17 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>Deep Dives</category>
-      <description>Kilowatt Half Hour Ep 106 covers the VW ID. Polo GTI with 226hp, Jaguar officially naming its electric GT the Type 01, and SMMT data showing UK used EV sales up nearly 33% in Q1 2026, reaching 1 in 23 used car transactions.</description>
-    </item>
-    <item>
-      <title>The Cheapest New EV in America Is Being Driven Coast to Coast on IONNA Charging Only</title>
-      <link>https://nexusevnews.com/articles/2027-chevy-bolt-ev-coast-to-coast-ionna-charging-out-of-spec.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/2027-chevy-bolt-ev-coast-to-coast-ionna-charging-out-of-spec.html</guid>
-      <pubDate>Sun, 17 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Charging</category>
-      <description>Out of Spec Reviews drives a 2027 Chevy Bolt EV from Virginia Beach to LA on IONNA stations only, stress-testing 150kW charging and LFP battery chemistry on a coast-to-coast route with no planned stops.</description>
-    </item>
-    <item>
-      <title>Volkswagen&#8217;s First Electric GTI: 226 hp, 24-Minute Charging, and a &#8364;40,000 Question</title>
-      <link>https://nexusevnews.com/articles/vw-id-polo-gti-electric-reveal-autogefuhl.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/vw-id-polo-gti-electric-reveal-autogefuhl.html</guid>
-      <pubDate>Sat, 16 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Autogef&#252;hl</dc:creator>
-      <category>Reviews</category>
-      <description>Autogef&#252;hl examines the pre-production ID Polo GTI: 226 hp on the front axle with an electronic differential lock, DCC adaptive suspension exclusive to the GTI trim, a 52 kWh NMC battery with 105 kW DC charging from 10 to 80 percent in 24 minutes, and a top speed of 175 km/h. Clark tartan seats, a physical GTI button on the steering wheel that triggers a dedicated drive mode and retro gauge display, and 440 litres of boot space. Pricing is not yet confirmed but expected around &#8364;40,000.</description>
-    </item>
-    <item>
-      <title>Munro Live Breaks Down the R2 at ACT Expo: The Cost-Reduction Story Is in the Details</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-act-expo-engineering-munro-live.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-act-expo-engineering-munro-live.html</guid>
-      <pubDate>Sat, 16 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Munro Live</dc:creator>
-      <category>Deep Dives</category>
-      <description>Sandy Munro&#8217;s team walks through the Rivian R2 at ACT Expo 2026 with a Rivian fleet sales representative. The conversation covers the simplified single-piece frunk liner with fewer fasteners versus the R1, a clamshell hood, squared mirror arms, a recessed rear wiper tested extensively for drainage and ice, and the Halo haptic electromechanical scroll wheels that adjust detent resistance and throw contextually based on which vehicle setting is being changed. The R2 launches at $57,990 with 330 miles of range and 0 to 60 in 3.5 seconds.</description>
-    </item>
-    <item>
-      <title>The R2 Configurator Is Live: What the Launch Package Includes and How to Save $650</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-launch-configurator-pricing-travis-ketchum.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-launch-configurator-pricing-travis-ketchum.html</guid>
-      <pubDate>Sat, 16 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Travis Ketchum</dc:creator>
-      <category>Deep Dives</category>
-      <description>Travis Ketchum walks through every option on the live R2 configurator. Paint runs from free for Escer Silver to $2,000 for Midnight, Catalina Cove, and Launch Green. The all-terrain 20-inch wheel upgrade is $1,000 and drops range from 330 to 307 miles. The compact spare adds $755. Buyers in 13 qualifying states, including California, Washington, New York, and Colorado, can receive $650 in charging accessories at no added cost by selecting them at checkout. Launch Green is exclusive to performance launch edition orders.</description>
     </item>
     <item>
       <title>Two Batteries, One Hitch, and the Case for All-Electric Glamping</title>
