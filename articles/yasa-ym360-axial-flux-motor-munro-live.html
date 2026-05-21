@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5TSZNJ78Y5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-5TSZNJ78Y5');
+</script>
+<!-- AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3373030770873954"
+     crossorigin="anonymous"></script>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>The Physics Behind YASA's 15 kg Motor Is Not What Most Channels Are Saying | nexusEVnews</title>
+<meta name="description" content="Munro Live tears down the YASA YM360 production motor and shows that the weight saving over radial designs comes from surface area and less steel, not magnetic diameter."/>
+<link rel="canonical" href="https://nexusevnews.com/articles/yasa-ym360-axial-flux-motor-munro-live.html"/>
+<link rel="icon" href="/favicon.png" type="image/png"/>
+<!-- Open Graph -->
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="The Physics Behind YASA's 15 kg Motor Is Not What Most Channels Are Saying"/>
+<meta property="og:description" content="Munro Live tears down the YASA YM360 production motor and shows that the weight saving over radial designs comes from surface area and less steel, not magnetic diameter."/>
+<meta property="og:image" content="https://img.youtube.com/vi/m507ryWhc6c/maxresdefault.jpg"/>
+<meta property="og:url" content="https://nexusevnews.com/articles/yasa-ym360-axial-flux-motor-munro-live.html"/>
+<meta property="article:published_time" content="2026-05-21T21:00:00+00:00"/>
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="The Physics Behind YASA's 15 kg Motor Is Not What Most Channels Are Saying"/>
+<meta name="twitter:description" content="Munro Live tears down the YASA YM360 production motor and shows that the weight saving over radial designs comes from surface area and less steel, not magnetic diameter."/>
+<meta name="twitter:image" content="https://img.youtube.com/vi/m507ryWhc6c/maxresdefault.jpg"/>
+<meta name="twitter:site" content="@nexusevnews"/>
+<!-- Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "The Physics Behind YASA's 15 kg Motor Is Not What Most Channels Are Saying",
+  "description": "Munro Live tears down the YASA YM360 production motor and shows that the weight saving over radial designs comes from surface area and less steel, not magnetic diameter.",
+  "image": "https://img.youtube.com/vi/m507ryWhc6c/maxresdefault.jpg",
+  "datePublished": "2026-05-21T21:00:00+00:00",
+  "publisher": {
+    "@type": "Organization",
+    "name": "nexusEVnews",
+    "url": "https://nexusevnews.com/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://nexusevnews.com/og-image.jpg"
+    }
+  },
+  "articleSection": "Battery Tech"
+}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet"/>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #0a0b0f; --surface: #111318; --surface2: #1a1d24;
+    --border: #1f2330; --accent: #00d4ff; --text: #e8eaf0; --muted: #6b7280;
+  }
+  body { font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+  header { position: sticky; top: 0; z-index: 100; background: rgba(10,11,15,0.94); backdrop-filter: blur(14px); border-bottom: 1px solid var(--border); padding: 0 2rem; display: flex; align-items: center; justify-content: space-between; height: 62px; }
+  .logo { font-family: 'Bebas Neue', sans-serif; font-size: 1.85rem; letter-spacing: 0.06em; color: var(--text); text-decoration: none; display: flex; align-items: center; gap: 0.6rem; }
+  .logo .ev { color: var(--accent); }
+  .logo-text-wrap { display: flex; flex-direction: column; justify-content: center; line-height: 1; }
+  .logo-name { display: block; line-height: 1; }
+  .logo-tagline { font-family: 'DM Mono', monospace; font-size: 0.5rem; letter-spacing: 0.14em; color: var(--muted); text-transform: uppercase; display: block; margin-top: 3px; }
+  nav { display: flex; gap: 0.2rem; align-items: center; }
+  nav a { font-size: 0.76rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); text-decoration: none; padding: 0.35rem 0.7rem; border-radius: 4px; transition: color 0.2s, background 0.2s; }
+  nav a:hover { color: var(--text); background: var(--surface2); }
+  .article-wrap { max-width: 800px; margin: 0 auto; padding: 3rem 2rem 5rem; }
+  .article-tag { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); margin-bottom: 1rem; display: block; }
+  .article-title { font-family: 'Bebas Neue', sans-serif; font-size: clamp(2rem, 5vw, 3.2rem); line-height: 1.1; letter-spacing: 0.02em; margin-bottom: 1rem; }
+  .article-meta { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.08em; color: var(--muted); text-transform: uppercase; margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--border); }
+  .article-body { font-size: 1rem; line-height: 1.8; color: var(--text); margin-bottom: 2.5rem; }
+  .article-body p { margin-bottom: 1.2rem; }
+  .video-wrap { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0; border-radius: 4px; }
+  .video-wrap iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
+  .bottom-line { margin-top: 1.5rem; }
+  .bottom-line strong { font-weight: 600; }
+  .btn-wrap { display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 2.5rem; }
+  .btn { font-family: 'DM Sans', sans-serif; font-size: 0.82rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; padding: 0.65rem 1.4rem; border-radius: 4px; text-decoration: none; display: inline-block; transition: opacity 0.2s; }
+  .btn-primary { background: var(--accent); color: #000; }
+  .btn-secondary { background: transparent; color: var(--muted); border: 1px solid var(--border); }
+  .btn:hover { opacity: 0.82; }
+  footer { border-top: 1px solid var(--border); padding: 2rem 2rem 3rem; text-align: center; }
+  footer p { font-family: 'DM Mono', monospace; font-size: 0.64rem; color: var(--muted); letter-spacing: 0.06em; line-height: 1.8; }
+  footer a { color: var(--accent); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+  @media (max-width: 700px) { nav { display: none; } .article-wrap { padding: 2rem 1.25rem 4rem; } }
+</style>
+</head>
+<body>
+<header>
+  <a class="logo" href="/">
+    <svg aria-hidden="true" fill="none" height="40" viewBox="0 0 36 40" width="36">
+      <polygon fill="rgba(0,212,255,0.07)" points="18,2 34,11 34,29 18,38 2,29 2,11" stroke="rgba(0,212,255,0.35)" stroke-width="1"></polygon>
+      <polygon fill="rgba(0,212,255,0.1)" points="18,4 32,12 32,28 18,36 4,28 4,12" stroke="#00d4ff" stroke-width="1.5"></polygon>
+      <path d="M22 9L12 22H20L14 32L26 18H18L22 9Z" fill="#00d4ff"></path>
+    </svg>
+    <div class="logo-text-wrap">
+      <span class="logo-name">NEXUS<span class="ev">EV</span><span style="font-size:0.55em;color:var(--text);letter-spacing:0.02em;vertical-align:baseline;">news</span></span>
+      <span class="logo-tagline">EV &amp; Renewable Energy</span>
+    </div>
+  </a>
+  <nav>
+    <a href="/">Latest</a>
+    <a href="/#cardGrid">Deep Dives</a>
+    <a href="/opinion.html">Opinion</a>
+    <a href="/daily-brief.html">Daily Brief</a>
+  </nav>
+</header>
+
+<div class="article-wrap">
+  <span class="article-tag">Battery Tech</span>
+  <h1 class="article-title">The Physics Behind YASA's 15 kg Motor Is Not What Most Channels Are Saying</h1>
+  <div class="article-meta">Munro Live &nbsp;·&nbsp; May 21, 2026</div>
+
+  <div class="article-body">
+
+    <p>Mercedes-Benz acquired YASA in 2021, and since then the axial flux startup has attracted considerable attention online. Most of that coverage lands on the same talking point: the motor is small and light because the larger effective diameter of the axial flux geometry creates more torque leverage. Munro Live's teardown of the YASA YM360 production unit, used in a Lamborghini hybrid application, corrects the record. The diameter advantage is real but it is not the primary explanation. The actual answer involves shear stress limits, surface area, and the fact that YASA uses dramatically less electrical steel than any conventional radial flux motor producing comparable output. The YM360 delivers 360 Nm of torque and 125 kW from a package weighing roughly 15 kg. A BYD radial flux motor in the teardown comparison, producing similar torque and power, weighs over 40 kg. That gap is almost entirely accounted for by steel.</p>
+
+    <div class="video-wrap">
+      <iframe src="https://www.youtube.com/embed/m507ryWhc6c?rel=0&modestbranding=1" allow="autoplay; encrypted-media; fullscreen" allowfullscreen></iframe>
+    </div>
+
+    <p>The physics framework the video uses is shear stress: the force a magnetic field can apply per unit of surface area, measured along the working face rather than perpendicular to it. That limit is approximately 14 pounds per square inch, roughly equivalent to one atmosphere of pressure, regardless of whether the motor is axial or radial flux. It is a practical ceiling set by the saturation limits of electrical steel (around two Tesla) and the current density copper can sustain continuously (around 10 amps per square millimeter with ordinary cooling). Given that ceiling, torque in any motor is a function of how much working surface area you can pack into a given volume. A disc with two active faces achieves nearly the same working area as the cylindrical face of the BYD motor but in far less total volume, and critically with far less steel filling that volume. The BYD unit carries roughly 30 kg more steel than the YASA. The copper and magnet quantities are similar between both motors because both must carry similar current and magnetic field to hit similar output. The difference is the steel, and the geometry simply does not need as much of it in the axial configuration.</p>
+
+    <p>The stator teeth in the YM360 are made from a soft magnetic composite: powdered steel with an electrical insulating coating around each grain, compacted into a mold. That process enables the skewed tooth geometry that produces smooth, sinusoidal magnetic flux transitions rather than the stepped approximations used in radial machines. The result is lower torque ripple and quieter operation. Oil cooling routed directly through channels around each copper winding solves the heat extraction problem that is inherent to having a stationary stator sandwiched between two spinning rotors. The glass fiber covers over the stator windings are kept as thin as possible to minimize the air gap the magnetic flux must cross. YASA is wholly owned by Mercedes-Benz and the YM360 is currently in production at modest volumes, with the Lamborghini hybrid confirmed as a launch application. The company has also demonstrated a prototype producing around 1,000 horsepower in the same physical envelope, using grain-oriented electrical steel, which offers lower losses in the single flux direction that an axial design uniquely enables.</p>
+
+    <p class="bottom-line"><strong>Bottom line:</strong> The shear stress framework Munro applies here is useful far beyond this specific motor. It is the calculation that exposes fraudulent claims before any hardware is built: if a company announces triple the torque from half the package without a credible geometric explanation, the shear stress math will catch it. YASA passes. The weight saving is real, the geometry is clever, and the steel reduction is the actual story. Any coverage that leads with diameter is only telling part of it.</p>
+
+  </div>
+
+  <div class="btn-wrap">
+    <a class="btn btn-primary" href="https://youtu.be/m507ryWhc6c" target="_blank" rel="noopener">Watch on YouTube</a>
+    <a class="btn btn-secondary" href="/">Back to All Stories</a>
+  </div>
+</div>
+
+<footer>
+  <p>
+    <a href="https://nexuscurrent.beehiiv.com/subscribe" target="_blank" rel="noopener">Subscribe to Nexus Current</a> &nbsp;·&nbsp;
+    <a href="/about.html">About</a> &nbsp;·&nbsp;
+    <a href="/contact.html">Contact</a> &nbsp;·&nbsp;
+    <a href="/privacy.html">Privacy</a> &nbsp;·&nbsp;
+    <a href="/terms.html">Terms</a>
+  </p>
+  <p style="margin-top:0.5rem;">&copy; 2026 nexusEVnews. Independent. No brand deals.</p>
+</footer>
+</body>
+</html>
