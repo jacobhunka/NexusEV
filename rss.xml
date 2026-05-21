@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -18,6 +18,51 @@
     <category>Battery Technology</category>
 
 
+    <item>
+      <title>The EX60 Has Better Range, Better Tech, and a Lower Price Than Its German Rivals. The Data Backs It Up.</title>
+      <link>https://nexusevnews.com/articles/volvo-ex60-review-autogefuehl-may-21-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/volvo-ex60-review-autogefuehl-may-21-2026.html</guid>
+      <pubDate>Thu, 21 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Autogefühl</dc:creator>
+      <category>Reviews</category>
+      <description>Autogefühl takes the Volvo EX60 P10 AWD to Spanish motorways and returns a real-world range of around 480 km from the 92 kWh battery. The 800-volt system charges 10-to-80 percent in 16 minutes. Pricing starts below the BMW iX3 and Mercedes GLC EQ, and the drive is more engaging than any previous Volvo SUV.</description>
+    </item>
+    <item>
+      <title>The Physics Behind YASA&#8217;s 15 kg Motor Is Not What Most Channels Are Saying</title>
+      <link>https://nexusevnews.com/articles/yasa-ym360-axial-flux-motor-munro-live.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/yasa-ym360-axial-flux-motor-munro-live.html</guid>
+      <pubDate>Thu, 21 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Munro Live</dc:creator>
+      <category>Battery Tech</category>
+      <description>Munro Live tears down the YASA YM360 production motor and finds the weight saving over conventional radial designs comes from surface area and reduced steel, not magnetic diameter. A 15 kg motor matches the output of a 40 kg competitor by using both faces of a disc and eliminating steel the geometry does not require.</description>
+    </item>
+    <item>
+      <title>Denmark Spent 50 Years Building Energy Independence. It Paid Out in the 2026 Crisis.</title>
+      <link>https://nexusevnews.com/articles/denmark-wind-solar-pbs-newshour-may-21-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/denmark-wind-solar-pbs-newshour-may-21-2026.html</guid>
+      <pubDate>Thu, 21 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>PBS NewsHour</dc:creator>
+      <category>News</category>
+      <description>PBS NewsHour reports from Danish islands running almost entirely on wind and solar. The renewable industry earns $17 billion a year and employs 107,000 people. When fuel prices spiked due to conflict around the Strait of Hormuz, Denmark was exporting electricity. EV sales reached 96.3 percent of new registrations last month.</description>
+    </item>
+    <item>
+      <title>The 2026 Subaru Uncharted Is a Toyota CHR With AWD, X-Mode, and a 4.3-Second 0-60</title>
+      <link>https://nexusevnews.com/articles/subaru-uncharted-gt-review-may-21-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/subaru-uncharted-gt-review-may-21-2026.html</guid>
+      <pubDate>Thu, 21 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Driven Car Reviews</dc:creator>
+      <category>Reviews</category>
+      <description>Driven Car Reviews drives the top GT trim of Subaru&#8217;s most compact EV. The dual-motor AWD version hits 60 mph in 4.3 seconds from a 74.7 kWh battery, EPA-rated to 273 miles. It shares its platform with the Toyota CHR and costs around $3,000 more for the Subaru badge, X-Mode, and all-wheel drive.</description>
+    </item>
+    <item>
+      <title>Fleet Data Says Rivians Lose About 1% Per Day Parked. The People Who Come Back to Dead Batteries Are Doing It Wrong.</title>
+      <link>https://nexusevnews.com/articles/rivian-phantom-drain-airport-travis-ketchum.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-phantom-drain-airport-travis-ketchum.html</guid>
+      <pubDate>Thu, 21 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Travis Ketchum</dc:creator>
+      <category>Deep Dives</category>
+      <description>Real telemetry from Rivian ROR shows the median idle drain is 1.33 kWh per day, under 1 percent of the 140 kWh Max Pack. Owners losing 100+ miles in a week are checking the app obsessively, leaving widgets running, or ignoring the 70 percent charge limit recommendation. The anxiety is creating the drain.</description>
+    </item>
     <item>
       <title>The AMG GT 4-Door Is Electric Now. 1,169 PS, 600 kW Charging, and a Fake V8 That Actually Sounds Right.</title>
       <link>https://nexusevnews.com/articles/mercedes-amg-gt-4-door-electric-reveal-autotrader.html</link>
@@ -135,51 +180,11 @@
       <category>Reviews</category>
       <description>Autogefühl drives the Mercedes CLA EQ from central Germany to Hamburg and back. The 85 kWh 4MATIC averaged 17 kWh per 100 km, projecting 500 km realistic range at 130 km/h. Fast charge session: 21 minutes, 175 kW average. Prices from under €50,000.</description>
     </item>
-    <item>
-      <title>First Government Bid, First Customer Delivery: Solarpunk Steve Wins a County Emergency Management Solar Contract</title>
-      <link>https://nexusevnews.com/articles/solarpunk-steve-wins-government-solar-trailer-contract.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/solarpunk-steve-wins-government-solar-trailer-contract.html</guid>
-      <pubDate>Mon, 18 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Solarpunk Steve</dc:creator>
-      <category>Solar</category>
-      <description>Solarpunk Steve won a competitive government contract to build a mobile solar generator trailer for a county emergency management department 1,200 miles away. He had never bid on a government contract. He submitted a 23-page proposal and won. He has under one month to build and deliver.</description>
-    </item>
-    <item>
-      <title>Forged Wheels on the Rivian R1S Added Seven Miles of Range. The Other Changes Were the Point.</title>
-      <link>https://nexusevnews.com/articles/rivian-r1s-forged-wheels-efficiency-test-gjeebs.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r1s-forged-wheels-efficiency-test-gjeebs.html</guid>
-      <pubDate>Mon, 18 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Gjeebs</dc:creator>
-      <category>Reviews</category>
-      <description>Gjeebs swaps stock off-road wheels on a 2026 Rivian R1S for forged Atomic Wheels AWX with Hankook iON HT tires, 14 to 15 lbs lighter per corner. Range in conserve mode went from 372 to 379 miles. Cabin noise, steering feel, and ride quality improved significantly.</description>
-    </item>
-    <item>
-      <title>Kia Built a Van That Drives Like an EV and Priced It Within Three Grand of a Golf</title>
-      <link>https://nexusevnews.com/articles/kia-pv5-review-cars-uncovered.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/kia-pv5-review-cars-uncovered.html</guid>
-      <pubDate>Mon, 18 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Cars Uncovered</dc:creator>
-      <category>Reviews</category>
-      <description>Cars Uncovered reviews the Kia PV5 at £32,995. It converts between a family car, crew vehicle, and cargo van with a screwdriver. Holds 1,300 liters, charges at 150 kW, and runs quieter than two generations of Tesla Model 3. Long-range variant: 256 miles.</description>
-    </item>
-    <item>
-      <title>The CleverCharge Reads Your Car's OBD2 Port and Calls Itself the Smartest Home EV Charger. Mostly Right.</title>
-      <link>https://nexusevnews.com/articles/clevercharge-home-ev-charger-review-state-of-charge.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/clevercharge-home-ev-charger-review-state-of-charge.html</guid>
-      <pubDate>Mon, 18 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>State Of Charge</dc:creator>
-      <category>Charging</category>
-      <description>State of Charge reviews the CleverCharge Home. An OBD2 CleverKey dongle pulls battery state of health, real-world range estimates, and driving patterns into the app. Scores 4.2 out of 5 stars at $399 for the 40-amp version. Gaps: no power sharing, no charge stop control, AI cost comparison inaccurate.</description>
-    </item>
-    <item>
-      <title>Nyck de Vries Ends Four-Year Formula E Drought with Monaco Victory</title>
-      <link>https://nexusevnews.com/articles/nyck-de-vries-wins-2026-monaco-e-prix-mahindra.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/nyck-de-vries-wins-2026-monaco-e-prix-mahindra.html</guid>
-      <pubDate>Sun, 17 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Formula E</dc:creator>
-      <category>News</category>
-      <description>Mahindra Racing's Nyck de Vries won Round 9 at Monaco, ending four years without a Formula E win. Mitch Evans takes the championship lead from second place. Pepe Martí earns his first podium after a late penalty reshuffles the results.</description>
-    </item>
+
+
+
+
+
     <item>
       <title>Two Batteries, One Hitch, and the Case for All-Electric Glamping</title>
       <link>https://nexusevnews.com/opinion-rivian-lightship-glamping.html</link>
