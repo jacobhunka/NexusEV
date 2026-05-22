@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -18,6 +18,51 @@
     <category>Battery Technology</category>
 
 
+    <item>
+      <title>A Sub-$30,000 EV With Nothing to Apologize For</title>
+      <link>https://nexusevnews.com/articles/chevy-bolt-ev-2026-review-sub-30000.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/chevy-bolt-ev-2026-review-sub-30000.html</guid>
+      <pubDate>Fri, 22 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Auto Focus</dc:creator>
+      <category>Reviews</category>
+      <description>The 2026 Chevy Bolt comes in under $30,000 with a 65 kWh battery, 262 miles of rated range, and NACS charging built in. Auto Focus spent a week driving it in New Jersey and found a car that has earned its reputation update. Nothing about it is embarrassing at its price.</description>
+    </item>
+    <item>
+      <title>Inside the Factory Making the World&#8217;s First Mass-Produced Solid-State Battery</title>
+      <link>https://nexusevnews.com/articles/prologium-solid-state-battery-hands-on-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/prologium-solid-state-battery-hands-on-2026.html</guid>
+      <pubDate>Fri, 22 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Two Bit da Vinci</dc:creator>
+      <category>Deep Dives</category>
+      <description>Two Bit da Vinci visited ProLogium&#8217;s headquarters in Taiwan with full production floor access. The Gen 4 cell measured 360 Wh/kg in a live test, passes China&#8217;s 2026 solid-state standard at 0.05 percent weight loss, and survived a nail, an oven at 280 degrees C, and being cut in half.</description>
+    </item>
+    <item>
+      <title>Rivian&#8217;s Software Lead Answered Every R2 Question Reddit Had</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-ama-autonomy-software-heat-pump-may-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-ama-autonomy-software-heat-pump-may-2026.html</guid>
+      <pubDate>Fri, 22 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>RivianTrackr</dc:creator>
+      <category>News</category>
+      <description>Wassym Bensaid and Rivian&#8217;s autonomy lead James held an AMA on r/RivianR2 and disclosed heat pump standard across all trims, Autonomy+ bundled for life on the Performance Launch Package, and point-to-point hands-free driving targeted for later in 2026.</description>
+    </item>
+    <item>
+      <title>Gotion&#8217;s New Sodium Cell Matches the Energy Density of Tesla&#8217;s 4680 Battery</title>
+      <link>https://nexusevnews.com/articles/gotion-sodium-battery-261-wh-kg-volkswagen-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/gotion-sodium-battery-261-wh-kg-volkswagen-2026.html</guid>
+      <pubDate>Fri, 22 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>The Electric Viking</dc:creator>
+      <category>Battery Tech</category>
+      <description>Gotion High-Tech, in which Volkswagen holds a 30 percent stake, unveiled a 261 Wh/kg sodium-ion cell with gigawatt-hour production already running at two factories. The figure surpasses every LFP battery in production and matches Tesla&#8217;s 4680 cell. A grid storage version claims 20,000 cycles.</description>
+    </item>
+    <item>
+      <title>BYD&#8217;s New Blade Battery Charges to 97% in Under 10 Minutes and Works in the Cold</title>
+      <link>https://nexusevnews.com/articles/byd-blade-2-battery-fast-charging-cold-weather.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-blade-2-battery-fast-charging-cold-weather.html</guid>
+      <pubDate>Fri, 22 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Ben Alexander</dc:creator>
+      <category>Battery Tech</category>
+      <description>BYD released official data for its second-generation Blade battery. At room temperature with a 1,500 kW charger, 10 to 70 percent takes 5 minutes. At minus 30 degrees C, 20 to 97 percent completes in 12 minutes, only three minutes slower than at room temperature.</description>
+    </item>
     <item>
       <title>The EX60 Has Better Range, Better Tech, and a Lower Price Than Its German Rivals. The Data Backs It Up.</title>
       <link>https://nexusevnews.com/articles/volvo-ex60-review-autogefuehl-may-21-2026.html</link>
@@ -134,51 +179,6 @@
       <dc:creator>carwow</dc:creator>
       <category>Reviews</category>
       <description>carwow tests the Mercedes GLC electric: 490 hp, dual-motor four-wheel drive, 94 kWh battery, and a WLTP claim of 393 miles. Real-world result on a 40-minute test route: 282 miles. The car handles well and is fast. The 0 to 60 sprint came in at 4.06 seconds, quicker than the stated 4.3. The range gap and some budget-feeling interior materials are harder to excuse at £60,000 to £73,000.</description>
-    </item>
-    <item>
-      <title>Finland Turned Off Its Oil Heating This Winter. A Silo of Sand Took Over.</title>
-      <link>https://nexusevnews.com/articles/polarite-energy-sand-battery-finland-winter-survival.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/polarite-energy-sand-battery-finland-winter-survival.html</guid>
-      <pubDate>Tue, 19 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>IE Explains</dc:creator>
-      <category>Battery Tech</category>
-      <description>Polarite Energy's 100 MWh sand battery, the world's largest, heated a Finnish town of 5,000 through one of the harshest winters on record using 2,000 tonnes of soapstone at up to 600 degrees Celsius. Result: 100% oil reduction, 70% CO2 cut, 60% less wood chip combustion. System cost runs $10 to $50 per kWh against $100 to $200 for lithium-ion, with a 50-year projected lifespan.</description>
-    </item>
-    <item>
-      <title>Hyundai's Robotaxi Drove Itself Around Las Vegas for Six Weeks. Out of Spec Took a Ride.</title>
-      <link>https://nexusevnews.com/articles/motional-hyundai-ioniq5-robotaxi-las-vegas-review-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/motional-hyundai-ioniq5-robotaxi-las-vegas-review-2026.html</guid>
-      <pubDate>Tue, 19 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Deep Dives</category>
-      <description>Out of Spec Reviews rides Motional's Hyundai Ioniq 5 robotaxi in Las Vegas six weeks into commercial operation. The ride was smooth and confident for most of the route, then produced two phantom braking events and a blocked intersection. Safety monitors remain aboard. Removal is planned before end of 2026. A Zoox comparison ride taken immediately after performed worse.</description>
-    </item>
-    <item>
-      <title>Segway's Electric Dirt Bike Has 21 kW, Beast Mode, and a 62-Mile Software Lock on All of It</title>
-      <link>https://nexusevnews.com/articles/segway-xaber-300-electric-dirt-bike-first-ride-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/segway-xaber-300-electric-dirt-bike-first-ride-review.html</guid>
-      <pubDate>Tue, 19 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Electric Cycle Rider</dc:creator>
-      <category>Reviews</category>
-      <description>Six years after Segway left the electric dirt bike segment, the Xaber 300 arrives at $5,299 with 21 kW, four power modes, Marzocchi suspension, GPS, hill hold, traction control, and reverse. The top two power modes are locked until 62 miles are on the odometer. The first ride ran in modes 1 and 2 only. Wheelie mode and digital clutch are both coming via firmware update.</description>
-    </item>
-    <item>
-      <title>London Black Cabs Have Memorized 25,000 Streets Since 1865. Waymo Is Mapping Them Now.</title>
-      <link>https://nexusevnews.com/articles/london-black-cabs-waymo-autonomous-taxis-knowledge-test.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/london-black-cabs-waymo-autonomous-taxis-knowledge-test.html</guid>
-      <pubDate>Tue, 19 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>60 Minutes</dc:creator>
-      <category>News</category>
-      <description>60 Minutes reports on Waymo and UK startup Wave preparing to launch autonomous taxis in London, where black cab drivers must pass The Knowledge, a licensing exam running since 1865 requiring memorization of 25,000 streets. One candidate spent five years and 41 attempts before passing. London's licensed cab driver count has fallen from 25,000 to 16,000 over the past decade.</description>
-    </item>
-    <item>
-      <title>500 Real Kilometers at Motorway Speed. The Mercedes CLA EQ Delivers More Than Its Battery Size Suggests.</title>
-      <link>https://nexusevnews.com/articles/mercedes-cla-eq-range-efficiency-road-test-autogefuehl.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/mercedes-cla-eq-range-efficiency-road-test-autogefuehl.html</guid>
-      <pubDate>Mon, 18 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Autogefühl</dc:creator>
-      <category>Reviews</category>
-      <description>Autogefühl drives the Mercedes CLA EQ from central Germany to Hamburg and back. The 85 kWh 4MATIC averaged 17 kWh per 100 km, projecting 500 km realistic range at 130 km/h. Fast charge session: 21 minutes, 175 kW average. Prices from under €50,000.</description>
     </item>
 
 

@@ -3,10 +3,47 @@
 
   <url>
     <loc>https://nexusevnews.com/daily-brief.html</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/chevy-bolt-ev-2026-review-sub-30000.html</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/prologium-solid-state-battery-hands-on-2026.html</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/rivian-r2-ama-autonomy-software-heat-pump-may-2026.html</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/gotion-sodium-battery-261-wh-kg-volkswagen-2026.html</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/byd-blade-2-battery-fast-charging-cold-weather.html</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/daily-brief-may-22-2026.html</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <url>
     <loc>https://nexusevnews.com/articles/volvo-ex60-review-autogefuehl-may-21-2026.html</loc>
     <lastmod>2026-05-21</lastmod>
@@ -212,7 +249,7 @@
 
   <url>
     <loc>https://nexusevnews.com/</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-22</lastmod>
   </url>
 
   <url>
