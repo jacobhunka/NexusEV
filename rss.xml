@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,9 +16,52 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
-
-
     <item>
+      <title>Aventon&#8217;s First Full-Suspension eMTB Has Bosch-Beating Torque and a Price That Shouldn&#8217;t Exist</title>
+      <link>https://nexusevnews.com/articles/aventon-current-emtb-first-ride-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/aventon-current-emtb-first-ride-2026.html</guid>
+      <pubDate>Sat, 23 May 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Evans MTB Saga</dc:creator>
+      <category>Reviews</category>
+      <description>The Aventon Current is a 29-inch full-suspension trail eMTB with 120 Nm of boost torque, an 800Wh battery, and a build quality that competes with bikes costing significantly more. The reviewer went looking for the catch.</description>
+    </item>
+<item>
+      <title>The Volvo EX60 Has 370 kW Charging, 503 Miles of Official Range, and a Cabin That Sounds Like a Concert Hall</title>
+      <link>https://nexusevnews.com/articles/volvo-ex60-first-drive-review-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/volvo-ex60-first-drive-review-2026.html</guid>
+      <pubDate>Sat, 23 May 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric CARS</dc:creator>
+      <category>Reviews</category>
+      <description>The Volvo EX60 P10 first drive: 370 kW charging, 4.6-second 0-62, museum-quiet NVH, and a platform that fixes every complaint about the EX30 and EX90.</description>
+    </item>
+<item>
+      <title>Someone Put a 4,700-Pound Hyundai Ioniq 5 XRT in SCCA Rally Cross. It Finished in the Top Half.</title>
+      <link>https://nexusevnews.com/articles/hyundai-ioniq-5-xrt-rallycross-scca-cincinnati-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/hyundai-ioniq-5-xrt-rallycross-scca-cincinnati-2026.html</guid>
+      <pubDate>Sat, 23 May 2026 20:30:00 +0000</pubDate>
+      <dc:creator>TheTopher</dc:creator>
+      <category>Reviews</category>
+      <description>A stock Ioniq 5 XRT entered the stock AWD class at SCCA Rally Cross in Cincinnati against GR Corollas and Subaru WRXes. It finished roughly fifth or sixth out of 16. Battery draw across four full runs: 3 to 4 percent.</description>
+    </item>
+<item>
+      <title>The Ten Longest-Range Electric Cars You Can Buy Right Now, Ranked by Real-World Miles</title>
+      <link>https://nexusevnews.com/articles/longest-range-electric-cars-2026-top-10.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/longest-range-electric-cars-2026-top-10.html</guid>
+      <pubDate>Sat, 23 May 2026 20:00:00 +0000</pubDate>
+      <dc:creator>What Car?</dc:creator>
+      <category>Deep Dives</category>
+      <description>Every car in the top ten manages more than 400 miles of official range. The leader hits 542. The most interesting buy on the list costs just over £43,000 and has 320 kW charging.</description>
+    </item>
+<item>
+      <title>The Cheapest New Electric Car in America Just Tried to Cross the Country on Ionna Charging Alone</title>
+      <link>https://nexusevnews.com/articles/2027-chevy-bolt-ev-cross-country-ionna-charging-road-trip.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/2027-chevy-bolt-ev-cross-country-ionna-charging-road-trip.html</guid>
+      <pubDate>Sat, 23 May 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Charging</category>
+      <description>Out of Spec drove a 2027 Chevy Bolt EV from Virginia Beach to Los Angeles using only Ionna DC fast charging stations. A stress test of both the updated Bolt and the US charging network.</description>
+    </item>
+<item>
       <title>A Sub-$30,000 EV With Nothing to Apologize For</title>
       <link>https://nexusevnews.com/articles/chevy-bolt-ev-2026-review-sub-30000.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/chevy-bolt-ev-2026-review-sub-30000.html</guid>
@@ -27,7 +70,7 @@
       <category>Reviews</category>
       <description>The 2026 Chevy Bolt comes in under $30,000 with a 65 kWh battery, 262 miles of rated range, and NACS charging built in. Auto Focus spent a week driving it in New Jersey and found a car that has earned its reputation update. Nothing about it is embarrassing at its price.</description>
     </item>
-    <item>
+<item>
       <title>Inside the Factory Making the World&#8217;s First Mass-Produced Solid-State Battery</title>
       <link>https://nexusevnews.com/articles/prologium-solid-state-battery-hands-on-2026.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/prologium-solid-state-battery-hands-on-2026.html</guid>
@@ -36,7 +79,7 @@
       <category>Deep Dives</category>
       <description>Two Bit da Vinci visited ProLogium&#8217;s headquarters in Taiwan with full production floor access. The Gen 4 cell measured 360 Wh/kg in a live test, passes China&#8217;s 2026 solid-state standard at 0.05 percent weight loss, and survived a nail, an oven at 280 degrees C, and being cut in half.</description>
     </item>
-    <item>
+<item>
       <title>Rivian&#8217;s Software Lead Answered Every R2 Question Reddit Had</title>
       <link>https://nexusevnews.com/articles/rivian-r2-ama-autonomy-software-heat-pump-may-2026.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-ama-autonomy-software-heat-pump-may-2026.html</guid>
@@ -45,7 +88,7 @@
       <category>News</category>
       <description>Wassym Bensaid and Rivian&#8217;s autonomy lead James held an AMA on r/RivianR2 and disclosed heat pump standard across all trims, Autonomy+ bundled for life on the Performance Launch Package, and point-to-point hands-free driving targeted for later in 2026.</description>
     </item>
-    <item>
+<item>
       <title>Gotion&#8217;s New Sodium Cell Matches the Energy Density of Tesla&#8217;s 4680 Battery</title>
       <link>https://nexusevnews.com/articles/gotion-sodium-battery-261-wh-kg-volkswagen-2026.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/gotion-sodium-battery-261-wh-kg-volkswagen-2026.html</guid>
@@ -54,7 +97,7 @@
       <category>Battery Tech</category>
       <description>Gotion High-Tech, in which Volkswagen holds a 30 percent stake, unveiled a 261 Wh/kg sodium-ion cell with gigawatt-hour production already running at two factories. The figure surpasses every LFP battery in production and matches Tesla&#8217;s 4680 cell. A grid storage version claims 20,000 cycles.</description>
     </item>
-    <item>
+<item>
       <title>BYD&#8217;s New Blade Battery Charges to 97% in Under 10 Minutes and Works in the Cold</title>
       <link>https://nexusevnews.com/articles/byd-blade-2-battery-fast-charging-cold-weather.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/byd-blade-2-battery-fast-charging-cold-weather.html</guid>
@@ -63,7 +106,7 @@
       <category>Battery Tech</category>
       <description>BYD released official data for its second-generation Blade battery. At room temperature with a 1,500 kW charger, 10 to 70 percent takes 5 minutes. At minus 30 degrees C, 20 to 97 percent completes in 12 minutes, only three minutes slower than at room temperature.</description>
     </item>
-    <item>
+<item>
       <title>The EX60 Has Better Range, Better Tech, and a Lower Price Than Its German Rivals. The Data Backs It Up.</title>
       <link>https://nexusevnews.com/articles/volvo-ex60-review-autogefuehl-may-21-2026.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/volvo-ex60-review-autogefuehl-may-21-2026.html</guid>
@@ -72,7 +115,7 @@
       <category>Reviews</category>
       <description>Autogefühl takes the Volvo EX60 P10 AWD to Spanish motorways and returns a real-world range of around 480 km from the 92 kWh battery. The 800-volt system charges 10-to-80 percent in 16 minutes. Pricing starts below the BMW iX3 and Mercedes GLC EQ, and the drive is more engaging than any previous Volvo SUV.</description>
     </item>
-    <item>
+<item>
       <title>The Physics Behind YASA&#8217;s 15 kg Motor Is Not What Most Channels Are Saying</title>
       <link>https://nexusevnews.com/articles/yasa-ym360-axial-flux-motor-munro-live.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/yasa-ym360-axial-flux-motor-munro-live.html</guid>
@@ -81,7 +124,7 @@
       <category>Battery Tech</category>
       <description>Munro Live tears down the YASA YM360 production motor and finds the weight saving over conventional radial designs comes from surface area and reduced steel, not magnetic diameter. A 15 kg motor matches the output of a 40 kg competitor by using both faces of a disc and eliminating steel the geometry does not require.</description>
     </item>
-    <item>
+<item>
       <title>Denmark Spent 50 Years Building Energy Independence. It Paid Out in the 2026 Crisis.</title>
       <link>https://nexusevnews.com/articles/denmark-wind-solar-pbs-newshour-may-21-2026.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/denmark-wind-solar-pbs-newshour-may-21-2026.html</guid>
@@ -90,7 +133,7 @@
       <category>News</category>
       <description>PBS NewsHour reports from Danish islands running almost entirely on wind and solar. The renewable industry earns $17 billion a year and employs 107,000 people. When fuel prices spiked due to conflict around the Strait of Hormuz, Denmark was exporting electricity. EV sales reached 96.3 percent of new registrations last month.</description>
     </item>
-    <item>
+<item>
       <title>The 2026 Subaru Uncharted Is a Toyota CHR With AWD, X-Mode, and a 4.3-Second 0-60</title>
       <link>https://nexusevnews.com/articles/subaru-uncharted-gt-review-may-21-2026.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/subaru-uncharted-gt-review-may-21-2026.html</guid>
@@ -99,7 +142,7 @@
       <category>Reviews</category>
       <description>Driven Car Reviews drives the top GT trim of Subaru&#8217;s most compact EV. The dual-motor AWD version hits 60 mph in 4.3 seconds from a 74.7 kWh battery, EPA-rated to 273 miles. It shares its platform with the Toyota CHR and costs around $3,000 more for the Subaru badge, X-Mode, and all-wheel drive.</description>
     </item>
-    <item>
+<item>
       <title>Fleet Data Says Rivians Lose About 1% Per Day Parked. The People Who Come Back to Dead Batteries Are Doing It Wrong.</title>
       <link>https://nexusevnews.com/articles/rivian-phantom-drain-airport-travis-ketchum.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-phantom-drain-airport-travis-ketchum.html</guid>
@@ -108,7 +151,7 @@
       <category>Deep Dives</category>
       <description>Real telemetry from Rivian ROR shows the median idle drain is 1.33 kWh per day, under 1 percent of the 140 kWh Max Pack. Owners losing 100+ miles in a week are checking the app obsessively, leaving widgets running, or ignoring the 70 percent charge limit recommendation. The anxiety is creating the drain.</description>
     </item>
-    <item>
+<item>
       <title>The AMG GT 4-Door Is Electric Now. 1,169 PS, 600 kW Charging, and a Fake V8 That Actually Sounds Right.</title>
       <link>https://nexusevnews.com/articles/mercedes-amg-gt-4-door-electric-reveal-autotrader.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/mercedes-amg-gt-4-door-electric-reveal-autotrader.html</guid>
@@ -117,7 +160,7 @@
       <category>Reviews</category>
       <description>AMG&#8217;s first fully electric car arrives on a dedicated platform with 1,169 PS peak, 721 hp continuous, 2,000 Nm torque, and a 0-62 time of 2.1 seconds. Three axial flux motors. 430-mile range. 600 kW charging restores 285 miles in 10 minutes. Goes on sale second half of 2026.</description>
     </item>
-    <item>
+<item>
       <title>The Audi e-tron&#8217;s Coolant Seal Will Eventually Fail. Here&#8217;s How to Know If It Already Has.</title>
       <link>https://nexusevnews.com/articles/audi-e-tron-motor-coolant-intrusion-inspection-guide.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/audi-e-tron-motor-coolant-intrusion-inspection-guide.html</guid>
@@ -126,43 +169,7 @@
       <category>Used EVs</category>
       <description>Out of Spec Renew inspects a 2019 Audi e-tron for motor coolant intrusion. The front motor drain plugs are dry. The rear motor catch reservoir is full of pink coolant. The motor is not yet affected, but the seal is clearly progressing toward failure.</description>
     </item>
-    <item>
-      <title>Robert Llewellyn at 70: The Man Who Bet on Electric Vehicles Before Anyone Else Was Watching</title>
-      <link>https://nexusevnews.com/articles/robert-llewellyn-70-everything-electric-fully-charged-interview.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/robert-llewellyn-70-everything-electric-fully-charged-interview.html</guid>
-      <pubDate>Wed, 20 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Everything Electric TECH</dc:creator>
-      <category>Deep Dives</category>
-      <description>Everything Electric marks Robert Llewellyn&#8217;s 70th birthday with a long-form interview covering 16 years of Fully Charged, Kryten, Scrapheap Challenge, the BBC rejecting his EV show pitch in 2009, and his measured optimism about the energy transition.</description>
-    </item>
-    <item>
-      <title>Inside the Sp&#233;irling Pure Build: AC Charging, Air Conditioning, and a Boot Fit for a Helmet</title>
-      <link>https://nexusevnews.com/articles/mcmurtry-speirling-pure-chassis-build-part-2.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/mcmurtry-speirling-pure-chassis-build-part-2.html</guid>
-      <pubDate>Wed, 20 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>McMurtry Automotive</dc:creator>
-      <category>Deep Dives</category>
-      <description>McMurtry Automotive Part 2 of the factory series shows the Sp&#233;irling Pure chassis going together: 4G braking from fan-generated downforce, a home-socket-compatible onboard charger at 7 kW, optional air conditioning, and a boot sized for a helmet.</description>
-    </item>
-    <item>
-      <title>McMurtry Has a New Factory, Nine Build Bays, and the First Production Sp&#233;irling Chassis on the Floor</title>
-      <link>https://nexusevnews.com/articles/mcmurtry-speirling-pure-new-factory-wotton-under-edge.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/mcmurtry-speirling-pure-new-factory-wotton-under-edge.html</guid>
-      <pubDate>Wed, 20 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>McMurtry Automotive</dc:creator>
-      <category>Deep Dives</category>
-      <description>McMurtry Automotive&#8217;s new Wotton-under-Edge facility has nine hand-build bays, a CMM inspection suite using Renishaw technology, and a full parts traceability system. The first production-spec Sp&#233;irling Pure chassis has arrived, carrying 100 kWh total and a 2.2-metre wheelbase.</description>
-    </item>
-    <item>
-      <title>Coulthard Drove the Gen4 Formula E Car at Monaco. He Won There Twice and Called This Faster.</title>
-      <link>https://nexusevnews.com/articles/formula-e-gen4-coulthard-monaco-first-drive-reaction.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/formula-e-gen4-coulthard-monaco-first-drive-reaction.html</guid>
-      <pubDate>Wed, 20 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>CGTN Sports Scene</dc:creator>
-      <category>News</category>
-      <description>David Coulthard drove Formula E&#8217;s new Gen4 car at Monte Carlo and called it the most acceleration he had ever felt at that circuit. The Gen4 runs permanent four-wheel drive. Coulthard won Monaco in F1 twice and said the car is redefining what a race car can do on corner exit.</description>
-    </item>
-    <item>
+<item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
       <link>https://nexusevnews.com/opinion-r2-tracker.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-r2-tracker.html</guid>
@@ -171,21 +178,7 @@
       <category>Opinion</category>
       <description>People were reading website source code to find out when their Rivian was coming. Forum signatures listed Guide contact dates like military service records. We are not doing that again for the R2. The Rivian R2 Delivery Tracker is live.</description>
     </item>
-    <item>
-      <title>The Mercedes GLC Electric Is Excellent to Drive and 111 Miles Short of Its Range Claim</title>
-      <link>https://nexusevnews.com/articles/mercedes-glc-electric-review-range-test-carwow.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/mercedes-glc-electric-review-range-test-carwow.html</guid>
-      <pubDate>Tue, 19 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>carwow</dc:creator>
-      <category>Reviews</category>
-      <description>carwow tests the Mercedes GLC electric: 490 hp, dual-motor four-wheel drive, 94 kWh battery, and a WLTP claim of 393 miles. Real-world result on a 40-minute test route: 282 miles. The car handles well and is fast. The 0 to 60 sprint came in at 4.06 seconds, quicker than the stated 4.3. The range gap and some budget-feeling interior materials are harder to excuse at £60,000 to £73,000.</description>
-    </item>
-
-
-
-
-
-    <item>
+<item>
       <title>Two Batteries, One Hitch, and the Case for All-Electric Glamping</title>
       <link>https://nexusevnews.com/opinion-rivian-lightship-glamping.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-rivian-lightship-glamping.html</guid>
@@ -194,7 +187,7 @@
       <category>Opinion</category>
       <description>The Lightship AE1 carries its own 69 kWh battery and 80 kW motor to neutralize trailer drag on the tow vehicle. Paired with a Rivian, the real-world efficiency numbers are hard to argue with. This is what all-electric glamping looks like when the hardware actually works.</description>
     </item>
-    <item>
+<item>
       <title>Atlanta, Rivian, and the Quiet Coincidence</title>
       <link>https://nexusevnews.com/opinion-atlanta-rivian-quiet-coincidence.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-atlanta-rivian-quiet-coincidence.html</guid>
