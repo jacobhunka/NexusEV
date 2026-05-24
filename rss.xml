@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,52 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+          <item>
+        <title>The Solar Car That Took Twenty Years to Build Is Almost Ready for Its First Customer</title>
+        <link>https://nexusevnews.com/articles/aptera-solar-ev-twenty-years-in-the-making.html</link>
+        <guid isPermaLink="true">https://nexusevnews.com/articles/aptera-solar-ev-twenty-years-in-the-making.html</guid>
+        <pubDate>Sun, 24 May 2026 22:00:00 +0000</pubDate>
+        <dc:creator>The Hustle</dc:creator>
+        <category>Solar</category>
+        <description>Aptera was founded in 2006, raised $42 million, lost its founders, went bankrupt, and came back. Now it is building validation vehicles in Carlsbad, California, with first customer delivery targeted for late 2026.</description>
+      </item>
+      <item>
+        <title>The Lemmo Zero Is a Flight-Ready Folding Ebike That Actually Weighs Less Than 14 Kilograms</title>
+        <link>https://nexusevnews.com/articles/lemmo-zero-folding-ebike-flight-ready-review.html</link>
+        <guid isPermaLink="true">https://nexusevnews.com/articles/lemmo-zero-folding-ebike-flight-ready-review.html</guid>
+        <pubDate>Sun, 24 May 2026 21:00:00 +0000</pubDate>
+        <dc:creator>Electroheads</dc:creator>
+        <category>Reviews</category>
+        <description>The Lemmo Zero folds 20 percent smaller than a 16-inch Brompton, weighs 13.1 kg, and has a 159 Wh battery designed to clear the airline carry-on limit. It also costs less than a Brompton Electric.</description>
+      </item>
+      <item>
+        <title>Eight Failures in Four Days: Why Lucid Bought Back This $85,000 Air After Eleven Months</title>
+        <link>https://nexusevnews.com/articles/lucid-air-bought-back-eleven-months-eight-failures.html</link>
+        <guid isPermaLink="true">https://nexusevnews.com/articles/lucid-air-bought-back-eleven-months-eight-failures.html</guid>
+        <pubDate>Sun, 24 May 2026 20:30:00 +0000</pubDate>
+        <dc:creator>Engineering Explained</dc:creator>
+        <category>Reviews</category>
+        <description>Eight distinct software failures over a four-day trip in a Lucid Air Touring, including a stop-mode setting that changed itself from hold to roll while the car sat parked and unoccupied. Lucid bought the car back.</description>
+      </item>
+      <item>
+        <title>The US Is Stepping Back from EVs as China Accelerates Into the Markets Nobody Else Is Watching</title>
+        <link>https://nexusevnews.com/articles/us-ev-market-decoupling-global-ev-shift-2026.html</link>
+        <guid isPermaLink="true">https://nexusevnews.com/articles/us-ev-market-decoupling-global-ev-shift-2026.html</guid>
+        <pubDate>Sun, 24 May 2026 20:00:00 +0000</pubDate>
+        <dc:creator>DW News</dc:creator>
+        <category>Deep Dives</category>
+        <description>US EV registrations fell more than a quarter in Q1 2026 after Trump removed federal incentives. VW wrote off $500 million on a Tennessee plant. Toyota EV sales grew 79 percent. China is winning the developing world EV market.</description>
+      </item>
+      <item>
+        <title>530 Kilometers from Tokyo on One Charge: Japan&#8217;s New Nissan Leaf Surprised Even Its Skeptics</title>
+        <link>https://nexusevnews.com/articles/nissan-leaf-530km-road-trip-tokyo-to-sendai.html</link>
+        <guid isPermaLink="true">https://nexusevnews.com/articles/nissan-leaf-530km-road-trip-tokyo-to-sendai.html</guid>
+        <pubDate>Sun, 24 May 2026 19:30:00 +0000</pubDate>
+        <dc:creator>Abroad in Japan</dc:creator>
+        <category>Reviews</category>
+        <description>The new Nissan Leaf claims 528 km of range. Two people drove it north from Tokyo through Fukushima and arrived at a charger in Miyagi Prefecture with one percent battery after 530 km. A 15-minute charge restored 300 km.</description>
+      </item>
+
     <item>
       <title>Aventon&#8217;s First Full-Suspension eMTB Has Bosch-Beating Torque and a Price That Shouldn&#8217;t Exist</title>
       <link>https://nexusevnews.com/articles/aventon-current-emtb-first-ride-2026.html</link>
@@ -125,51 +171,6 @@
       <description>Munro Live tears down the YASA YM360 production motor and finds the weight saving over conventional radial designs comes from surface area and reduced steel, not magnetic diameter. A 15 kg motor matches the output of a 40 kg competitor by using both faces of a disc and eliminating steel the geometry does not require.</description>
     </item>
 <item>
-      <title>Denmark Spent 50 Years Building Energy Independence. It Paid Out in the 2026 Crisis.</title>
-      <link>https://nexusevnews.com/articles/denmark-wind-solar-pbs-newshour-may-21-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/denmark-wind-solar-pbs-newshour-may-21-2026.html</guid>
-      <pubDate>Thu, 21 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>PBS NewsHour</dc:creator>
-      <category>News</category>
-      <description>PBS NewsHour reports from Danish islands running almost entirely on wind and solar. The renewable industry earns $17 billion a year and employs 107,000 people. When fuel prices spiked due to conflict around the Strait of Hormuz, Denmark was exporting electricity. EV sales reached 96.3 percent of new registrations last month.</description>
-    </item>
-<item>
-      <title>The 2026 Subaru Uncharted Is a Toyota CHR With AWD, X-Mode, and a 4.3-Second 0-60</title>
-      <link>https://nexusevnews.com/articles/subaru-uncharted-gt-review-may-21-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/subaru-uncharted-gt-review-may-21-2026.html</guid>
-      <pubDate>Thu, 21 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Driven Car Reviews</dc:creator>
-      <category>Reviews</category>
-      <description>Driven Car Reviews drives the top GT trim of Subaru&#8217;s most compact EV. The dual-motor AWD version hits 60 mph in 4.3 seconds from a 74.7 kWh battery, EPA-rated to 273 miles. It shares its platform with the Toyota CHR and costs around $3,000 more for the Subaru badge, X-Mode, and all-wheel drive.</description>
-    </item>
-<item>
-      <title>Fleet Data Says Rivians Lose About 1% Per Day Parked. The People Who Come Back to Dead Batteries Are Doing It Wrong.</title>
-      <link>https://nexusevnews.com/articles/rivian-phantom-drain-airport-travis-ketchum.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-phantom-drain-airport-travis-ketchum.html</guid>
-      <pubDate>Thu, 21 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Travis Ketchum</dc:creator>
-      <category>Deep Dives</category>
-      <description>Real telemetry from Rivian ROR shows the median idle drain is 1.33 kWh per day, under 1 percent of the 140 kWh Max Pack. Owners losing 100+ miles in a week are checking the app obsessively, leaving widgets running, or ignoring the 70 percent charge limit recommendation. The anxiety is creating the drain.</description>
-    </item>
-<item>
-      <title>The AMG GT 4-Door Is Electric Now. 1,169 PS, 600 kW Charging, and a Fake V8 That Actually Sounds Right.</title>
-      <link>https://nexusevnews.com/articles/mercedes-amg-gt-4-door-electric-reveal-autotrader.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/mercedes-amg-gt-4-door-electric-reveal-autotrader.html</guid>
-      <pubDate>Wed, 20 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Autotrader UK</dc:creator>
-      <category>Reviews</category>
-      <description>AMG&#8217;s first fully electric car arrives on a dedicated platform with 1,169 PS peak, 721 hp continuous, 2,000 Nm torque, and a 0-62 time of 2.1 seconds. Three axial flux motors. 430-mile range. 600 kW charging restores 285 miles in 10 minutes. Goes on sale second half of 2026.</description>
-    </item>
-<item>
-      <title>The Audi e-tron&#8217;s Coolant Seal Will Eventually Fail. Here&#8217;s How to Know If It Already Has.</title>
-      <link>https://nexusevnews.com/articles/audi-e-tron-motor-coolant-intrusion-inspection-guide.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/audi-e-tron-motor-coolant-intrusion-inspection-guide.html</guid>
-      <pubDate>Wed, 20 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Renew</dc:creator>
-      <category>Used EVs</category>
-      <description>Out of Spec Renew inspects a 2019 Audi e-tron for motor coolant intrusion. The front motor drain plugs are dry. The rear motor catch reservoir is full of pink coolant. The motor is not yet affected, but the seal is clearly progressing toward failure.</description>
-    </item>
-<item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
       <link>https://nexusevnews.com/opinion-r2-tracker.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-r2-tracker.html</guid>
@@ -196,7 +197,5 @@
       <category>Opinion</category>
       <description>Atlanta has a failing air quality grade and a Rivian plant on its doorstep. A hypothetical about what one city could do with the electric mobility infrastructure that already exists — R2 autonomous taxis, ALSO cargo quads, e-bikes, and ZTL-style restricted zones — and what the health data says the stakes actually are. Includes data from the HEI lockdown air quality study (Chen et al., 2025) and the American Lung Association's 2025 Atlanta air quality report.</description>
     </item>
-
-
-  </channel>
+    </channel>
 </rss>
