@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -17,6 +17,51 @@
     <category>Solar</category>
     <category>Battery Technology</category>
           <item>
+    <title>Top Gear Calls the Ferrari Luce the Antidote to the Touchscreen Era</title>
+    <link>https://nexusevnews.com/articles/ferrari-luce-top-gear-4k-walkthrough-2026.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-luce-top-gear-4k-walkthrough-2026.html</guid>
+    <pubDate>Tue, 26 May 2026 19:30:00 +0000</pubDate>
+    <dc:creator>Top Gear</dc:creator>
+    <category>Reviews</category>
+    <description>Physical toggles, rotary dials, a glass gear selector, and a screen that only pivots. Top Gear called the instrument dials the most beautiful ever fitted to a production car, and backed the Luce as the antidote to the touchscreen-and-button chaos defining most modern cars.</description>
+  </item>
+  <item>
+    <title>Ferrari's Own Story: Sixty Patents, 100 Engineers, and the Name That Means Light</title>
+    <link>https://nexusevnews.com/articles/ferrari-luce-official-story-episode-one-2026.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-luce-official-story-episode-one-2026.html</guid>
+    <pubDate>Tue, 26 May 2026 20:00:00 +0000</pubDate>
+    <dc:creator>Ferrari</dc:creator>
+    <category>News</category>
+    <description>Ferrari's own account of the Luce development: more than 60 patents filed, engineering closer to aircraft than conventional cars, and a name chosen because a car completely different in every possible way needed a name reflecting everything new.</description>
+  </item>
+  <item>
+    <title>Ferrari Luce by the Numbers: 700+ kW, 530 km Range, and an 800V Architecture That Charges 70 kWh in 20 Minutes</title>
+    <link>https://nexusevnews.com/articles/ferrari-luce-carexpert-specs-breakdown-2026.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-luce-carexpert-specs-breakdown-2026.html</guid>
+    <pubDate>Tue, 26 May 2026 20:30:00 +0000</pubDate>
+    <dc:creator>CarExpert</dc:creator>
+    <category>Reviews</category>
+    <description>Four motors over 700 kW, 120 kWh battery, 350 kW DC charging, and 530 km claimed range in a 2.2-tonne car. CarExpert breaks down the full specification and asks the range question that needed asking.</description>
+  </item>
+  <item>
+    <title>The Two People Most Responsible for the Ferrari Luce Explain Why It Exists and Why It Looks Like Nothing Else</title>
+    <link>https://nexusevnews.com/articles/ferrari-luce-designers-interview-cleo-abram-2026.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-luce-designers-interview-cleo-abram-2026.html</guid>
+    <pubDate>Tue, 26 May 2026 21:00:00 +0000</pubDate>
+    <dc:creator>Cleo Abram</dc:creator>
+    <category>Deep Dives</category>
+    <description>Jony Ive and Ferrari chief designer Flavio Manzoni explain why the Luce is a five-seat GT, why they rejected fake engine sound, and what the Purosangue parallel means for how this car will eventually be received.</description>
+  </item>
+  <item>
+    <title>Ferrari's First Electric Car Has No V12, No Fake Engine Sound, and Almost Nothing in Common With Any Ferrari Before It</title>
+    <link>https://nexusevnews.com/articles/ferrari-luce-auto-focus-first-look-2026.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-luce-auto-focus-first-look-2026.html</guid>
+    <pubDate>Tue, 26 May 2026 22:00:00 +0000</pubDate>
+    <dc:creator>Auto Focus</dc:creator>
+    <category>Reviews</category>
+    <description>Auto Focus walks every inch of the Ferrari Luce: a five-seat quad-motor GT with 120 kWh, 300+ miles of range, active cooling vents, edge-parked wipers, and a cabin built entirely from metal, leather, and glass. No plastic. No fake engine sound.</description>
+  </item>
+  <item>
         <title>Everrati&#8217;s Electric 964: The Iconic 911 Converted to Full Electric, Down to the Last Badge</title>
         <link>https://nexusevnews.com/articles/everrati-evergreen-porsche-911-ev-conversion-2026.html</link>
         <guid isPermaLink="true">https://nexusevnews.com/articles/everrati-evergreen-porsche-911-ev-conversion-2026.html</guid>
@@ -25,7 +70,7 @@
         <category>Reviews</category>
         <description>Everrati replaced the flat-six in a 964-generation Porsche 911 with a 500-horsepower electric motor and 64 kWh battery. The RSR-tribute aero and RS 3.8 badging stay. The exhaust note doesn&#8217;t. All modifications are reversible.</description>
       </item>
-        <item>
+  <item>
         <title>Inside the Lordstown Endurance: One of Fewer Than 80 Ever Built, and One of Even Fewer Still on the Road</title>
         <link>https://nexusevnews.com/articles/lordstown-endurance-electric-truck-ownership-2026.html</link>
         <guid isPermaLink="true">https://nexusevnews.com/articles/lordstown-endurance-electric-truck-ownership-2026.html</guid>
@@ -34,7 +79,7 @@
         <category>Deep Dives</category>
         <description>Lordstown Motors declared bankruptcy in 2023 after building somewhere between 56 and 80 trucks. One owner tracked down a road-legal example and has been driving it. It&#8217;s half-finished, fascinating, and may brick itself at any moment.</description>
       </item>
-        <item>
+  <item>
         <title>Costco&#8217;s $1,000 Anker Solar Kit: Capable Station, Underperforming Panel</title>
         <link>https://nexusevnews.com/articles/anker-c2000x-gen2-costco-solar-review-2026.html</link>
         <guid isPermaLink="true">https://nexusevnews.com/articles/anker-c2000x-gen2-costco-solar-review-2026.html</guid>
@@ -43,7 +88,7 @@
         <category>Solar</category>
         <description>The Anker C2000X Gen 2 power station is solid at $750 standalone. The bundled 400W solar panel only pulls around 220 watts in direct noon sunlight. Third-party panels of the same rating manage over 100 watts more from the same conditions.</description>
       </item>
-        <item>
+  <item>
         <title>The Kia PV5 Is a Family Van That Finally Makes the EV Case on Pure Usefulness</title>
         <link>https://nexusevnews.com/articles/kia-pv5-electric-van-review-2026.html</link>
         <guid isPermaLink="true">https://nexusevnews.com/articles/kia-pv5-electric-van-review-2026.html</guid>
@@ -52,7 +97,7 @@
         <category>Reviews</category>
         <description>Starting at &#163;32,995, the Kia PV5 offers five to seven seats, 1,300 litres of cargo space, 150 kW charging, and a modular Add Gear accessory system. Also available as a cargo van with no rear seats.</description>
       </item>
-        <item>
+  <item>
         <title>Pro Tips for a Full Car Wash That Actually Protects the Paint Instead of Scratching It</title>
         <link>https://nexusevnews.com/articles/pro-ev-car-wash-guide-ammo-nyc-2026.html</link>
         <guid isPermaLink="true">https://nexusevnews.com/articles/pro-ev-car-wash-guide-ammo-nyc-2026.html</guid>
@@ -61,7 +106,7 @@
         <category>Deep Dives</category>
         <description>AMMO NYC&#8217;s Larry Kosilla walks through a complete maintenance wash covering wheels, paint, and interior with no pressure washer or lift. The drying step is where most washing-induced paint damage actually happens.</description>
       </item>
-        <item>
+  <item>
         <title>The Solar Car That Took Twenty Years to Build Is Almost Ready for Its First Customer</title>
         <link>https://nexusevnews.com/articles/aptera-solar-ev-twenty-years-in-the-making.html</link>
         <guid isPermaLink="true">https://nexusevnews.com/articles/aptera-solar-ev-twenty-years-in-the-making.html</guid>
@@ -70,7 +115,7 @@
         <category>Solar</category>
         <description>Aptera was founded in 2006, raised $42 million, lost its founders, went bankrupt, and came back. Now it is building validation vehicles in Carlsbad, California, with first customer delivery targeted for late 2026.</description>
       </item>
-        <item>
+  <item>
         <title>The Lemmo Zero Is a Flight-Ready Folding Ebike That Actually Weighs Less Than 14 Kilograms</title>
         <link>https://nexusevnews.com/articles/lemmo-zero-folding-ebike-flight-ready-review.html</link>
         <guid isPermaLink="true">https://nexusevnews.com/articles/lemmo-zero-folding-ebike-flight-ready-review.html</guid>
@@ -79,7 +124,7 @@
         <category>Reviews</category>
         <description>The Lemmo Zero folds 20 percent smaller than a 16-inch Brompton, weighs 13.1 kg, and has a 159 Wh battery designed to clear the airline carry-on limit. It also costs less than a Brompton Electric.</description>
       </item>
-        <item>
+  <item>
         <title>Eight Failures in Four Days: Why Lucid Bought Back This $85,000 Air After Eleven Months</title>
         <link>https://nexusevnews.com/articles/lucid-air-bought-back-eleven-months-eight-failures.html</link>
         <guid isPermaLink="true">https://nexusevnews.com/articles/lucid-air-bought-back-eleven-months-eight-failures.html</guid>
@@ -88,7 +133,7 @@
         <category>Reviews</category>
         <description>Eight distinct software failures over a four-day trip in a Lucid Air Touring, including a stop-mode setting that changed itself from hold to roll while the car sat parked and unoccupied. Lucid bought the car back.</description>
       </item>
-        <item>
+  <item>
         <title>The US Is Stepping Back from EVs as China Accelerates Into the Markets Nobody Else Is Watching</title>
         <link>https://nexusevnews.com/articles/us-ev-market-decoupling-global-ev-shift-2026.html</link>
         <guid isPermaLink="true">https://nexusevnews.com/articles/us-ev-market-decoupling-global-ev-shift-2026.html</guid>
@@ -97,7 +142,7 @@
         <category>Deep Dives</category>
         <description>US EV registrations fell more than a quarter in Q1 2026 after Trump removed federal incentives. VW wrote off $500 million on a Tennessee plant. Toyota EV sales grew 79 percent. China is winning the developing world EV market.</description>
       </item>
-        <item>
+  <item>
         <title>530 Kilometers from Tokyo on One Charge: Japan&#8217;s New Nissan Leaf Surprised Even Its Skeptics</title>
         <link>https://nexusevnews.com/articles/nissan-leaf-530km-road-trip-tokyo-to-sendai.html</link>
         <guid isPermaLink="true">https://nexusevnews.com/articles/nissan-leaf-530km-road-trip-tokyo-to-sendai.html</guid>
@@ -106,7 +151,7 @@
         <category>Reviews</category>
         <description>The new Nissan Leaf claims 528 km of range. Two people drove it north from Tokyo through Fukushima and arrived at a charger in Miyagi Prefecture with one percent battery after 530 km. A 15-minute charge restored 300 km.</description>
       </item>
-        <item>
+  <item>
       <title>Aventon&#8217;s First Full-Suspension eMTB Has Bosch-Beating Torque and a Price That Shouldn&#8217;t Exist</title>
       <link>https://nexusevnews.com/articles/aventon-current-emtb-first-ride-2026.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/aventon-current-emtb-first-ride-2026.html</guid>
@@ -115,7 +160,7 @@
       <category>Reviews</category>
       <description>The Aventon Current is a 29-inch full-suspension trail eMTB with 120 Nm of boost torque, an 800Wh battery, and a build quality that competes with bikes costing significantly more. The reviewer went looking for the catch.</description>
     </item>
-        <item>
+  <item>
       <title>The Volvo EX60 Has 370 kW Charging, 503 Miles of Official Range, and a Cabin That Sounds Like a Concert Hall</title>
       <link>https://nexusevnews.com/articles/volvo-ex60-first-drive-review-2026.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/volvo-ex60-first-drive-review-2026.html</guid>
@@ -124,52 +169,7 @@
       <category>Reviews</category>
       <description>The Volvo EX60 P10 first drive: 370 kW charging, 4.6-second 0-62, museum-quiet NVH, and a platform that fixes every complaint about the EX30 and EX90.</description>
     </item>
-        <item>
-      <title>Someone Put a 4,700-Pound Hyundai Ioniq 5 XRT in SCCA Rally Cross. It Finished in the Top Half.</title>
-      <link>https://nexusevnews.com/articles/hyundai-ioniq-5-xrt-rallycross-scca-cincinnati-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/hyundai-ioniq-5-xrt-rallycross-scca-cincinnati-2026.html</guid>
-      <pubDate>Sat, 23 May 2026 20:30:00 +0000</pubDate>
-      <dc:creator>TheTopher</dc:creator>
-      <category>Reviews</category>
-      <description>A stock Ioniq 5 XRT entered the stock AWD class at SCCA Rally Cross in Cincinnati against GR Corollas and Subaru WRXes. It finished roughly fifth or sixth out of 16. Battery draw across four full runs: 3 to 4 percent.</description>
-    </item>
-        <item>
-      <title>The Ten Longest-Range Electric Cars You Can Buy Right Now, Ranked by Real-World Miles</title>
-      <link>https://nexusevnews.com/articles/longest-range-electric-cars-2026-top-10.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/longest-range-electric-cars-2026-top-10.html</guid>
-      <pubDate>Sat, 23 May 2026 20:00:00 +0000</pubDate>
-      <dc:creator>What Car?</dc:creator>
-      <category>Deep Dives</category>
-      <description>Every car in the top ten manages more than 400 miles of official range. The leader hits 542. The most interesting buy on the list costs just over £43,000 and has 320 kW charging.</description>
-    </item>
-        <item>
-      <title>The Cheapest New Electric Car in America Just Tried to Cross the Country on Ionna Charging Alone</title>
-      <link>https://nexusevnews.com/articles/2027-chevy-bolt-ev-cross-country-ionna-charging-road-trip.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/2027-chevy-bolt-ev-cross-country-ionna-charging-road-trip.html</guid>
-      <pubDate>Sat, 23 May 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Charging</category>
-      <description>Out of Spec drove a 2027 Chevy Bolt EV from Virginia Beach to Los Angeles using only Ionna DC fast charging stations. A stress test of both the updated Bolt and the US charging network.</description>
-    </item>
-        <item>
-      <title>A Sub-$30,000 EV With Nothing to Apologize For</title>
-      <link>https://nexusevnews.com/articles/chevy-bolt-ev-2026-review-sub-30000.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/chevy-bolt-ev-2026-review-sub-30000.html</guid>
-      <pubDate>Fri, 22 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Auto Focus</dc:creator>
-      <category>Reviews</category>
-      <description>The 2026 Chevy Bolt comes in under $30,000 with a 65 kWh battery, 262 miles of rated range, and NACS charging built in. Auto Focus spent a week driving it in New Jersey and found a car that has earned its reputation update. Nothing about it is embarrassing at its price.</description>
-    </item>
-        <item>
-      <title>Inside the Factory Making the World&#8217;s First Mass-Produced Solid-State Battery</title>
-      <link>https://nexusevnews.com/articles/prologium-solid-state-battery-hands-on-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/prologium-solid-state-battery-hands-on-2026.html</guid>
-      <pubDate>Fri, 22 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Two Bit da Vinci</dc:creator>
-      <category>Deep Dives</category>
-      <description>Two Bit da Vinci visited ProLogium&#8217;s headquarters in Taiwan with full production floor access. The Gen 4 cell measured 360 Wh/kg in a live test, passes China&#8217;s 2026 solid-state standard at 0.05 percent weight loss, and survived a nail, an oven at 280 degrees C, and being cut in half.</description>
-    </item>
-        <item>
+  <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
       <link>https://nexusevnews.com/opinion-r2-tracker.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-r2-tracker.html</guid>
@@ -178,7 +178,7 @@
       <category>Opinion</category>
       <description>People were reading website source code to find out when their Rivian was coming. Forum signatures listed Guide contact dates like military service records. We are not doing that again for the R2. The Rivian R2 Delivery Tracker is live.</description>
     </item>
-        <item>
+  <item>
       <title>Two Batteries, One Hitch, and the Case for All-Electric Glamping</title>
       <link>https://nexusevnews.com/opinion-rivian-lightship-glamping.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-rivian-lightship-glamping.html</guid>
@@ -187,7 +187,7 @@
       <category>Opinion</category>
       <description>The Lightship AE1 carries its own 69 kWh battery and 80 kW motor to neutralize trailer drag on the tow vehicle. Paired with a Rivian, the real-world efficiency numbers are hard to argue with. This is what all-electric glamping looks like when the hardware actually works.</description>
     </item>
-        <item>
+  <item>
       <title>Atlanta, Rivian, and the Quiet Coincidence</title>
       <link>https://nexusevnews.com/opinion-atlanta-rivian-quiet-coincidence.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-atlanta-rivian-quiet-coincidence.html</guid>
@@ -196,5 +196,6 @@
       <category>Opinion</category>
       <description>Atlanta has a failing air quality grade and a Rivian plant on its doorstep. A hypothetical about what one city could do with the electric mobility infrastructure that already exists — R2 autonomous taxis, ALSO cargo quads, e-bikes, and ZTL-style restricted zones — and what the health data says the stakes actually are. Includes data from the HEI lockdown air quality study (Chen et al., 2025) and the American Lung Association's 2025 Atlanta air quality report.</description>
     </item>
-    </channel>
+
+</channel>
 </rss>
