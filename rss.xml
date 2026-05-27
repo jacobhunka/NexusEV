@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -17,6 +17,51 @@
     <category>Solar</category>
     <category>Battery Technology</category>
           <item>
+    <title>Nine Days, Four Countries, One Electric Scooter: Paris to Monaco on a Dualron X</title>
+    <link>https://nexusevnews.com/articles/paris-monaco-electric-scooter-dualron-x-road-trip.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/paris-monaco-electric-scooter-dualron-x-road-trip.html</guid>
+    <pubDate>Wed, 27 May 2026 22:00:00 +0000</pubDate>
+    <dc:creator>Chris Howett</dc:creator>
+    <category>deep-dives</category>
+    <description>A $7,000 Dualron X Limited, nine days, and nearly 1,180 km through France, Switzerland, Italy, and Monaco. A failing motor, three days of rain, and a battery reading zero with 6 km still to go. He made it.</description>
+  </item>
+  <item>
+    <title>Inside GM's 18-Month Bolt EV Sprint: How a Factory Pivots for One Final Run</title>
+    <link>https://nexusevnews.com/articles/chevy-bolt-2027-fairfax-factory-tour.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/chevy-bolt-2027-fairfax-factory-tour.html</guid>
+    <pubDate>Wed, 27 May 2026 21:00:00 +0000</pubDate>
+    <dc:creator>Out of Spec Reviews</dc:creator>
+    <category>news</category>
+    <description>GM retooled the Fairfax plant in Kansas City in 10 months for an 18-month Bolt EV run. LFP batteries, an Equinox EV motor, and one shift a day. A factory visit that ended up on a live stream.</description>
+  </item>
+  <item>
+    <title>Walmart EV Charging Is Getting Credit Card Readers and Going Much Bigger Than Anyone Realized</title>
+    <link>https://nexusevnews.com/articles/walmart-ev-charging-credit-card-terminals-expansion-2026.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/walmart-ev-charging-credit-card-terminals-expansion-2026.html</guid>
+    <pubDate>Wed, 27 May 2026 20:30:00 +0000</pubDate>
+    <dc:creator>The Arkansas eTraveler</dc:creator>
+    <category>charging</category>
+    <description>Adam Happel confirms credit card terminals on every Walmart charger, 50 stations live, Walmart Plus discounts going national, and a curbside delivery pilot at charging stalls.</description>
+  </item>
+  <item>
+    <title>A $9,500 Starting Point Was Just the Beginning: Upgrading a Pivot Shuttle Amped for Real EMTB Use</title>
+    <link>https://nexusevnews.com/articles/pivot-shuttle-amped-emtb-upgrade-build.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/pivot-shuttle-amped-emtb-upgrade-build.html</guid>
+    <pubDate>Wed, 27 May 2026 20:00:00 +0000</pubDate>
+    <dc:creator>Evans MTB Saga</dc:creator>
+    <category>reviews</category>
+    <description>After blowing through hubs, tires, and a drivetrain on a previous Avinox-powered bike, Evan rebuilds a base Pivot Shuttle Amped with parts finally rated for 130 Nm of motor torque.</description>
+  </item>
+  <item>
+    <title>Tampa to Atlanta in a Kia Niro: Can Mercedes Charging Fix EV Road Trips?</title>
+    <link>https://nexusevnews.com/articles/mercedes-ev-charging-east-coast-road-trip.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/mercedes-ev-charging-east-coast-road-trip.html</guid>
+    <pubDate>Wed, 27 May 2026 19:30:00 +0000</pubDate>
+    <dc:creator>Everyday Chris</dc:creator>
+    <category>charging</category>
+    <description>612 miles, five Mercedes charger stops, no app required, $64.64 total. Every charger worked. The Kia Niro's 216-mile real-world range was the only real constraint on the trip.</description>
+  </item>
+  <item>
     <title>Top Gear Calls the Ferrari Luce the Antidote to the Touchscreen Era</title>
     <link>https://nexusevnews.com/articles/ferrari-luce-top-gear-4k-walkthrough-2026.html</link>
     <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-luce-top-gear-4k-walkthrough-2026.html</guid>
@@ -124,51 +169,6 @@
         <category>Reviews</category>
         <description>The Lemmo Zero folds 20 percent smaller than a 16-inch Brompton, weighs 13.1 kg, and has a 159 Wh battery designed to clear the airline carry-on limit. It also costs less than a Brompton Electric.</description>
       </item>
-  <item>
-        <title>Eight Failures in Four Days: Why Lucid Bought Back This $85,000 Air After Eleven Months</title>
-        <link>https://nexusevnews.com/articles/lucid-air-bought-back-eleven-months-eight-failures.html</link>
-        <guid isPermaLink="true">https://nexusevnews.com/articles/lucid-air-bought-back-eleven-months-eight-failures.html</guid>
-        <pubDate>Sun, 24 May 2026 20:30:00 +0000</pubDate>
-        <dc:creator>Engineering Explained</dc:creator>
-        <category>Reviews</category>
-        <description>Eight distinct software failures over a four-day trip in a Lucid Air Touring, including a stop-mode setting that changed itself from hold to roll while the car sat parked and unoccupied. Lucid bought the car back.</description>
-      </item>
-  <item>
-        <title>The US Is Stepping Back from EVs as China Accelerates Into the Markets Nobody Else Is Watching</title>
-        <link>https://nexusevnews.com/articles/us-ev-market-decoupling-global-ev-shift-2026.html</link>
-        <guid isPermaLink="true">https://nexusevnews.com/articles/us-ev-market-decoupling-global-ev-shift-2026.html</guid>
-        <pubDate>Sun, 24 May 2026 20:00:00 +0000</pubDate>
-        <dc:creator>DW News</dc:creator>
-        <category>Deep Dives</category>
-        <description>US EV registrations fell more than a quarter in Q1 2026 after Trump removed federal incentives. VW wrote off $500 million on a Tennessee plant. Toyota EV sales grew 79 percent. China is winning the developing world EV market.</description>
-      </item>
-  <item>
-        <title>530 Kilometers from Tokyo on One Charge: Japan&#8217;s New Nissan Leaf Surprised Even Its Skeptics</title>
-        <link>https://nexusevnews.com/articles/nissan-leaf-530km-road-trip-tokyo-to-sendai.html</link>
-        <guid isPermaLink="true">https://nexusevnews.com/articles/nissan-leaf-530km-road-trip-tokyo-to-sendai.html</guid>
-        <pubDate>Sun, 24 May 2026 19:30:00 +0000</pubDate>
-        <dc:creator>Abroad in Japan</dc:creator>
-        <category>Reviews</category>
-        <description>The new Nissan Leaf claims 528 km of range. Two people drove it north from Tokyo through Fukushima and arrived at a charger in Miyagi Prefecture with one percent battery after 530 km. A 15-minute charge restored 300 km.</description>
-      </item>
-  <item>
-      <title>Aventon&#8217;s First Full-Suspension eMTB Has Bosch-Beating Torque and a Price That Shouldn&#8217;t Exist</title>
-      <link>https://nexusevnews.com/articles/aventon-current-emtb-first-ride-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/aventon-current-emtb-first-ride-2026.html</guid>
-      <pubDate>Sat, 23 May 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Evans MTB Saga</dc:creator>
-      <category>Reviews</category>
-      <description>The Aventon Current is a 29-inch full-suspension trail eMTB with 120 Nm of boost torque, an 800Wh battery, and a build quality that competes with bikes costing significantly more. The reviewer went looking for the catch.</description>
-    </item>
-  <item>
-      <title>The Volvo EX60 Has 370 kW Charging, 503 Miles of Official Range, and a Cabin That Sounds Like a Concert Hall</title>
-      <link>https://nexusevnews.com/articles/volvo-ex60-first-drive-review-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/volvo-ex60-first-drive-review-2026.html</guid>
-      <pubDate>Sat, 23 May 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Everything Electric CARS</dc:creator>
-      <category>Reviews</category>
-      <description>The Volvo EX60 P10 first drive: 370 kW charging, 4.6-second 0-62, museum-quiet NVH, and a platform that fixes every complaint about the EX30 and EX90.</description>
-    </item>
   <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
       <link>https://nexusevnews.com/opinion-r2-tracker.html</link>
