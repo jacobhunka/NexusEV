@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+  <item>
+    <title>Toyota's First-Ever Electric Hilux Takes On New Zealand's Off-Road Terrain</title>
+    <link>https://nexusevnews.com/articles/toyota-hilux-ev-first-drive-new-zealand.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/toyota-hilux-ev-first-drive-new-zealand.html</guid>
+    <pubDate>Thu, 28 May 2026 22:00:00 +0000</pubDate>
+    <dc:creator>Ecotricity NZ</dc:creator>
+    <category>reviews</category>
+    <description>Fifty years in, Toyota has built its first fully electric Hilux. 144 kW, all-wheel drive, six off-road modes, and roughly 260 km of real-world range on the double cab. Tested on a dedicated off-road course in New Zealand.</description>
+  </item>
+  <item>
+    <title>150 Solar Panels, 540 kWh of Storage, and a Cow Barn Running a Global Payments App</title>
+    <link>https://nexusevnews.com/articles/victron-energy-dutch-barn-data-center-off-grid.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/victron-energy-dutch-barn-data-center-off-grid.html</guid>
+    <pubDate>Thu, 28 May 2026 21:00:00 +0000</pubDate>
+    <dc:creator>Victron Energy</dc:creator>
+    <category>deep-dives</category>
+    <description>Wietse Wind runs a payments app for 1.1 million users from a converted cow barn outside Amsterdam, powered entirely by solar and 540 kWh of Victron Energy storage. Four years, three system redesigns, and one flood.</description>
+  </item>
+  <item>
+    <title>The Pebble Flow Electric RV Has Hub Motors, Smart Glass, and an Auto-Dump System. It Also Works.</title>
+    <link>https://nexusevnews.com/articles/pebble-flow-rv-full-setup-tour-first-look.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/pebble-flow-rv-full-setup-tour-first-look.html</guid>
+    <pubDate>Thu, 28 May 2026 20:30:00 +0000</pubDate>
+    <dc:creator>Out of Spec Reviews</dc:creator>
+    <category>reviews</category>
+    <description>Starting at $139,000, the Pebble Flow electric travel trailer pairs a 45 kWh LFP battery and two hub motors with automated hitching, leveling, and tank dumping. After a troubled experience with a competing trailer, 24 hours in with Pebble produced zero bugs.</description>
+  </item>
+  <item>
+    <title>Rivian R2 Configurator Is Open: The Trim Differences Are Bigger Than They Look</title>
+    <link>https://nexusevnews.com/articles/rivian-r2-trim-comparison-dont-make-this-mistake.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-trim-comparison-dont-make-this-mistake.html</guid>
+    <pubDate>Thu, 28 May 2026 20:00:00 +0000</pubDate>
+    <dc:creator>Travis Ketchum</dc:creator>
+    <category>deep-dives</category>
+    <description>Standard R2 buyers cannot add the factory tow package even as an option. Premium restores most of what Standard cuts for $5,500 more. Performance adds 656 hp and semi-active dampers. A full breakdown of where each trim makes or breaks the deal.</description>
+  </item>
+  <item>
+    <title>What Three Days Without a Car Taught One Rider About a $2,700 Electric Scooter</title>
+    <link>https://nexusevnews.com/articles/segway-gt3-pro-electric-scooter-three-day-car-replacement-test.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/segway-gt3-pro-electric-scooter-three-day-car-replacement-test.html</guid>
+    <pubDate>Thu, 28 May 2026 19:30:00 +0000</pubDate>
+    <dc:creator>Mike O'Brien</dc:creator>
+    <category>reviews</category>
+    <description>The Segway GT3 Pro goes 50 mph, claims 86 miles of range, and costs $2,700. Mike O'Brien used it as his only vehicle for three days. The grocery run exposed the limits; everything else worked well.</description>
+  </item>
           <item>
     <title>Nine Days, Four Countries, One Electric Scooter: Paris to Monaco on a Dualron X</title>
     <link>https://nexusevnews.com/articles/paris-monaco-electric-scooter-dualron-x-road-trip.html</link>
@@ -124,52 +169,7 @@
         <category>Deep Dives</category>
         <description>Lordstown Motors declared bankruptcy in 2023 after building somewhere between 56 and 80 trucks. One owner tracked down a road-legal example and has been driving it. It&#8217;s half-finished, fascinating, and may brick itself at any moment.</description>
       </item>
-  <item>
-        <title>Costco&#8217;s $1,000 Anker Solar Kit: Capable Station, Underperforming Panel</title>
-        <link>https://nexusevnews.com/articles/anker-c2000x-gen2-costco-solar-review-2026.html</link>
-        <guid isPermaLink="true">https://nexusevnews.com/articles/anker-c2000x-gen2-costco-solar-review-2026.html</guid>
-        <pubDate>Mon, 25 May 2026 20:30:00 +0000</pubDate>
-        <dc:creator>Footprint Hero with Alex Beale</dc:creator>
-        <category>Solar</category>
-        <description>The Anker C2000X Gen 2 power station is solid at $750 standalone. The bundled 400W solar panel only pulls around 220 watts in direct noon sunlight. Third-party panels of the same rating manage over 100 watts more from the same conditions.</description>
-      </item>
-  <item>
-        <title>The Kia PV5 Is a Family Van That Finally Makes the EV Case on Pure Usefulness</title>
-        <link>https://nexusevnews.com/articles/kia-pv5-electric-van-review-2026.html</link>
-        <guid isPermaLink="true">https://nexusevnews.com/articles/kia-pv5-electric-van-review-2026.html</guid>
-        <pubDate>Mon, 25 May 2026 20:00:00 +0000</pubDate>
-        <dc:creator>Cars Uncovered</dc:creator>
-        <category>Reviews</category>
-        <description>Starting at &#163;32,995, the Kia PV5 offers five to seven seats, 1,300 litres of cargo space, 150 kW charging, and a modular Add Gear accessory system. Also available as a cargo van with no rear seats.</description>
-      </item>
-  <item>
-        <title>Pro Tips for a Full Car Wash That Actually Protects the Paint Instead of Scratching It</title>
-        <link>https://nexusevnews.com/articles/pro-ev-car-wash-guide-ammo-nyc-2026.html</link>
-        <guid isPermaLink="true">https://nexusevnews.com/articles/pro-ev-car-wash-guide-ammo-nyc-2026.html</guid>
-        <pubDate>Mon, 25 May 2026 19:30:00 +0000</pubDate>
-        <dc:creator>AMMO NYC</dc:creator>
-        <category>Deep Dives</category>
-        <description>AMMO NYC&#8217;s Larry Kosilla walks through a complete maintenance wash covering wheels, paint, and interior with no pressure washer or lift. The drying step is where most washing-induced paint damage actually happens.</description>
-      </item>
-  <item>
-        <title>The Solar Car That Took Twenty Years to Build Is Almost Ready for Its First Customer</title>
-        <link>https://nexusevnews.com/articles/aptera-solar-ev-twenty-years-in-the-making.html</link>
-        <guid isPermaLink="true">https://nexusevnews.com/articles/aptera-solar-ev-twenty-years-in-the-making.html</guid>
-        <pubDate>Sun, 24 May 2026 22:00:00 +0000</pubDate>
-        <dc:creator>The Hustle</dc:creator>
-        <category>Solar</category>
-        <description>Aptera was founded in 2006, raised $42 million, lost its founders, went bankrupt, and came back. Now it is building validation vehicles in Carlsbad, California, with first customer delivery targeted for late 2026.</description>
-      </item>
-  <item>
-        <title>The Lemmo Zero Is a Flight-Ready Folding Ebike That Actually Weighs Less Than 14 Kilograms</title>
-        <link>https://nexusevnews.com/articles/lemmo-zero-folding-ebike-flight-ready-review.html</link>
-        <guid isPermaLink="true">https://nexusevnews.com/articles/lemmo-zero-folding-ebike-flight-ready-review.html</guid>
-        <pubDate>Sun, 24 May 2026 21:00:00 +0000</pubDate>
-        <dc:creator>Electroheads</dc:creator>
-        <category>Reviews</category>
-        <description>The Lemmo Zero folds 20 percent smaller than a 16-inch Brompton, weighs 13.1 kg, and has a 159 Wh battery designed to clear the airline carry-on limit. It also costs less than a Brompton Electric.</description>
-      </item>
-  <item>
+            <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
       <link>https://nexusevnews.com/opinion-r2-tracker.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-r2-tracker.html</guid>
