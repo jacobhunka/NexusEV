@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+  <item>
+    <title>Waymo's Ojai Is a Purpose-Built Robotaxi Designed to Make the Numbers Work</title>
+    <link>https://nexusevnews.com/articles/waymo-ojai-robotaxi-purpose-built-autonomous-vehicle.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/waymo-ojai-robotaxi-purpose-built-autonomous-vehicle.html</guid>
+    <pubDate>Fri, 29 May 2026 22:00:00 +0000</pubDate>
+    <dc:creator>CNBC</dc:creator>
+    <category>deep-dives</category>
+    <description>The Ojai, co-developed with Zeekr and costing roughly half the I-PACE to produce, debuts Waymo's sixth-generation driver system as the company targets one million paid weekly rides by year-end.</description>
+  </item>
+  <item>
+    <title>The Electric Porsche Cayenne Turbo Coupe Makes 1,156 HP and Handles Like a True Porsche</title>
+    <link>https://nexusevnews.com/articles/porsche-cayenne-turbo-coupe-ev-review-launch-control.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/porsche-cayenne-turbo-coupe-ev-review-launch-control.html</guid>
+    <pubDate>Fri, 29 May 2026 21:00:00 +0000</pubDate>
+    <dc:creator>AutoTopNL</dc:creator>
+    <category>reviews</category>
+    <description>Launch control returns 2.6 seconds to 100 km/h, but the handling impresses more than the raw numbers. Three power modes: 857 hp, push-to-pass at 1,000-plus, and 1,156 hp full attack.</description>
+  </item>
+  <item>
+    <title>2027 Lexus ES Review: One Car Where Two Used to Be, With an EV Battery That's Too Small</title>
+    <link>https://nexusevnews.com/articles/2027-lexus-es-ev-hybrid-review-full-drive.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/2027-lexus-es-ev-hybrid-review-full-drive.html</guid>
+    <pubDate>Fri, 29 May 2026 20:30:00 +0000</pubDate>
+    <dc:creator>Autogefühl</dc:creator>
+    <category>reviews</category>
+    <description>The new ES merges ES and LS into a 5.14-meter sedan starting at $50,000. Outstanding interior quality and hybrid efficiency, but the 71-72 kWh EV battery is behind the competition.</description>
+  </item>
+  <item>
+    <title>ChargePoint's 600 kW Express Solo Is the Fastest Standalone EV Charger on the Market</title>
+    <link>https://nexusevnews.com/articles/chargepoint-express-solo-600kw-eaton-act-expo-2026.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/chargepoint-express-solo-600kw-eaton-act-expo-2026.html</guid>
+    <pubDate>Fri, 29 May 2026 20:00:00 +0000</pubDate>
+    <dc:creator>Munro Live</dc:creator>
+    <category>charging</category>
+    <description>ChargePoint and Eaton's new Express Solo delivers up to 600 kW across four ports and integrates battery storage without a separate inverter, but most sites need a full grid upgrade to use it.</description>
+  </item>
+  <item>
+    <title>Plug-In Balcony Solar Is the $400 Electric Bill Fix Renters Have Been Waiting For</title>
+    <link>https://nexusevnews.com/articles/plug-in-balcony-solar-renters-bright-saver.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/plug-in-balcony-solar-renters-bright-saver.html</guid>
+    <pubDate>Fri, 29 May 2026 19:30:00 +0000</pubDate>
+    <dc:creator>Climate Central &amp; Bright Saver</dc:creator>
+    <category>solar</category>
+    <description>A 10-pound panel that hangs from a balcony and plugs into any outlet can trim monthly electricity bills by 10-25%. Germany has 4 million installed. The US is finally catching up.</description>
+  </item>
   <item>
     <title>Toyota's First-Ever Electric Hilux Takes On New Zealand's Off-Road Terrain</title>
     <link>https://nexusevnews.com/articles/toyota-hilux-ev-first-drive-new-zealand.html</link>
@@ -61,7 +106,7 @@
     <category>reviews</category>
     <description>The Segway GT3 Pro goes 50 mph, claims 86 miles of range, and costs $2,700. Mike O'Brien used it as his only vehicle for three days. The grocery run exposed the limits; everything else worked well.</description>
   </item>
-          <item>
+  <item>
     <title>Nine Days, Four Countries, One Electric Scooter: Paris to Monaco on a Dualron X</title>
     <link>https://nexusevnews.com/articles/paris-monaco-electric-scooter-dualron-x-road-trip.html</link>
     <guid isPermaLink="true">https://nexusevnews.com/articles/paris-monaco-electric-scooter-dualron-x-road-trip.html</guid>
@@ -125,51 +170,6 @@
     <description>Ferrari's own account of the Luce development: more than 60 patents filed, engineering closer to aircraft than conventional cars, and a name chosen because a car completely different in every possible way needed a name reflecting everything new.</description>
   </item>
   <item>
-    <title>Ferrari Luce by the Numbers: 700+ kW, 530 km Range, and an 800V Architecture That Charges 70 kWh in 20 Minutes</title>
-    <link>https://nexusevnews.com/articles/ferrari-luce-carexpert-specs-breakdown-2026.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-luce-carexpert-specs-breakdown-2026.html</guid>
-    <pubDate>Tue, 26 May 2026 20:30:00 +0000</pubDate>
-    <dc:creator>CarExpert</dc:creator>
-    <category>Reviews</category>
-    <description>Four motors over 700 kW, 120 kWh battery, 350 kW DC charging, and 530 km claimed range in a 2.2-tonne car. CarExpert breaks down the full specification and asks the range question that needed asking.</description>
-  </item>
-  <item>
-    <title>The Two People Most Responsible for the Ferrari Luce Explain Why It Exists and Why It Looks Like Nothing Else</title>
-    <link>https://nexusevnews.com/articles/ferrari-luce-designers-interview-cleo-abram-2026.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-luce-designers-interview-cleo-abram-2026.html</guid>
-    <pubDate>Tue, 26 May 2026 21:00:00 +0000</pubDate>
-    <dc:creator>Cleo Abram</dc:creator>
-    <category>Deep Dives</category>
-    <description>Jony Ive and Ferrari chief designer Flavio Manzoni explain why the Luce is a five-seat GT, why they rejected fake engine sound, and what the Purosangue parallel means for how this car will eventually be received.</description>
-  </item>
-  <item>
-    <title>Ferrari's First Electric Car Has No V12, No Fake Engine Sound, and Almost Nothing in Common With Any Ferrari Before It</title>
-    <link>https://nexusevnews.com/articles/ferrari-luce-auto-focus-first-look-2026.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-luce-auto-focus-first-look-2026.html</guid>
-    <pubDate>Tue, 26 May 2026 22:00:00 +0000</pubDate>
-    <dc:creator>Auto Focus</dc:creator>
-    <category>Reviews</category>
-    <description>Auto Focus walks every inch of the Ferrari Luce: a five-seat quad-motor GT with 120 kWh, 300+ miles of range, active cooling vents, edge-parked wipers, and a cabin built entirely from metal, leather, and glass. No plastic. No fake engine sound.</description>
-  </item>
-  <item>
-        <title>Everrati&#8217;s Electric 964: The Iconic 911 Converted to Full Electric, Down to the Last Badge</title>
-        <link>https://nexusevnews.com/articles/everrati-evergreen-porsche-911-ev-conversion-2026.html</link>
-        <guid isPermaLink="true">https://nexusevnews.com/articles/everrati-evergreen-porsche-911-ev-conversion-2026.html</guid>
-        <pubDate>Mon, 25 May 2026 22:00:00 +0000</pubDate>
-        <dc:creator>Autotrader</dc:creator>
-        <category>Reviews</category>
-        <description>Everrati replaced the flat-six in a 964-generation Porsche 911 with a 500-horsepower electric motor and 64 kWh battery. The RSR-tribute aero and RS 3.8 badging stay. The exhaust note doesn&#8217;t. All modifications are reversible.</description>
-      </item>
-  <item>
-        <title>Inside the Lordstown Endurance: One of Fewer Than 80 Ever Built, and One of Even Fewer Still on the Road</title>
-        <link>https://nexusevnews.com/articles/lordstown-endurance-electric-truck-ownership-2026.html</link>
-        <guid isPermaLink="true">https://nexusevnews.com/articles/lordstown-endurance-electric-truck-ownership-2026.html</guid>
-        <pubDate>Mon, 25 May 2026 21:00:00 +0000</pubDate>
-        <dc:creator>Aging Wheels</dc:creator>
-        <category>Deep Dives</category>
-        <description>Lordstown Motors declared bankruptcy in 2023 after building somewhere between 56 and 80 trucks. One owner tracked down a road-legal example and has been driving it. It&#8217;s half-finished, fascinating, and may brick itself at any moment.</description>
-      </item>
-            <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
       <link>https://nexusevnews.com/opinion-r2-tracker.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-r2-tracker.html</guid>
