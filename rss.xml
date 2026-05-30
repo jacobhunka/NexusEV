@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,7 +16,52 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+    <title>BMW iX3 vs Mercedes GLC Electric: Range Wins, But Does the Better Car?</title>
+    <link>https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-electric-twin-test-electrifying.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-electric-twin-test-electrifying.html</guid>
+    <pubDate>Sat, 30 May 2026 22:00:00 +0000</pubDate>
+    <dc:creator>Electrifying</dc:creator>
+    <category>reviews</category>
+    <description>The iX3 carries a 108 kWh battery and 400 kW charging. The GLC offers massage seats and a panoramic roof as standard. Both cost nearly the same. The verdict is not as simple as the range gap suggests.</description>
+  </item>
   <item>
+    <title>Kia Niro PHEV After 40,000 Miles: A Good Car That Requires the Right Life</title>
+    <link>https://nexusevnews.com/articles/kia-niro-phev-40000-mile-long-term-review-car-and-driver.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/kia-niro-phev-40000-mile-long-term-review-car-and-driver.html</guid>
+    <pubDate>Sat, 30 May 2026 21:00:00 +0000</pubDate>
+    <dc:creator>Car and Driver</dc:creator>
+    <category>reviews</category>
+    <description>A year of real commutes and Michigan winters reveals the gap between 108 MPGe on the sticker and 41 MPG in practice. The car held up. The powertrain philosophy is harder to live with.</description>
+  </item>
+  <item>
+    <title>The Ferrari Luce Divides the Car World. This Car Pod Is Not Divided.</title>
+    <link>https://nexusevnews.com/articles/ferrari-luce-honest-reaction-this-car-pod-doug-demuro.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-luce-honest-reaction-this-car-pod-doug-demuro.html</guid>
+    <pubDate>Sat, 30 May 2026 20:30:00 +0000</pubDate>
+    <dc:creator>This Car Pod</dc:creator>
+    <category>deep-dives</category>
+    <description>A five-seat electric Ferrari with near-300-mile range and $600,000 pricing lands to near-universal criticism. Ferrari's stock fell 5% the same day. The former CEO called for the prancing horse to be removed.</description>
+  </item>
+  <item>
+    <title>Rivian Gen 1 Owners Are Getting Better Driver Assistance From a Phone Than From Rivian</title>
+    <link>https://nexusevnews.com/articles/rivian-comma-ai-adventure-pilot-low-speed-steering-upgrade.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-comma-ai-adventure-pilot-low-speed-steering-upgrade.html</guid>
+    <pubDate>Sat, 30 May 2026 20:00:00 +0000</pubDate>
+    <dc:creator>Out of Spec Reviews</dc:creator>
+    <category>deep-dives</category>
+    <description>Adventure Pilot, a community-built Comma AI branch, unlocks steering angles and low-speed turn capability that Rivian never delivered. The install takes minutes. The gap it fills has been open for years.</description>
+  </item>
+  <item>
+    <title>Virtual Power Plants Are Already Cutting Bills. EVs Could Make Them Far More Powerful.</title>
+    <link>https://nexusevnews.com/articles/virtual-power-plants-solar-battery-grid-nbc-news.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/virtual-power-plants-solar-battery-grid-nbc-news.html</guid>
+    <pubDate>Sat, 30 May 2026 19:30:00 +0000</pubDate>
+    <dc:creator>NBC News</dc:creator>
+    <category>charging</category>
+    <description>VPP programmes in 35 states pay homeowners hundreds to over $1,000 a year to let utilities draw from home batteries during grid peaks. EV participation could extend that support window from two hours to four.</description>
+  </item>
+<item>
     <title>Waymo's Ojai Is a Purpose-Built Robotaxi Designed to Make the Numbers Work</title>
     <link>https://nexusevnews.com/articles/waymo-ojai-robotaxi-purpose-built-autonomous-vehicle.html</link>
     <guid isPermaLink="true">https://nexusevnews.com/articles/waymo-ojai-robotaxi-purpose-built-autonomous-vehicle.html</guid>
@@ -123,51 +168,6 @@
     <dc:creator>Out of Spec Reviews</dc:creator>
     <category>news</category>
     <description>GM retooled the Fairfax plant in Kansas City in 10 months for an 18-month Bolt EV run. LFP batteries, an Equinox EV motor, and one shift a day. A factory visit that ended up on a live stream.</description>
-  </item>
-  <item>
-    <title>Walmart EV Charging Is Getting Credit Card Readers and Going Much Bigger Than Anyone Realized</title>
-    <link>https://nexusevnews.com/articles/walmart-ev-charging-credit-card-terminals-expansion-2026.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/walmart-ev-charging-credit-card-terminals-expansion-2026.html</guid>
-    <pubDate>Wed, 27 May 2026 20:30:00 +0000</pubDate>
-    <dc:creator>The Arkansas eTraveler</dc:creator>
-    <category>charging</category>
-    <description>Adam Happel confirms credit card terminals on every Walmart charger, 50 stations live, Walmart Plus discounts going national, and a curbside delivery pilot at charging stalls.</description>
-  </item>
-  <item>
-    <title>A $9,500 Starting Point Was Just the Beginning: Upgrading a Pivot Shuttle Amped for Real EMTB Use</title>
-    <link>https://nexusevnews.com/articles/pivot-shuttle-amped-emtb-upgrade-build.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/pivot-shuttle-amped-emtb-upgrade-build.html</guid>
-    <pubDate>Wed, 27 May 2026 20:00:00 +0000</pubDate>
-    <dc:creator>Evans MTB Saga</dc:creator>
-    <category>reviews</category>
-    <description>After blowing through hubs, tires, and a drivetrain on a previous Avinox-powered bike, Evan rebuilds a base Pivot Shuttle Amped with parts finally rated for 130 Nm of motor torque.</description>
-  </item>
-  <item>
-    <title>Tampa to Atlanta in a Kia Niro: Can Mercedes Charging Fix EV Road Trips?</title>
-    <link>https://nexusevnews.com/articles/mercedes-ev-charging-east-coast-road-trip.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/mercedes-ev-charging-east-coast-road-trip.html</guid>
-    <pubDate>Wed, 27 May 2026 19:30:00 +0000</pubDate>
-    <dc:creator>Everyday Chris</dc:creator>
-    <category>charging</category>
-    <description>612 miles, five Mercedes charger stops, no app required, $64.64 total. Every charger worked. The Kia Niro's 216-mile real-world range was the only real constraint on the trip.</description>
-  </item>
-  <item>
-    <title>Top Gear Calls the Ferrari Luce the Antidote to the Touchscreen Era</title>
-    <link>https://nexusevnews.com/articles/ferrari-luce-top-gear-4k-walkthrough-2026.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-luce-top-gear-4k-walkthrough-2026.html</guid>
-    <pubDate>Tue, 26 May 2026 19:30:00 +0000</pubDate>
-    <dc:creator>Top Gear</dc:creator>
-    <category>Reviews</category>
-    <description>Physical toggles, rotary dials, a glass gear selector, and a screen that only pivots. Top Gear called the instrument dials the most beautiful ever fitted to a production car, and backed the Luce as the antidote to the touchscreen-and-button chaos defining most modern cars.</description>
-  </item>
-  <item>
-    <title>Ferrari's Own Story: Sixty Patents, 100 Engineers, and the Name That Means Light</title>
-    <link>https://nexusevnews.com/articles/ferrari-luce-official-story-episode-one-2026.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-luce-official-story-episode-one-2026.html</guid>
-    <pubDate>Tue, 26 May 2026 20:00:00 +0000</pubDate>
-    <dc:creator>Ferrari</dc:creator>
-    <category>News</category>
-    <description>Ferrari's own account of the Luce development: more than 60 patents filed, engineering closer to aircraft than conventional cars, and a name chosen because a car completely different in every possible way needed a name reflecting everything new.</description>
   </item>
   <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
