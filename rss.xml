@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+  <item>
+    <title>The Lucid Air Sapphire Just Beat the Corvette ZR1X Four Times in a Row</title>
+    <link>https://nexusevnews.com/articles/corvette-zr1x-vs-lucid-air-sapphire-drag-race-vehicle-virgins.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/corvette-zr1x-vs-lucid-air-sapphire-drag-race-vehicle-virgins.html</guid>
+    <pubDate>Sun, 31 May 2026 22:00:00 +0000</pubDate>
+    <dc:creator>Vehicle Virgins</dc:creator>
+    <category>deep-dives</category>
+    <description>The ZR1X makes 1,250 horsepower and was designed to be the fastest production car in America. The Lucid Air Sapphire won all four runs, from both a standing start and a roll.</description>
+  </item>
+  <item>
+    <title>BMW iX3 vs Mercedes GLC EQ: The Thorough Comparison That Actually Picks a Winner</title>
+    <link>https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-eq-autogefuhl-in-depth-comparison-2026.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-eq-autogefuhl-in-depth-comparison-2026.html</guid>
+    <pubDate>Sun, 31 May 2026 21:00:00 +0000</pubDate>
+    <dc:creator>Autogefuhl</dc:creator>
+    <category>reviews</category>
+    <description>The iX3 has a 108.7 kWh battery and 400 kW charging. The GLC EQ has S-Class air suspension and acoustic windows. A 10,000-euro gap separates them. Autogefuhl runs the full test and picks one.</description>
+  </item>
+  <item>
+    <title>Hyundai Ioniq 9 Review: A $79,500 Three-Row EV That's Harder to Dismiss Than It Looks</title>
+    <link>https://nexusevnews.com/articles/hyundai-ioniq-9-three-row-ev-review-everyday-chris.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/hyundai-ioniq-9-three-row-ev-review-everyday-chris.html</guid>
+    <pubDate>Sun, 31 May 2026 20:30:00 +0000</pubDate>
+    <dc:creator>Everyday Chris</dc:creator>
+    <category>reviews</category>
+    <description>At $79,500 the Ioniq 9 Calligraphy folds its third row flat, charges at 350 kW, and drives better than a three-row EV at this price has any right to. The reviewer rated it above the Rivian R1S for on-road handling.</description>
+  </item>
+  <item>
+    <title>Lucid's Midsize Bet: One Platform for a $50K SUV, a Rugged Off-Road Model, and a Robotaxi</title>
+    <link>https://nexusevnews.com/articles/lucid-cosmos-earth-lunar-robotaxi-midsize-platform-2026.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/lucid-cosmos-earth-lunar-robotaxi-midsize-platform-2026.html</guid>
+    <pubDate>Sun, 31 May 2026 20:00:00 +0000</pubDate>
+    <dc:creator>Tesla Owners Silicon Valley</dc:creator>
+    <category>deep-dives</category>
+    <description>Lucid's assistant chief engineer on the midsize platform explains how the Cosmos, Earth, and Lunar robotaxi share 95 percent of the same architecture, and what the new Atlas drive unit makes possible at under $50,000.</description>
+  </item>
+  <item>
+    <title>381 Days With the Renault 5: What a Year of Real Life Reveals About the Best Small EV in Europe</title>
+    <link>https://nexusevnews.com/articles/renault-5-long-term-test-381-days-electrifying.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/renault-5-long-term-test-381-days-electrifying.html</guid>
+    <pubDate>Sun, 31 May 2026 19:30:00 +0000</pubDate>
+    <dc:creator>Electrifying</dc:creator>
+    <category>reviews</category>
+    <description>Over 8,000 miles and four seasons, the Renault 5 Electric Techno held up. Winter range stayed above 170 miles. The gear selector still trips people up in parking lots. The long-term verdict: buy one.</description>
+  </item>
     <item>
     <title>BMW iX3 vs Mercedes GLC Electric: Range Wins, But Does the Better Car?</title>
     <link>https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-electric-twin-test-electrifying.html</link>
@@ -123,51 +168,6 @@
     <dc:creator>Victron Energy</dc:creator>
     <category>deep-dives</category>
     <description>Wietse Wind runs a payments app for 1.1 million users from a converted cow barn outside Amsterdam, powered entirely by solar and 540 kWh of Victron Energy storage. Four years, three system redesigns, and one flood.</description>
-  </item>
-  <item>
-    <title>The Pebble Flow Electric RV Has Hub Motors, Smart Glass, and an Auto-Dump System. It Also Works.</title>
-    <link>https://nexusevnews.com/articles/pebble-flow-rv-full-setup-tour-first-look.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/pebble-flow-rv-full-setup-tour-first-look.html</guid>
-    <pubDate>Thu, 28 May 2026 20:30:00 +0000</pubDate>
-    <dc:creator>Out of Spec Reviews</dc:creator>
-    <category>reviews</category>
-    <description>Starting at $139,000, the Pebble Flow electric travel trailer pairs a 45 kWh LFP battery and two hub motors with automated hitching, leveling, and tank dumping. After a troubled experience with a competing trailer, 24 hours in with Pebble produced zero bugs.</description>
-  </item>
-  <item>
-    <title>Rivian R2 Configurator Is Open: The Trim Differences Are Bigger Than They Look</title>
-    <link>https://nexusevnews.com/articles/rivian-r2-trim-comparison-dont-make-this-mistake.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-trim-comparison-dont-make-this-mistake.html</guid>
-    <pubDate>Thu, 28 May 2026 20:00:00 +0000</pubDate>
-    <dc:creator>Travis Ketchum</dc:creator>
-    <category>deep-dives</category>
-    <description>Standard R2 buyers cannot add the factory tow package even as an option. Premium restores most of what Standard cuts for $5,500 more. Performance adds 656 hp and semi-active dampers. A full breakdown of where each trim makes or breaks the deal.</description>
-  </item>
-  <item>
-    <title>What Three Days Without a Car Taught One Rider About a $2,700 Electric Scooter</title>
-    <link>https://nexusevnews.com/articles/segway-gt3-pro-electric-scooter-three-day-car-replacement-test.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/segway-gt3-pro-electric-scooter-three-day-car-replacement-test.html</guid>
-    <pubDate>Thu, 28 May 2026 19:30:00 +0000</pubDate>
-    <dc:creator>Mike O'Brien</dc:creator>
-    <category>reviews</category>
-    <description>The Segway GT3 Pro goes 50 mph, claims 86 miles of range, and costs $2,700. Mike O'Brien used it as his only vehicle for three days. The grocery run exposed the limits; everything else worked well.</description>
-  </item>
-  <item>
-    <title>Nine Days, Four Countries, One Electric Scooter: Paris to Monaco on a Dualron X</title>
-    <link>https://nexusevnews.com/articles/paris-monaco-electric-scooter-dualron-x-road-trip.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/paris-monaco-electric-scooter-dualron-x-road-trip.html</guid>
-    <pubDate>Wed, 27 May 2026 22:00:00 +0000</pubDate>
-    <dc:creator>Chris Howett</dc:creator>
-    <category>deep-dives</category>
-    <description>A $7,000 Dualron X Limited, nine days, and nearly 1,180 km through France, Switzerland, Italy, and Monaco. A failing motor, three days of rain, and a battery reading zero with 6 km still to go. He made it.</description>
-  </item>
-  <item>
-    <title>Inside GM's 18-Month Bolt EV Sprint: How a Factory Pivots for One Final Run</title>
-    <link>https://nexusevnews.com/articles/chevy-bolt-2027-fairfax-factory-tour.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/chevy-bolt-2027-fairfax-factory-tour.html</guid>
-    <pubDate>Wed, 27 May 2026 21:00:00 +0000</pubDate>
-    <dc:creator>Out of Spec Reviews</dc:creator>
-    <category>news</category>
-    <description>GM retooled the Fairfax plant in Kansas City in 10 months for an 18-month Bolt EV run. LFP batteries, an Equinox EV motor, and one shift a day. A factory visit that ended up on a live stream.</description>
   </item>
   <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
