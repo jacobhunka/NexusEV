@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+  <item>
+    <title>Can the Cheapest New EV in America Cross the Country on One Charging Network?</title>
+    <link>https://nexusevnews.com/articles/chevy-bolt-2027-ionna-cross-country-road-trip-out-of-spec.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/chevy-bolt-2027-ionna-cross-country-road-trip-out-of-spec.html</guid>
+    <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
+    <dc:creator>Out of Spec Motoring</dc:creator>
+    <category>charging</category>
+    <description>The 2027 Bolt charges at 150 kW and Out of Spec drives it coast to coast using only IONNA stations, testing both the car and the network across 1,500 miles of the first leg.</description>
+  </item>
+  <item>
+    <title>Amflow PR Carbon Review: A Sub-$5,000 eMTB That Actually Earns It</title>
+    <link>https://nexusevnews.com/articles/amflow-pr-carbon-emtb-review-loam-wolf-shootout-2026.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/amflow-pr-carbon-emtb-review-loam-wolf-shootout-2026.html</guid>
+    <pubDate>Mon, 01 Jun 2026 21:00:00 +0000</pubDate>
+    <dc:creator>The Loam Wolf</dc:creator>
+    <category>reviews</category>
+    <description>At $4,999 with the Avinox M2 motor, the Amflow PR Carbon rode double-black trails at the 2026 Lone Wolf Shootout without anyone walking, though the fork has a ceiling.</description>
+  </item>
+  <item>
+    <title>Inside Tesla's Model S and X Sendoff: The Cars That Built the Company Take Their Final Bow</title>
+    <link>https://nexusevnews.com/articles/tesla-model-s-x-production-end-signature-sendoff-fremont-gjeebs.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-s-x-production-end-signature-sendoff-fremont-gjeebs.html</guid>
+    <pubDate>Mon, 01 Jun 2026 20:30:00 +0000</pubDate>
+    <dc:creator>Gjeebs</dc:creator>
+    <category>news</category>
+    <description>Tesla held a signature edition delivery event at Fremont as Model S and X production ended, with gold badging, carbon ceramic brakes, and a ceremony for two vehicles that reshaped the EV market.</description>
+  </item>
+  <item>
+    <title>EBYCCO V7 Pro Review: A 40+ MPH Dual-Motor E-Bike for Under $1,200</title>
+    <link>https://nexusevnews.com/articles/ebycco-v7-pro-dual-motor-ebike-review-amped-cycle.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/ebycco-v7-pro-dual-motor-ebike-review-amped-cycle.html</guid>
+    <pubDate>Mon, 01 Jun 2026 20:00:00 +0000</pubDate>
+    <dc:creator>Amped Cycle</dc:creator>
+    <category>reviews</category>
+    <description>Real-world testing confirmed 44 mph on the EBYCCO V7 Pro, along with a front brake that smoked on the first hard stop and a battery that separated from the frame over a bump. The speed is real.</description>
+  </item>
+  <item>
+    <title>Why UK Electricity Bills Track Gas Prices Even When the Wind Is Free</title>
+    <link>https://nexusevnews.com/articles/uk-electricity-pricing-gas-marginal-pricing-decoupling-just-have-a-think.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/uk-electricity-pricing-gas-marginal-pricing-decoupling-just-have-a-think.html</guid>
+    <pubDate>Mon, 01 Jun 2026 19:30:00 +0000</pubDate>
+    <dc:creator>Just Have a Think</dc:creator>
+    <category>deep-dives</category>
+    <description>Marginal pricing means gas sets electricity prices for the whole UK grid, even when most power comes from wind. This explainer covers why, how it compares to Europe and the US, and what decoupling would require.</description>
+  </item>
   <item>
     <title>The Lucid Air Sapphire Just Beat the Corvette ZR1X Four Times in a Row</title>
     <link>https://nexusevnews.com/articles/corvette-zr1x-vs-lucid-air-sapphire-drag-race-vehicle-virgins.html</link>
@@ -61,7 +106,7 @@
     <category>reviews</category>
     <description>Over 8,000 miles and four seasons, the Renault 5 Electric Techno held up. Winter range stayed above 170 miles. The gear selector still trips people up in parking lots. The long-term verdict: buy one.</description>
   </item>
-    <item>
+  <item>
     <title>BMW iX3 vs Mercedes GLC Electric: Range Wins, But Does the Better Car?</title>
     <link>https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-electric-twin-test-electrifying.html</link>
     <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-electric-twin-test-electrifying.html</guid>
@@ -106,7 +151,7 @@
     <category>charging</category>
     <description>VPP programmes in 35 states pay homeowners hundreds to over $1,000 a year to let utilities draw from home batteries during grid peaks. EV participation could extend that support window from two hours to four.</description>
   </item>
-<item>
+  <item>
     <title>Waymo's Ojai Is a Purpose-Built Robotaxi Designed to Make the Numbers Work</title>
     <link>https://nexusevnews.com/articles/waymo-ojai-robotaxi-purpose-built-autonomous-vehicle.html</link>
     <guid isPermaLink="true">https://nexusevnews.com/articles/waymo-ojai-robotaxi-purpose-built-autonomous-vehicle.html</guid>
@@ -123,51 +168,6 @@
     <dc:creator>AutoTopNL</dc:creator>
     <category>reviews</category>
     <description>Launch control returns 2.6 seconds to 100 km/h, but the handling impresses more than the raw numbers. Three power modes: 857 hp, push-to-pass at 1,000-plus, and 1,156 hp full attack.</description>
-  </item>
-  <item>
-    <title>2027 Lexus ES Review: One Car Where Two Used to Be, With an EV Battery That's Too Small</title>
-    <link>https://nexusevnews.com/articles/2027-lexus-es-ev-hybrid-review-full-drive.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/2027-lexus-es-ev-hybrid-review-full-drive.html</guid>
-    <pubDate>Fri, 29 May 2026 20:30:00 +0000</pubDate>
-    <dc:creator>Autogefühl</dc:creator>
-    <category>reviews</category>
-    <description>The new ES merges ES and LS into a 5.14-meter sedan starting at $50,000. Outstanding interior quality and hybrid efficiency, but the 71-72 kWh EV battery is behind the competition.</description>
-  </item>
-  <item>
-    <title>ChargePoint's 600 kW Express Solo Is the Fastest Standalone EV Charger on the Market</title>
-    <link>https://nexusevnews.com/articles/chargepoint-express-solo-600kw-eaton-act-expo-2026.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/chargepoint-express-solo-600kw-eaton-act-expo-2026.html</guid>
-    <pubDate>Fri, 29 May 2026 20:00:00 +0000</pubDate>
-    <dc:creator>Munro Live</dc:creator>
-    <category>charging</category>
-    <description>ChargePoint and Eaton's new Express Solo delivers up to 600 kW across four ports and integrates battery storage without a separate inverter, but most sites need a full grid upgrade to use it.</description>
-  </item>
-  <item>
-    <title>Plug-In Balcony Solar Is the $400 Electric Bill Fix Renters Have Been Waiting For</title>
-    <link>https://nexusevnews.com/articles/plug-in-balcony-solar-renters-bright-saver.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/plug-in-balcony-solar-renters-bright-saver.html</guid>
-    <pubDate>Fri, 29 May 2026 19:30:00 +0000</pubDate>
-    <dc:creator>Climate Central &amp; Bright Saver</dc:creator>
-    <category>solar</category>
-    <description>A 10-pound panel that hangs from a balcony and plugs into any outlet can trim monthly electricity bills by 10-25%. Germany has 4 million installed. The US is finally catching up.</description>
-  </item>
-  <item>
-    <title>Toyota's First-Ever Electric Hilux Takes On New Zealand's Off-Road Terrain</title>
-    <link>https://nexusevnews.com/articles/toyota-hilux-ev-first-drive-new-zealand.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/toyota-hilux-ev-first-drive-new-zealand.html</guid>
-    <pubDate>Thu, 28 May 2026 22:00:00 +0000</pubDate>
-    <dc:creator>Ecotricity NZ</dc:creator>
-    <category>reviews</category>
-    <description>Fifty years in, Toyota has built its first fully electric Hilux. 144 kW, all-wheel drive, six off-road modes, and roughly 260 km of real-world range on the double cab. Tested on a dedicated off-road course in New Zealand.</description>
-  </item>
-  <item>
-    <title>150 Solar Panels, 540 kWh of Storage, and a Cow Barn Running a Global Payments App</title>
-    <link>https://nexusevnews.com/articles/victron-energy-dutch-barn-data-center-off-grid.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/victron-energy-dutch-barn-data-center-off-grid.html</guid>
-    <pubDate>Thu, 28 May 2026 21:00:00 +0000</pubDate>
-    <dc:creator>Victron Energy</dc:creator>
-    <category>deep-dives</category>
-    <description>Wietse Wind runs a payments app for 1.1 million users from a converted cow barn outside Amsterdam, powered entirely by solar and 540 kWh of Victron Energy storage. Four years, three system redesigns, and one flood.</description>
   </item>
   <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
@@ -196,6 +196,7 @@
       <category>Opinion</category>
       <description>Atlanta has a failing air quality grade and a Rivian plant on its doorstep. A hypothetical about what one city could do with the electric mobility infrastructure that already exists — R2 autonomous taxis, ALSO cargo quads, e-bikes, and ZTL-style restricted zones — and what the health data says the stakes actually are. Includes data from the HEI lockdown air quality study (Chen et al., 2025) and the American Lung Association's 2025 Atlanta air quality report.</description>
     </item>
+
 
 </channel>
 </rss>
