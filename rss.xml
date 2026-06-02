@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -17,6 +17,51 @@
     <category>Solar</category>
     <category>Battery Technology</category>
   <item>
+  <title>The 2026 Nissan Leaf Has Quietly Become a Car Worth Taking Seriously</title>
+  <link>https://nexusevnews.com/articles/nissan-leaf-2026-review-facelift-glow-up-auto-focus.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/nissan-leaf-2026-review-facelift-glow-up-auto-focus.html</guid>
+  <pubDate>Tue, 02 Jun 2026 22:00:00 +0000</pubDate>
+  <dc:creator>Auto Focus</dc:creator>
+  <category>Reviews</category>
+  <description>Nissan's facelifted Leaf starts near $30,000, now offers 260 miles of range, a tinted electrochromic sunroof, and an interior that finally matches its ambitions.</description>
+</item>
+<item>
+  <title>Polestar 5 Review: A Grand Tourer That Earns the Label</title>
+  <link>https://nexusevnews.com/articles/polestar-5-review-road-trip-france-everything-electric.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/polestar-5-review-road-trip-france-everything-electric.html</guid>
+  <pubDate>Tue, 02 Jun 2026 21:00:00 +0000</pubDate>
+  <dc:creator>Everything Electric CARS</dc:creator>
+  <category>Reviews</category>
+  <description>A 106 kWh battery, realistic range around 420 km, and a Swedish-minimalist interior built entirely from recyclable materials. Driven from Annecy to Nice as part of a Gothenburg-to-Morocco press drive.</description>
+</item>
+<item>
+  <title>Lucid Gravity First Drive: The Air's Biggest Fan Just Changed His Mind</title>
+  <link>https://nexusevnews.com/articles/lucid-gravity-suv-first-drive-review-chargedup.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/lucid-gravity-suv-first-drive-review-chargedup.html</guid>
+  <pubDate>Tue, 02 Jun 2026 20:30:00 +0000</pubDate>
+  <dc:creator>ChargedUp! EV Reviews</dc:creator>
+  <category>Reviews</category>
+  <description>A four-year Lucid Air owner drove the Gravity for two hours and came away ready to trade. Four-wheel steering, standout regen calibration, and a third row that actually works for adults.</description>
+</item>
+<item>
+  <title>Pecron F5000 Review: 100 Hours Running a House on Solar and Battery</title>
+  <link>https://nexusevnews.com/articles/pecron-f5000-lfp-power-station-100-hour-test-footprint-hero.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/pecron-f5000-lfp-power-station-100-hour-test-footprint-hero.html</guid>
+  <pubDate>Tue, 02 Jun 2026 20:00:00 +0000</pubDate>
+  <dc:creator>Footprint Hero with Alex Beale</dc:creator>
+  <category>Deep Dives</category>
+  <description>A 5,120 Wh LFP battery, 7,200W output, and a $2,000 launch price. A 100-hour real-world test cut circuits, ran fridge and office loads, added solar, and documented every quirk along the way.</description>
+</item>
+<item>
+  <title>One Year With the Rivian R1S: Still Worth It, Despite 10 Service Visits</title>
+  <link>https://nexusevnews.com/articles/rivian-r1s-2025-one-year-ownership-review-rivians-to-robots.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r1s-2025-one-year-ownership-review-rivians-to-robots.html</guid>
+  <pubDate>Tue, 02 Jun 2026 19:30:00 +0000</pubDate>
+  <dc:creator>Rivians to Robots</dc:creator>
+  <category>Reviews</category>
+  <description>A 2025 R1S dual motor Max Pack with 410 miles of range, 3.4 second 0-60, and zero detectable battery degradation after 26,000 miles. The full honest ownership count, including 10 service visits in year one.</description>
+</item>
+<item>
     <title>Can the Cheapest New EV in America Cross the Country on One Charging Network?</title>
     <link>https://nexusevnews.com/articles/chevy-bolt-2027-ionna-cross-country-road-trip-out-of-spec.html</link>
     <guid isPermaLink="true">https://nexusevnews.com/articles/chevy-bolt-2027-ionna-cross-country-road-trip-out-of-spec.html</guid>
@@ -25,7 +70,7 @@
     <category>charging</category>
     <description>The 2027 Bolt charges at 150 kW and Out of Spec drives it coast to coast using only IONNA stations, testing both the car and the network across 1,500 miles of the first leg.</description>
   </item>
-  <item>
+<item>
     <title>Amflow PR Carbon Review: A Sub-$5,000 eMTB That Actually Earns It</title>
     <link>https://nexusevnews.com/articles/amflow-pr-carbon-emtb-review-loam-wolf-shootout-2026.html</link>
     <guid isPermaLink="true">https://nexusevnews.com/articles/amflow-pr-carbon-emtb-review-loam-wolf-shootout-2026.html</guid>
@@ -34,7 +79,7 @@
     <category>reviews</category>
     <description>At $4,999 with the Avinox M2 motor, the Amflow PR Carbon rode double-black trails at the 2026 Lone Wolf Shootout without anyone walking, though the fork has a ceiling.</description>
   </item>
-  <item>
+<item>
     <title>Inside Tesla's Model S and X Sendoff: The Cars That Built the Company Take Their Final Bow</title>
     <link>https://nexusevnews.com/articles/tesla-model-s-x-production-end-signature-sendoff-fremont-gjeebs.html</link>
     <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-s-x-production-end-signature-sendoff-fremont-gjeebs.html</guid>
@@ -43,7 +88,7 @@
     <category>news</category>
     <description>Tesla held a signature edition delivery event at Fremont as Model S and X production ended, with gold badging, carbon ceramic brakes, and a ceremony for two vehicles that reshaped the EV market.</description>
   </item>
-  <item>
+<item>
     <title>EBYCCO V7 Pro Review: A 40+ MPH Dual-Motor E-Bike for Under $1,200</title>
     <link>https://nexusevnews.com/articles/ebycco-v7-pro-dual-motor-ebike-review-amped-cycle.html</link>
     <guid isPermaLink="true">https://nexusevnews.com/articles/ebycco-v7-pro-dual-motor-ebike-review-amped-cycle.html</guid>
@@ -52,7 +97,7 @@
     <category>reviews</category>
     <description>Real-world testing confirmed 44 mph on the EBYCCO V7 Pro, along with a front brake that smoked on the first hard stop and a battery that separated from the frame over a bump. The speed is real.</description>
   </item>
-  <item>
+<item>
     <title>Why UK Electricity Bills Track Gas Prices Even When the Wind Is Free</title>
     <link>https://nexusevnews.com/articles/uk-electricity-pricing-gas-marginal-pricing-decoupling-just-have-a-think.html</link>
     <guid isPermaLink="true">https://nexusevnews.com/articles/uk-electricity-pricing-gas-marginal-pricing-decoupling-just-have-a-think.html</guid>
@@ -61,7 +106,7 @@
     <category>deep-dives</category>
     <description>Marginal pricing means gas sets electricity prices for the whole UK grid, even when most power comes from wind. This explainer covers why, how it compares to Europe and the US, and what decoupling would require.</description>
   </item>
-  <item>
+<item>
     <title>The Lucid Air Sapphire Just Beat the Corvette ZR1X Four Times in a Row</title>
     <link>https://nexusevnews.com/articles/corvette-zr1x-vs-lucid-air-sapphire-drag-race-vehicle-virgins.html</link>
     <guid isPermaLink="true">https://nexusevnews.com/articles/corvette-zr1x-vs-lucid-air-sapphire-drag-race-vehicle-virgins.html</guid>
@@ -70,7 +115,7 @@
     <category>deep-dives</category>
     <description>The ZR1X makes 1,250 horsepower and was designed to be the fastest production car in America. The Lucid Air Sapphire won all four runs, from both a standing start and a roll.</description>
   </item>
-  <item>
+<item>
     <title>BMW iX3 vs Mercedes GLC EQ: The Thorough Comparison That Actually Picks a Winner</title>
     <link>https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-eq-autogefuhl-in-depth-comparison-2026.html</link>
     <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-eq-autogefuhl-in-depth-comparison-2026.html</guid>
@@ -79,7 +124,7 @@
     <category>reviews</category>
     <description>The iX3 has a 108.7 kWh battery and 400 kW charging. The GLC EQ has S-Class air suspension and acoustic windows. A 10,000-euro gap separates them. Autogefuhl runs the full test and picks one.</description>
   </item>
-  <item>
+<item>
     <title>Hyundai Ioniq 9 Review: A $79,500 Three-Row EV That's Harder to Dismiss Than It Looks</title>
     <link>https://nexusevnews.com/articles/hyundai-ioniq-9-three-row-ev-review-everyday-chris.html</link>
     <guid isPermaLink="true">https://nexusevnews.com/articles/hyundai-ioniq-9-three-row-ev-review-everyday-chris.html</guid>
@@ -88,7 +133,7 @@
     <category>reviews</category>
     <description>At $79,500 the Ioniq 9 Calligraphy folds its third row flat, charges at 350 kW, and drives better than a three-row EV at this price has any right to. The reviewer rated it above the Rivian R1S for on-road handling.</description>
   </item>
-  <item>
+<item>
     <title>Lucid's Midsize Bet: One Platform for a $50K SUV, a Rugged Off-Road Model, and a Robotaxi</title>
     <link>https://nexusevnews.com/articles/lucid-cosmos-earth-lunar-robotaxi-midsize-platform-2026.html</link>
     <guid isPermaLink="true">https://nexusevnews.com/articles/lucid-cosmos-earth-lunar-robotaxi-midsize-platform-2026.html</guid>
@@ -97,7 +142,7 @@
     <category>deep-dives</category>
     <description>Lucid's assistant chief engineer on the midsize platform explains how the Cosmos, Earth, and Lunar robotaxi share 95 percent of the same architecture, and what the new Atlas drive unit makes possible at under $50,000.</description>
   </item>
-  <item>
+<item>
     <title>381 Days With the Renault 5: What a Year of Real Life Reveals About the Best Small EV in Europe</title>
     <link>https://nexusevnews.com/articles/renault-5-long-term-test-381-days-electrifying.html</link>
     <guid isPermaLink="true">https://nexusevnews.com/articles/renault-5-long-term-test-381-days-electrifying.html</guid>
@@ -106,7 +151,7 @@
     <category>reviews</category>
     <description>Over 8,000 miles and four seasons, the Renault 5 Electric Techno held up. Winter range stayed above 170 miles. The gear selector still trips people up in parking lots. The long-term verdict: buy one.</description>
   </item>
-  <item>
+<item>
     <title>BMW iX3 vs Mercedes GLC Electric: Range Wins, But Does the Better Car?</title>
     <link>https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-electric-twin-test-electrifying.html</link>
     <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-electric-twin-test-electrifying.html</guid>
@@ -115,7 +160,7 @@
     <category>reviews</category>
     <description>The iX3 carries a 108 kWh battery and 400 kW charging. The GLC offers massage seats and a panoramic roof as standard. Both cost nearly the same. The verdict is not as simple as the range gap suggests.</description>
   </item>
-  <item>
+<item>
     <title>Kia Niro PHEV After 40,000 Miles: A Good Car That Requires the Right Life</title>
     <link>https://nexusevnews.com/articles/kia-niro-phev-40000-mile-long-term-review-car-and-driver.html</link>
     <guid isPermaLink="true">https://nexusevnews.com/articles/kia-niro-phev-40000-mile-long-term-review-car-and-driver.html</guid>
@@ -124,52 +169,7 @@
     <category>reviews</category>
     <description>A year of real commutes and Michigan winters reveals the gap between 108 MPGe on the sticker and 41 MPG in practice. The car held up. The powertrain philosophy is harder to live with.</description>
   </item>
-  <item>
-    <title>The Ferrari Luce Divides the Car World. This Car Pod Is Not Divided.</title>
-    <link>https://nexusevnews.com/articles/ferrari-luce-honest-reaction-this-car-pod-doug-demuro.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-luce-honest-reaction-this-car-pod-doug-demuro.html</guid>
-    <pubDate>Sat, 30 May 2026 20:30:00 +0000</pubDate>
-    <dc:creator>This Car Pod</dc:creator>
-    <category>deep-dives</category>
-    <description>A five-seat electric Ferrari with near-300-mile range and $600,000 pricing lands to near-universal criticism. Ferrari's stock fell 5% the same day. The former CEO called for the prancing horse to be removed.</description>
-  </item>
-  <item>
-    <title>Rivian Gen 1 Owners Are Getting Better Driver Assistance From a Phone Than From Rivian</title>
-    <link>https://nexusevnews.com/articles/rivian-comma-ai-adventure-pilot-low-speed-steering-upgrade.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-comma-ai-adventure-pilot-low-speed-steering-upgrade.html</guid>
-    <pubDate>Sat, 30 May 2026 20:00:00 +0000</pubDate>
-    <dc:creator>Out of Spec Reviews</dc:creator>
-    <category>deep-dives</category>
-    <description>Adventure Pilot, a community-built Comma AI branch, unlocks steering angles and low-speed turn capability that Rivian never delivered. The install takes minutes. The gap it fills has been open for years.</description>
-  </item>
-  <item>
-    <title>Virtual Power Plants Are Already Cutting Bills. EVs Could Make Them Far More Powerful.</title>
-    <link>https://nexusevnews.com/articles/virtual-power-plants-solar-battery-grid-nbc-news.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/virtual-power-plants-solar-battery-grid-nbc-news.html</guid>
-    <pubDate>Sat, 30 May 2026 19:30:00 +0000</pubDate>
-    <dc:creator>NBC News</dc:creator>
-    <category>charging</category>
-    <description>VPP programmes in 35 states pay homeowners hundreds to over $1,000 a year to let utilities draw from home batteries during grid peaks. EV participation could extend that support window from two hours to four.</description>
-  </item>
-  <item>
-    <title>Waymo's Ojai Is a Purpose-Built Robotaxi Designed to Make the Numbers Work</title>
-    <link>https://nexusevnews.com/articles/waymo-ojai-robotaxi-purpose-built-autonomous-vehicle.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/waymo-ojai-robotaxi-purpose-built-autonomous-vehicle.html</guid>
-    <pubDate>Fri, 29 May 2026 22:00:00 +0000</pubDate>
-    <dc:creator>CNBC</dc:creator>
-    <category>deep-dives</category>
-    <description>The Ojai, co-developed with Zeekr and costing roughly half the I-PACE to produce, debuts Waymo's sixth-generation driver system as the company targets one million paid weekly rides by year-end.</description>
-  </item>
-  <item>
-    <title>The Electric Porsche Cayenne Turbo Coupe Makes 1,156 HP and Handles Like a True Porsche</title>
-    <link>https://nexusevnews.com/articles/porsche-cayenne-turbo-coupe-ev-review-launch-control.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/porsche-cayenne-turbo-coupe-ev-review-launch-control.html</guid>
-    <pubDate>Fri, 29 May 2026 21:00:00 +0000</pubDate>
-    <dc:creator>AutoTopNL</dc:creator>
-    <category>reviews</category>
-    <description>Launch control returns 2.6 seconds to 100 km/h, but the handling impresses more than the raw numbers. Three power modes: 857 hp, push-to-pass at 1,000-plus, and 1,156 hp full attack.</description>
-  </item>
-  <item>
+<item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
       <link>https://nexusevnews.com/opinion-r2-tracker.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-r2-tracker.html</guid>
@@ -178,7 +178,7 @@
       <category>Opinion</category>
       <description>People were reading website source code to find out when their Rivian was coming. Forum signatures listed Guide contact dates like military service records. We are not doing that again for the R2. The Rivian R2 Delivery Tracker is live.</description>
     </item>
-  <item>
+<item>
       <title>Two Batteries, One Hitch, and the Case for All-Electric Glamping</title>
       <link>https://nexusevnews.com/opinion-rivian-lightship-glamping.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-rivian-lightship-glamping.html</guid>
@@ -187,7 +187,7 @@
       <category>Opinion</category>
       <description>The Lightship AE1 carries its own 69 kWh battery and 80 kW motor to neutralize trailer drag on the tow vehicle. Paired with a Rivian, the real-world efficiency numbers are hard to argue with. This is what all-electric glamping looks like when the hardware actually works.</description>
     </item>
-  <item>
+<item>
       <title>Atlanta, Rivian, and the Quiet Coincidence</title>
       <link>https://nexusevnews.com/opinion-atlanta-rivian-quiet-coincidence.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-atlanta-rivian-quiet-coincidence.html</guid>
@@ -196,7 +196,5 @@
       <category>Opinion</category>
       <description>Atlanta has a failing air quality grade and a Rivian plant on its doorstep. A hypothetical about what one city could do with the electric mobility infrastructure that already exists — R2 autonomous taxis, ALSO cargo quads, e-bikes, and ZTL-style restricted zones — and what the health data says the stakes actually are. Includes data from the HEI lockdown air quality study (Chen et al., 2025) and the American Lung Association's 2025 Atlanta air quality report.</description>
     </item>
-
-
 </channel>
 </rss>
