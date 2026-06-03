@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+  <item>
+  <title>Aboard T4: Self-Parking Electric Trailer With 200 kWh and a Tailgate Built for Living</title>
+  <link>https://nexusevnews.com/articles/aboard-t4-rv-first-look-electric-trailer-out-of-spec.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/aboard-t4-rv-first-look-electric-trailer-out-of-spec.html</guid>
+  <pubDate>Wed, 03 Jun 2026 22:00:00 +0000</pubDate>
+  <dc:creator>Out of Spec BITS</dc:creator>
+  <category>Reviews</category>
+  <description>A new entrant in the electric trailer space launches with 41 kWh LFP, a 40 kW tow-assist motor, app-controlled self-parking, auto-leveling jacks, a clamshell rear deck, and a combined power capacity of 200 kWh.</description>
+</item>
+<item>
+  <title>Real Cost of a 600 km Tesla Road Trip: Every Dollar Tracked</title>
+  <link>https://nexusevnews.com/articles/tesla-model-3-road-trip-600km-cost-frozen-tesla.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-3-road-trip-600km-cost-frozen-tesla.html</guid>
+  <pubDate>Wed, 03 Jun 2026 21:00:00 +0000</pubDate>
+  <dc:creator>FrozenTesla</dc:creator>
+  <category>Deep Dives</category>
+  <description>Two Supercharger stops, a free overnight hotel charge, and brutal prairie headwinds. Total: $36.49 CAD for a 600 km round trip. A Civic would have cost $86 CAD. A pickup truck, $168 CAD.</description>
+</item>
+<item>
+  <title>Pebble Flow Tow Test With a Rivian R1T: Strong Stability, Lighter Assist Than Expected</title>
+  <link>https://nexusevnews.com/articles/pebble-flow-tow-test-rivian-r1t-out-of-spec-reviews.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/pebble-flow-tow-test-rivian-r1t-out-of-spec-reviews.html</guid>
+  <pubDate>Wed, 03 Jun 2026 20:30:00 +0000</pubDate>
+  <dc:creator>Out of Spec Reviews</dc:creator>
+  <category>Reviews</category>
+  <description>First real-world tow of the Pebble Flow behind a Rivian R1T. Highway tracking is dead straight. Easy Tow mode peaks around 14 kW of push. The hardware can do far more. A software update is promised.</description>
+</item>
+<item>
+  <title>BYD Claims 12-Minute LFP Charge at -30°C. The Details Are Almost Entirely Missing.</title>
+  <link>https://nexusevnews.com/articles/byd-denza-z9-gt-minus-30c-cold-charge-test-ben-alexxander.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/byd-denza-z9-gt-minus-30c-cold-charge-test-ben-alexxander.html</guid>
+  <pubDate>Wed, 03 Jun 2026 20:00:00 +0000</pubDate>
+  <dc:creator>Ben Alexxander</dc:creator>
+  <category>Battery Tech</category>
+  <description>BYD left a Denza Z9 GT in a deep freeze for 24 hours and says it charged from 20% to 97% in 12 minutes. If genuine and repeatable, it changes winter EV ownership in cold climates.</description>
+</item>
+<item>
+  <title>China's Decade-Long Renewable Build Is Now a Geopolitical Shield Against Oil Shocks</title>
+  <link>https://nexusevnews.com/articles/china-renewable-energy-gansu-solar-abc-news.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/china-renewable-energy-gansu-solar-abc-news.html</guid>
+  <pubDate>Wed, 03 Jun 2026 19:30:00 +0000</pubDate>
+  <dc:creator>ABC News</dc:creator>
+  <category>Solar</category>
+  <description>While the Iran conflict has sent oil prices surging, China's solar and wind buildout in Gansu is keeping electricity prices stable. More than half of new power capacity now comes from renewables.</description>
+</item>
   <item>
   <title>The 2026 Nissan Leaf Has Quietly Become a Car Worth Taking Seriously</title>
   <link>https://nexusevnews.com/articles/nissan-leaf-2026-review-facelift-glow-up-auto-focus.html</link>
@@ -116,33 +161,6 @@
     <description>The ZR1X makes 1,250 horsepower and was designed to be the fastest production car in America. The Lucid Air Sapphire won all four runs, from both a standing start and a roll.</description>
   </item>
 <item>
-    <title>BMW iX3 vs Mercedes GLC EQ: The Thorough Comparison That Actually Picks a Winner</title>
-    <link>https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-eq-autogefuhl-in-depth-comparison-2026.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-eq-autogefuhl-in-depth-comparison-2026.html</guid>
-    <pubDate>Sun, 31 May 2026 21:00:00 +0000</pubDate>
-    <dc:creator>Autogefuhl</dc:creator>
-    <category>reviews</category>
-    <description>The iX3 has a 108.7 kWh battery and 400 kW charging. The GLC EQ has S-Class air suspension and acoustic windows. A 10,000-euro gap separates them. Autogefuhl runs the full test and picks one.</description>
-  </item>
-<item>
-    <title>Hyundai Ioniq 9 Review: A $79,500 Three-Row EV That's Harder to Dismiss Than It Looks</title>
-    <link>https://nexusevnews.com/articles/hyundai-ioniq-9-three-row-ev-review-everyday-chris.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/hyundai-ioniq-9-three-row-ev-review-everyday-chris.html</guid>
-    <pubDate>Sun, 31 May 2026 20:30:00 +0000</pubDate>
-    <dc:creator>Everyday Chris</dc:creator>
-    <category>reviews</category>
-    <description>At $79,500 the Ioniq 9 Calligraphy folds its third row flat, charges at 350 kW, and drives better than a three-row EV at this price has any right to. The reviewer rated it above the Rivian R1S for on-road handling.</description>
-  </item>
-<item>
-    <title>Lucid's Midsize Bet: One Platform for a $50K SUV, a Rugged Off-Road Model, and a Robotaxi</title>
-    <link>https://nexusevnews.com/articles/lucid-cosmos-earth-lunar-robotaxi-midsize-platform-2026.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/lucid-cosmos-earth-lunar-robotaxi-midsize-platform-2026.html</guid>
-    <pubDate>Sun, 31 May 2026 20:00:00 +0000</pubDate>
-    <dc:creator>Tesla Owners Silicon Valley</dc:creator>
-    <category>deep-dives</category>
-    <description>Lucid's assistant chief engineer on the midsize platform explains how the Cosmos, Earth, and Lunar robotaxi share 95 percent of the same architecture, and what the new Atlas drive unit makes possible at under $50,000.</description>
-  </item>
-<item>
     <title>381 Days With the Renault 5: What a Year of Real Life Reveals About the Best Small EV in Europe</title>
     <link>https://nexusevnews.com/articles/renault-5-long-term-test-381-days-electrifying.html</link>
     <guid isPermaLink="true">https://nexusevnews.com/articles/renault-5-long-term-test-381-days-electrifying.html</guid>
@@ -150,24 +168,6 @@
     <dc:creator>Electrifying</dc:creator>
     <category>reviews</category>
     <description>Over 8,000 miles and four seasons, the Renault 5 Electric Techno held up. Winter range stayed above 170 miles. The gear selector still trips people up in parking lots. The long-term verdict: buy one.</description>
-  </item>
-<item>
-    <title>BMW iX3 vs Mercedes GLC Electric: Range Wins, But Does the Better Car?</title>
-    <link>https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-electric-twin-test-electrifying.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-vs-mercedes-glc-electric-twin-test-electrifying.html</guid>
-    <pubDate>Sat, 30 May 2026 22:00:00 +0000</pubDate>
-    <dc:creator>Electrifying</dc:creator>
-    <category>reviews</category>
-    <description>The iX3 carries a 108 kWh battery and 400 kW charging. The GLC offers massage seats and a panoramic roof as standard. Both cost nearly the same. The verdict is not as simple as the range gap suggests.</description>
-  </item>
-<item>
-    <title>Kia Niro PHEV After 40,000 Miles: A Good Car That Requires the Right Life</title>
-    <link>https://nexusevnews.com/articles/kia-niro-phev-40000-mile-long-term-review-car-and-driver.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/kia-niro-phev-40000-mile-long-term-review-car-and-driver.html</guid>
-    <pubDate>Sat, 30 May 2026 21:00:00 +0000</pubDate>
-    <dc:creator>Car and Driver</dc:creator>
-    <category>reviews</category>
-    <description>A year of real commutes and Michigan winters reveals the gap between 108 MPGe on the sticker and 41 MPG in practice. The car held up. The powertrain philosophy is harder to live with.</description>
   </item>
 <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
