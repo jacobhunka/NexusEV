@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+  <item>
+    <title>Wall-Mounted Solar Turns a South-Facing Brick Wall Into a £120/Year Profit</title>
+    <link>https://nexusevnews.com/articles/wall-solar-panels-zero-bills-everything-electric.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/wall-solar-panels-zero-bills-everything-electric.html</guid>
+    <pubDate>Thu, 04 Jun 2026 22:00:00 +0000</pubDate>
+    <dc:creator>Everything Electric TECH</dc:creator>
+    <category>Solar</category>
+    <description>A UK homeowner's full retrofit reaches zero utility bills and earns £120 a year in grid export while charging two EVs. The wall solar array contributes 50 percent of total generation in winter.</description>
+  </item>
+  <item>
+    <title>GM's Hummer X Concept Is a Modular, Electric Off-Roader Designed to Be Taken Apart</title>
+    <link>https://nexusevnews.com/articles/hummer-x-concept-gm-modular-ev-cnet.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/hummer-x-concept-gm-modular-ev-cnet.html</guid>
+    <pubDate>Thu, 04 Jun 2026 21:00:00 +0000</pubDate>
+    <dc:creator>CNET</dc:creator>
+    <category>Reviews</category>
+    <description>GM reveals the Hummer X at its Pasadena advanced design facility: a fully electric truck with removable body panels, RFID pack-checking, and a design philosophy built around owner customization.</description>
+  </item>
+  <item>
+    <title>The Electrical Grid Is Being Rebuilt for AI, and Some Countries Are Not Ready</title>
+    <link>https://nexusevnews.com/articles/electrical-grid-ai-rebuild-bloomberg-primer.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/electrical-grid-ai-rebuild-bloomberg-primer.html</guid>
+    <pubDate>Thu, 04 Jun 2026 20:30:00 +0000</pubDate>
+    <dc:creator>Bloomberg Originals</dc:creator>
+    <category>Deep Dives</category>
+    <description>AI, EVs, and heat pumps are forcing the first major grid expansion in three decades. Bloomberg's Primer covers superconducting cables, Spain's blackout, and why China's grid advantage is a geopolitical problem.</description>
+  </item>
+  <item>
+    <title>2026 Xiaomi SU7: Longer Range, 800V Charging, and Better Brakes Two Years In</title>
+    <link>https://nexusevnews.com/articles/2026-xiaomi-su7-updated-review.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/2026-xiaomi-su7-updated-review.html</guid>
+    <pubDate>Thu, 04 Jun 2026 20:00:00 +0000</pubDate>
+    <dc:creator>EV.com</dc:creator>
+    <category>Reviews</category>
+    <description>The updated SU7 moves to 800V architecture with up to 900V on Max trim, adds four-piston brake calipers, over 900 km CLTC range, and continuous damping control. 10 to 80 percent in 12 minutes.</description>
+  </item>
+  <item>
+    <title>Three Years With Two Tesla Powerwalls: Real Degradation, Real Savings</title>
+    <link>https://nexusevnews.com/articles/tesla-powerwall-year-three-solar-savings-zach.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-powerwall-year-three-solar-savings-zach.html</guid>
+    <pubDate>Thu, 04 Jun 2026 19:30:00 +0000</pubDate>
+    <dc:creator>Zach Solar</dc:creator>
+    <category>Solar</category>
+    <description>After three years with a 10 kW system in Arizona, battery degradation sits at 6 percent and total annual energy cost — home plus two EVs — came to $1,937. The honest math on home solar storage.</description>
+  </item>
   <item>
   <title>Aboard T4: Self-Parking Electric Trailer With 200 kWh and a Tailgate Built for Living</title>
   <link>https://nexusevnews.com/articles/aboard-t4-rv-first-look-electric-trailer-out-of-spec.html</link>
@@ -124,51 +169,11 @@
     <category>reviews</category>
     <description>At $4,999 with the Avinox M2 motor, the Amflow PR Carbon rode double-black trails at the 2026 Lone Wolf Shootout without anyone walking, though the fork has a ceiling.</description>
   </item>
-<item>
-    <title>Inside Tesla's Model S and X Sendoff: The Cars That Built the Company Take Their Final Bow</title>
-    <link>https://nexusevnews.com/articles/tesla-model-s-x-production-end-signature-sendoff-fremont-gjeebs.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-s-x-production-end-signature-sendoff-fremont-gjeebs.html</guid>
-    <pubDate>Mon, 01 Jun 2026 20:30:00 +0000</pubDate>
-    <dc:creator>Gjeebs</dc:creator>
-    <category>news</category>
-    <description>Tesla held a signature edition delivery event at Fremont as Model S and X production ended, with gold badging, carbon ceramic brakes, and a ceremony for two vehicles that reshaped the EV market.</description>
-  </item>
-<item>
-    <title>EBYCCO V7 Pro Review: A 40+ MPH Dual-Motor E-Bike for Under $1,200</title>
-    <link>https://nexusevnews.com/articles/ebycco-v7-pro-dual-motor-ebike-review-amped-cycle.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/ebycco-v7-pro-dual-motor-ebike-review-amped-cycle.html</guid>
-    <pubDate>Mon, 01 Jun 2026 20:00:00 +0000</pubDate>
-    <dc:creator>Amped Cycle</dc:creator>
-    <category>reviews</category>
-    <description>Real-world testing confirmed 44 mph on the EBYCCO V7 Pro, along with a front brake that smoked on the first hard stop and a battery that separated from the frame over a bump. The speed is real.</description>
-  </item>
-<item>
-    <title>Why UK Electricity Bills Track Gas Prices Even When the Wind Is Free</title>
-    <link>https://nexusevnews.com/articles/uk-electricity-pricing-gas-marginal-pricing-decoupling-just-have-a-think.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/uk-electricity-pricing-gas-marginal-pricing-decoupling-just-have-a-think.html</guid>
-    <pubDate>Mon, 01 Jun 2026 19:30:00 +0000</pubDate>
-    <dc:creator>Just Have a Think</dc:creator>
-    <category>deep-dives</category>
-    <description>Marginal pricing means gas sets electricity prices for the whole UK grid, even when most power comes from wind. This explainer covers why, how it compares to Europe and the US, and what decoupling would require.</description>
-  </item>
-<item>
-    <title>The Lucid Air Sapphire Just Beat the Corvette ZR1X Four Times in a Row</title>
-    <link>https://nexusevnews.com/articles/corvette-zr1x-vs-lucid-air-sapphire-drag-race-vehicle-virgins.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/corvette-zr1x-vs-lucid-air-sapphire-drag-race-vehicle-virgins.html</guid>
-    <pubDate>Sun, 31 May 2026 22:00:00 +0000</pubDate>
-    <dc:creator>Vehicle Virgins</dc:creator>
-    <category>deep-dives</category>
-    <description>The ZR1X makes 1,250 horsepower and was designed to be the fastest production car in America. The Lucid Air Sapphire won all four runs, from both a standing start and a roll.</description>
-  </item>
-<item>
-    <title>381 Days With the Renault 5: What a Year of Real Life Reveals About the Best Small EV in Europe</title>
-    <link>https://nexusevnews.com/articles/renault-5-long-term-test-381-days-electrifying.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/renault-5-long-term-test-381-days-electrifying.html</guid>
-    <pubDate>Sun, 31 May 2026 19:30:00 +0000</pubDate>
-    <dc:creator>Electrifying</dc:creator>
-    <category>reviews</category>
-    <description>Over 8,000 miles and four seasons, the Renault 5 Electric Techno held up. Winter range stayed above 170 miles. The gear selector still trips people up in parking lots. The long-term verdict: buy one.</description>
-  </item>
+
+
+
+
+
 <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
       <link>https://nexusevnews.com/opinion-r2-tracker.html</link>
