@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+      <item>
+    <title>Battery-Powered Planes Are Already Flying Routes Across America</title>
+    <link>https://nexusevnews.com/articles/beta-electric-plane-gma-ups-amazon-delivery.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/beta-electric-plane-gma-ups-amazon-delivery.html</guid>
+    <pubDate>Fri, 05 Jun 2026 22:00:00 +0000</pubDate>
+    <dc:creator>Good Morning America</dc:creator>
+    <category>News</category>
+    <description>Beta Technologies' all-electric aircraft charges for $13 and flies more than 300 miles on a single charge. UPS has ordered 150. Commercial freight operations begin in September.</description>
+  </item>
+  <item>
+    <title>Why Your Electric Bill Could Soon Be Negative</title>
+    <link>https://nexusevnews.com/articles/smart-energy-tariffs-flexible-pricing-renewables-dw.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/smart-energy-tariffs-flexible-pricing-renewables-dw.html</guid>
+    <pubDate>Fri, 05 Jun 2026 21:00:00 +0000</pubDate>
+    <dc:creator>DW News</dc:creator>
+    <category>Deep Dives</category>
+    <description>Solar overproduction is pushing wholesale electricity prices to zero. Smart meters and flexible tariffs let households charge cheaply and earn money selling power back to the grid.</description>
+  </item>
+  <item>
+    <title>Porsche Macan GTS Beats the Tesla Model Y Performance in a Drag Race</title>
+    <link>https://nexusevnews.com/articles/porsche-macan-gts-vs-tesla-model-y-performance-audi-sq6-review.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/porsche-macan-gts-vs-tesla-model-y-performance-audi-sq6-review.html</guid>
+    <pubDate>Fri, 05 Jun 2026 20:30:00 +0000</pubDate>
+    <dc:creator>What Car?</dc:creator>
+    <category>Reviews</category>
+    <description>Three electric sports SUVs, 250 miles, and one standing-kilometer drag race. The Porsche won the strip. The Tesla won the overall value argument. The Audi finished third.</description>
+  </item>
+  <item>
+    <title>Living in the $150K Pebble Flow Electric RV: First Real Camping Night</title>
+    <link>https://nexusevnews.com/articles/pebble-flow-electric-rv-first-camping-night-out-of-spec.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/pebble-flow-electric-rv-first-camping-night-out-of-spec.html</guid>
+    <pubDate>Fri, 05 Jun 2026 20:00:00 +0000</pubDate>
+    <dc:creator>Out of Spec Reviews</dc:creator>
+    <category>Reviews</category>
+    <description>One night, two people, full AC in the heat, long showers, cooking, and a 74-mile tow. Real energy consumption numbers and honest verdict on what works and what does not.</description>
+  </item>
+  <item>
+    <title>Sodium Home Batteries Are Being Installed Right Now. Are They Better Than Lithium?</title>
+    <link>https://nexusevnews.com/articles/sodium-ion-home-battery-11-energy-uk-review.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/sodium-ion-home-battery-11-energy-uk-review.html</guid>
+    <pubDate>Fri, 05 Jun 2026 19:30:00 +0000</pubDate>
+    <dc:creator>Everything Electric TECH</dc:creator>
+    <category>Battery Tech</category>
+    <description>Salt-based batteries priced at parity with lithium, working at minus 20 degrees C without heaters, and discharging more fully per cycle. A UK startup is already fitting them in homes.</description>
+  </item>
   <item>
     <title>Wall-Mounted Solar Turns a South-Facing Brick Wall Into a £120/Year Profit</title>
     <link>https://nexusevnews.com/articles/wall-solar-panels-zero-bills-everything-electric.html</link>
@@ -70,7 +115,7 @@
   <category>Reviews</category>
   <description>A new entrant in the electric trailer space launches with 41 kWh LFP, a 40 kW tow-assist motor, app-controlled self-parking, auto-leveling jacks, a clamshell rear deck, and a combined power capacity of 200 kWh.</description>
 </item>
-<item>
+  <item>
   <title>Real Cost of a 600 km Tesla Road Trip: Every Dollar Tracked</title>
   <link>https://nexusevnews.com/articles/tesla-model-3-road-trip-600km-cost-frozen-tesla.html</link>
   <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-3-road-trip-600km-cost-frozen-tesla.html</guid>
@@ -79,7 +124,7 @@
   <category>Deep Dives</category>
   <description>Two Supercharger stops, a free overnight hotel charge, and brutal prairie headwinds. Total: $36.49 CAD for a 600 km round trip. A Civic would have cost $86 CAD. A pickup truck, $168 CAD.</description>
 </item>
-<item>
+  <item>
   <title>Pebble Flow Tow Test With a Rivian R1T: Strong Stability, Lighter Assist Than Expected</title>
   <link>https://nexusevnews.com/articles/pebble-flow-tow-test-rivian-r1t-out-of-spec-reviews.html</link>
   <guid isPermaLink="true">https://nexusevnews.com/articles/pebble-flow-tow-test-rivian-r1t-out-of-spec-reviews.html</guid>
@@ -88,7 +133,7 @@
   <category>Reviews</category>
   <description>First real-world tow of the Pebble Flow behind a Rivian R1T. Highway tracking is dead straight. Easy Tow mode peaks around 14 kW of push. The hardware can do far more. A software update is promised.</description>
 </item>
-<item>
+  <item>
   <title>BYD Claims 12-Minute LFP Charge at -30°C. The Details Are Almost Entirely Missing.</title>
   <link>https://nexusevnews.com/articles/byd-denza-z9-gt-minus-30c-cold-charge-test-ben-alexxander.html</link>
   <guid isPermaLink="true">https://nexusevnews.com/articles/byd-denza-z9-gt-minus-30c-cold-charge-test-ben-alexxander.html</guid>
@@ -97,7 +142,7 @@
   <category>Battery Tech</category>
   <description>BYD left a Denza Z9 GT in a deep freeze for 24 hours and says it charged from 20% to 97% in 12 minutes. If genuine and repeatable, it changes winter EV ownership in cold climates.</description>
 </item>
-<item>
+  <item>
   <title>China's Decade-Long Renewable Build Is Now a Geopolitical Shield Against Oil Shocks</title>
   <link>https://nexusevnews.com/articles/china-renewable-energy-gansu-solar-abc-news.html</link>
   <guid isPermaLink="true">https://nexusevnews.com/articles/china-renewable-energy-gansu-solar-abc-news.html</guid>
@@ -115,7 +160,7 @@
   <category>Reviews</category>
   <description>Nissan's facelifted Leaf starts near $30,000, now offers 260 miles of range, a tinted electrochromic sunroof, and an interior that finally matches its ambitions.</description>
 </item>
-<item>
+  <item>
   <title>Polestar 5 Review: A Grand Tourer That Earns the Label</title>
   <link>https://nexusevnews.com/articles/polestar-5-review-road-trip-france-everything-electric.html</link>
   <guid isPermaLink="true">https://nexusevnews.com/articles/polestar-5-review-road-trip-france-everything-electric.html</guid>
@@ -124,57 +169,7 @@
   <category>Reviews</category>
   <description>A 106 kWh battery, realistic range around 420 km, and a Swedish-minimalist interior built entirely from recyclable materials. Driven from Annecy to Nice as part of a Gothenburg-to-Morocco press drive.</description>
 </item>
-<item>
-  <title>Lucid Gravity First Drive: The Air's Biggest Fan Just Changed His Mind</title>
-  <link>https://nexusevnews.com/articles/lucid-gravity-suv-first-drive-review-chargedup.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/lucid-gravity-suv-first-drive-review-chargedup.html</guid>
-  <pubDate>Tue, 02 Jun 2026 20:30:00 +0000</pubDate>
-  <dc:creator>ChargedUp! EV Reviews</dc:creator>
-  <category>Reviews</category>
-  <description>A four-year Lucid Air owner drove the Gravity for two hours and came away ready to trade. Four-wheel steering, standout regen calibration, and a third row that actually works for adults.</description>
-</item>
-<item>
-  <title>Pecron F5000 Review: 100 Hours Running a House on Solar and Battery</title>
-  <link>https://nexusevnews.com/articles/pecron-f5000-lfp-power-station-100-hour-test-footprint-hero.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/pecron-f5000-lfp-power-station-100-hour-test-footprint-hero.html</guid>
-  <pubDate>Tue, 02 Jun 2026 20:00:00 +0000</pubDate>
-  <dc:creator>Footprint Hero with Alex Beale</dc:creator>
-  <category>Deep Dives</category>
-  <description>A 5,120 Wh LFP battery, 7,200W output, and a $2,000 launch price. A 100-hour real-world test cut circuits, ran fridge and office loads, added solar, and documented every quirk along the way.</description>
-</item>
-<item>
-  <title>One Year With the Rivian R1S: Still Worth It, Despite 10 Service Visits</title>
-  <link>https://nexusevnews.com/articles/rivian-r1s-2025-one-year-ownership-review-rivians-to-robots.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r1s-2025-one-year-ownership-review-rivians-to-robots.html</guid>
-  <pubDate>Tue, 02 Jun 2026 19:30:00 +0000</pubDate>
-  <dc:creator>Rivians to Robots</dc:creator>
-  <category>Reviews</category>
-  <description>A 2025 R1S dual motor Max Pack with 410 miles of range, 3.4 second 0-60, and zero detectable battery degradation after 26,000 miles. The full honest ownership count, including 10 service visits in year one.</description>
-</item>
-<item>
-    <title>Can the Cheapest New EV in America Cross the Country on One Charging Network?</title>
-    <link>https://nexusevnews.com/articles/chevy-bolt-2027-ionna-cross-country-road-trip-out-of-spec.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/chevy-bolt-2027-ionna-cross-country-road-trip-out-of-spec.html</guid>
-    <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
-    <dc:creator>Out of Spec Motoring</dc:creator>
-    <category>charging</category>
-    <description>The 2027 Bolt charges at 150 kW and Out of Spec drives it coast to coast using only IONNA stations, testing both the car and the network across 1,500 miles of the first leg.</description>
-  </item>
-<item>
-    <title>Amflow PR Carbon Review: A Sub-$5,000 eMTB That Actually Earns It</title>
-    <link>https://nexusevnews.com/articles/amflow-pr-carbon-emtb-review-loam-wolf-shootout-2026.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/amflow-pr-carbon-emtb-review-loam-wolf-shootout-2026.html</guid>
-    <pubDate>Mon, 01 Jun 2026 21:00:00 +0000</pubDate>
-    <dc:creator>The Loam Wolf</dc:creator>
-    <category>reviews</category>
-    <description>At $4,999 with the Avinox M2 motor, the Amflow PR Carbon rode double-black trails at the 2026 Lone Wolf Shootout without anyone walking, though the fork has a ceiling.</description>
-  </item>
-
-
-
-
-
-<item>
+  <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
       <link>https://nexusevnews.com/opinion-r2-tracker.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-r2-tracker.html</guid>
@@ -183,7 +178,7 @@
       <category>Opinion</category>
       <description>People were reading website source code to find out when their Rivian was coming. Forum signatures listed Guide contact dates like military service records. We are not doing that again for the R2. The Rivian R2 Delivery Tracker is live.</description>
     </item>
-<item>
+  <item>
       <title>Two Batteries, One Hitch, and the Case for All-Electric Glamping</title>
       <link>https://nexusevnews.com/opinion-rivian-lightship-glamping.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-rivian-lightship-glamping.html</guid>
@@ -192,7 +187,7 @@
       <category>Opinion</category>
       <description>The Lightship AE1 carries its own 69 kWh battery and 80 kW motor to neutralize trailer drag on the tow vehicle. Paired with a Rivian, the real-world efficiency numbers are hard to argue with. This is what all-electric glamping looks like when the hardware actually works.</description>
     </item>
-<item>
+  <item>
       <title>Atlanta, Rivian, and the Quiet Coincidence</title>
       <link>https://nexusevnews.com/opinion-atlanta-rivian-quiet-coincidence.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-atlanta-rivian-quiet-coincidence.html</guid>
@@ -201,5 +196,7 @@
       <category>Opinion</category>
       <description>Atlanta has a failing air quality grade and a Rivian plant on its doorstep. A hypothetical about what one city could do with the electric mobility infrastructure that already exists — R2 autonomous taxis, ALSO cargo quads, e-bikes, and ZTL-style restricted zones — and what the health data says the stakes actually are. Includes data from the HEI lockdown air quality study (Chen et al., 2025) and the American Lung Association's 2025 Atlanta air quality report.</description>
     </item>
+
+
 </channel>
 </rss>
