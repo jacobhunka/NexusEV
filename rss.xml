@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+  <item>
+    <title>Ferrari's First Electric Car Is a Four-Door Designed by the Team Behind the iPhone</title>
+    <link>https://nexusevnews.com/articles/ferrari-luche-ev-debut-four-door-electric-rome.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-luche-ev-debut-four-door-electric-rome.html</guid>
+    <pubDate>Sat, 06 Jun 2026 22:00:00 +0000</pubDate>
+    <dc:creator>Everything Electric CARS</dc:creator>
+    <category>Reviews</category>
+    <description>Ferrari unveiled the Luce in Rome: a 120 kWh, four-motor grand tourer built from scratch by Jony Ive and Marc Newson. Nothing was carried over from an existing model.</description>
+  </item>
+  <item>
+    <title>A California Startup Just Demonstrated 100 Hours of Grid Storage Using Tech From a Mars Mission</title>
+    <link>https://nexusevnews.com/articles/noon-energy-100-hour-grid-storage-mars-battery.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/noon-energy-100-hour-grid-storage-mars-battery.html</guid>
+    <pubDate>Sat, 06 Jun 2026 21:00:00 +0000</pubDate>
+    <dc:creator>Undecided with Matt Ferrell</dc:creator>
+    <category>Battery Tech</category>
+    <description>Noon Energy's carbon-air system stored energy for over 100 hours in a shipping-container-sized unit, using NASA-developed electrochemistry originally designed to make oxygen on Mars.</description>
+  </item>
+  <item>
+    <title>Toyota Hilux EV First Drive: 159 Miles of Range, But Still Passes Its Off-Road Brief</title>
+    <link>https://nexusevnews.com/articles/toyota-hilux-ev-first-drive-range-off-road.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/toyota-hilux-ev-first-drive-range-off-road.html</guid>
+    <pubDate>Sat, 06 Jun 2026 20:30:00 +0000</pubDate>
+    <dc:creator>Electrifying</dc:creator>
+    <category>Reviews</category>
+    <description>The electric Hilux has a 59.2 kWh battery and dual motors but drops towing from 3.5 tons to 1.6. Toyota says it's for urban fleets, not farm use, and the off-road test backed that framing up.</description>
+  </item>
+  <item>
+    <title>Rivian R1S After 7,000 Miles: Strong Software, Slow Charging, and Small Build Issues</title>
+    <link>https://nexusevnews.com/articles/rivian-r1s-2026-7000-miles-ownership-review.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r1s-2026-7000-miles-ownership-review.html</guid>
+    <pubDate>Sat, 06 Jun 2026 20:00:00 +0000</pubDate>
+    <dc:creator>Gjeebs</dc:creator>
+    <category>Reviews</category>
+    <description>The 2026 R1S tri-motor is a genuine achievement at 2.9 seconds to 60 mph and 350 miles of range, but charging tops out at 215 kW and small build quality issues keep turning up.</description>
+  </item>
+  <item>
+    <title>Volkswagen CEO Calls This a Turning Point: Four New EVs, One Platform, Built in Spain</title>
+    <link>https://nexusevnews.com/articles/volkswagen-ceo-new-ev-push-spain-id-polo-raval.html</link>
+    <guid isPermaLink="true">https://nexusevnews.com/articles/volkswagen-ceo-new-ev-push-spain-id-polo-raval.html</guid>
+    <pubDate>Sat, 06 Jun 2026 19:30:00 +0000</pubDate>
+    <dc:creator>DW News</dc:creator>
+    <category>News</category>
+    <description>Oliver Blume marked production start of the ID Polo and Raval in Martorell. Three brands share one platform, with entry pricing targeting EUR 25,000 for the European volume market.</description>
+  </item>
       <item>
     <title>Battery-Powered Planes Are Already Flying Routes Across America</title>
     <link>https://nexusevnews.com/articles/beta-electric-plane-gma-ups-amazon-delivery.html</link>
@@ -124,51 +169,11 @@
   <category>Deep Dives</category>
   <description>Two Supercharger stops, a free overnight hotel charge, and brutal prairie headwinds. Total: $36.49 CAD for a 600 km round trip. A Civic would have cost $86 CAD. A pickup truck, $168 CAD.</description>
 </item>
-  <item>
-  <title>Pebble Flow Tow Test With a Rivian R1T: Strong Stability, Lighter Assist Than Expected</title>
-  <link>https://nexusevnews.com/articles/pebble-flow-tow-test-rivian-r1t-out-of-spec-reviews.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/pebble-flow-tow-test-rivian-r1t-out-of-spec-reviews.html</guid>
-  <pubDate>Wed, 03 Jun 2026 20:30:00 +0000</pubDate>
-  <dc:creator>Out of Spec Reviews</dc:creator>
-  <category>Reviews</category>
-  <description>First real-world tow of the Pebble Flow behind a Rivian R1T. Highway tracking is dead straight. Easy Tow mode peaks around 14 kW of push. The hardware can do far more. A software update is promised.</description>
-</item>
-  <item>
-  <title>BYD Claims 12-Minute LFP Charge at -30°C. The Details Are Almost Entirely Missing.</title>
-  <link>https://nexusevnews.com/articles/byd-denza-z9-gt-minus-30c-cold-charge-test-ben-alexxander.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/byd-denza-z9-gt-minus-30c-cold-charge-test-ben-alexxander.html</guid>
-  <pubDate>Wed, 03 Jun 2026 20:00:00 +0000</pubDate>
-  <dc:creator>Ben Alexxander</dc:creator>
-  <category>Battery Tech</category>
-  <description>BYD left a Denza Z9 GT in a deep freeze for 24 hours and says it charged from 20% to 97% in 12 minutes. If genuine and repeatable, it changes winter EV ownership in cold climates.</description>
-</item>
-  <item>
-  <title>China's Decade-Long Renewable Build Is Now a Geopolitical Shield Against Oil Shocks</title>
-  <link>https://nexusevnews.com/articles/china-renewable-energy-gansu-solar-abc-news.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/china-renewable-energy-gansu-solar-abc-news.html</guid>
-  <pubDate>Wed, 03 Jun 2026 19:30:00 +0000</pubDate>
-  <dc:creator>ABC News</dc:creator>
-  <category>Solar</category>
-  <description>While the Iran conflict has sent oil prices surging, China's solar and wind buildout in Gansu is keeping electricity prices stable. More than half of new power capacity now comes from renewables.</description>
-</item>
-  <item>
-  <title>The 2026 Nissan Leaf Has Quietly Become a Car Worth Taking Seriously</title>
-  <link>https://nexusevnews.com/articles/nissan-leaf-2026-review-facelift-glow-up-auto-focus.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/nissan-leaf-2026-review-facelift-glow-up-auto-focus.html</guid>
-  <pubDate>Tue, 02 Jun 2026 22:00:00 +0000</pubDate>
-  <dc:creator>Auto Focus</dc:creator>
-  <category>Reviews</category>
-  <description>Nissan's facelifted Leaf starts near $30,000, now offers 260 miles of range, a tinted electrochromic sunroof, and an interior that finally matches its ambitions.</description>
-</item>
-  <item>
-  <title>Polestar 5 Review: A Grand Tourer That Earns the Label</title>
-  <link>https://nexusevnews.com/articles/polestar-5-review-road-trip-france-everything-electric.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/polestar-5-review-road-trip-france-everything-electric.html</guid>
-  <pubDate>Tue, 02 Jun 2026 21:00:00 +0000</pubDate>
-  <dc:creator>Everything Electric CARS</dc:creator>
-  <category>Reviews</category>
-  <description>A 106 kWh battery, realistic range around 420 km, and a Swedish-minimalist interior built entirely from recyclable materials. Driven from Annecy to Nice as part of a Gothenburg-to-Morocco press drive.</description>
-</item>
+
+
+
+
+
   <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
       <link>https://nexusevnews.com/opinion-r2-tracker.html</link>
