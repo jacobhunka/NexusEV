@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+  <item>
+      <title>BMW iX3 vs Mercedes CLA: 500 Miles, One Charge, and a Very Long Drive North</title>
+      <link>https://nexusevnews.com/articles/autotrader-bmw-ix3-mercedes-cla-500-mile-range-test.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/autotrader-bmw-ix3-mercedes-cla-500-mile-range-test.html</guid>
+      <pubDate>Mon, 08 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Autotrader UK</dc:creator>
+      <category>Deep Dives</category>
+      <description>Autotrader UK drives the BMW iX3 and Mercedes CLA 250 Plus from Northampton toward Scotland on a single charge. Real-world range lands at 429 and 434 miles. The petrol camera car stops at the same distance.</description>
+    </item>
+    <item>
+      <title>How Regenerative Braking Actually Works: The Physics Behind Slowing Down to Charge Up</title>
+      <link>https://nexusevnews.com/articles/how-regenerative-braking-works-jeremy-fielding.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/how-regenerative-braking-works-jeremy-fielding.html</guid>
+      <pubDate>Mon, 08 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Jeremy Fielding</dc:creator>
+      <category>Battery Tech</category>
+      <description>Engineer Jeremy Fielding builds a custom flywheel rig to demonstrate how electric motors become generators under braking, and what the real range gains and brake pad savings look like in practice.</description>
+    </item>
+    <item>
+      <title>The Tesla Model Y Is Cheap to Run But Not Always Cheap to Own</title>
+      <link>https://nexusevnews.com/articles/tesla-model-y-real-cost-of-ownership-everyday-chris.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-y-real-cost-of-ownership-everyday-chris.html</guid>
+      <pubDate>Mon, 08 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Everyday Chris</dc:creator>
+      <category>Reviews</category>
+      <description>Five years of real Model Y ownership data: fuel savings are genuine, but California insurance, EV registration fees, load-rated tires, and cracked glass complicate the total savings story significantly.</description>
+    </item>
+    <item>
+      <title>Europe's EV Market Share Is Surging: Norway at 98%, France Nearly Doubles Year-on-Year</title>
+      <link>https://nexusevnews.com/articles/europe-ev-market-share-surge-may-2026-electric-viking.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/europe-ev-market-share-surge-may-2026-electric-viking.html</guid>
+      <pubDate>Mon, 08 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>The Electric Viking</dc:creator>
+      <category>News</category>
+      <description>May 2026 European EV registration data: Norway 98%, Denmark 95.8% among private buyers, France 29% up from 16%, Italy registrations up 76%. The anti-EV media narrative from last year is not holding up.</description>
+    </item>
+    <item>
+      <title>Rivian R1T Tows a 38-Foot Triple-Axle Trailer and Makes It Look Straightforward</title>
+      <link>https://nexusevnews.com/articles/rivian-r1t-triple-axle-trailer-towing-out-of-spec-bits.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r1t-triple-axle-trailer-towing-out-of-spec-bits.html</guid>
+      <pubDate>Mon, 08 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec BITS</dc:creator>
+      <category>Deep Dives</category>
+      <description>A four-year-old R1T with 128 kWh of usable capacity hauls a massive empty triple-axle bumper pull 70 miles. Efficiency drops to one mile per kWh. Key lesson: aerodynamic profile crushes EV towing range, not trailer weight.</description>
+    </item>
   <item>
       <title>The Ferrari Luce Costs $640,000 and Nobody Can Agree on Whether It's Ugly</title>
       <link>https://nexusevnews.com/articles/waveform-ferrari-luce-design-debate-640k.html</link>
@@ -124,51 +169,11 @@
     <category>Deep Dives</category>
     <description>Solar overproduction is pushing wholesale electricity prices to zero. Smart meters and flexible tariffs let households charge cheaply and earn money selling power back to the grid.</description>
   </item>
-    <item>
-    <title>Porsche Macan GTS Beats the Tesla Model Y Performance in a Drag Race</title>
-    <link>https://nexusevnews.com/articles/porsche-macan-gts-vs-tesla-model-y-performance-audi-sq6-review.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/porsche-macan-gts-vs-tesla-model-y-performance-audi-sq6-review.html</guid>
-    <pubDate>Fri, 05 Jun 2026 20:30:00 +0000</pubDate>
-    <dc:creator>What Car?</dc:creator>
-    <category>Reviews</category>
-    <description>Three electric sports SUVs, 250 miles, and one standing-kilometer drag race. The Porsche won the strip. The Tesla won the overall value argument. The Audi finished third.</description>
-  </item>
-    <item>
-    <title>Living in the $150K Pebble Flow Electric RV: First Real Camping Night</title>
-    <link>https://nexusevnews.com/articles/pebble-flow-electric-rv-first-camping-night-out-of-spec.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/pebble-flow-electric-rv-first-camping-night-out-of-spec.html</guid>
-    <pubDate>Fri, 05 Jun 2026 20:00:00 +0000</pubDate>
-    <dc:creator>Out of Spec Reviews</dc:creator>
-    <category>Reviews</category>
-    <description>One night, two people, full AC in the heat, long showers, cooking, and a 74-mile tow. Real energy consumption numbers and honest verdict on what works and what does not.</description>
-  </item>
-    <item>
-    <title>Sodium Home Batteries Are Being Installed Right Now. Are They Better Than Lithium?</title>
-    <link>https://nexusevnews.com/articles/sodium-ion-home-battery-11-energy-uk-review.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/sodium-ion-home-battery-11-energy-uk-review.html</guid>
-    <pubDate>Fri, 05 Jun 2026 19:30:00 +0000</pubDate>
-    <dc:creator>Everything Electric TECH</dc:creator>
-    <category>Battery Tech</category>
-    <description>Salt-based batteries priced at parity with lithium, working at minus 20 degrees C without heaters, and discharging more fully per cycle. A UK startup is already fitting them in homes.</description>
-  </item>
-    <item>
-    <title>Wall-Mounted Solar Turns a South-Facing Brick Wall Into a £120/Year Profit</title>
-    <link>https://nexusevnews.com/articles/wall-solar-panels-zero-bills-everything-electric.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/wall-solar-panels-zero-bills-everything-electric.html</guid>
-    <pubDate>Thu, 04 Jun 2026 22:00:00 +0000</pubDate>
-    <dc:creator>Everything Electric TECH</dc:creator>
-    <category>Solar</category>
-    <description>A UK homeowner's full retrofit reaches zero utility bills and earns £120 a year in grid export while charging two EVs. The wall solar array contributes 50 percent of total generation in winter.</description>
-  </item>
-    <item>
-    <title>GM's Hummer X Concept Is a Modular, Electric Off-Roader Designed to Be Taken Apart</title>
-    <link>https://nexusevnews.com/articles/hummer-x-concept-gm-modular-ev-cnet.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/hummer-x-concept-gm-modular-ev-cnet.html</guid>
-    <pubDate>Thu, 04 Jun 2026 21:00:00 +0000</pubDate>
-    <dc:creator>CNET</dc:creator>
-    <category>Reviews</category>
-    <description>GM reveals the Hummer X at its Pasadena advanced design facility: a fully electric truck with removable body panels, RFID pack-checking, and a design philosophy built around owner customization.</description>
-  </item>
+
+
+
+
+
     <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
       <link>https://nexusevnews.com/opinion-r2-tracker.html</link>
