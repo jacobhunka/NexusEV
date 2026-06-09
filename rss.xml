@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -17,6 +17,51 @@
     <category>Solar</category>
     <category>Battery Technology</category>
   <item>
+      <title>Rivian R2 Launch Day: Order Invitations Are Going Out Now</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-launch-day-orders-open-june-9-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-launch-day-orders-open-june-9-2026.html</guid>
+      <pubDate>Tue, 09 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Rivian</dc:creator>
+      <category>News</category>
+      <description>June 9 is here. Rivian has started sending R2 order invitations, demo drives are open for booking, and the first vehicles are heading to driveways. Performance trim with Autonomy+ is the first available to order.</description>
+    </item>
+    <item>
+      <title>Fox ESS High Voltage Solar Kit: The First High Voltage System The Solar Lab Actually Recommends</title>
+      <link>https://nexusevnews.com/articles/fox-ess-high-voltage-solar-kit-north-america-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/fox-ess-high-voltage-solar-kit-north-america-review.html</guid>
+      <pubDate>Tue, 09 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>The Solar Lab</dc:creator>
+      <category>Solar</category>
+      <description>The Solar Lab has tested every major high voltage residential solar kit. The Fox ESS 9.6 kW inverter and stackable battery system is the first one they would actually recommend. Big market share in Europe, new to North America.</description>
+    </item>
+    <item>
+      <title>EGO Aura R2 Robotic Mower Review: RTK Navigation, No Boundary Wire, Up to 6,000m2</title>
+      <link>https://nexusevnews.com/articles/ego-aura-r2-robotic-lawn-mower-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ego-aura-r2-robotic-lawn-mower-review.html</guid>
+      <pubDate>Tue, 09 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Machinery Nation</dc:creator>
+      <category>Reviews</category>
+      <description>EGO's first robotic mower uses RTK satellite navigation, LiDAR, and cameras to map lawns without a boundary wire. Machinery Nation puts the Aura R2 to work on a real garden for several days.</description>
+    </item>
+    <item>
+      <title>Donut Lab Has Missed Every Deadline It Set and Gone Quiet. Where Did the Battery Revolution Go?</title>
+      <link>https://nexusevnews.com/articles/donut-lab-solid-state-battery-missed-deadlines-update.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/donut-lab-solid-state-battery-missed-deadlines-update.html</guid>
+      <pubDate>Tue, 09 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Ben Alexxander</dc:creator>
+      <category>Battery Tech</category>
+      <description>In January 2026, Donut Lab claimed 400 Wh/kg, 5-minute charging, 100,000 cycles, and Q1 production deliveries. Every deadline has passed with no independently verified evidence and no customer deliveries.</description>
+    </item>
+    <item>
+      <title>A 2012 Tesla Model S Gets More Software Updates Than a 2024 Porsche Macan EV. That Is a Problem.</title>
+      <link>https://nexusevnews.com/articles/automakers-need-to-take-software-updates-seriously.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/automakers-need-to-take-software-updates-seriously.html</guid>
+      <pubDate>Tue, 09 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Deep Dives</category>
+      <description>Out of Spec Reviews makes the case that EV software strategy has become the line between a great car and a frustrating one. Three ownership experiences, from a 2012 Model S to a 2024 Macan EV, drive the point home.</description>
+    </item>
+    <item>
       <title>BMW iX3 vs Mercedes CLA: 500 Miles, One Charge, and a Very Long Drive North</title>
       <link>https://nexusevnews.com/articles/autotrader-bmw-ix3-mercedes-cla-500-mile-range-test.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/autotrader-bmw-ix3-mercedes-cla-500-mile-range-test.html</guid>
@@ -25,7 +70,7 @@
       <category>Deep Dives</category>
       <description>Autotrader UK drives the BMW iX3 and Mercedes CLA 250 Plus from Northampton toward Scotland on a single charge. Real-world range lands at 429 and 434 miles. The petrol camera car stops at the same distance.</description>
     </item>
-    <item>
+      <item>
       <title>How Regenerative Braking Actually Works: The Physics Behind Slowing Down to Charge Up</title>
       <link>https://nexusevnews.com/articles/how-regenerative-braking-works-jeremy-fielding.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/how-regenerative-braking-works-jeremy-fielding.html</guid>
@@ -124,56 +169,6 @@
     <category>Battery Tech</category>
     <description>Noon Energy's carbon-air system stored energy for over 100 hours in a shipping-container-sized unit, using NASA-developed electrochemistry originally designed to make oxygen on Mars.</description>
   </item>
-    <item>
-    <title>Toyota Hilux EV First Drive: 159 Miles of Range, But Still Passes Its Off-Road Brief</title>
-    <link>https://nexusevnews.com/articles/toyota-hilux-ev-first-drive-range-off-road.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/toyota-hilux-ev-first-drive-range-off-road.html</guid>
-    <pubDate>Sat, 06 Jun 2026 20:30:00 +0000</pubDate>
-    <dc:creator>Electrifying</dc:creator>
-    <category>Reviews</category>
-    <description>The electric Hilux has a 59.2 kWh battery and dual motors but drops towing from 3.5 tons to 1.6. Toyota says it's for urban fleets, not farm use, and the off-road test backed that framing up.</description>
-  </item>
-    <item>
-    <title>Rivian R1S After 7,000 Miles: Strong Software, Slow Charging, and Small Build Issues</title>
-    <link>https://nexusevnews.com/articles/rivian-r1s-2026-7000-miles-ownership-review.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r1s-2026-7000-miles-ownership-review.html</guid>
-    <pubDate>Sat, 06 Jun 2026 20:00:00 +0000</pubDate>
-    <dc:creator>Gjeebs</dc:creator>
-    <category>Reviews</category>
-    <description>The 2026 R1S tri-motor is a genuine achievement at 2.9 seconds to 60 mph and 350 miles of range, but charging tops out at 215 kW and small build quality issues keep turning up.</description>
-  </item>
-    <item>
-    <title>Volkswagen CEO Calls This a Turning Point: Four New EVs, One Platform, Built in Spain</title>
-    <link>https://nexusevnews.com/articles/volkswagen-ceo-new-ev-push-spain-id-polo-raval.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/volkswagen-ceo-new-ev-push-spain-id-polo-raval.html</guid>
-    <pubDate>Sat, 06 Jun 2026 19:30:00 +0000</pubDate>
-    <dc:creator>DW News</dc:creator>
-    <category>News</category>
-    <description>Oliver Blume marked production start of the ID Polo and Raval in Martorell. Three brands share one platform, with entry pricing targeting EUR 25,000 for the European volume market.</description>
-  </item>
-    <item>
-    <title>Battery-Powered Planes Are Already Flying Routes Across America</title>
-    <link>https://nexusevnews.com/articles/beta-electric-plane-gma-ups-amazon-delivery.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/beta-electric-plane-gma-ups-amazon-delivery.html</guid>
-    <pubDate>Fri, 05 Jun 2026 22:00:00 +0000</pubDate>
-    <dc:creator>Good Morning America</dc:creator>
-    <category>News</category>
-    <description>Beta Technologies' all-electric aircraft charges for $13 and flies more than 300 miles on a single charge. UPS has ordered 150. Commercial freight operations begin in September.</description>
-  </item>
-    <item>
-    <title>Why Your Electric Bill Could Soon Be Negative</title>
-    <link>https://nexusevnews.com/articles/smart-energy-tariffs-flexible-pricing-renewables-dw.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/smart-energy-tariffs-flexible-pricing-renewables-dw.html</guid>
-    <pubDate>Fri, 05 Jun 2026 21:00:00 +0000</pubDate>
-    <dc:creator>DW News</dc:creator>
-    <category>Deep Dives</category>
-    <description>Solar overproduction is pushing wholesale electricity prices to zero. Smart meters and flexible tariffs let households charge cheaply and earn money selling power back to the grid.</description>
-  </item>
-
-
-
-
-
     <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
       <link>https://nexusevnews.com/opinion-r2-tracker.html</link>
