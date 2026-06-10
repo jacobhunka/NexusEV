@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -17,6 +17,51 @@
     <category>Solar</category>
     <category>Battery Technology</category>
   <item>
+      <title>Rivian R2 First Drive: Kyle Conner Spends Two Hours Finding Out How Good It Really Is</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-first-drive-out-of-spec-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-first-drive-out-of-spec-review.html</guid>
+      <pubDate>Wed, 10 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>reviews</category>
+      <description>The powertrain architecture is inverted from the R1: rear-primary, disconnecting front axle, and it shows. Kyle Conner drove on-road and off-road sections, ran a charging session at a Rivian Adventure Network stall, and came back with a two-hour verdict.</description>
+    </item>
+    <item>
+      <title>Rivian R2 Driven: Why It Doesn&#39;t Drive Like a Smaller R1S</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-kim-java-first-drive-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-kim-java-first-drive-review.html</guid>
+      <pubDate>Wed, 10 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Kim Java</dc:creator>
+      <category>reviews</category>
+      <description>Two thousand pounds lighter than the R1S and built on a completely separate midsize platform, the R2 does not behave like a shrunken version of anything. Java drove on-road and off-road sections and pressed RJ Scaringe on the $45,000 model take rate and autonomy timeline.</description>
+    </item>
+    <item>
+      <title>Two Tesla Model Y Owners Drive the Rivian R2 and Keep Their Reservation</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-everyday-chris-tesla-model-y-comparison.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-everyday-chris-tesla-model-y-comparison.html</guid>
+      <pubDate>Wed, 10 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Everyday Chris</dc:creator>
+      <category>reviews</category>
+      <description>Everyday Chris has owned two Model Ys for nearly a decade and put down an R2 reservation two years ago. The reservation survives contact with the actual vehicle. The honest answer to R2 versus Model Y is that they are for different buyers.</description>
+    </item>
+    <item>
+      <title>Rivian R2 Engineering Explained: The Chief Engineer Walks Through Every Compromise</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-engineering-deep-dive-savagegeese.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-engineering-deep-dive-savagegeese.html</guid>
+      <pubDate>Wed, 10 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>savagegeese</dc:creator>
+      <category>deep-dives</category>
+      <description>Chief engineer Max Kauf explains what Rivian traded away to hit the R2&#39;s price point and what they kept. The shift from body-on-frame to unibody, from air suspension to semi-active dampers, from 50/50 to 40/60 rear-bias torque split, all of it is on camera here.</description>
+    </item>
+    <item>
+      <title>An R1S Owner Drives the Rivian R2 and Comes Away With One Clear Verdict</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-gjeebs-r1s-owner-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-gjeebs-r1s-owner-review.html</guid>
+      <pubDate>Wed, 10 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Gjeebs</dc:creator>
+      <category>reviews</category>
+      <description>Gjeebs already owns an R1S, so the comparison is direct. His conclusion after driving the R2 at elevation in Utah: lighter, more agile, costs about half as much, and does not feel like a cheaper version of anything. The R2 is a different kind of Rivian.</description>
+    </item>
+      <item>
       <title>Rivian R2 Launch Day: Order Invitations Are Going Out Now</title>
       <link>https://nexusevnews.com/articles/rivian-r2-launch-day-orders-open-june-9-2026.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-launch-day-orders-open-june-9-2026.html</guid>
@@ -124,51 +169,6 @@
       <category>News</category>
       <description>The Ford Bronco New Energy is a camping-ready plug-in off-roader with 748 miles of EREV range starting at $33,000. Tariffs and Chinese tech bans mean it stays in China.</description>
     </item>
-    <item>
-      <title>Formula E Gen4: 600 kW, Permanent All-Wheel Drive, and 0-200 km/h in 4.4 Seconds</title>
-      <link>https://nexusevnews.com/articles/formula-e-gen4-car-600kw-awd-first-look.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/formula-e-gen4-car-600kw-awd-first-look.html</guid>
-      <pubDate>Sun, 07 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Formula E</dc:creator>
-      <category>News</category>
-      <description>Formula E's Gen4 car produces 600 kW and uses permanent AWD for the first time in any FIA World Championship single-seater. The new era begins with a massive performance jump.</description>
-    </item>
-    <item>
-      <title>Hyundai IONIQ 9 Review: Business-Class Second Row, Buttons Everywhere, and 335 Miles of Range</title>
-      <link>https://nexusevnews.com/articles/hyundai-ioniq-9-calligraphy-review-everyday-chris.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/hyundai-ioniq-9-calligraphy-review-everyday-chris.html</guid>
-      <pubDate>Sun, 07 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Everyday Chris</dc:creator>
-      <category>Reviews</category>
-      <description>The IONIQ 9 Calligraphy tops out at $79,500 with 335 miles of range, 350 kW charging, and a third row that surprised a 6-foot-3 reviewer with actual headroom.</description>
-    </item>
-    <item>
-      <title>The Chevy Bolt Did 341 Miles Over the Rockies on One Charge, with 8 Percent to Spare</title>
-      <link>https://nexusevnews.com/articles/chevy-bolt-lfp-cross-country-rockies-ionna-range.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/chevy-bolt-lfp-cross-country-rockies-ionna-range.html</guid>
-      <pubDate>Sun, 07 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Motoring</dc:creator>
-      <category>Deep Dives</category>
-      <description>Out of Spec Motoring pushed the new Chevy Bolt LFP 341 miles over the Rocky Mountains using only Ionna chargers, averaging 5.5 miles per kWh and arriving with 8 percent remaining.</description>
-    </item>
-    <item>
-    <title>Ferrari's First Electric Car Is a Four-Door Designed by the Team Behind the iPhone</title>
-    <link>https://nexusevnews.com/articles/ferrari-luche-ev-debut-four-door-electric-rome.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-luche-ev-debut-four-door-electric-rome.html</guid>
-    <pubDate>Sat, 06 Jun 2026 22:00:00 +0000</pubDate>
-    <dc:creator>Everything Electric CARS</dc:creator>
-    <category>Reviews</category>
-    <description>Ferrari unveiled the Luce in Rome: a 120 kWh, four-motor grand tourer built from scratch by Jony Ive and Marc Newson. Nothing was carried over from an existing model.</description>
-  </item>
-    <item>
-    <title>A California Startup Just Demonstrated 100 Hours of Grid Storage Using Tech From a Mars Mission</title>
-    <link>https://nexusevnews.com/articles/noon-energy-100-hour-grid-storage-mars-battery.html</link>
-    <guid isPermaLink="true">https://nexusevnews.com/articles/noon-energy-100-hour-grid-storage-mars-battery.html</guid>
-    <pubDate>Sat, 06 Jun 2026 21:00:00 +0000</pubDate>
-    <dc:creator>Undecided with Matt Ferrell</dc:creator>
-    <category>Battery Tech</category>
-    <description>Noon Energy's carbon-air system stored energy for over 100 hours in a shipping-container-sized unit, using NASA-developed electrochemistry originally designed to make oxygen on Mars.</description>
-  </item>
     <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
       <link>https://nexusevnews.com/opinion-r2-tracker.html</link>
