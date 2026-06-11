@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>The Long-Range Kia EV2 Drove 275 Real-World Miles, Past Its Own WLTP Figure</title>
+      <link>https://nexusevnews.com/articles/kia-ev2-long-range-real-world-range-test-electrifying.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/kia-ev2-long-range-real-world-range-test-electrifying.html</guid>
+      <pubDate>Thu, 11 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>reviews</category>
+      <description>Electrifying drove the 61 kWh EV2 across Norway until it gave up, shadowing the official Norwegian range convoy. It covered 275 miles at 4.56 miles per kWh, beating the lab claim, then raised a sharper question: with range this good, does anyone still need a bigger battery?</description>
+    </item>
+    <item>
+      <title>BYD&#39;s Flash Charging Reaches Europe With a Five-Minute Claim and a CCS Plug</title>
+      <link>https://nexusevnews.com/articles/byd-flash-charging-uk-europe-launch-dan-latham.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-flash-charging-uk-europe-launch-dan-latham.html</guid>
+      <pubDate>Thu, 11 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Dan Latham</dc:creator>
+      <category>charging</category>
+      <description>BYD is bringing its flash charging network to the UK and Europe, starting with a station in Bologna this week and around 300 UK sites to follow. The pitch is 10 to 70% in roughly five minutes, on a standard CCS plug any compatible car can use, with battery-buffered units that need no grid upgrade.</description>
+    </item>
+    <item>
+      <title>The £31,495 Leapmotor B10 Is a Genuinely Good Family SUV With One Real Flaw</title>
+      <link>https://nexusevnews.com/articles/leapmotor-b10-review-robert-llewellyn-everything-electric.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/leapmotor-b10-review-robert-llewellyn-everything-electric.html</guid>
+      <pubDate>Thu, 11 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Everything Electric CARS</dc:creator>
+      <category>reviews</category>
+      <description>Robert Llewellyn calls the Leapmotor B10 a delight: a compact family SUV at £31,495 with a 410-litre boot, 165 kW charging and around 4.6 miles per kWh. The Stellantis tie-up gives it real European dealer backing. The catch is a lane-keeping assistant that switches itself back on after you turn it off.</description>
+    </item>
+    <item>
+      <title>The Window Heat Pump That Could Finally Bring Clean Heating to Renters</title>
+      <link>https://nexusevnews.com/articles/window-heat-pumps-nyc-clean-heat-undecided-matt-ferrell.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/window-heat-pumps-nyc-clean-heat-undecided-matt-ferrell.html</guid>
+      <pubDate>Thu, 11 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Undecided with Matt Ferrell</dc:creator>
+      <category>deep-dives</category>
+      <description>Saddle-style window heat pumps install in about 30 minutes off a standard outlet, heat and cool, and move two to three times more energy than they use. New York is rolling out 30,000 to replace aging boilers, and the form factor finally opens clean heating to renters who could never gut a wall.</description>
+    </item>
+    <item>
+      <title>CATL Says Its Naxtra Sodium Battery Passed Every Safety Test and Ships in December</title>
+      <link>https://nexusevnews.com/articles/catl-naxtra-sodium-ion-battery-mass-production-ben-alexxander.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/catl-naxtra-sodium-ion-battery-mass-production-ben-alexxander.html</guid>
+      <pubDate>Thu, 11 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Ben Alexxander</dc:creator>
+      <category>battery-tech</category>
+      <description>CATL confirmed test results for its Naxtra sodium-ion cells: 175 Wh/kg, roughly half the cost of LFP, 90% capacity at minus 40 degrees, and 10,000-plus cycles. It cleared China&#39;s new no-fire safety standard and enters mass production in December. The cold-weather and cost claims are the ones to watch.</description>
+    </item>
   <item>
       <title>Rivian R2 First Drive: Kyle Conner Spends Two Hours Finding Out How Good It Really Is</title>
       <link>https://nexusevnews.com/articles/rivian-r2-first-drive-out-of-spec-review.html</link>
@@ -123,51 +168,6 @@
       <dc:creator>Jeremy Fielding</dc:creator>
       <category>Battery Tech</category>
       <description>Engineer Jeremy Fielding builds a custom flywheel rig to demonstrate how electric motors become generators under braking, and what the real range gains and brake pad savings look like in practice.</description>
-    </item>
-    <item>
-      <title>The Tesla Model Y Is Cheap to Run But Not Always Cheap to Own</title>
-      <link>https://nexusevnews.com/articles/tesla-model-y-real-cost-of-ownership-everyday-chris.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-y-real-cost-of-ownership-everyday-chris.html</guid>
-      <pubDate>Mon, 08 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Everyday Chris</dc:creator>
-      <category>Reviews</category>
-      <description>Five years of real Model Y ownership data: fuel savings are genuine, but California insurance, EV registration fees, load-rated tires, and cracked glass complicate the total savings story significantly.</description>
-    </item>
-    <item>
-      <title>Europe's EV Market Share Is Surging: Norway at 98%, France Nearly Doubles Year-on-Year</title>
-      <link>https://nexusevnews.com/articles/europe-ev-market-share-surge-may-2026-electric-viking.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/europe-ev-market-share-surge-may-2026-electric-viking.html</guid>
-      <pubDate>Mon, 08 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>The Electric Viking</dc:creator>
-      <category>News</category>
-      <description>May 2026 European EV registration data: Norway 98%, Denmark 95.8% among private buyers, France 29% up from 16%, Italy registrations up 76%. The anti-EV media narrative from last year is not holding up.</description>
-    </item>
-    <item>
-      <title>Rivian R1T Tows a 38-Foot Triple-Axle Trailer and Makes It Look Straightforward</title>
-      <link>https://nexusevnews.com/articles/rivian-r1t-triple-axle-trailer-towing-out-of-spec-bits.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r1t-triple-axle-trailer-towing-out-of-spec-bits.html</guid>
-      <pubDate>Mon, 08 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec BITS</dc:creator>
-      <category>Deep Dives</category>
-      <description>A four-year-old R1T with 128 kWh of usable capacity hauls a massive empty triple-axle bumper pull 70 miles. Efficiency drops to one mile per kWh. Key lesson: aerodynamic profile crushes EV towing range, not trailer weight.</description>
-    </item>
-  <item>
-      <title>The Ferrari Luce Costs $640,000 and Nobody Can Agree on Whether It's Ugly</title>
-      <link>https://nexusevnews.com/articles/waveform-ferrari-luce-design-debate-640k.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/waveform-ferrari-luce-design-debate-640k.html</guid>
-      <pubDate>Sun, 07 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Waveform Clips</dc:creator>
-      <category>Reviews</category>
-      <description>Marques Brownlee drove the Ferrari Luce before its reveal and he still can't fully defend the design. The Waveform crew breaks down why $640,000 raises the stakes on every styling choice.</description>
-    </item>
-    <item>
-      <title>Ford Built the Plug-In Off-Roader Americans Want, Then Made It Only for China</title>
-      <link>https://nexusevnews.com/articles/ford-bronco-new-energy-china-only-ev-first-look.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ford-bronco-new-energy-china-only-ev-first-look.html</guid>
-      <pubDate>Sun, 07 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>InsideEVs</dc:creator>
-      <category>News</category>
-      <description>The Ford Bronco New Energy is a camping-ready plug-in off-roader with 748 miles of EREV range starting at $33,000. Tariffs and Chinese tech bans mean it stays in China.</description>
     </item>
     <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
