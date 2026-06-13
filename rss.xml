@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>The Leapmotor B05 Is a Sub-€33,000 Electric Hatch Aimed at the Golf and Astra</title>
+      <link>https://nexusevnews.com/articles/leapmotor-b05-electric-hatchback-driving-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/leapmotor-b05-electric-hatchback-driving-review.html</guid>
+      <pubDate>Sat, 13 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Autogefühl</dc:creator>
+      <category>reviews</category>
+      <description>Autogefühl drives the Leapmotor B05, a compact electric hatchback priced from about €32,000 with a 67 kWh LFP battery, roughly 250 miles of real-world range and a 10 to 80 percent charge in around 18 minutes. It is sold through the same Stellantis dealers as the Opel Astra, and the cabin quality is the real surprise.</description>
+    </item>
+    <item>
+      <title>BMW&#39;s Concept M Neue Klasse Is a Preview of the Quad-Motor Electric M3</title>
+      <link>https://nexusevnews.com/articles/bmw-concept-m-neue-klasse-electric-m3-preview.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-concept-m-neue-klasse-electric-m3-preview.html</guid>
+      <pubDate>Sat, 13 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>BMW M</dc:creator>
+      <category>news</category>
+      <description>BMW pulled the cover off the Concept M Neue Klasse at Le Mans, a near-production look at its first electric M3. It uses four motors, an 800-volt system and a battery over 100 kWh, plus new yellow headlight slashes and Track Lights set to spread across future M cars.</description>
+    </item>
+    <item>
+      <title>What Actually Happens to an EV Battery in an 84 km/h Crash</title>
+      <link>https://nexusevnews.com/articles/ev-battery-crash-test-geely-safety-center-zeekr-7x.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ev-battery-crash-test-geely-safety-center-zeekr-7x.html</guid>
+      <pubDate>Sat, 13 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>battery-tech</category>
+      <description>Electrifying watched a Zeekr 7X get rear-ended at 84 km/h inside Geely&#39;s safety center in Ningbo. The cabin held, the doors still opened and the battery pack came through undamaged. The harder question is why EVs still cost more to insure when the packs are this tough.</description>
+    </item>
+    <item>
+      <title>Inside BMW M&#39;s Electric Nürburgring Testing, From Torque Vectoring to Engineered Sound</title>
+      <link>https://nexusevnews.com/articles/bmw-m-electrified-nurburgring-testing-episode-5.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-m-electrified-nurburgring-testing-episode-5.html</guid>
+      <pubDate>Sat, 13 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>BMW Group</dc:creator>
+      <category>deep-dives</category>
+      <description>BMW M takes its electric prototype to the Nürburgring in the fifth episode of its development series. Four motors and one control unit allow torque vectoring with no delay, a new axle was designed for the load, and a team is building a performance sound that does not copy a combustion engine.</description>
+    </item>
+    <item>
+      <title>Will the R2 Be the Hit Rivian Needs? Jason Fenske and the InsideEVs Crew Weigh In</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-jason-fenske-pluggedin-podcast.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-jason-fenske-pluggedin-podcast.html</guid>
+      <pubDate>Sat, 13 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>InsideEVs</dc:creator>
+      <category>reviews</category>
+      <description>The Plugged-In Podcast brings on Jason Fenske of Engineering Explained to talk Rivian R2 deliveries. The verdict is a simpler, cheaper R1S that fixes most of the big SUV&#39;s annoyances. The bigger question is whether Rivian and Lucid can survive the jump to volume.</description>
+    </item>
     <item>
       <title>Rivian Laid Out What Is Actually Coming to R2 Autonomy, From Auto Park to Point to Point</title>
       <link>https://nexusevnews.com/articles/rivian-r2-autonomy-roadmap-uhf-2-auto-park-point-to-point.html</link>
@@ -124,52 +169,7 @@
       <category>reviews</category>
       <description>Two thousand pounds lighter than the R1S and built on a completely separate midsize platform, the R2 does not behave like a shrunken version of anything. Java drove on-road and off-road sections and pressed RJ Scaringe on the $45,000 model take rate and autonomy timeline.</description>
     </item>
-    <item>
-      <title>Two Tesla Model Y Owners Drive the Rivian R2 and Keep Their Reservation</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-everyday-chris-tesla-model-y-comparison.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-everyday-chris-tesla-model-y-comparison.html</guid>
-      <pubDate>Wed, 10 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Everyday Chris</dc:creator>
-      <category>reviews</category>
-      <description>Everyday Chris has owned two Model Ys for nearly a decade and put down an R2 reservation two years ago. The reservation survives contact with the actual vehicle. The honest answer to R2 versus Model Y is that they are for different buyers.</description>
-    </item>
-    <item>
-      <title>Rivian R2 Engineering Explained: The Chief Engineer Walks Through Every Compromise</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-engineering-deep-dive-savagegeese.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-engineering-deep-dive-savagegeese.html</guid>
-      <pubDate>Wed, 10 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>savagegeese</dc:creator>
-      <category>deep-dives</category>
-      <description>Chief engineer Max Kauf explains what Rivian traded away to hit the R2&#39;s price point and what they kept. The shift from body-on-frame to unibody, from air suspension to semi-active dampers, from 50/50 to 40/60 rear-bias torque split, all of it is on camera here.</description>
-    </item>
-    <item>
-      <title>An R1S Owner Drives the Rivian R2 and Comes Away With One Clear Verdict</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-gjeebs-r1s-owner-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-gjeebs-r1s-owner-review.html</guid>
-      <pubDate>Wed, 10 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Gjeebs</dc:creator>
-      <category>reviews</category>
-      <description>Gjeebs already owns an R1S, so the comparison is direct. His conclusion after driving the R2 at elevation in Utah: lighter, more agile, costs about half as much, and does not feel like a cheaper version of anything. The R2 is a different kind of Rivian.</description>
-    </item>
       <item>
-      <title>Rivian R2 Launch Day: Order Invitations Are Going Out Now</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-launch-day-orders-open-june-9-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-launch-day-orders-open-june-9-2026.html</guid>
-      <pubDate>Tue, 09 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Rivian</dc:creator>
-      <category>News</category>
-      <description>June 9 is here. Rivian has started sending R2 order invitations, demo drives are open for booking, and the first vehicles are heading to driveways. Performance trim with Autonomy+ is the first available to order.</description>
-    </item>
-    <item>
-      <title>Fox ESS High Voltage Solar Kit: The First High Voltage System The Solar Lab Actually Recommends</title>
-      <link>https://nexusevnews.com/articles/fox-ess-high-voltage-solar-kit-north-america-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/fox-ess-high-voltage-solar-kit-north-america-review.html</guid>
-      <pubDate>Tue, 09 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>The Solar Lab</dc:creator>
-      <category>Solar</category>
-      <description>The Solar Lab has tested every major high voltage residential solar kit. The Fox ESS 9.6 kW inverter and stackable battery system is the first one they would actually recommend. Big market share in Europe, new to North America.</description>
-    </item>
-    <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
       <link>https://nexusevnews.com/opinion-r2-tracker.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-r2-tracker.html</guid>
