@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>RJ Scaringe on Why Rivian Bet Everything on Owning Its Own Software</title>
+      <link>https://nexusevnews.com/articles/rivian-rj-scaringe-software-robotics-masters-of-scale.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-rj-scaringe-software-robotics-masters-of-scale.html</guid>
+      <pubDate>Sun, 14 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Masters of Scale</dc:creator>
+      <category>deep-dives</category>
+      <description>Rivian CEO RJ Scaringe explains the early call to build its own electronics and software, the $5.8 billion Volkswagen licensing deal, the R2 ramp, the Uber robotaxi plan and a self-driving roadmap that goes unsupervised next year.</description>
+    </item>
+    <item>
+      <title>A Used Hyundai IONIQ 6 for $21,000 Is Quietly One of the Best EV Deals Going</title>
+      <link>https://nexusevnews.com/articles/used-hyundai-ioniq-6-delivery-out-of-spec.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/used-hyundai-ioniq-6-delivery-out-of-spec.html</guid>
+      <pubDate>Sun, 14 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>used-evs</category>
+      <description>Out of Spec helps Lacey buy a used IONIQ 6 SE with 24,000 miles for around $21,000, about $25,000 all-in. It is an 800-volt EV that still pulled past 200 kW on a DC charger. The catch is the ICCU.</description>
+    </item>
+    <item>
+      <title>GM and Peak Energy Built a Grid Battery That Cools Itself With No Fans or Coolant</title>
+      <link>https://nexusevnews.com/articles/gm-peak-energy-sodium-ion-grid-storage.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/gm-peak-energy-sodium-ion-grid-storage.html</guid>
+      <pubDate>Sun, 14 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Munro Live</dc:creator>
+      <category>battery-tech</category>
+      <description>GM is making sodium-ion cells in Warren, Michigan for a Peak Energy storage system that needs no liquid cooling. Modules stack on a tilt so heat rises and pulls air through on its own. Cheaper materials, decades of cycle life.</description>
+    </item>
+    <item>
+      <title>CATL Is Talking About a Battery With Almost the Energy Density of Gasoline</title>
+      <link>https://nexusevnews.com/articles/catl-lithium-air-battery-gasoline-energy-density.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/catl-lithium-air-battery-gasoline-energy-density.html</guid>
+      <pubDate>Sun, 14 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Ben Alexxander</dc:creator>
+      <category>battery-tech</category>
+      <description>CATL named lithium-air as a long-term research goal. Its theoretical energy density sits near gasoline at about 12,000 Wh/kg, and lab cells have reportedly topped 1,200 Wh/kg, several times today&#39;s packs. Likely a 2035-plus technology.</description>
+    </item>
+    <item>
+      <title>This Route 66 Fast Charger Runs on Sunlight With No Grid Connection at All</title>
+      <link>https://nexusevnews.com/articles/off-grid-solar-ev-charger-route-66-barstow-coral-charge.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/off-grid-solar-ev-charger-route-66-barstow-coral-charge.html</guid>
+      <pubDate>Sun, 14 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Scott Explains</dc:creator>
+      <category>solar</category>
+      <description>Coral Charge built an off-grid solar fast-charging station in Barstow, California. Roughly 600 panels, battery storage in each unit and up to 180 kW out, with no utility hookup. Pricing runs 50 cents per kWh.</description>
+    </item>
     <item>
       <title>The Leapmotor B05 Is a Sub-€33,000 Electric Hatch Aimed at the Golf and Astra</title>
       <link>https://nexusevnews.com/articles/leapmotor-b05-electric-hatchback-driving-review.html</link>
@@ -123,51 +168,6 @@
       <dc:creator>Dan Latham</dc:creator>
       <category>charging</category>
       <description>BYD is bringing its flash charging network to the UK and Europe, starting with a station in Bologna this week and around 300 UK sites to follow. The pitch is 10 to 70% in roughly five minutes, on a standard CCS plug any compatible car can use, with battery-buffered units that need no grid upgrade.</description>
-    </item>
-    <item>
-      <title>The £31,495 Leapmotor B10 Is a Genuinely Good Family SUV With One Real Flaw</title>
-      <link>https://nexusevnews.com/articles/leapmotor-b10-review-robert-llewellyn-everything-electric.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/leapmotor-b10-review-robert-llewellyn-everything-electric.html</guid>
-      <pubDate>Thu, 11 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Everything Electric CARS</dc:creator>
-      <category>reviews</category>
-      <description>Robert Llewellyn calls the Leapmotor B10 a delight: a compact family SUV at £31,495 with a 410-litre boot, 165 kW charging and around 4.6 miles per kWh. The Stellantis tie-up gives it real European dealer backing. The catch is a lane-keeping assistant that switches itself back on after you turn it off.</description>
-    </item>
-    <item>
-      <title>The Window Heat Pump That Could Finally Bring Clean Heating to Renters</title>
-      <link>https://nexusevnews.com/articles/window-heat-pumps-nyc-clean-heat-undecided-matt-ferrell.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/window-heat-pumps-nyc-clean-heat-undecided-matt-ferrell.html</guid>
-      <pubDate>Thu, 11 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Undecided with Matt Ferrell</dc:creator>
-      <category>deep-dives</category>
-      <description>Saddle-style window heat pumps install in about 30 minutes off a standard outlet, heat and cool, and move two to three times more energy than they use. New York is rolling out 30,000 to replace aging boilers, and the form factor finally opens clean heating to renters who could never gut a wall.</description>
-    </item>
-    <item>
-      <title>CATL Says Its Naxtra Sodium Battery Passed Every Safety Test and Ships in December</title>
-      <link>https://nexusevnews.com/articles/catl-naxtra-sodium-ion-battery-mass-production-ben-alexxander.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/catl-naxtra-sodium-ion-battery-mass-production-ben-alexxander.html</guid>
-      <pubDate>Thu, 11 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Ben Alexxander</dc:creator>
-      <category>battery-tech</category>
-      <description>CATL confirmed test results for its Naxtra sodium-ion cells: 175 Wh/kg, roughly half the cost of LFP, 90% capacity at minus 40 degrees, and 10,000-plus cycles. It cleared China&#39;s new no-fire safety standard and enters mass production in December. The cold-weather and cost claims are the ones to watch.</description>
-    </item>
-  <item>
-      <title>Rivian R2 First Drive: Kyle Conner Spends Two Hours Finding Out How Good It Really Is</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-first-drive-out-of-spec-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-first-drive-out-of-spec-review.html</guid>
-      <pubDate>Wed, 10 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>reviews</category>
-      <description>The powertrain architecture is inverted from the R1: rear-primary, disconnecting front axle, and it shows. Kyle Conner drove on-road and off-road sections, ran a charging session at a Rivian Adventure Network stall, and came back with a two-hour verdict.</description>
-    </item>
-    <item>
-      <title>Rivian R2 Driven: Why It Doesn&#39;t Drive Like a Smaller R1S</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-kim-java-first-drive-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-kim-java-first-drive-review.html</guid>
-      <pubDate>Wed, 10 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Kim Java</dc:creator>
-      <category>reviews</category>
-      <description>Two thousand pounds lighter than the R1S and built on a completely separate midsize platform, the R2 does not behave like a shrunken version of anything. Java drove on-road and off-road sections and pressed RJ Scaringe on the $45,000 model take rate and autonomy timeline.</description>
     </item>
       <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
