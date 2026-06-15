@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>China Now Sells One in Three Cars on Earth, and the US Watches From Behind a Tariff Wall</title>
+      <link>https://nexusevnews.com/articles/china-ev-dominance-us-tariff-wall-two-bit-davinci.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/china-ev-dominance-us-tariff-wall-two-bit-davinci.html</guid>
+      <pubDate>Mon, 15 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Two Bit da Vinci</dc:creator>
+      <category>deep-dives</category>
+      <description>Two Bit da Vinci lays out the scale: 34.4 million vehicles sold in China in 2025, 35.6% of the global market, EVs under $10,000, and a US tariff wall that keeps all of it out.</description>
+    </item>
+    <item>
+      <title>Texas Instruments Built a Chip That Lets a BMS See Inside the Cell</title>
+      <link>https://nexusevnews.com/articles/texas-instruments-eis-impedance-chip-battery-management.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/texas-instruments-eis-impedance-chip-battery-management.html</guid>
+      <pubDate>Mon, 15 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>battery-tech</category>
+      <description>At a German power show, TI demos EIS chips that read cell impedance in real time, promising earlier thermal runaway alerts, faster charging, and far better LFP state of charge.</description>
+    </item>
+    <item>
+      <title>Riding Shotgun as XPeng's P7 Drives Itself Through Chinese Traffic the US Bans</title>
+      <link>https://nexusevnews.com/articles/xpeng-p7-vla-self-driving-china-cnet.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/xpeng-p7-vla-self-driving-china-cnet.html</guid>
+      <pubDate>Mon, 15 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>CNET</dc:creator>
+      <category>reviews</category>
+      <description>A reporter tests XPeng's VLA 2.0 self-driving in China, threading pedestrians and tight squeezes with two human takeovers, plus a look at the company's flying machines.</description>
+    </item>
+    <item>
+      <title>Towing Lightship's Self-Propelled Trailer Behind a Rivian Nearly Erases the Range Penalty</title>
+      <link>https://nexusevnews.com/articles/lightship-ae1-trek-drive-tow-test-miss-goelectric.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/lightship-ae1-trek-drive-tow-test-miss-goelectric.html</guid>
+      <pubDate>Mon, 15 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Miss GoElectric</dc:creator>
+      <category>deep-dives</category>
+      <description>The production AE.1 uses its own 80 kW motor and hitch-force sensors to cancel trailer drag, holding a Rivian within about 5% of its unladen range at 8,000 pounds.</description>
+    </item>
+    <item>
+      <title>The Arctic Leopard XE Pro R Puts Full-Size Wheels on a 175-Pound eMoto for $5,799</title>
+      <link>https://nexusevnews.com/articles/arctic-leopard-xe-pro-r-2026-emoto-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/arctic-leopard-xe-pro-r-2026-emoto-review.html</guid>
+      <pubDate>Mon, 15 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Electric Cycle Rider</dc:creator>
+      <category>reviews</category>
+      <description>Electric Cycle Rider's first ride finds 26.5 kW, big 21 and 18 inch wheels, Surron-style brakes, and plush KKE suspension on a light, flickable trail bike at $5,799.</description>
+    </item>
     <item>
       <title>RJ Scaringe on Why Rivian Bet Everything on Owning Its Own Software</title>
       <link>https://nexusevnews.com/articles/rivian-rj-scaringe-software-robotics-masters-of-scale.html</link>
@@ -123,51 +168,6 @@
       <dc:creator>ABC News In-depth</dc:creator>
       <category>deep-dives</category>
       <description>Australian Story follows inventor Saul Griffith as Rewiring America&#39;s federal funding freezes after the 2024 US election. His answer is Electrify 2515, a community group near Wollongong helping 500 homes swap gas for electric appliances on solar, with savings of about 2,000 dollars a year.</description>
-    </item>
-    <item>
-      <title>The Changan S05 Lands in the UK at £37,990 With No Paid-Extra Trims</title>
-      <link>https://nexusevnews.com/articles/changan-s05-electric-suv-uk-first-look-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/changan-s05-electric-suv-uk-first-look-review.html</guid>
-      <pubDate>Fri, 12 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Everything Electric CARS</dc:creator>
-      <category>reviews</category>
-      <description>Everything Electric drives the new Changan S05, a compact electric SUV starting at £37,990 with a 68.8 kWh LFP battery and a 10 to 80 percent charge in about 20 minutes. Pick any seats, materials and paint for the same price, and the suspension was retuned for UK roads in Birmingham.</description>
-    </item>
-    <item>
-      <title>A Swarm of Underwater Turbines on the Rhine Is Making Power at Solar-Level Prices</title>
-      <link>https://nexusevnews.com/articles/energy-miner-swarm-power-plant-rhine-river.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/energy-miner-swarm-power-plant-rhine-river.html</guid>
-      <pubDate>Fri, 12 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>German Science Guy</dc:creator>
-      <category>deep-dives</category>
-      <description>German Science Guy explains Energy Miner&#39;s swarm power plant, a cluster of small underwater turbines called energy fish anchored in the Rhine. It produces constant base-load power at about 8 cents per kilowatt hour, with plans to grow this stretch to 124 turbines.</description>
-    </item>
-    <item>
-      <title>Ford&#39;s Cheap Electric Truck Has Been Spotted, and It Looks Built Around Efficiency</title>
-      <link>https://nexusevnews.com/articles/ford-affordable-electric-truck-spotted-spy-shots.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ford-affordable-electric-truck-spotted-spy-shots.html</guid>
-      <pubDate>Fri, 12 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Tailosive EV</dc:creator>
-      <category>news</category>
-      <description>Tailosive EV breaks down camouflaged spy shots of Ford&#39;s upcoming affordable electric truck. It rides low and aerodynamic on a universal platform with LFP structural batteries and a 48-volt system, targeting under 30,000 dollars, though dealer markups may push real prices toward 40,000.</description>
-    </item>
-    <item>
-      <title>The Long-Range Kia EV2 Drove 275 Real-World Miles, Past Its Own WLTP Figure</title>
-      <link>https://nexusevnews.com/articles/kia-ev2-long-range-real-world-range-test-electrifying.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/kia-ev2-long-range-real-world-range-test-electrifying.html</guid>
-      <pubDate>Thu, 11 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>reviews</category>
-      <description>Electrifying drove the 61 kWh EV2 across Norway until it gave up, shadowing the official Norwegian range convoy. It covered 275 miles at 4.56 miles per kWh, beating the lab claim, then raised a sharper question: with range this good, does anyone still need a bigger battery?</description>
-    </item>
-    <item>
-      <title>BYD&#39;s Flash Charging Reaches Europe With a Five-Minute Claim and a CCS Plug</title>
-      <link>https://nexusevnews.com/articles/byd-flash-charging-uk-europe-launch-dan-latham.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-flash-charging-uk-europe-launch-dan-latham.html</guid>
-      <pubDate>Thu, 11 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Dan Latham</dc:creator>
-      <category>charging</category>
-      <description>BYD is bringing its flash charging network to the UK and Europe, starting with a station in Bologna this week and around 300 UK sites to follow. The pitch is 10 to 70% in roughly five minutes, on a standard CCS plug any compatible car can use, with battery-buffered units that need no grid upgrade.</description>
     </item>
       <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
