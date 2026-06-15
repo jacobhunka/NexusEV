@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5TSZNJ78Y5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-5TSZNJ78Y5');
+</script>
+<!-- AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3373030770873954"
+     crossorigin="anonymous"></script>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Texas Instruments Built a Chip That Lets a Battery Management System See Inside the Cell | nexusEVnews</title>
+<meta name="description" content="Out of Spec visits Texas Instruments in Germany to see new EIS chips that read battery impedance in real time, sharpening state of charge, thermal runaway alerts and fast charging."/>
+<link rel="canonical" href="https://nexusevnews.com/articles/texas-instruments-eis-impedance-chip-battery-management.html"/>
+<link rel="icon" href="/favicon.png" type="image/png"/>
+<!-- Open Graph -->
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Texas Instruments Built a Chip That Lets a Battery Management System See Inside the Cell"/>
+<meta property="og:description" content="Out of Spec visits Texas Instruments in Germany to see new EIS chips that read battery impedance in real time, sharpening state of charge, thermal runaway alerts and fast charging."/>
+<meta property="og:image" content="https://img.youtube.com/vi/sW18cibCJow/maxresdefault.jpg"/>
+<meta property="og:url" content="https://nexusevnews.com/articles/texas-instruments-eis-impedance-chip-battery-management.html"/>
+<meta property="article:published_time" content="2026-06-15T21:00:00+00:00"/>
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="Texas Instruments Built a Chip That Lets a Battery Management System See Inside the Cell"/>
+<meta name="twitter:description" content="Out of Spec visits Texas Instruments in Germany to see new EIS chips that read battery impedance in real time, sharpening state of charge, thermal runaway alerts and fast charging."/>
+<meta name="twitter:image" content="https://img.youtube.com/vi/sW18cibCJow/maxresdefault.jpg"/>
+<meta name="twitter:site" content="@nexusevnews"/>
+<!-- Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Texas Instruments Built a Chip That Lets a Battery Management System See Inside the Cell",
+  "description": "Out of Spec visits Texas Instruments in Germany to see new EIS chips that read battery impedance in real time, sharpening state of charge, thermal runaway alerts and fast charging.",
+  "image": "https://img.youtube.com/vi/sW18cibCJow/maxresdefault.jpg",
+  "datePublished": "2026-06-15T21:00:00+00:00",
+  "publisher": {
+    "@type": "Organization",
+    "name": "nexusEVnews",
+    "url": "https://nexusevnews.com/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://nexusevnews.com/og-image.jpg"
+    }
+  },
+  "articleSection": "battery-tech"
+}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet"/>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #0a0b0f; --surface: #111318; --surface2: #1a1d24;
+    --border: #1f2330; --accent: #00d4ff; --text: #e8eaf0; --muted: #6b7280;
+  }
+  body { font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+  header { position: sticky; top: 0; z-index: 100; background: rgba(10,11,15,0.94); backdrop-filter: blur(14px); border-bottom: 1px solid var(--border); padding: 0 2rem; display: flex; align-items: center; justify-content: space-between; height: 62px; }
+  .logo { font-family: 'Bebas Neue', sans-serif; font-size: 1.85rem; letter-spacing: 0.06em; color: var(--text); text-decoration: none; display: flex; align-items: center; gap: 0.6rem; }
+  .logo .ev { color: var(--accent); }
+  .logo-text-wrap { display: flex; flex-direction: column; justify-content: center; line-height: 1; }
+  .logo-name { display: block; line-height: 1; }
+  .logo-tagline { font-family: 'DM Mono', monospace; font-size: 0.5rem; letter-spacing: 0.14em; color: var(--muted); text-transform: uppercase; display: block; margin-top: 3px; }
+  nav { display: flex; gap: 0.2rem; align-items: center; }
+  nav a { font-size: 0.76rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); text-decoration: none; padding: 0.35rem 0.7rem; border-radius: 4px; transition: color 0.2s, background 0.2s; }
+  nav a:hover { color: var(--text); background: var(--surface2); }
+  .article-wrap { max-width: 800px; margin: 0 auto; padding: 3rem 2rem 5rem; }
+  .article-tag { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); margin-bottom: 1rem; display: block; }
+  .article-title { font-family: 'Bebas Neue', sans-serif; font-size: clamp(2rem, 5vw, 3.2rem); line-height: 1.1; letter-spacing: 0.02em; margin-bottom: 1rem; }
+  .article-meta { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.08em; color: var(--muted); text-transform: uppercase; margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--border); }
+  .article-body { font-size: 1rem; line-height: 1.8; color: var(--text); margin-bottom: 2.5rem; }
+  .article-body p { margin-bottom: 1.2rem; }
+  .video-wrap { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0; border-radius: 4px; }
+  .video-wrap iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
+  .bottom-line { margin-top: 1.5rem; }
+  .bottom-line strong { font-weight: 600; }
+  .btn-wrap { display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 2.5rem; }
+  .btn { font-family: 'DM Sans', sans-serif; font-size: 0.82rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; padding: 0.65rem 1.4rem; border-radius: 4px; text-decoration: none; display: inline-block; transition: opacity 0.2s; }
+  .btn-primary { background: var(--accent); color: #000; }
+  .btn-secondary { background: transparent; color: var(--muted); border: 1px solid var(--border); }
+  .btn:hover { opacity: 0.82; }
+  footer { border-top: 1px solid var(--border); padding: 2rem 2rem 3rem; text-align: center; }
+  footer p { font-family: 'DM Mono', monospace; font-size: 0.64rem; color: var(--muted); letter-spacing: 0.06em; line-height: 1.8; }
+  footer a { color: var(--accent); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+  @media (max-width: 700px) { nav { display: none; } .article-wrap { padding: 2rem 1.25rem 4rem; } }
+</style>
+</head>
+<body>
+<header>
+  <a class="logo" href="/">
+    <svg aria-hidden="true" fill="none" height="40" viewBox="0 0 36 40" width="36">
+      <polygon fill="rgba(0,212,255,0.07)" points="18,2 34,11 34,29 18,38 2,29 2,11" stroke="rgba(0,212,255,0.35)" stroke-width="1"></polygon>
+      <polygon fill="rgba(0,212,255,0.1)" points="18,4 32,12 32,28 18,36 4,28 4,12" stroke="#00d4ff" stroke-width="1.5"></polygon>
+      <path d="M22 9L12 22H20L14 32L26 18H18L22 9Z" fill="#00d4ff"></path>
+    </svg>
+    <div class="logo-text-wrap">
+      <span class="logo-name">NEXUS<span class="ev">EV</span><span style="font-size:0.55em;color:var(--text);letter-spacing:0.02em;vertical-align:baseline;">news</span></span>
+      <span class="logo-tagline">EV &amp; Renewable Energy</span>
+    </div>
+  </a>
+  <nav>
+    <a href="/">Latest</a>
+    <a href="/#cardGrid">Deep Dives</a>
+    <a href="/opinion.html">Opinion</a>
+    <a href="/daily-brief.html">Daily Brief</a>
+  </nav>
+</header>
+
+<div class="article-wrap">
+  <span class="article-tag">Battery Tech</span>
+  <h1 class="article-title">Texas Instruments Built a Chip That Lets a Battery Management System See Inside the Cell</h1>
+  <div class="article-meta">Out of Spec Reviews &nbsp;&middot;&nbsp; Jun 15, 2026</div>
+
+  <div class="article-body">
+
+    <p>There is a T-shirt in the EV world that reads "Don't trust the BMS." Out of Spec went to the PCIM power electronics show in Germany to meet the company that wants to make that joke obsolete. Texas Instruments was showing new chips built around EIS, short for electrochemical impedance spectroscopy, a technique that sends a small alternating current into each cell and reads how the cell pushes back. That impedance signature reveals temperature, state of charge, and early signs of trouble, all in real time. Engineers have measured cell impedance before, but never with the measurement fully integrated into the battery management chip itself. TI's pitch is a battery system that stops guessing and starts reading what is actually happening inside every cell.</p>
+
+    <div class="video-wrap">
+      <iframe src="https://www.youtube.com/embed/sW18cibCJow?rel=0&modestbranding=1" allow="autoplay; encrypted-media; fullscreen" allowfullscreen></iframe>
+    </div>
+
+    <p>The reason this matters now has to do with which batteries are filling affordable EVs. Lithium iron phosphate cells, or LFP, have taken over the entry and mid market because they are cheap, durable, and free of cobalt and nickel. They also have a famously flat voltage curve, which is exactly why state of charge is so hard to read on an LFP car. The voltage barely moves across a wide band of charge, so the usual trick of inferring charge from voltage falls apart. That is the failure mode the Out of Spec host describes from his own experience, running a car down to single-digit percentages the dashboard did not see coming. Reading impedance instead of voltage sidesteps the flat-curve problem, which is a real and growing buyer benefit as LFP spreads to more models every year.</p>
+
+    <p>The conversation also surfaces why the timing is not arbitrary. TI's Brian notes that China has been tightening its thermal runaway warning rules, moving from a roughly five-minute advance-warning expectation toward longer windows, and increasingly wants the source pinpointed to an individual cell rather than flagged for the pack as a whole. That is close to impossible with today's coarse approach of a few temperature sensors and a pack-level voltage reading. He also points out that most new EVs are moving to 800-volt architectures, or two 400-volt halves, and that a single 26-channel chip can cover a whole pack or be distributed across smaller boards around it, depending on how the battery is laid out. The takeaway is that the sensing has to get finer as packs get larger and charge faster.</p>
+
+    <p>Brian walks through how it works in a car. The standard BMS board stays, with one addition: an excitation circuit that drives the test current. That current can come from a dedicated driver, or from hardware already in the vehicle like the inverter or the onboard charger. The chip pings each cell every second or two and, because it reads an AC signal, keeps working while the pack is charging or discharging hard. TI quotes a 26-channel device, which it calls the highest in the industry, and says automakers run a characterization process, supported by TI software, that maps a cell's behavior across temperature and charge over about two to three weeks. The payoffs Brian lists: thermal runaway caught far earlier, fast charging pushed closer to a cell's true limit, and LFP state-of-charge error cut from around 5% toward 2 to 3%.</p>
+
+    <p class="bottom-line"><strong>Bottom line:</strong> This is the kind of unglamorous component that quietly decides whether your next EV charges faster and tells you the truth about its range. TI says the first cars using it could arrive in a year or two, so it is not in showrooms yet. But if you have ever watched an LFP car drop from 10% to 3% in a parking lot, this is the fix, and it is worth asking whether the EV you are eyeing in 2027 has something like it inside. Cell-level honesty is a feature, even if no brochure will ever brag about it.</p>
+
+  </div>
+
+  <div class="btn-wrap">
+    <a class="btn btn-primary" href="https://youtu.be/sW18cibCJow" target="_blank" rel="noopener">Watch on YouTube</a>
+    <a class="btn btn-secondary" href="/">Back to All Stories</a>
+  </div>
+</div>
+
+<footer>
+  <p>
+    <a href="https://nexuscurrent.beehiiv.com/subscribe" target="_blank" rel="noopener">Subscribe to Nexus Current</a> &nbsp;&middot;&nbsp;
+    <a href="/about.html">About</a> &nbsp;&middot;&nbsp;
+    <a href="/contact.html">Contact</a> &nbsp;&middot;&nbsp;
+    <a href="/privacy.html">Privacy</a> &nbsp;&middot;&nbsp;
+    <a href="/terms.html">Terms</a>
+  </p>
+  <p style="margin-top:0.5rem;">&copy; 2026 nexusEVnews. Independent. No brand deals.</p>
+</footer>
+</body>
+</html>
