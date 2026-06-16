@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Polestar Drove Its 870 HP Flagship From Gothenburg to the Sahara to Settle the Range Question</title>
+      <link>https://nexusevnews.com/articles/polestar-5-flagship-gothenburg-to-sahara-press-drive.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/polestar-5-flagship-gothenburg-to-sahara-press-drive.html</guid>
+      <pubDate>Tue, 16 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Polestar</dc:creator>
+      <category>reviews</category>
+      <description>Polestar turned the launch of its 5 flagship into a 6,500 km drive from Sweden to Morocco, making range the headline rather than the car. Published specs put it near 650 kW and 870 hp on a 103 kWh battery.</description>
+    </item>
+    <item>
+      <title>TELO Hands the Bones of Its Tiny Electric Truck to an Aerospace Metal Supplier</title>
+      <link>https://nexusevnews.com/articles/telo-trucks-schwab-industries-body-in-white-production-update.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/telo-trucks-schwab-industries-body-in-white-production-update.html</guid>
+      <pubDate>Tue, 16 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>TELO Trucks</dc:creator>
+      <category>news</category>
+      <description>TELO says it has signed Schwab Industries, a Michigan metal firm, to build the body-in-white for its compact electric pickup, after locking down its internal crash safety targets.</description>
+    </item>
+    <item>
+      <title>Solar Is Now the Cheapest Power in History, and an Oil Scare Is Speeding It Up</title>
+      <link>https://nexusevnews.com/articles/global-solar-council-solar-cheapest-power-oil-scare-accelerates.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/global-solar-council-solar-cheapest-power-oil-scare-accelerates.html</guid>
+      <pubDate>Tue, 16 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Everything Electric TECH</dc:creator>
+      <category>solar</category>
+      <description>Global Solar Council CEO Sonia Dunlop tells Everything Electric that solar plus storage now leads new generation worldwide, with Pakistan&#39;s rooftop boom the standout case.</description>
+    </item>
+    <item>
+      <title>The Renault 4 With a Roll-Back Roof Costs £1,500 More and Loses Just Four Miles</title>
+      <link>https://nexusevnews.com/articles/renault-4-rollback-roof-canvas-range-price.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/renault-4-rollback-roof-canvas-range-price.html</guid>
+      <pubDate>Tue, 16 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>reviews</category>
+      <description>Electrifying drives the canvas-roof Renault 4. The fabric roof adds about 19 kg and trims range by only four miles, with bidirectional charging standard and a post-grant price near £27,500.</description>
+    </item>
+    <item>
+      <title>An Ex-SpaceX Engineer Is Trying to Replace the Wood in American Homes With Grass</title>
+      <link>https://nexusevnews.com/articles/plantd-grass-osb-alternative-ex-spacex-engineer.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/plantd-grass-osb-alternative-ex-spacex-engineer.html</guid>
+      <pubDate>Tue, 16 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>The Hustle</dc:creator>
+      <category>deep-dives</category>
+      <description>The Hustle visits Plantd, a North Carolina startup making a grass-based OSB alternative in small electric mills, with a 10 million panel order from the largest US homebuilder.</description>
+    </item>
     <item>
       <title>China Now Sells One in Three Cars on Earth, and the US Watches From Behind a Tariff Wall</title>
       <link>https://nexusevnews.com/articles/china-ev-dominance-us-tariff-wall-two-bit-davinci.html</link>
@@ -123,51 +168,6 @@
       <dc:creator>BMW M</dc:creator>
       <category>news</category>
       <description>BMW pulled the cover off the Concept M Neue Klasse at Le Mans, a near-production look at its first electric M3. It uses four motors, an 800-volt system and a battery over 100 kWh, plus new yellow headlight slashes and Track Lights set to spread across future M cars.</description>
-    </item>
-    <item>
-      <title>What Actually Happens to an EV Battery in an 84 km/h Crash</title>
-      <link>https://nexusevnews.com/articles/ev-battery-crash-test-geely-safety-center-zeekr-7x.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ev-battery-crash-test-geely-safety-center-zeekr-7x.html</guid>
-      <pubDate>Sat, 13 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>battery-tech</category>
-      <description>Electrifying watched a Zeekr 7X get rear-ended at 84 km/h inside Geely&#39;s safety center in Ningbo. The cabin held, the doors still opened and the battery pack came through undamaged. The harder question is why EVs still cost more to insure when the packs are this tough.</description>
-    </item>
-    <item>
-      <title>Inside BMW M&#39;s Electric Nürburgring Testing, From Torque Vectoring to Engineered Sound</title>
-      <link>https://nexusevnews.com/articles/bmw-m-electrified-nurburgring-testing-episode-5.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-m-electrified-nurburgring-testing-episode-5.html</guid>
-      <pubDate>Sat, 13 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>BMW Group</dc:creator>
-      <category>deep-dives</category>
-      <description>BMW M takes its electric prototype to the Nürburgring in the fifth episode of its development series. Four motors and one control unit allow torque vectoring with no delay, a new axle was designed for the load, and a team is building a performance sound that does not copy a combustion engine.</description>
-    </item>
-    <item>
-      <title>Will the R2 Be the Hit Rivian Needs? Jason Fenske and the InsideEVs Crew Weigh In</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-jason-fenske-pluggedin-podcast.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-jason-fenske-pluggedin-podcast.html</guid>
-      <pubDate>Sat, 13 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>InsideEVs</dc:creator>
-      <category>reviews</category>
-      <description>The Plugged-In Podcast brings on Jason Fenske of Engineering Explained to talk Rivian R2 deliveries. The verdict is a simpler, cheaper R1S that fixes most of the big SUV&#39;s annoyances. The bigger question is whether Rivian and Lucid can survive the jump to volume.</description>
-    </item>
-    <item>
-      <title>Rivian Laid Out What Is Actually Coming to R2 Autonomy, From Auto Park to Point to Point</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-autonomy-roadmap-uhf-2-auto-park-point-to-point.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-autonomy-roadmap-uhf-2-auto-park-point-to-point.html</guid>
-      <pubDate>Fri, 12 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>RivianTrackr</dc:creator>
-      <category>news</category>
-      <description>RivianTrackr talks to Rivian&#39;s autonomy lead at the R2 reveal. R2 ships with lifetime Autonomy Plus and Universal Hands-Free, UHF 2.0 in Q3 adds traffic-light and stop-sign control, off-highway lane changes and auto park, and point to point driving begins rolling out by year end.</description>
-    </item>
-    <item>
-      <title>Saul Griffith Lost His US Climate Funding. So He Wired Up One Australian Postcode Instead.</title>
-      <link>https://nexusevnews.com/articles/saul-griffith-electrification-australian-story.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/saul-griffith-electrification-australian-story.html</guid>
-      <pubDate>Fri, 12 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>ABC News In-depth</dc:creator>
-      <category>deep-dives</category>
-      <description>Australian Story follows inventor Saul Griffith as Rewiring America&#39;s federal funding freezes after the 2024 US election. His answer is Electrify 2515, a community group near Wollongong helping 500 homes swap gas for electric appliances on solar, with savings of about 2,000 dollars a year.</description>
     </item>
       <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
