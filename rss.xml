@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Alpine Took a Five-Seat Electric Crossover to a Race Track to Prove a Point</title>
+      <link>https://nexusevnews.com/articles/alpine-a390-gts-tri-motor-torque-vectoring-track-test.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/alpine-a390-gts-tri-motor-torque-vectoring-track-test.html</guid>
+      <pubDate>Wed, 17 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric CARS</dc:creator>
+      <category>reviews</category>
+      <description>Everything Electric drives the Alpine A390 GTS on track. The tri-motor crossover is quoted at 350 kW, 824 Nm and 0 to 62 mph in 3.9 seconds, with torque vectoring meant to disguise its 2.1-ton weight.</description>
+    </item>
+    <item>
+      <title>How a Tiny Portuguese Island Became a Testing Ground for Battery-Backed Grids</title>
+      <link>https://nexusevnews.com/articles/porto-santo-island-battery-microgrid-renewable-testbed.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/porto-santo-island-battery-microgrid-renewable-testbed.html</guid>
+      <pubDate>Wed, 17 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Financial Times</dc:creator>
+      <category>deep-dives</category>
+      <description>The Financial Times visits Porto Santo, where a battery storage system installed with utility EEM keeps a small, isolated island grid stable. A local business owner says the blackouts that once shut her restaurant have stopped.</description>
+    </item>
+    <item>
+      <title>A Battery That Runs on Seawater, Makes Drinking Water and Captures Carbon</title>
+      <link>https://nexusevnews.com/articles/seawater-battery-desalination-carbon-capture-korea-unist.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/seawater-battery-desalination-carbon-capture-korea-unist.html</guid>
+      <pubDate>Wed, 17 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Undecided with Matt Ferrell</dc:creator>
+      <category>battery-tech</category>
+      <description>Undecided explains a Korean seawater battery from UNIST that stores energy, desalinates water and captures CO2 in one system. The video puts its material cost near 10 cents per kWh, though the desalination and capture functions remain lab-stage.</description>
+    </item>
+    <item>
+      <title>The Case That Solar's 50-Year Price Crash Is Still Speeding Up</title>
+      <link>https://nexusevnews.com/articles/solar-cost-curve-10000-fold-fastest-energy-shift-ray-wills.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/solar-cost-curve-10000-fold-fastest-energy-shift-ray-wills.html</guid>
+      <pubDate>Wed, 17 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>The Electric Viking</dc:creator>
+      <category>solar</category>
+      <description>The Electric Viking summarizes analyst Ray Wills, who argues solar module prices have fallen roughly 10,000-fold over 50 years and that batteries are now scaling even faster. The video's 80%-by-2035 figure comes from Wills's own firm.</description>
+    </item>
+    <item>
+      <title>Plug-In Balcony Solar Is Illegal Almost Everywhere in the US. Utah Just Changed That</title>
+      <link>https://nexusevnews.com/articles/ecoflow-balcony-solar-utah-hb340-plug-in-micro-inverter.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ecoflow-balcony-solar-utah-hb340-plug-in-micro-inverter.html</guid>
+      <pubDate>Wed, 17 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Jasonoid</dc:creator>
+      <category>solar</category>
+      <description>Jasonoid runs a plug-in EcoFlow Stream solar setup on his deck, which he says is legal in Utah under HB340. The arrangement needs no permits and no net metering, but a smart meter is required to measure power flowing back to the grid.</description>
+    </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
       <link>https://nexusevnews.com/opinion-self-driving-disability-independence.html</link>
@@ -123,51 +168,6 @@
       <dc:creator>Masters of Scale</dc:creator>
       <category>deep-dives</category>
       <description>Rivian CEO RJ Scaringe explains the early call to build its own electronics and software, the $5.8 billion Volkswagen licensing deal, the R2 ramp, the Uber robotaxi plan and a self-driving roadmap that goes unsupervised next year.</description>
-    </item>
-    <item>
-      <title>A Used Hyundai IONIQ 6 for $21,000 Is Quietly One of the Best EV Deals Going</title>
-      <link>https://nexusevnews.com/articles/used-hyundai-ioniq-6-delivery-out-of-spec.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/used-hyundai-ioniq-6-delivery-out-of-spec.html</guid>
-      <pubDate>Sun, 14 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>used-evs</category>
-      <description>Out of Spec helps Lacey buy a used IONIQ 6 SE with 24,000 miles for around $21,000, about $25,000 all-in. It is an 800-volt EV that still pulled past 200 kW on a DC charger. The catch is the ICCU.</description>
-    </item>
-    <item>
-      <title>GM and Peak Energy Built a Grid Battery That Cools Itself With No Fans or Coolant</title>
-      <link>https://nexusevnews.com/articles/gm-peak-energy-sodium-ion-grid-storage.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/gm-peak-energy-sodium-ion-grid-storage.html</guid>
-      <pubDate>Sun, 14 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Munro Live</dc:creator>
-      <category>battery-tech</category>
-      <description>GM is making sodium-ion cells in Warren, Michigan for a Peak Energy storage system that needs no liquid cooling. Modules stack on a tilt so heat rises and pulls air through on its own. Cheaper materials, decades of cycle life.</description>
-    </item>
-    <item>
-      <title>CATL Is Talking About a Battery With Almost the Energy Density of Gasoline</title>
-      <link>https://nexusevnews.com/articles/catl-lithium-air-battery-gasoline-energy-density.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/catl-lithium-air-battery-gasoline-energy-density.html</guid>
-      <pubDate>Sun, 14 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Ben Alexxander</dc:creator>
-      <category>battery-tech</category>
-      <description>CATL named lithium-air as a long-term research goal. Its theoretical energy density sits near gasoline at about 12,000 Wh/kg, and lab cells have reportedly topped 1,200 Wh/kg, several times today&#39;s packs. Likely a 2035-plus technology.</description>
-    </item>
-    <item>
-      <title>This Route 66 Fast Charger Runs on Sunlight With No Grid Connection at All</title>
-      <link>https://nexusevnews.com/articles/off-grid-solar-ev-charger-route-66-barstow-coral-charge.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/off-grid-solar-ev-charger-route-66-barstow-coral-charge.html</guid>
-      <pubDate>Sun, 14 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Scott Explains</dc:creator>
-      <category>solar</category>
-      <description>Coral Charge built an off-grid solar fast-charging station in Barstow, California. Roughly 600 panels, battery storage in each unit and up to 180 kW out, with no utility hookup. Pricing runs 50 cents per kWh.</description>
-    </item>
-    <item>
-      <title>The Leapmotor B05 Is a Sub-€33,000 Electric Hatch Aimed at the Golf and Astra</title>
-      <link>https://nexusevnews.com/articles/leapmotor-b05-electric-hatchback-driving-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/leapmotor-b05-electric-hatchback-driving-review.html</guid>
-      <pubDate>Sat, 13 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Autogefühl</dc:creator>
-      <category>reviews</category>
-      <description>Autogefühl drives the Leapmotor B05, a compact electric hatchback priced from about €32,000 with a 67 kWh LFP battery, roughly 250 miles of real-world range and a 10 to 80 percent charge in around 18 minutes. It is sold through the same Stellantis dealers as the Opel Astra, and the cabin quality is the real surprise.</description>
     </item>
       <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>

@@ -3,9 +3,45 @@
 
   <url>
     <loc>https://nexusevnews.com/daily-brief.html</loc>
-    <lastmod>2026-06-16</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/alpine-a390-gts-tri-motor-torque-vectoring-track-test.html</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/porto-santo-island-battery-microgrid-renewable-testbed.html</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/seawater-battery-desalination-carbon-capture-korea-unist.html</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/solar-cost-curve-10000-fold-fastest-energy-shift-ray-wills.html</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/ecoflow-balcony-solar-utah-hb340-plug-in-micro-inverter.html</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/daily-brief-jun-17-2026.html</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://nexusevnews.com/articles/daily-brief-jun-16-2026.html</loc>
@@ -1168,7 +1204,7 @@
 
   <url>
     <loc>https://nexusevnews.com/</loc>
-    <lastmod>2026-06-16</lastmod>
+    <lastmod>2026-06-17</lastmod>
   </url>
 
   <url>
