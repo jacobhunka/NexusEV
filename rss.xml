@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>A Year With McMurtry's Speirling, the Fan Car That Makes Its Own Grip</title>
+      <link>https://nexusevnews.com/articles/a-year-with-mcmurtry-speirling-fan-car-makes-its-own-grip.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/a-year-with-mcmurtry-speirling-fan-car-makes-its-own-grip.html</guid>
+      <pubDate>Thu, 18 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Chris Harris on Cars</dc:creator>
+      <category>reviews</category>
+      <description>Chris Harris spends a year with McMurtry's single-seat Speirling, an electric fan car he says makes its own grip. The maker quotes 1,000 hp, 1,000 kg and roughly 2,000 kg of downforce generated standing still.</description>
+    </item>
+    <item>
+      <title>TELO Says Its Split Battery Pack Charges Fast at Both 400 and 800 Volts</title>
+      <link>https://nexusevnews.com/articles/telo-split-pack-400-800-volt-charging-update.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/telo-split-pack-400-800-volt-charging-update.html</guid>
+      <pubDate>Thu, 18 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>TELO Trucks</dc:creator>
+      <category>battery-tech</category>
+      <description>TELO says its compact electric truck uses a split high-voltage pack, two 400-volt packs in parallel plus one 800-volt pack in series, to charge at up to 400 kW sustained on both 400-volt and 800-volt fast chargers.</description>
+    </item>
+    <item>
+      <title>The 2027 Porsche Taycan Adds Fake Gear Shifts and a Native NACS Port</title>
+      <link>https://nexusevnews.com/articles/2027-porsche-taycan-e-shift-fake-gears-nacs-port.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/2027-porsche-taycan-e-shift-fake-gears-nacs-port.html</guid>
+      <pubDate>Thu, 18 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Porsche</dc:creator>
+      <category>news</category>
+      <description>MotorTrend reports the 2027 Taycan adds an E-Shift system with eight simulated gears and paddles, a native NACS fast-charging port on the passenger side, and the 105-kWh Performance Battery Plus as standard.</description>
+    </item>
+    <item>
+      <title>Leaked Specs Point to a $24,950 Slate Truck With Double the Towing</title>
+      <link>https://nexusevnews.com/articles/slate-truck-price-specs-leak-24950-towing.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-truck-price-specs-leak-24950-towing.html</guid>
+      <pubDate>Thu, 18 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Tailosive EV</dc:creator>
+      <category>news</category>
+      <description>Tailosive EV walks through leaked Slate figures: a base price near $24,950, towing reportedly doubled to 2,000 lb, and payload up to about 1,550 lb. None of it is official until the full reveal expected June 24.</description>
+    </item>
+    <item>
+      <title>The EV Money Traps That Cost More Than the Car Itself</title>
+      <link>https://nexusevnews.com/articles/how-to-save-money-ev-home-charging-rookie-mistakes.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/how-to-save-money-ev-home-charging-rookie-mistakes.html</guid>
+      <pubDate>Thu, 18 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Kim Java</dc:creator>
+      <category>charging</category>
+      <description>After 12 years and five EVs, Kim Java argues the biggest savings come from home charging and your electricity plan, not the car. Her main warning: don't overspend on a fancy wall charger or buy more EV than you need.</description>
+    </item>
     <item>
       <title>Alpine Took a Five-Seat Electric Crossover to a Race Track to Prove a Point</title>
       <link>https://nexusevnews.com/articles/alpine-a390-gts-tri-motor-torque-vectoring-track-test.html</link>
@@ -123,51 +168,6 @@
       <dc:creator>Two Bit da Vinci</dc:creator>
       <category>deep-dives</category>
       <description>Two Bit da Vinci lays out the scale: 34.4 million vehicles sold in China in 2025, 35.6% of the global market, EVs under $10,000, and a US tariff wall that keeps all of it out.</description>
-    </item>
-    <item>
-      <title>Texas Instruments Built a Chip That Lets a BMS See Inside the Cell</title>
-      <link>https://nexusevnews.com/articles/texas-instruments-eis-impedance-chip-battery-management.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/texas-instruments-eis-impedance-chip-battery-management.html</guid>
-      <pubDate>Mon, 15 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>battery-tech</category>
-      <description>At a German power show, TI demos EIS chips that read cell impedance in real time, promising earlier thermal runaway alerts, faster charging, and far better LFP state of charge.</description>
-    </item>
-    <item>
-      <title>Riding Shotgun as XPeng's P7 Drives Itself Through Chinese Traffic the US Bans</title>
-      <link>https://nexusevnews.com/articles/xpeng-p7-vla-self-driving-china-cnet.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/xpeng-p7-vla-self-driving-china-cnet.html</guid>
-      <pubDate>Mon, 15 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>CNET</dc:creator>
-      <category>reviews</category>
-      <description>A reporter tests XPeng's VLA 2.0 self-driving in China, threading pedestrians and tight squeezes with two human takeovers, plus a look at the company's flying machines.</description>
-    </item>
-    <item>
-      <title>Towing Lightship's Self-Propelled Trailer Behind a Rivian Nearly Erases the Range Penalty</title>
-      <link>https://nexusevnews.com/articles/lightship-ae1-trek-drive-tow-test-miss-goelectric.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/lightship-ae1-trek-drive-tow-test-miss-goelectric.html</guid>
-      <pubDate>Mon, 15 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Miss GoElectric</dc:creator>
-      <category>deep-dives</category>
-      <description>The production AE.1 uses its own 80 kW motor and hitch-force sensors to cancel trailer drag, holding a Rivian within about 5% of its unladen range at 8,000 pounds.</description>
-    </item>
-    <item>
-      <title>The Arctic Leopard XE Pro R Puts Full-Size Wheels on a 175-Pound eMoto for $5,799</title>
-      <link>https://nexusevnews.com/articles/arctic-leopard-xe-pro-r-2026-emoto-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/arctic-leopard-xe-pro-r-2026-emoto-review.html</guid>
-      <pubDate>Mon, 15 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Electric Cycle Rider</dc:creator>
-      <category>reviews</category>
-      <description>Electric Cycle Rider's first ride finds 26.5 kW, big 21 and 18 inch wheels, Surron-style brakes, and plush KKE suspension on a light, flickable trail bike at $5,799.</description>
-    </item>
-    <item>
-      <title>RJ Scaringe on Why Rivian Bet Everything on Owning Its Own Software</title>
-      <link>https://nexusevnews.com/articles/rivian-rj-scaringe-software-robotics-masters-of-scale.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-rj-scaringe-software-robotics-masters-of-scale.html</guid>
-      <pubDate>Sun, 14 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Masters of Scale</dc:creator>
-      <category>deep-dives</category>
-      <description>Rivian CEO RJ Scaringe explains the early call to build its own electronics and software, the $5.8 billion Volkswagen licensing deal, the R2 ramp, the Uber robotaxi plan and a self-driving roadmap that goes unsupervised next year.</description>
     </item>
       <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
