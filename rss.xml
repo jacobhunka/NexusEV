@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>CorPower's Wave Machines Aim for a 10x Jump in Efficiency</title>
+      <link>https://nexusevnews.com/articles/corpower-wave-energy-10x-efficiency-c5-machines.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/corpower-wave-energy-10x-efficiency-c5-machines.html</guid>
+      <pubDate>Fri, 19 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Europe's Foundry</dc:creator>
+      <category>deep-dives</category>
+      <description>A Stockholm developer says its C5 wave converters roughly halve cost and parts, rode out 20 meter waves off Portugal, and chase a tenfold gain in structural efficiency. Featured profile by Europe's Foundry.</description>
+    </item>
+    <item>
+      <title>Polestar 4 Drops $10,000 as the Discounts Pile Up</title>
+      <link>https://nexusevnews.com/articles/polestar-4-10000-discount-review-range-charging.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/polestar-4-10000-discount-review-range-charging.html</guid>
+      <pubDate>Fri, 19 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Gjeebs</dc:creator>
+      <category>reviews</category>
+      <description>The camera-rearview, 100 kWh Polestar 4 beat its own range rating on a road trip, and a current $10,000 incentive softens a price the reviewer still calls steep.</description>
+    </item>
+    <item>
+      <title>The New Orbea Wild Wires Every Part Into One Battery</title>
+      <link>https://nexusevnews.com/articles/2027-orbea-wild-avinox-rs-integrated-emtb.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/2027-orbea-wild-avinox-rs-integrated-emtb.html</guid>
+      <pubDate>Fri, 19 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Rob Rides EMTB</dc:creator>
+      <category>reviews</category>
+      <description>Orbea's Avinox-powered Wild links motor, dropper, derailleur and an electronic Fox shock to a single battery, with an RS tune the reviewer says wakes the motor at low effort. Paid partnership noted.</description>
+    </item>
+    <item>
+      <title>A Full Off-Grid Solar Setup Runs About $28,000</title>
+      <link>https://nexusevnews.com/articles/off-grid-solar-cost-breakdown-batteries-inverter-panels.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/off-grid-solar-cost-breakdown-batteries-inverter-panels.html</guid>
+      <pubDate>Fri, 19 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>The Solar Lab</dc:creator>
+      <category>solar</category>
+      <description>The Solar Lab prices an off-grid system for an average US home near $28,000, with batteries alone close to $20,000, and explains why storage, not panels, drives the bill.</description>
+    </item>
+    <item>
+      <title>The Case That Solar and Batteries Now Undercut Gas</title>
+      <link>https://nexusevnews.com/articles/solar-batteries-beat-gas-spain-cheap-power-chevy-bolt-news.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/solar-batteries-beat-gas-spain-cheap-power-chevy-bolt-news.html</guid>
+      <pubDate>Fri, 19 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Everything Electric TECH</dc:creator>
+      <category>news</category>
+      <description>A news roundup gathers cited reports that solar plus storage match the cheapest new gas plants, Spain's drop to Europe's cheapest power, and a returning 2027 Chevy Bolt near $30,000.</description>
+    </item>
     <item>
       <title>A Year With McMurtry's Speirling, the Fan Car That Makes Its Own Grip</title>
       <link>https://nexusevnews.com/articles/a-year-with-mcmurtry-speirling-fan-car-makes-its-own-grip.html</link>
@@ -125,51 +170,6 @@
       <description>Polestar turned the launch of its 5 flagship into a 6,500 km drive from Sweden to Morocco, making range the headline rather than the car. Published specs put it near 650 kW and 870 hp on a 103 kWh battery.</description>
     </item>
     <item>
-      <title>TELO Hands the Bones of Its Tiny Electric Truck to an Aerospace Metal Supplier</title>
-      <link>https://nexusevnews.com/articles/telo-trucks-schwab-industries-body-in-white-production-update.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/telo-trucks-schwab-industries-body-in-white-production-update.html</guid>
-      <pubDate>Tue, 16 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>TELO Trucks</dc:creator>
-      <category>news</category>
-      <description>TELO says it has signed Schwab Industries, a Michigan metal firm, to build the body-in-white for its compact electric pickup, after locking down its internal crash safety targets.</description>
-    </item>
-    <item>
-      <title>Solar Is Now the Cheapest Power in History, and an Oil Scare Is Speeding It Up</title>
-      <link>https://nexusevnews.com/articles/global-solar-council-solar-cheapest-power-oil-scare-accelerates.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/global-solar-council-solar-cheapest-power-oil-scare-accelerates.html</guid>
-      <pubDate>Tue, 16 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Everything Electric TECH</dc:creator>
-      <category>solar</category>
-      <description>Global Solar Council CEO Sonia Dunlop tells Everything Electric that solar plus storage now leads new generation worldwide, with Pakistan&#39;s rooftop boom the standout case.</description>
-    </item>
-    <item>
-      <title>The Renault 4 With a Roll-Back Roof Costs £1,500 More and Loses Just Four Miles</title>
-      <link>https://nexusevnews.com/articles/renault-4-rollback-roof-canvas-range-price.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/renault-4-rollback-roof-canvas-range-price.html</guid>
-      <pubDate>Tue, 16 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>reviews</category>
-      <description>Electrifying drives the canvas-roof Renault 4. The fabric roof adds about 19 kg and trims range by only four miles, with bidirectional charging standard and a post-grant price near £27,500.</description>
-    </item>
-    <item>
-      <title>An Ex-SpaceX Engineer Is Trying to Replace the Wood in American Homes With Grass</title>
-      <link>https://nexusevnews.com/articles/plantd-grass-osb-alternative-ex-spacex-engineer.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/plantd-grass-osb-alternative-ex-spacex-engineer.html</guid>
-      <pubDate>Tue, 16 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>The Hustle</dc:creator>
-      <category>deep-dives</category>
-      <description>The Hustle visits Plantd, a North Carolina startup making a grass-based OSB alternative in small electric mills, with a 10 million panel order from the largest US homebuilder.</description>
-    </item>
-    <item>
-      <title>China Now Sells One in Three Cars on Earth, and the US Watches From Behind a Tariff Wall</title>
-      <link>https://nexusevnews.com/articles/china-ev-dominance-us-tariff-wall-two-bit-davinci.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/china-ev-dominance-us-tariff-wall-two-bit-davinci.html</guid>
-      <pubDate>Mon, 15 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Two Bit da Vinci</dc:creator>
-      <category>deep-dives</category>
-      <description>Two Bit da Vinci lays out the scale: 34.4 million vehicles sold in China in 2025, 35.6% of the global market, EVs under $10,000, and a US tariff wall that keeps all of it out.</description>
-    </item>
-      <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
       <link>https://nexusevnews.com/opinion-r2-tracker.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-r2-tracker.html</guid>
