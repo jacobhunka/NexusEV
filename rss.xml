@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Mercedes Built the VLE Around the Passenger, Not the Driver</title>
+      <link>https://nexusevnews.com/articles/mercedes-vle-electric-luxury-van-passenger-first-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/mercedes-vle-electric-luxury-van-passenger-first-review.html</guid>
+      <pubDate>Sat, 20 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>reviews</category>
+      <description>Mercedes' electric VLE puts rear-seat luxury first, with a 115 kWh battery, 800 volt charging and a quoted 435 mile range. UK pricing is not confirmed yet.</description>
+    </item>
+    <item>
+      <title>A Dutch Eco-Village Built From Old Tires Runs Mostly on Solar</title>
+      <link>https://nexusevnews.com/articles/aardehuis-earthship-community-netherlands-off-grid-solar.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/aardehuis-earthship-community-netherlands-off-grid-solar.html</guid>
+      <pubDate>Sat, 20 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>DW Euromaxx</dc:creator>
+      <category>solar</category>
+      <description>Aardehuis is 23 Earthships near Amsterdam made from recycled tires, timber and adobe, running largely on solar with a heat pump for the darkest winter days.</description>
+    </item>
+    <item>
+      <title>Honda's Super-N Is a Tiny City EV Built for Fun, Not Range</title>
+      <link>https://nexusevnews.com/articles/honda-super-n-electric-kei-city-car-review-range-boost.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/honda-super-n-electric-kei-city-car-review-range-boost.html</guid>
+      <pubDate>Sat, 20 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>reviews</category>
+      <description>A widened kei-based Honda with a 29.6 kWh battery, recycled materials and a Boost button. The host calls it the cheap, characterful runabout the Honda E should have been.</description>
+    </item>
+    <item>
+      <title>How Uzbekistan Is Rebuilding Its Economy Around Renewables</title>
+      <link>https://nexusevnews.com/articles/uzbekistan-renewable-energy-push-grid-reform-gulf-investment.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/uzbekistan-renewable-energy-push-grid-reform-gulf-investment.html</guid>
+      <pubDate>Sat, 20 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Financial Times</dc:creator>
+      <category>deep-dives</category>
+      <description>An FT film tracks Uzbekistan's push into renewables, market reform and Gulf investment as gas runs short, demand climbs and the grid shows its age.</description>
+    </item>
+    <item>
+      <title>Electric Boats Are Having Their Early-Adopter Moment</title>
+      <link>https://nexusevnews.com/articles/electric-boats-on-the-rise-flux-marine-scout-industry-update.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/electric-boats-on-the-rise-flux-marine-scout-industry-update.html</guid>
+      <pubDate>Sat, 20 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>news</category>
+      <description>An Out of Spec visit to an all-electric boat dealer in Virginia makes a blunt, honest case for matching electric boats to short trips and overnight charging.</description>
+    </item>
     <item>
       <title>CorPower's Wave Machines Aim for a 10x Jump in Efficiency</title>
       <link>https://nexusevnews.com/articles/corpower-wave-energy-10x-efficiency-c5-machines.html</link>
@@ -116,42 +161,6 @@
       <description>Everything Electric drives the Alpine A390 GTS on track. The tri-motor crossover is quoted at 350 kW, 824 Nm and 0 to 62 mph in 3.9 seconds, with torque vectoring meant to disguise its 2.1-ton weight.</description>
     </item>
     <item>
-      <title>How a Tiny Portuguese Island Became a Testing Ground for Battery-Backed Grids</title>
-      <link>https://nexusevnews.com/articles/porto-santo-island-battery-microgrid-renewable-testbed.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/porto-santo-island-battery-microgrid-renewable-testbed.html</guid>
-      <pubDate>Wed, 17 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Financial Times</dc:creator>
-      <category>deep-dives</category>
-      <description>The Financial Times visits Porto Santo, where a battery storage system installed with utility EEM keeps a small, isolated island grid stable. A local business owner says the blackouts that once shut her restaurant have stopped.</description>
-    </item>
-    <item>
-      <title>A Battery That Runs on Seawater, Makes Drinking Water and Captures Carbon</title>
-      <link>https://nexusevnews.com/articles/seawater-battery-desalination-carbon-capture-korea-unist.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/seawater-battery-desalination-carbon-capture-korea-unist.html</guid>
-      <pubDate>Wed, 17 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Undecided with Matt Ferrell</dc:creator>
-      <category>battery-tech</category>
-      <description>Undecided explains a Korean seawater battery from UNIST that stores energy, desalinates water and captures CO2 in one system. The video puts its material cost near 10 cents per kWh, though the desalination and capture functions remain lab-stage.</description>
-    </item>
-    <item>
-      <title>The Case That Solar's 50-Year Price Crash Is Still Speeding Up</title>
-      <link>https://nexusevnews.com/articles/solar-cost-curve-10000-fold-fastest-energy-shift-ray-wills.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/solar-cost-curve-10000-fold-fastest-energy-shift-ray-wills.html</guid>
-      <pubDate>Wed, 17 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>The Electric Viking</dc:creator>
-      <category>solar</category>
-      <description>The Electric Viking summarizes analyst Ray Wills, who argues solar module prices have fallen roughly 10,000-fold over 50 years and that batteries are now scaling even faster. The video's 80%-by-2035 figure comes from Wills's own firm.</description>
-    </item>
-    <item>
-      <title>Plug-In Balcony Solar Is Illegal Almost Everywhere in the US. Utah Just Changed That</title>
-      <link>https://nexusevnews.com/articles/ecoflow-balcony-solar-utah-hb340-plug-in-micro-inverter.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ecoflow-balcony-solar-utah-hb340-plug-in-micro-inverter.html</guid>
-      <pubDate>Wed, 17 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Jasonoid</dc:creator>
-      <category>solar</category>
-      <description>Jasonoid runs a plug-in EcoFlow Stream solar setup on his deck, which he says is legal in Utah under HB340. The arrangement needs no permits and no net metering, but a smart meter is required to measure power flowing back to the grid.</description>
-    </item>
-    <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
       <link>https://nexusevnews.com/opinion-self-driving-disability-independence.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-self-driving-disability-independence.html</guid>
@@ -159,15 +168,6 @@
       <dc:creator>Jacob Hunka</dc:creator>
       <category>Opinion</category>
       <description>The autonomy debate is all horse race. But for millions of people who cannot drive, a car that drives itself is the keys, handed back. Why Rivian's road to Level 4 matters more than the spec sheet, and the one thing it still has to get right.</description>
-    </item>
-    <item>
-      <title>Polestar Drove Its 870 HP Flagship From Gothenburg to the Sahara to Settle the Range Question</title>
-      <link>https://nexusevnews.com/articles/polestar-5-flagship-gothenburg-to-sahara-press-drive.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/polestar-5-flagship-gothenburg-to-sahara-press-drive.html</guid>
-      <pubDate>Tue, 16 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Polestar</dc:creator>
-      <category>reviews</category>
-      <description>Polestar turned the launch of its 5 flagship into a 6,500 km drive from Sweden to Morocco, making range the headline rather than the car. Published specs put it near 650 kW and 870 hp on a 103 kWh battery.</description>
     </item>
     <item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
