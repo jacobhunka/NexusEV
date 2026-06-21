@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>One Year With a Heatable Solar and Battery Setup: What He Would Change</title>
+      <link>https://nexusevnews.com/articles/one-year-heatable-solar-battery-setup-regrets-alpha-ess.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/one-year-heatable-solar-battery-setup-regrets-alpha-ess.html</guid>
+      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Andrew Till / Mr. EV</dc:creator>
+      <category>solar</category>
+      <description>A UK owner reviews a year with 30 Australian-built panels and 20 kWh of Alpha ESS storage, covering cold-weather shutdowns, tight winter capacity and the upgrades he wishes he had picked.</description>
+    </item>
+    <item>
+      <title>The Rivian R2 Through the Eyes of a Wheelchair User</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-first-drive-wheelchair-accessibility-hand-controls.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-first-drive-wheelchair-accessibility-hand-controls.html</guid>
+      <pubDate>Sun, 21 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>JerryRigEverything</dc:creator>
+      <category>reviews</category>
+      <description>JerryRigEverything tests the smaller, cheaper Rivian R2 with Cambry, who drives using hand controls, covering transfers, wheelchair loading, car seats and the adaptive headlights.</description>
+    </item>
+    <item>
+      <title>How a Historic Dutch Fort Island Runs Without a Grid Connection</title>
+      <link>https://nexusevnews.com/articles/pampus-island-off-grid-solar-wind-hydrogen-biogas-amsterdam.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/pampus-island-off-grid-solar-wind-hydrogen-biogas-amsterdam.html</guid>
+      <pubDate>Sun, 21 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Foundation Zero</dc:creator>
+      <category>deep-dives</category>
+      <description>Pampus, a 19th-century fort near Amsterdam, runs on solar, wind, hydrogen and biogas with battery and seasonal heat storage, and asks visitors to use less power when the weather turns.</description>
+    </item>
+    <item>
+      <title>Geely's Solid-State Battery Reportedly Heads for Real-World Vehicle Testing</title>
+      <link>https://nexusevnews.com/articles/geely-solid-state-battery-400-wh-kg-vehicle-testing-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/geely-solid-state-battery-400-wh-kg-vehicle-testing-2026.html</guid>
+      <pubDate>Sun, 21 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Ben Alexxander</dc:creator>
+      <category>battery-tech</category>
+      <description>A video breaks down reports that Geely is targeting a roughly 400 Wh/kg solid-state cell and plans to build a pack in 2026 to test inside an actual vehicle, not just in the lab.</description>
+    </item>
+    <item>
+      <title>Cybercab Specs Surface as Uber Stacks Up Robotaxi Partners</title>
+      <link>https://nexusevnews.com/articles/tesla-cybercab-specs-uber-robotaxi-partnerships-waymo-race.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-cybercab-specs-uber-robotaxi-partnerships-waymo-race.html</guid>
+      <pubDate>Sun, 21 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>InsideEVs</dc:creator>
+      <category>news</category>
+      <description>An InsideEVs podcast digs into a reported EPA filing for Tesla's two-seat Cybercab and the wave of Uber deals with Lucid, Nuro, Stellantis, Wayve and others chasing Waymo.</description>
+    </item>
     <item>
       <title>Mercedes Built the VLE Around the Passenger, Not the Driver</title>
       <link>https://nexusevnews.com/articles/mercedes-vle-electric-luxury-van-passenger-first-review.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Chris Harris on Cars</dc:creator>
       <category>reviews</category>
       <description>Chris Harris spends a year with McMurtry's single-seat Speirling, an electric fan car he says makes its own grip. The maker quotes 1,000 hp, 1,000 kg and roughly 2,000 kg of downforce generated standing still.</description>
-    </item>
-    <item>
-      <title>TELO Says Its Split Battery Pack Charges Fast at Both 400 and 800 Volts</title>
-      <link>https://nexusevnews.com/articles/telo-split-pack-400-800-volt-charging-update.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/telo-split-pack-400-800-volt-charging-update.html</guid>
-      <pubDate>Thu, 18 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>TELO Trucks</dc:creator>
-      <category>battery-tech</category>
-      <description>TELO says its compact electric truck uses a split high-voltage pack, two 400-volt packs in parallel plus one 800-volt pack in series, to charge at up to 400 kW sustained on both 400-volt and 800-volt fast chargers.</description>
-    </item>
-    <item>
-      <title>The 2027 Porsche Taycan Adds Fake Gear Shifts and a Native NACS Port</title>
-      <link>https://nexusevnews.com/articles/2027-porsche-taycan-e-shift-fake-gears-nacs-port.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/2027-porsche-taycan-e-shift-fake-gears-nacs-port.html</guid>
-      <pubDate>Thu, 18 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Porsche</dc:creator>
-      <category>news</category>
-      <description>MotorTrend reports the 2027 Taycan adds an E-Shift system with eight simulated gears and paddles, a native NACS fast-charging port on the passenger side, and the 105-kWh Performance Battery Plus as standard.</description>
-    </item>
-    <item>
-      <title>Leaked Specs Point to a $24,950 Slate Truck With Double the Towing</title>
-      <link>https://nexusevnews.com/articles/slate-truck-price-specs-leak-24950-towing.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-truck-price-specs-leak-24950-towing.html</guid>
-      <pubDate>Thu, 18 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Tailosive EV</dc:creator>
-      <category>news</category>
-      <description>Tailosive EV walks through leaked Slate figures: a base price near $24,950, towing reportedly doubled to 2,000 lb, and payload up to about 1,550 lb. None of it is official until the full reveal expected June 24.</description>
-    </item>
-    <item>
-      <title>The EV Money Traps That Cost More Than the Car Itself</title>
-      <link>https://nexusevnews.com/articles/how-to-save-money-ev-home-charging-rookie-mistakes.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/how-to-save-money-ev-home-charging-rookie-mistakes.html</guid>
-      <pubDate>Thu, 18 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Kim Java</dc:creator>
-      <category>charging</category>
-      <description>After 12 years and five EVs, Kim Java argues the biggest savings come from home charging and your electricity plan, not the car. Her main warning: don't overspend on a fancy wall charger or buy more EV than you need.</description>
-    </item>
-    <item>
-      <title>Alpine Took a Five-Seat Electric Crossover to a Race Track to Prove a Point</title>
-      <link>https://nexusevnews.com/articles/alpine-a390-gts-tri-motor-torque-vectoring-track-test.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/alpine-a390-gts-tri-motor-torque-vectoring-track-test.html</guid>
-      <pubDate>Wed, 17 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Everything Electric CARS</dc:creator>
-      <category>reviews</category>
-      <description>Everything Electric drives the Alpine A390 GTS on track. The tri-motor crossover is quoted at 350 kW, 824 Nm and 0 to 62 mph in 3.9 seconds, with torque vectoring meant to disguise its 2.1-ton weight.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
