@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Romain Dumas Wins Pikes Peak Again in Ford's Electric Mustang</title>
+      <link>https://nexusevnews.com/articles/romain-dumas-wins-pikes-peak-2026-ford-super-mustang-mach-e.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/romain-dumas-wins-pikes-peak-2026-ford-super-mustang-mach-e.html</guid>
+      <pubDate>Mon, 22 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Pikes Peak International Hill Climb</dc:creator>
+      <category>news</category>
+      <description>According to a Pirelli release, Romain Dumas took the all-electric Ford Super Mustang Mach-E up the 19.99 km course in 8:18.202 for a sixth title, while pole-sitter Simone Faggioli finished third after a technical issue.</description>
+    </item>
+    <item>
+      <title>New BMW i3 Orders Open Early as Demand Outruns Supply</title>
+      <link>https://nexusevnews.com/articles/new-bmw-i3-orders-open-early-zeekr-7-gt-summer-evs.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/new-bmw-i3-orders-open-early-zeekr-7-gt-summer-evs.html</guid>
+      <pubDate>Mon, 22 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>news</category>
+      <description>The Electrifying team says the launch-edition i3 opened for orders early on strong demand at under 58,000 pounds, alongside a 3.3-second Zeekr 7 GT and a roundup of the best open-top EVs for summer.</description>
+    </item>
+    <item>
+      <title>Flying the Pipistrel Taurus Electro, a Solar-Charged Electric Glider</title>
+      <link>https://nexusevnews.com/articles/pipistrel-taurus-electro-electric-glider-solar-charging-flight-test.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/pipistrel-taurus-electro-electric-glider-solar-charging-flight-test.html</guid>
+      <pubDate>Mon, 22 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Stefan Langer</dc:creator>
+      <category>solar</category>
+      <description>Stefan Langer flies a side-by-side two-seat electric glider with just over 13 kWh on board, while his host charges both the aircraft and his EV from a homemade solar trailer.</description>
+    </item>
+    <item>
+      <title>240 Miles in a 60-Mile Chevy Spark EV, Almost</title>
+      <link>https://nexusevnews.com/articles/chevy-spark-ev-road-trip-maryland-north-carolina-charging.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/chevy-spark-ev-road-trip-maryland-north-carolina-charging.html</guid>
+      <pubDate>Mon, 22 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec BITS</dc:creator>
+      <category>charging</category>
+      <description>Out of Spec BITS drives a 2016 Chevy Spark EV about 240 miles on ChargePoint stations only, and runs out of charge two miles short after a closed exit eats the buffer.</description>
+    </item>
+    <item>
+      <title>Rivian's RJ Scaringe on the R2, the Money, and No UK Date</title>
+      <link>https://nexusevnews.com/articles/rivian-rj-scaringe-r2-reveal-virgin-radio-interview.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-rj-scaringe-r2-reveal-virgin-radio-interview.html</guid>
+      <pubDate>Mon, 22 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Virgin Radio UK</dc:creator>
+      <category>deep-dives</category>
+      <description>Speaking to Virgin Radio, RJ Scaringe marks the R2 launch, says a roughly 45,000 dollar version arrives in summer 2027, and explains why there is no UK date yet.</description>
+    </item>
     <item>
       <title>One Year With a Heatable Solar and Battery Setup: What He Would Change</title>
       <link>https://nexusevnews.com/articles/one-year-heatable-solar-battery-setup-regrets-alpha-ess.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Europe's Foundry</dc:creator>
       <category>deep-dives</category>
       <description>A Stockholm developer says its C5 wave converters roughly halve cost and parts, rode out 20 meter waves off Portugal, and chase a tenfold gain in structural efficiency. Featured profile by Europe's Foundry.</description>
-    </item>
-    <item>
-      <title>Polestar 4 Drops $10,000 as the Discounts Pile Up</title>
-      <link>https://nexusevnews.com/articles/polestar-4-10000-discount-review-range-charging.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/polestar-4-10000-discount-review-range-charging.html</guid>
-      <pubDate>Fri, 19 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Gjeebs</dc:creator>
-      <category>reviews</category>
-      <description>The camera-rearview, 100 kWh Polestar 4 beat its own range rating on a road trip, and a current $10,000 incentive softens a price the reviewer still calls steep.</description>
-    </item>
-    <item>
-      <title>The New Orbea Wild Wires Every Part Into One Battery</title>
-      <link>https://nexusevnews.com/articles/2027-orbea-wild-avinox-rs-integrated-emtb.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/2027-orbea-wild-avinox-rs-integrated-emtb.html</guid>
-      <pubDate>Fri, 19 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Rob Rides EMTB</dc:creator>
-      <category>reviews</category>
-      <description>Orbea's Avinox-powered Wild links motor, dropper, derailleur and an electronic Fox shock to a single battery, with an RS tune the reviewer says wakes the motor at low effort. Paid partnership noted.</description>
-    </item>
-    <item>
-      <title>A Full Off-Grid Solar Setup Runs About $28,000</title>
-      <link>https://nexusevnews.com/articles/off-grid-solar-cost-breakdown-batteries-inverter-panels.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/off-grid-solar-cost-breakdown-batteries-inverter-panels.html</guid>
-      <pubDate>Fri, 19 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>The Solar Lab</dc:creator>
-      <category>solar</category>
-      <description>The Solar Lab prices an off-grid system for an average US home near $28,000, with batteries alone close to $20,000, and explains why storage, not panels, drives the bill.</description>
-    </item>
-    <item>
-      <title>The Case That Solar and Batteries Now Undercut Gas</title>
-      <link>https://nexusevnews.com/articles/solar-batteries-beat-gas-spain-cheap-power-chevy-bolt-news.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/solar-batteries-beat-gas-spain-cheap-power-chevy-bolt-news.html</guid>
-      <pubDate>Fri, 19 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Everything Electric TECH</dc:creator>
-      <category>news</category>
-      <description>A news roundup gathers cited reports that solar plus storage match the cheapest new gas plants, Spain's drop to Europe's cheapest power, and a returning 2027 Chevy Bolt near $30,000.</description>
-    </item>
-    <item>
-      <title>A Year With McMurtry's Speirling, the Fan Car That Makes Its Own Grip</title>
-      <link>https://nexusevnews.com/articles/a-year-with-mcmurtry-speirling-fan-car-makes-its-own-grip.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/a-year-with-mcmurtry-speirling-fan-car-makes-its-own-grip.html</guid>
-      <pubDate>Thu, 18 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Chris Harris on Cars</dc:creator>
-      <category>reviews</category>
-      <description>Chris Harris spends a year with McMurtry's single-seat Speirling, an electric fan car he says makes its own grip. The maker quotes 1,000 hp, 1,000 kg and roughly 2,000 kg of downforce generated standing still.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
