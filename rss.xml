@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Zeekr 7 GT First Drive: The Estate Car China Wants You to Notice</title>
+      <link>https://nexusevnews.com/articles/zeekr-7-gt-first-drive-electric-estate-646hp.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/zeekr-7-gt-first-drive-electric-estate-646hp.html</guid>
+      <pubDate>Tue, 23 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>reviews</category>
+      <description>Electrifying drives the Zeekr 7 GT in Spain. The dual-motor Privilege puts out 646 horsepower, hits 62 mph in 3.3 seconds and charges on an 800V system.</description>
+    </item>
+    <item>
+      <title>ALSO TM-B First Ride: Rivian's Spinoff Builds an E-Bike From Scratch</title>
+      <link>https://nexusevnews.com/articles/also-tm-b-first-ride-rivian-spinoff-electric-bike.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/also-tm-b-first-ride-rivian-spinoff-electric-bike.html</guid>
+      <pubDate>Tue, 23 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Irving Torres</dc:creator>
+      <category>reviews</category>
+      <description>Irving Torres rides the ALSO TM-B in San Diego. The Rivian spinoff e-bike is a Class 3 design built ground up with pedal-by-wire and regen braking.</description>
+    </item>
+    <item>
+      <title>One Year, 25,000 Miles: An Honest Rivian R1S Ownership Check-In</title>
+      <link>https://nexusevnews.com/articles/rivian-r1s-one-year-ownership-review-would-i-buy-again.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r1s-one-year-ownership-review-would-i-buy-again.html</guid>
+      <pubDate>Tue, 23 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>deep-dives</category>
+      <description>Out of Spec Reviews looks back on a year with a Rivian R1S after 25,000 miles, weighing the storage, towing and software against quality and autonomy gaps.</description>
+    </item>
+    <item>
+      <title>Renault Megane E-Tech Facelift Adds a Bigger Battery and Faster Charging</title>
+      <link>https://nexusevnews.com/articles/renault-megane-e-tech-facelift-67kwh-battery-310-mile-range.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/renault-megane-e-tech-facelift-67kwh-battery-310-mile-range.html</guid>
+      <pubDate>Tue, 23 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>What Car?</dc:creator>
+      <category>news</category>
+      <description>What Car? walks through the updated Renault Megane E-Tech. A new 67 kWh LFP battery lifts range to 310 miles and DC charging rises to 165 kW.</description>
+    </item>
+    <item>
+      <title>The Tesla Model Y Accessories One Owner Says He Cannot Drive Without</title>
+      <link>https://nexusevnews.com/articles/tesla-model-y-accessories-upgrades-everyday-chris.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-y-accessories-upgrades-everyday-chris.html</guid>
+      <pubDate>Tue, 23 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Everyday Chris</dc:creator>
+      <category>reviews</category>
+      <description>Everyday Chris walks through the aftermarket accessories he adds to a Tesla Model Y, from floor mats and storage trays to a bigger Sentry Mode drive.</description>
+    </item>
     <item>
       <title>Romain Dumas Wins Pikes Peak Again in Ford's Electric Mustang</title>
       <link>https://nexusevnews.com/articles/romain-dumas-wins-pikes-peak-2026-ford-super-mustang-mach-e.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Electrifying</dc:creator>
       <category>reviews</category>
       <description>Mercedes' electric VLE puts rear-seat luxury first, with a 115 kWh battery, 800 volt charging and a quoted 435 mile range. UK pricing is not confirmed yet.</description>
-    </item>
-    <item>
-      <title>A Dutch Eco-Village Built From Old Tires Runs Mostly on Solar</title>
-      <link>https://nexusevnews.com/articles/aardehuis-earthship-community-netherlands-off-grid-solar.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/aardehuis-earthship-community-netherlands-off-grid-solar.html</guid>
-      <pubDate>Sat, 20 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>DW Euromaxx</dc:creator>
-      <category>solar</category>
-      <description>Aardehuis is 23 Earthships near Amsterdam made from recycled tires, timber and adobe, running largely on solar with a heat pump for the darkest winter days.</description>
-    </item>
-    <item>
-      <title>Honda's Super-N Is a Tiny City EV Built for Fun, Not Range</title>
-      <link>https://nexusevnews.com/articles/honda-super-n-electric-kei-city-car-review-range-boost.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/honda-super-n-electric-kei-city-car-review-range-boost.html</guid>
-      <pubDate>Sat, 20 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>reviews</category>
-      <description>A widened kei-based Honda with a 29.6 kWh battery, recycled materials and a Boost button. The host calls it the cheap, characterful runabout the Honda E should have been.</description>
-    </item>
-    <item>
-      <title>How Uzbekistan Is Rebuilding Its Economy Around Renewables</title>
-      <link>https://nexusevnews.com/articles/uzbekistan-renewable-energy-push-grid-reform-gulf-investment.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/uzbekistan-renewable-energy-push-grid-reform-gulf-investment.html</guid>
-      <pubDate>Sat, 20 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Financial Times</dc:creator>
-      <category>deep-dives</category>
-      <description>An FT film tracks Uzbekistan's push into renewables, market reform and Gulf investment as gas runs short, demand climbs and the grid shows its age.</description>
-    </item>
-    <item>
-      <title>Electric Boats Are Having Their Early-Adopter Moment</title>
-      <link>https://nexusevnews.com/articles/electric-boats-on-the-rise-flux-marine-scout-industry-update.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/electric-boats-on-the-rise-flux-marine-scout-industry-update.html</guid>
-      <pubDate>Sat, 20 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>news</category>
-      <description>An Out of Spec visit to an all-electric boat dealer in Virginia makes a blunt, honest case for matching electric boats to short trips and overnight charging.</description>
-    </item>
-    <item>
-      <title>CorPower's Wave Machines Aim for a 10x Jump in Efficiency</title>
-      <link>https://nexusevnews.com/articles/corpower-wave-energy-10x-efficiency-c5-machines.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/corpower-wave-energy-10x-efficiency-c5-machines.html</guid>
-      <pubDate>Fri, 19 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Europe's Foundry</dc:creator>
-      <category>deep-dives</category>
-      <description>A Stockholm developer says its C5 wave converters roughly halve cost and parts, rode out 20 meter waves off Portugal, and chase a tenfold gain in structural efficiency. Featured profile by Europe's Foundry.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
