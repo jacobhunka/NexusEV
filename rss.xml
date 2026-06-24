@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Skoda Peaq Revealed: The Brand's First Real Electric Flagship</title>
+      <link>https://nexusevnews.com/articles/skoda-peaq-electric-flagship-suv-reveal-7-seater.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/skoda-peaq-electric-flagship-suv-reveal-7-seater.html</guid>
+      <pubDate>Wed, 24 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Autogefühl</dc:creator>
+      <category>reviews</category>
+      <description>Autogefuhl walks through the Skoda Peaq, a five and seven seat electric SUV with two battery sizes, a claimed 400 to 500 km of real-world range and a cabin pitched as proper luxury.</description>
+    </item>
+    <item>
+      <title>Can a $1,500 Plug-In Battery Stand In for a Powerwall?</title>
+      <link>https://nexusevnews.com/articles/pila-1500-home-battery-plug-in-powerwall-alternative.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/pila-1500-home-battery-plug-in-powerwall-alternative.html</guid>
+      <pubDate>Wed, 24 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Undecided with Matt Ferrell</dc:creator>
+      <category>battery-tech</category>
+      <description>Matt Ferrell, who discloses he advises the company, tests Pila, a $1,499 home battery that plugs into a standard outlet with no electrician or permit, and notes where regulation still limits it.</description>
+    </item>
+    <item>
+      <title>Volvo ES90 First Look: A Big Electric Saloon Making the Efficiency Case</title>
+      <link>https://nexusevnews.com/articles/volvo-es90-electric-saloon-first-look-range-charging.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/volvo-es90-electric-saloon-first-look-range-charging.html</guid>
+      <pubDate>Wed, 24 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Everything Electric CARS</dc:creator>
+      <category>reviews</category>
+      <description>Everything Electric drives the five meter Volvo ES90, a luxury saloon with up to 411 miles of range and fast 800 volt charging, arguing a saloon shape beats an equivalent SUV on efficiency.</description>
+    </item>
+    <item>
+      <title>McMurtry Says Amateurs Set Two Lap Records in Its Electric Fan Car</title>
+      <link>https://nexusevnews.com/articles/mcmurtry-speirling-denmark-lap-records-amateur-drivers.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/mcmurtry-speirling-denmark-lap-records-amateur-drivers.html</guid>
+      <pubDate>Wed, 24 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>McMurtry Automotive</dc:creator>
+      <category>news</category>
+      <description>McMurtry took its Speirling fan car to Denmark and says a visiting journalist and a private owner each set a venue lap record during dealer track days, with the car running below full power.</description>
+    </item>
+    <item>
+      <title>Urtopia Carbon Classic ST: A 38-Pound Carbon E-Bike With Real Power</title>
+      <link>https://nexusevnews.com/articles/urtopia-carbon-classic-st-lightweight-carbon-ebike-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/urtopia-carbon-classic-st-lightweight-carbon-ebike-review.html</guid>
+      <pubDate>Wed, 24 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Electroheads</dc:creator>
+      <category>reviews</category>
+      <description>Electroheads rides the Urtopia Carbon Classic ST around Menlo Park, a 38 pound carbon e-bike with a step-through frame, a 750W peak motor, a throttle and a claimed range of up to 75 miles.</description>
+    </item>
     <item>
       <title>Zeekr 7 GT First Drive: The Estate Car China Wants You to Notice</title>
       <link>https://nexusevnews.com/articles/zeekr-7-gt-first-drive-electric-estate-646hp.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Andrew Till / Mr. EV</dc:creator>
       <category>solar</category>
       <description>A UK owner reviews a year with 30 Australian-built panels and 20 kWh of Alpha ESS storage, covering cold-weather shutdowns, tight winter capacity and the upgrades he wishes he had picked.</description>
-    </item>
-    <item>
-      <title>The Rivian R2 Through the Eyes of a Wheelchair User</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-first-drive-wheelchair-accessibility-hand-controls.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-first-drive-wheelchair-accessibility-hand-controls.html</guid>
-      <pubDate>Sun, 21 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>JerryRigEverything</dc:creator>
-      <category>reviews</category>
-      <description>JerryRigEverything tests the smaller, cheaper Rivian R2 with Cambry, who drives using hand controls, covering transfers, wheelchair loading, car seats and the adaptive headlights.</description>
-    </item>
-    <item>
-      <title>How a Historic Dutch Fort Island Runs Without a Grid Connection</title>
-      <link>https://nexusevnews.com/articles/pampus-island-off-grid-solar-wind-hydrogen-biogas-amsterdam.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/pampus-island-off-grid-solar-wind-hydrogen-biogas-amsterdam.html</guid>
-      <pubDate>Sun, 21 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Foundation Zero</dc:creator>
-      <category>deep-dives</category>
-      <description>Pampus, a 19th-century fort near Amsterdam, runs on solar, wind, hydrogen and biogas with battery and seasonal heat storage, and asks visitors to use less power when the weather turns.</description>
-    </item>
-    <item>
-      <title>Geely's Solid-State Battery Reportedly Heads for Real-World Vehicle Testing</title>
-      <link>https://nexusevnews.com/articles/geely-solid-state-battery-400-wh-kg-vehicle-testing-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/geely-solid-state-battery-400-wh-kg-vehicle-testing-2026.html</guid>
-      <pubDate>Sun, 21 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Ben Alexxander</dc:creator>
-      <category>battery-tech</category>
-      <description>A video breaks down reports that Geely is targeting a roughly 400 Wh/kg solid-state cell and plans to build a pack in 2026 to test inside an actual vehicle, not just in the lab.</description>
-    </item>
-    <item>
-      <title>Cybercab Specs Surface as Uber Stacks Up Robotaxi Partners</title>
-      <link>https://nexusevnews.com/articles/tesla-cybercab-specs-uber-robotaxi-partnerships-waymo-race.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-cybercab-specs-uber-robotaxi-partnerships-waymo-race.html</guid>
-      <pubDate>Sun, 21 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>InsideEVs</dc:creator>
-      <category>news</category>
-      <description>An InsideEVs podcast digs into a reported EPA filing for Tesla's two-seat Cybercab and the wave of Uber deals with Lucid, Nuro, Stellantis, Wayve and others chasing Waymo.</description>
-    </item>
-    <item>
-      <title>Mercedes Built the VLE Around the Passenger, Not the Driver</title>
-      <link>https://nexusevnews.com/articles/mercedes-vle-electric-luxury-van-passenger-first-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/mercedes-vle-electric-luxury-van-passenger-first-review.html</guid>
-      <pubDate>Sat, 20 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>reviews</category>
-      <description>Mercedes' electric VLE puts rear-seat luxury first, with a 115 kWh battery, 800 volt charging and a quoted 435 mile range. UK pricing is not confirmed yet.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
