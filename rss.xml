@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Driving the $24,950 Slate Truck: A Bare EV You Build Up Yourself</title>
+      <link>https://nexusevnews.com/articles/slate-truck-first-drive-hands-on-blank-slate-auto-focus.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-truck-first-drive-hands-on-blank-slate-auto-focus.html</guid>
+      <pubDate>Thu, 25 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Auto Focus</dc:creator>
+      <category>reviews</category>
+      <description>Auto Focus gets first hands-on and first drive time with the Slate truck, a $24,950 electric pickup that ships nearly empty so you add only the parts you want.</description>
+    </item>
+    <item>
+      <title>James May Takes the Rivian R1T Across Virginia and Comes Away a Pickup Convert</title>
+      <link>https://nexusevnews.com/articles/james-may-rivian-r1t-virginia-road-trip-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/james-may-rivian-r1t-virginia-road-trip-review.html</guid>
+      <pubDate>Thu, 25 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>James May's Planet Gin</dc:creator>
+      <category>reviews</category>
+      <description>James May road trips the Rivian R1T through Virginia and ends up liking a pickup truck, praising the gear tunnel, the styling and the speed while missing CarPlay.</description>
+    </item>
+    <item>
+      <title>A Chinese Team Claims an EV Motor Far More Power-Dense Than Today's</title>
+      <link>https://nexusevnews.com/articles/china-axial-flux-motor-2573-kw-per-kg-ben-alexxander.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/china-axial-flux-motor-2573-kw-per-kg-ben-alexxander.html</guid>
+      <pubDate>Thu, 25 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Ben Alexxander</dc:creator>
+      <category>deep-dives</category>
+      <description>Ben Alexxander breaks down a claimed Chinese axial flux motor rated at 25.73 kW per kilogram, what power density means for EVs, and why Tesla should be watching.</description>
+    </item>
+    <item>
+      <title>The Updated Audi Q4 e-tron Sweats the Small Stuff and Trims the Price</title>
+      <link>https://nexusevnews.com/articles/audi-q4-e-tron-2026-update-review-electrifying.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/audi-q4-e-tron-2026-update-review-electrifying.html</guid>
+      <pubDate>Thu, 25 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>reviews</category>
+      <description>Electrifying reviews the 2026 Audi Q4 e-tron, with a reworked interior, three screens, bidirectional charging and UK prices that start slightly lower than before.</description>
+    </item>
+    <item>
+      <title>Slate Confirms an LFP Battery, 205 Miles of Range, and a Solar Bed Cover</title>
+      <link>https://nexusevnews.com/articles/slate-truck-205-mile-lfp-battery-solar-tonneau-tailosive.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-truck-205-mile-lfp-battery-solar-tonneau-tailosive.html</guid>
+      <pubDate>Thu, 25 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Tailosive EV</dc:creator>
+      <category>news</category>
+      <description>Tailosive EV covers Slate's confirmed updates: an LFP battery, a 205-mile target range, accessory pricing, and an optional solar tonneau cover for the electric truck.</description>
+    </item>
     <item>
       <title>Skoda Peaq Revealed: The Brand's First Real Electric Flagship</title>
       <link>https://nexusevnews.com/articles/skoda-peaq-electric-flagship-suv-reveal-7-seater.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Pikes Peak International Hill Climb</dc:creator>
       <category>news</category>
       <description>According to a Pirelli release, Romain Dumas took the all-electric Ford Super Mustang Mach-E up the 19.99 km course in 8:18.202 for a sixth title, while pole-sitter Simone Faggioli finished third after a technical issue.</description>
-    </item>
-    <item>
-      <title>New BMW i3 Orders Open Early as Demand Outruns Supply</title>
-      <link>https://nexusevnews.com/articles/new-bmw-i3-orders-open-early-zeekr-7-gt-summer-evs.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/new-bmw-i3-orders-open-early-zeekr-7-gt-summer-evs.html</guid>
-      <pubDate>Mon, 22 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>news</category>
-      <description>The Electrifying team says the launch-edition i3 opened for orders early on strong demand at under 58,000 pounds, alongside a 3.3-second Zeekr 7 GT and a roundup of the best open-top EVs for summer.</description>
-    </item>
-    <item>
-      <title>Flying the Pipistrel Taurus Electro, a Solar-Charged Electric Glider</title>
-      <link>https://nexusevnews.com/articles/pipistrel-taurus-electro-electric-glider-solar-charging-flight-test.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/pipistrel-taurus-electro-electric-glider-solar-charging-flight-test.html</guid>
-      <pubDate>Mon, 22 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Stefan Langer</dc:creator>
-      <category>solar</category>
-      <description>Stefan Langer flies a side-by-side two-seat electric glider with just over 13 kWh on board, while his host charges both the aircraft and his EV from a homemade solar trailer.</description>
-    </item>
-    <item>
-      <title>240 Miles in a 60-Mile Chevy Spark EV, Almost</title>
-      <link>https://nexusevnews.com/articles/chevy-spark-ev-road-trip-maryland-north-carolina-charging.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/chevy-spark-ev-road-trip-maryland-north-carolina-charging.html</guid>
-      <pubDate>Mon, 22 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec BITS</dc:creator>
-      <category>charging</category>
-      <description>Out of Spec BITS drives a 2016 Chevy Spark EV about 240 miles on ChargePoint stations only, and runs out of charge two miles short after a closed exit eats the buffer.</description>
-    </item>
-    <item>
-      <title>Rivian's RJ Scaringe on the R2, the Money, and No UK Date</title>
-      <link>https://nexusevnews.com/articles/rivian-rj-scaringe-r2-reveal-virgin-radio-interview.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-rj-scaringe-r2-reveal-virgin-radio-interview.html</guid>
-      <pubDate>Mon, 22 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Virgin Radio UK</dc:creator>
-      <category>deep-dives</category>
-      <description>Speaking to Virgin Radio, RJ Scaringe marks the R2 launch, says a roughly 45,000 dollar version arrives in summer 2027, and explains why there is no UK date yet.</description>
-    </item>
-    <item>
-      <title>One Year With a Heatable Solar and Battery Setup: What He Would Change</title>
-      <link>https://nexusevnews.com/articles/one-year-heatable-solar-battery-setup-regrets-alpha-ess.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/one-year-heatable-solar-battery-setup-regrets-alpha-ess.html</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Andrew Till / Mr. EV</dc:creator>
-      <category>solar</category>
-      <description>A UK owner reviews a year with 30 Australian-built panels and 20 kWh of Alpha ESS storage, covering cold-weather shutdowns, tight winter capacity and the upgrades he wishes he had picked.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
