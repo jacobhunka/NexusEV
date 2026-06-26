@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Richard Hammond Drives the Zeekr 7X: 646 Horsepower for Around 45 Thousand</title>
+      <link>https://nexusevnews.com/articles/zeekr-7x-richard-hammond-australia-track-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/zeekr-7x-richard-hammond-australia-track-review.html</guid>
+      <pubDate>Fri, 26 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>DRIVETRIBE</dc:creator>
+      <category>reviews</category>
+      <description>Richard Hammond track-tests the Zeekr 7X in Australia, launching and towing a 646-horsepower electric SUV he pegs at around 45 thousand, well under a luxury saloon.</description>
+    </item>
+    <item>
+      <title>After a Month With the Pebble Flow, Out of Spec Calls It Nearly Faultless</title>
+      <link>https://nexusevnews.com/articles/pebble-flow-electric-rv-one-month-review-out-of-spec.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/pebble-flow-electric-rv-one-month-review-out-of-spec.html</guid>
+      <pubDate>Fri, 26 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>reviews</category>
+      <description>After a month with the Pebble Flow electric trailer, Out of Spec calls it the most innovative and best-built unit they have tested, with one flaw: undersized air conditioning.</description>
+    </item>
+    <item>
+      <title>A Floating Wave Machine Claims One-Cent Power. The German Science Guy Is Skeptical.</title>
+      <link>https://nexusevnews.com/articles/waveline-magnet-sea-wave-energy-1-cent-per-kwh-claim.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/waveline-magnet-sea-wave-energy-1-cent-per-kwh-claim.html</guid>
+      <pubDate>Fri, 26 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>German Science Guy</dc:creator>
+      <category>deep-dives</category>
+      <description>The Waveline Magnet promises electricity at one cent per kWh and over 100 megawatts, but the German Science Guy notes the tested prototype made just 1.4 kilowatts.</description>
+    </item>
+    <item>
+      <title>Gobao's XP1 Ebike Motor Hides a Gearbox With No Gears</title>
+      <link>https://nexusevnews.com/articles/gobao-xp1-ecvt-ebike-motor-eurobike-rob-rides-emtb.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/gobao-xp1-ecvt-ebike-motor-eurobike-rob-rides-emtb.html</guid>
+      <pubDate>Fri, 26 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Rob Rides EMTB</dc:creator>
+      <category>reviews</category>
+      <description>At Eurobike, Rob Rides EMTB tests the Gobao XP1, a 1,500-watt ebike motor with a built-in electronic CVT that shifts steplessly and deletes the derailleur and cassette.</description>
+    </item>
+    <item>
+      <title>Octopus Says Its New Nook Home Batteries Undercut the Big Brands</title>
+      <link>https://nexusevnews.com/articles/octopus-nook-home-battery-tech-summit-2026.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/octopus-nook-home-battery-tech-summit-2026.html</guid>
+      <pubDate>Fri, 26 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Octopus Energy</dc:creator>
+      <category>battery-tech</category>
+      <description>At its 2026 Tech Summit, Octopus unveiled Nook home batteries that CEO Greg Jackson says pay back in two to three years without solar and undercut big brands by about a third.</description>
+    </item>
     <item>
       <title>Driving the $24,950 Slate Truck: A Bare EV You Build Up Yourself</title>
       <link>https://nexusevnews.com/articles/slate-truck-first-drive-hands-on-blank-slate-auto-focus.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Electrifying</dc:creator>
       <category>reviews</category>
       <description>Electrifying drives the Zeekr 7 GT in Spain. The dual-motor Privilege puts out 646 horsepower, hits 62 mph in 3.3 seconds and charges on an 800V system.</description>
-    </item>
-    <item>
-      <title>ALSO TM-B First Ride: Rivian's Spinoff Builds an E-Bike From Scratch</title>
-      <link>https://nexusevnews.com/articles/also-tm-b-first-ride-rivian-spinoff-electric-bike.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/also-tm-b-first-ride-rivian-spinoff-electric-bike.html</guid>
-      <pubDate>Tue, 23 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Irving Torres</dc:creator>
-      <category>reviews</category>
-      <description>Irving Torres rides the ALSO TM-B in San Diego. The Rivian spinoff e-bike is a Class 3 design built ground up with pedal-by-wire and regen braking.</description>
-    </item>
-    <item>
-      <title>One Year, 25,000 Miles: An Honest Rivian R1S Ownership Check-In</title>
-      <link>https://nexusevnews.com/articles/rivian-r1s-one-year-ownership-review-would-i-buy-again.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r1s-one-year-ownership-review-would-i-buy-again.html</guid>
-      <pubDate>Tue, 23 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>deep-dives</category>
-      <description>Out of Spec Reviews looks back on a year with a Rivian R1S after 25,000 miles, weighing the storage, towing and software against quality and autonomy gaps.</description>
-    </item>
-    <item>
-      <title>Renault Megane E-Tech Facelift Adds a Bigger Battery and Faster Charging</title>
-      <link>https://nexusevnews.com/articles/renault-megane-e-tech-facelift-67kwh-battery-310-mile-range.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/renault-megane-e-tech-facelift-67kwh-battery-310-mile-range.html</guid>
-      <pubDate>Tue, 23 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>What Car?</dc:creator>
-      <category>news</category>
-      <description>What Car? walks through the updated Renault Megane E-Tech. A new 67 kWh LFP battery lifts range to 310 miles and DC charging rises to 165 kW.</description>
-    </item>
-    <item>
-      <title>The Tesla Model Y Accessories One Owner Says He Cannot Drive Without</title>
-      <link>https://nexusevnews.com/articles/tesla-model-y-accessories-upgrades-everyday-chris.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-y-accessories-upgrades-everyday-chris.html</guid>
-      <pubDate>Tue, 23 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Everyday Chris</dc:creator>
-      <category>reviews</category>
-      <description>Everyday Chris walks through the aftermarket accessories he adds to a Tesla Model Y, from floor mats and storage trays to a bigger Sentry Mode drive.</description>
-    </item>
-    <item>
-      <title>Romain Dumas Wins Pikes Peak Again in Ford's Electric Mustang</title>
-      <link>https://nexusevnews.com/articles/romain-dumas-wins-pikes-peak-2026-ford-super-mustang-mach-e.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/romain-dumas-wins-pikes-peak-2026-ford-super-mustang-mach-e.html</guid>
-      <pubDate>Mon, 22 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Pikes Peak International Hill Climb</dc:creator>
-      <category>news</category>
-      <description>According to a Pirelli release, Romain Dumas took the all-electric Ford Super Mustang Mach-E up the 19.99 km course in 8:18.202 for a sixth title, while pole-sitter Simone Faggioli finished third after a technical issue.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
