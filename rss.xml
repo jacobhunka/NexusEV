@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Kindred Motorworks Puts 300 Horsepower Under a Classic VW Microbus</title>
+      <link>https://nexusevnews.com/articles/kindred-motorworks-electric-vw-microbus-first-drive-tflev.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/kindred-motorworks-electric-vw-microbus-first-drive-tflev.html</guid>
+      <pubDate>Sun, 28 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>TFLEV</dc:creator>
+      <category>reviews</category>
+      <description>TFLEV drives Kindred's electric VW Type 2 restomod: a 23-window classic with about 300 horsepower, a 74 kWh pack, a 200-mile range, and a $249,000 starting price.</description>
+    </item>
+    <item>
+      <title>Plug-In Solar Panels Are Everywhere in Europe and Stuck in the UK</title>
+      <link>https://nexusevnews.com/articles/plug-in-balcony-solar-uk-legality-ecoflow-stream-upsidedownfork.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/plug-in-balcony-solar-uk-legality-ecoflow-stream-upsidedownfork.html</guid>
+      <pubDate>Sun, 28 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>UpsideDownFork</dc:creator>
+      <category>solar</category>
+      <description>UpsideDownFork shows plug-in balcony solar feeding a home through a three-pin plug, explains why it is mainstream across Europe, and why the UK still lags on the rules.</description>
+    </item>
+    <item>
+      <title>Six Months With a Model 3 RWD: The Self-Driving Mattered More Than the Electric</title>
+      <link>https://nexusevnews.com/articles/tesla-model-3-lr-rwd-six-month-fsd-ownership-out-of-spec.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-3-lr-rwd-six-month-fsd-ownership-out-of-spec.html</guid>
+      <pubDate>Sun, 28 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>reviews</category>
+      <description>After six months and nearly 9,000 miles on a roughly $300 lease, Out of Spec says it was FSD, not the powertrain, that pulled a first-time EV driver in.</description>
+    </item>
+    <item>
+      <title>One Homesteader Wired a 36-Panel Off-Grid Solar System Mostly Alone</title>
+      <link>https://nexusevnews.com/articles/pastured-homestead-off-grid-solar-36-panel-build-eg4.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/pastured-homestead-off-grid-solar-36-panel-build-eg4.html</guid>
+      <pubDate>Sun, 28 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>The Pastured Homestead</dc:creator>
+      <category>solar</category>
+      <description>The Pastured Homestead documents a DIY off-grid build: 36 ground-mounted panels, EG4 inverters, and a battery bank, fighting snow and mud at every step.</description>
+    </item>
+    <item>
+      <title>Podcast Roundtable Bets the Cheap Slate Truck Sells on Fleets, Not Frills</title>
+      <link>https://nexusevnews.com/articles/batteries-included-slate-base-truck-lucid-rivian-news.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/batteries-included-slate-base-truck-lucid-rivian-news.html</guid>
+      <pubDate>Sun, 28 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Batteries Included Podcast</dc:creator>
+      <category>news</category>
+      <description>The podcast digs into Slate's confirmed $24,950 truck, argues base buyers are real, and covers fresh Lucid job cuts and a Rivian entry-trim change.</description>
+    </item>
     <item>
       <title>The Updated Polestar 3 Switches to 800 Volts and Faster Charging</title>
       <link>https://nexusevnews.com/articles/polestar-3-800v-update-faster-charging-autogefuehl-review.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Auto Focus</dc:creator>
       <category>reviews</category>
       <description>Auto Focus gets first hands-on and first drive time with the Slate truck, a $24,950 electric pickup that ships nearly empty so you add only the parts you want.</description>
-    </item>
-    <item>
-      <title>James May Takes the Rivian R1T Across Virginia and Comes Away a Pickup Convert</title>
-      <link>https://nexusevnews.com/articles/james-may-rivian-r1t-virginia-road-trip-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/james-may-rivian-r1t-virginia-road-trip-review.html</guid>
-      <pubDate>Thu, 25 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>James May's Planet Gin</dc:creator>
-      <category>reviews</category>
-      <description>James May road trips the Rivian R1T through Virginia and ends up liking a pickup truck, praising the gear tunnel, the styling and the speed while missing CarPlay.</description>
-    </item>
-    <item>
-      <title>A Chinese Team Claims an EV Motor Far More Power-Dense Than Today's</title>
-      <link>https://nexusevnews.com/articles/china-axial-flux-motor-2573-kw-per-kg-ben-alexxander.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/china-axial-flux-motor-2573-kw-per-kg-ben-alexxander.html</guid>
-      <pubDate>Thu, 25 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Ben Alexxander</dc:creator>
-      <category>deep-dives</category>
-      <description>Ben Alexxander breaks down a claimed Chinese axial flux motor rated at 25.73 kW per kilogram, what power density means for EVs, and why Tesla should be watching.</description>
-    </item>
-    <item>
-      <title>The Updated Audi Q4 e-tron Sweats the Small Stuff and Trims the Price</title>
-      <link>https://nexusevnews.com/articles/audi-q4-e-tron-2026-update-review-electrifying.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/audi-q4-e-tron-2026-update-review-electrifying.html</guid>
-      <pubDate>Thu, 25 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>reviews</category>
-      <description>Electrifying reviews the 2026 Audi Q4 e-tron, with a reworked interior, three screens, bidirectional charging and UK prices that start slightly lower than before.</description>
-    </item>
-    <item>
-      <title>Slate Confirms an LFP Battery, 205 Miles of Range, and a Solar Bed Cover</title>
-      <link>https://nexusevnews.com/articles/slate-truck-205-mile-lfp-battery-solar-tonneau-tailosive.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-truck-205-mile-lfp-battery-solar-tonneau-tailosive.html</guid>
-      <pubDate>Thu, 25 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Tailosive EV</dc:creator>
-      <category>news</category>
-      <description>Tailosive EV covers Slate's confirmed updates: an LFP battery, a 205-mile target range, accessory pricing, and an optional solar tonneau cover for the electric truck.</description>
-    </item>
-    <item>
-      <title>Skoda Peaq Revealed: The Brand's First Real Electric Flagship</title>
-      <link>https://nexusevnews.com/articles/skoda-peaq-electric-flagship-suv-reveal-7-seater.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/skoda-peaq-electric-flagship-suv-reveal-7-seater.html</guid>
-      <pubDate>Wed, 24 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Autogefühl</dc:creator>
-      <category>reviews</category>
-      <description>Autogefuhl walks through the Skoda Peaq, a five and seven seat electric SUV with two battery sizes, a claimed 400 to 500 km of real-world range and a cabin pitched as proper luxury.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
