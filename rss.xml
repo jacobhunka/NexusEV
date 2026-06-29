@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>A Peugeot Beat a Mercedes in This Seven-Seat EV Test</title>
+      <link>https://nexusevnews.com/articles/peugeot-e-5008-vs-mercedes-glb-electric-seven-seat-comparison.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/peugeot-e-5008-vs-mercedes-glb-electric-seven-seat-comparison.html</guid>
+      <pubDate>Mon, 29 Jun 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>reviews</category>
+      <description>Electrifying lines up the Peugeot E-5008 against the Mercedes GLB Electric. With more boot space and a 14,000-pound saving, the French seven-seater takes the win.</description>
+    </item>
+    <item>
+      <title>He Ran Solar Panels 400 Feet and Measured the Power Loss</title>
+      <link>https://nexusevnews.com/articles/minute-man-solar-400-foot-panel-distance-power-loss-test.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/minute-man-solar-400-foot-panel-distance-power-loss-test.html</guid>
+      <pubDate>Mon, 29 Jun 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Minute Man Solar</dc:creator>
+      <category>solar</category>
+      <description>Minute Man Solar measures voltage and amps at the panels and again 400 feet away at the shed. With heavy-gauge wire, the readings barely move.</description>
+    </item>
+    <item>
+      <title>The Offshore Wind Boom Most People Never See</title>
+      <link>https://nexusevnews.com/articles/everything-electric-offshore-wind-deborah-greaves-floating-tidal.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/everything-electric-offshore-wind-deborah-greaves-floating-tidal.html</guid>
+      <pubDate>Mon, 29 Jun 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Everything Electric TECH</dc:creator>
+      <category>deep-dives</category>
+      <description>Professor Deborah Greaves explains the UK's offshore wind scale-up: 16-megawatt turbines, floating platforms, tidal power, and a plan to roughly six-fold capacity by 2040.</description>
+    </item>
+    <item>
+      <title>The 2026 IONIQ 5 Got Cheaper, and That Changes the Math</title>
+      <link>https://nexusevnews.com/articles/2026-hyundai-ioniq-5-review-price-cut-vs-rivian-r2-micah-muzio.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/2026-hyundai-ioniq-5-review-price-cut-vs-rivian-r2-micah-muzio.html</guid>
+      <pubDate>Mon, 29 Jun 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Micah Muzio</dc:creator>
+      <category>reviews</category>
+      <description>After a price cut of up to roughly $9,800, Micah Muzio argues the IONIQ 5 beats the Rivian R2 on real-world value, with 318 miles of range and a 20-minute fast charge.</description>
+    </item>
+    <item>
+      <title>Why a $40 Sodium Battery Could Reset Grid Storage</title>
+      <link>https://nexusevnews.com/articles/electric-viking-byd-sodium-grid-battery-40-dollar-kwh-explainer.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/electric-viking-byd-sodium-grid-battery-40-dollar-kwh-explainer.html</guid>
+      <pubDate>Mon, 29 Jun 2026 19:30:00 +0000</pubDate>
+      <dc:creator>The Electric Viking</dc:creator>
+      <category>battery-tech</category>
+      <description>The Electric Viking lays out BYD's target of $40-per-kWh sodium grid cells by 2027 and argues cycle life, not the sticker price, is what makes the number matter.</description>
+    </item>
     <item>
       <title>Kindred Motorworks Puts 300 Horsepower Under a Classic VW Microbus</title>
       <link>https://nexusevnews.com/articles/kindred-motorworks-electric-vw-microbus-first-drive-tflev.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>DRIVETRIBE</dc:creator>
       <category>reviews</category>
       <description>Richard Hammond track-tests the Zeekr 7X in Australia, launching and towing a 646-horsepower electric SUV he pegs at around £45,000, well under a luxury saloon.</description>
-    </item>
-    <item>
-      <title>After a Month With the Pebble Flow, Out of Spec Calls It Nearly Faultless</title>
-      <link>https://nexusevnews.com/articles/pebble-flow-electric-rv-one-month-review-out-of-spec.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/pebble-flow-electric-rv-one-month-review-out-of-spec.html</guid>
-      <pubDate>Fri, 26 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>reviews</category>
-      <description>After a month with the Pebble Flow electric trailer, Out of Spec calls it the most innovative and best-built unit they have tested, with one flaw: undersized air conditioning.</description>
-    </item>
-    <item>
-      <title>A Floating Wave Machine Claims One-Cent Power. The German Science Guy Is Skeptical.</title>
-      <link>https://nexusevnews.com/articles/waveline-magnet-sea-wave-energy-1-cent-per-kwh-claim.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/waveline-magnet-sea-wave-energy-1-cent-per-kwh-claim.html</guid>
-      <pubDate>Fri, 26 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>German Science Guy</dc:creator>
-      <category>deep-dives</category>
-      <description>The Waveline Magnet promises electricity at one cent per kWh and over 100 megawatts, but the German Science Guy notes the tested prototype made just 1.4 kilowatts.</description>
-    </item>
-    <item>
-      <title>Gobao's XP1 Ebike Motor Hides a Gearbox With No Gears</title>
-      <link>https://nexusevnews.com/articles/gobao-xp1-ecvt-ebike-motor-eurobike-rob-rides-emtb.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/gobao-xp1-ecvt-ebike-motor-eurobike-rob-rides-emtb.html</guid>
-      <pubDate>Fri, 26 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Rob Rides EMTB</dc:creator>
-      <category>reviews</category>
-      <description>At Eurobike, Rob Rides EMTB tests the Gobao XP1, a 1,500-watt ebike motor with a built-in electronic CVT that shifts steplessly and deletes the derailleur and cassette.</description>
-    </item>
-    <item>
-      <title>Octopus Says Its New Nook Home Batteries Undercut the Big Brands</title>
-      <link>https://nexusevnews.com/articles/octopus-nook-home-battery-tech-summit-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/octopus-nook-home-battery-tech-summit-2026.html</guid>
-      <pubDate>Fri, 26 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Octopus Energy</dc:creator>
-      <category>battery-tech</category>
-      <description>At its 2026 Tech Summit, Octopus unveiled Nook home batteries that CEO Greg Jackson says pay back in two to three years without solar and undercut big brands by about a third.</description>
-    </item>
-    <item>
-      <title>Driving the $24,950 Slate Truck: A Bare EV You Build Up Yourself</title>
-      <link>https://nexusevnews.com/articles/slate-truck-first-drive-hands-on-blank-slate-auto-focus.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-truck-first-drive-hands-on-blank-slate-auto-focus.html</guid>
-      <pubDate>Thu, 25 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Auto Focus</dc:creator>
-      <category>reviews</category>
-      <description>Auto Focus gets first hands-on and first drive time with the Slate truck, a $24,950 electric pickup that ships nearly empty so you add only the parts you want.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
