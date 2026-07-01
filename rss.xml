@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Porsche's Macan GTS EV Nails the Driving, Fights the Market</title>
+      <link>https://nexusevnews.com/articles/doug-demuro-2026-porsche-macan-gts-ev-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/doug-demuro-2026-porsche-macan-gts-ev-review.html</guid>
+      <pubDate>Wed, 01 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Doug DeMuro</dc:creator>
+      <category>reviews</category>
+      <description>Doug DeMuro reviews the 2026 Macan GTS electric, a roughly $125,000 SUV he rates among the sharpest-driving EVs he has tried, landing just as US electric demand cools.</description>
+    </item>
+    <item>
+      <title>BMW's Electric iX5 Bets on a 144 kWh Battery and 460 kW Charging</title>
+      <link>https://nexusevnews.com/articles/out-of-spec-bmw-ix5-first-look-battery-charging.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/out-of-spec-bmw-ix5-first-look-battery-charging.html</guid>
+      <pubDate>Wed, 01 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>deep-dives</category>
+      <description>Out of Spec Reviews gets an early look at the electric iX5, which BMW says pairs a 144 kWh battery with 460 kW charging and a starting price of $79,800.</description>
+    </item>
+    <item>
+      <title>Slate Says Its $25,000 Electric Truck Is Actually Shipping</title>
+      <link>https://nexusevnews.com/articles/waveform-slate-electric-truck-25000-shipping-modules.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/waveform-slate-electric-truck-25000-shipping-modules.html</guid>
+      <pubDate>Wed, 01 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Waveform Clips</dc:creator>
+      <category>news</category>
+      <description>The Waveform crew digs into Slate's stripped-down electric pickup, a roughly $25,000 truck that charges extra for basics like speakers, as the company says production is close.</description>
+    </item>
+    <item>
+      <title>A Heat-Soaked Charging Test Slows This $65,000 Mustang Mach-E</title>
+      <link>https://nexusevnews.com/articles/gjeebs-2026-mustang-mach-e-california-special-review.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/gjeebs-2026-mustang-mach-e-california-special-review.html</guid>
+      <pubDate>Wed, 01 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Gjeebs</dc:creator>
+      <category>reviews</category>
+      <description>Gjeebs reviews a $65,485 Mach-E California Special and logs a slow 10 to 80 percent charge in extreme heat, a result the host suspects was not typical.</description>
+    </item>
+    <item>
+      <title>Shell's Concept EV Charges 10 to 80 Percent in Under 10 Minutes</title>
+      <link>https://nexusevnews.com/articles/reuters-shell-triple-10-concept-immersion-cooling-charging.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/reuters-shell-triple-10-concept-immersion-cooling-charging.html</guid>
+      <pubDate>Wed, 01 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Reuters</dc:creator>
+      <category>battery-tech</category>
+      <description>Reuters covers Shell's Triple 10 concept, which the company says charges 10 to 80 percent in under 10 minutes using an immersion-cooled battery and a single cooling circuit.</description>
+    </item>
     <item>
       <title>New Cars Keep Dropping the Spare. This Kit Hides One in a Model Y</title>
       <link>https://nexusevnews.com/articles/out-of-spec-modern-spare-hidden-tire-kit-tesla-model-y.html</link>
@@ -150,15 +195,6 @@
       <dc:creator>Batteries Included Podcast</dc:creator>
       <category>news</category>
       <description>The podcast digs into Slate's confirmed $24,950 truck, argues base buyers are real, and covers fresh Lucid job cuts and a Rivian entry-trim change.</description>
-    </item>
-    <item>
-      <title>The Updated Polestar 3 Switches to 800 Volts and Faster Charging</title>
-      <link>https://nexusevnews.com/articles/polestar-3-800v-update-faster-charging-autogefuehl-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/polestar-3-800v-update-faster-charging-autogefuehl-review.html</guid>
-      <pubDate>Sat, 27 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Autogefühl</dc:creator>
-      <category>reviews</category>
-      <description>Polestar's mid-life update moves the 3 to an 800-volt system, cutting a 10 to 80 percent charge to about 22 minutes. Autogefühl runs a hot-weather range test and says skip the performance pack.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
