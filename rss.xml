@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>BYD's Blade Battery 2.0 Aims to Make Cheap LFP Charge in Minutes</title>
+      <link>https://nexusevnews.com/articles/byd-blade-battery-2-0-lfp-five-minute-flash-charging.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-blade-battery-2-0-lfp-five-minute-flash-charging.html</guid>
+      <pubDate>Thu, 02 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Ziroth</dc:creator>
+      <category>battery-tech</category>
+      <description>Ziroth digs into BYD's new LFP pack, which the company says can add a 10 to 70 percent charge in about five minutes at its flash chargers.</description>
+    </item>
+    <item>
+      <title>XPENG's L03 Takes China's EV Price War to 63 Markets</title>
+      <link>https://nexusevnews.com/articles/xpeng-l03-china-price-war-heads-to-63-markets.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/xpeng-l03-china-price-war-heads-to-63-markets.html</guid>
+      <pubDate>Thu, 02 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric APAC</dc:creator>
+      <category>reviews</category>
+      <description>Everything Electric APAC walks around XPENG's coupe styled electric SUV, expected under 25,000 dollars and aimed at buyers well beyond China.</description>
+    </item>
+    <item>
+      <title>Intersolar 2026: The Race to a 500 Watt Home Solar Panel</title>
+      <link>https://nexusevnews.com/articles/intersolar-2026-the-race-to-a-500-watt-home-solar-panel.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/intersolar-2026-the-race-to-a-500-watt-home-solar-panel.html</guid>
+      <pubDate>Thu, 02 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Artisan Electrics</dc:creator>
+      <category>solar</category>
+      <description>Artisan Electrics tours Munich's big solar show, where Aiko showed a 500 watt standard size panel and rivals are chasing the same mark.</description>
+    </item>
+    <item>
+      <title>XPENG's X9 REV Adds a Petrol Backup to a 1,600 km MPV</title>
+      <link>https://nexusevnews.com/articles/xpeng-x9-rev-a-range-extender-mpv-with-1600-km-of-range.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/xpeng-x9-rev-a-range-extender-mpv-with-1600-km-of-range.html</guid>
+      <pubDate>Thu, 02 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric CARS</dc:creator>
+      <category>reviews</category>
+      <description>Everything Electric CARS drives XPENG's range extender MPV, which pairs a 63 kWh battery with a small petrol generator for long trips.</description>
+    </item>
+    <item>
+      <title>Why the R2 Is the Car Rivian Cannot Afford to Get Wrong</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-the-make-or-break-car-for-rivian.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-the-make-or-break-car-for-rivian.html</guid>
+      <pubDate>Thu, 02 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>deep-dives</category>
+      <description>On The Vergecast, editor Andy Hawkins and host David Pierce weigh whether Rivian's cheaper R2 can carry the company into the mainstream.</description>
+    </item>
     <item>
       <title>Porsche's Macan GTS EV Nails the Driving, Fights the Market</title>
       <link>https://nexusevnews.com/articles/doug-demuro-2026-porsche-macan-gts-ev-review.html</link>
@@ -114,87 +159,6 @@
       <dc:creator>Electrifying</dc:creator>
       <category>reviews</category>
       <description>Electrifying lines up the Peugeot E-5008 against the Mercedes GLB Electric. With more boot space and a 14,000-pound saving, the French seven-seater takes the win.</description>
-    </item>
-    <item>
-      <title>He Ran Solar Panels 400 Feet and Measured the Power Loss</title>
-      <link>https://nexusevnews.com/articles/minute-man-solar-400-foot-panel-distance-power-loss-test.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/minute-man-solar-400-foot-panel-distance-power-loss-test.html</guid>
-      <pubDate>Mon, 29 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Minute Man Solar</dc:creator>
-      <category>solar</category>
-      <description>Minute Man Solar measures voltage and amps at the panels and again 400 feet away at the shed. With heavy-gauge wire, the readings barely move.</description>
-    </item>
-    <item>
-      <title>The Offshore Wind Boom Most People Never See</title>
-      <link>https://nexusevnews.com/articles/everything-electric-offshore-wind-deborah-greaves-floating-tidal.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/everything-electric-offshore-wind-deborah-greaves-floating-tidal.html</guid>
-      <pubDate>Mon, 29 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Everything Electric TECH</dc:creator>
-      <category>deep-dives</category>
-      <description>Professor Deborah Greaves explains the UK's offshore wind scale-up: 16-megawatt turbines, floating platforms, tidal power, and a plan to roughly six-fold capacity by 2040.</description>
-    </item>
-    <item>
-      <title>The 2026 IONIQ 5 Got Cheaper, and That Changes the Math</title>
-      <link>https://nexusevnews.com/articles/2026-hyundai-ioniq-5-review-price-cut-vs-rivian-r2-micah-muzio.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/2026-hyundai-ioniq-5-review-price-cut-vs-rivian-r2-micah-muzio.html</guid>
-      <pubDate>Mon, 29 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Micah Muzio</dc:creator>
-      <category>reviews</category>
-      <description>After a price cut of up to roughly $9,800, Micah Muzio argues the IONIQ 5 beats the Rivian R2 on real-world value, with 318 miles of range and a 20-minute fast charge.</description>
-    </item>
-    <item>
-      <title>Why a $40 Sodium Battery Could Reset Grid Storage</title>
-      <link>https://nexusevnews.com/articles/electric-viking-byd-sodium-grid-battery-40-dollar-kwh-explainer.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/electric-viking-byd-sodium-grid-battery-40-dollar-kwh-explainer.html</guid>
-      <pubDate>Mon, 29 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>The Electric Viking</dc:creator>
-      <category>battery-tech</category>
-      <description>The Electric Viking lays out BYD's target of $40-per-kWh sodium grid cells by 2027 and argues cycle life, not the sticker price, is what makes the number matter.</description>
-    </item>
-    <item>
-      <title>Kindred Motorworks Puts 300 Horsepower Under a Classic VW Microbus</title>
-      <link>https://nexusevnews.com/articles/kindred-motorworks-electric-vw-microbus-first-drive-tflev.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/kindred-motorworks-electric-vw-microbus-first-drive-tflev.html</guid>
-      <pubDate>Sun, 28 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>TFLEV</dc:creator>
-      <category>reviews</category>
-      <description>TFLEV drives Kindred's electric VW Type 2 restomod: a 23-window classic with about 300 horsepower, a 74 kWh pack, a 200-mile range, and a $249,000 starting price.</description>
-    </item>
-    <item>
-      <title>Plug-In Solar Panels Are Everywhere in Europe and Stuck in the UK</title>
-      <link>https://nexusevnews.com/articles/plug-in-balcony-solar-uk-legality-ecoflow-stream-upsidedownfork.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/plug-in-balcony-solar-uk-legality-ecoflow-stream-upsidedownfork.html</guid>
-      <pubDate>Sun, 28 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>UpsideDownFork</dc:creator>
-      <category>solar</category>
-      <description>UpsideDownFork shows plug-in balcony solar feeding a home through a three-pin plug, explains why it is mainstream across Europe, and why the UK still lags on the rules.</description>
-    </item>
-    <item>
-      <title>Six Months With a Model 3 RWD: The Self-Driving Mattered More Than the Electric</title>
-      <link>https://nexusevnews.com/articles/tesla-model-3-lr-rwd-six-month-fsd-ownership-out-of-spec.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-3-lr-rwd-six-month-fsd-ownership-out-of-spec.html</guid>
-      <pubDate>Sun, 28 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>reviews</category>
-      <description>After six months and nearly 9,000 miles on a roughly $300 lease, Out of Spec says it was FSD, not the powertrain, that pulled a first-time EV driver in.</description>
-    </item>
-    <item>
-      <title>One Homesteader Wired a 36-Panel Off-Grid Solar System Mostly Alone</title>
-      <link>https://nexusevnews.com/articles/pastured-homestead-off-grid-solar-36-panel-build-eg4.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/pastured-homestead-off-grid-solar-36-panel-build-eg4.html</guid>
-      <pubDate>Sun, 28 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>The Pastured Homestead</dc:creator>
-      <category>solar</category>
-      <description>The Pastured Homestead documents a DIY off-grid build: 36 ground-mounted panels, EG4 inverters, and a battery bank, fighting snow and mud at every step.</description>
-    </item>
-    <item>
-      <title>Podcast Roundtable Bets the Cheap Slate Truck Sells on Fleets, Not Frills</title>
-      <link>https://nexusevnews.com/articles/batteries-included-slate-base-truck-lucid-rivian-news.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/batteries-included-slate-base-truck-lucid-rivian-news.html</guid>
-      <pubDate>Sun, 28 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Batteries Included Podcast</dc:creator>
-      <category>news</category>
-      <description>The podcast digs into Slate's confirmed $24,950 truck, argues base buyers are real, and covers fresh Lucid job cuts and a Rivian entry-trim change.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
