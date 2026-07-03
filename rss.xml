@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>ABB E-mobility Bets on Modular Charging Up to the Megawatt Level</title>
+      <link>https://nexusevnews.com/articles/abb-e-mobility-modular-megawatt-charging-plan.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/abb-e-mobility-modular-megawatt-charging-plan.html</guid>
+      <pubDate>Fri, 03 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>charging</category>
+      <description>Out of Spec Reviews tours ABB's A, M, and X charging families at ACT, where the plan is to size sites to real use and scale past the megawatt level.</description>
+    </item>
+    <item>
+      <title>The McLaren W1 Is 1,200 HP of Show, With a Tiny EV Asterisk</title>
+      <link>https://nexusevnews.com/articles/mclaren-w1-1200-hp-hybrid-tiny-ev-asterisk.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/mclaren-w1-1200-hp-hybrid-tiny-ev-asterisk.html</guid>
+      <pubDate>Fri, 03 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Auto Focus</dc:creator>
+      <category>reviews</category>
+      <description>Yes, it is a plug-in hybrid with a 1.4 kWh battery. There is an electric motor though, so we are counting it. Auto Focus drives McLaren's 1,200 horsepower W1.</description>
+    </item>
+    <item>
+      <title>The First Rivian R2 Highway Range Test Comes In at 259 Miles</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-first-highway-range-test-results.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-first-highway-range-test-results.html</guid>
+      <pubDate>Fri, 03 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>State Of Charge</dc:creator>
+      <category>reviews</category>
+      <description>State of Charge runs what Tom Moloughney calls the first independent R2 highway range test: 259 miles on all-terrain tires over a rough Colorado loop.</description>
+    </item>
+    <item>
+      <title>Utah Legalized Plug-In Solar. A Missing Standard Is Holding It Back</title>
+      <link>https://nexusevnews.com/articles/utah-plug-in-solar-law-safety-standard-holdup.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/utah-plug-in-solar-law-safety-standard-holdup.html</guid>
+      <pubDate>Fri, 03 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>KUTV 2 News</dc:creator>
+      <category>solar</category>
+      <description>KUTV 2 News reports Utah was first to legalize plug-in solar as a plug-and-play appliance, but a missing UL safety standard is keeping products off shelves.</description>
+    </item>
+    <item>
+      <title>Tesla's Model Y L Reaches America as a Six-Seat, Three-Row Stretch</title>
+      <link>https://nexusevnews.com/articles/tesla-model-y-l-launches-in-america-specs-price.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-y-l-launches-in-america-specs-price.html</guid>
+      <pubDate>Fri, 03 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec</dc:creator>
+      <category>news</category>
+      <description>Out of Spec digs through Tesla's spec sheet for the stretched three-row Model Y L: six seats, 325 miles, and a launch price near 63,000 dollars.</description>
+    </item>
     <item>
       <title>BYD's Blade Battery 2.0 Aims to Make Cheap LFP Charge in Minutes</title>
       <link>https://nexusevnews.com/articles/byd-blade-battery-2-0-lfp-five-minute-flash-charging.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Out of Spec Reviews</dc:creator>
       <category>reviews</category>
       <description>Out of Spec Reviews fits a hidden Modern Spare kit into a new Model Y, flush in the underfloor storage, and argues the case for carrying a spare when most cars no longer include one.</description>
-    </item>
-    <item>
-      <title>Marble, Windows, and a 28% Panel: Inside Europe's Biggest Solar Show</title>
-      <link>https://nexusevnews.com/articles/solarquotes-intersolar-munich-2026-panel-shapes-colors-efficiency.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/solarquotes-intersolar-munich-2026-panel-shapes-colors-efficiency.html</guid>
-      <pubDate>Tue, 30 Jun 2026 21:00:00 +0000</pubDate>
-      <dc:creator>SolarQuotes</dc:creator>
-      <category>solar</category>
-      <description>SolarQuotes walks Intersolar Europe in Munich, where panel makers compete on color, shape, and integration, and Longi claims over 28 percent residential cell efficiency.</description>
-    </item>
-    <item>
-      <title>Inside the Chinese Factory Floor That Makes Clean Energy Cheap</title>
-      <link>https://nexusevnews.com/articles/engineering-with-rosie-sungrow-hefei-factory-china-clean-energy-cost.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/engineering-with-rosie-sungrow-hefei-factory-china-clean-energy-cost.html</guid>
-      <pubDate>Tue, 30 Jun 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Engineering with Rosie</dc:creator>
-      <category>deep-dives</category>
-      <description>Engineering with Rosie tours Sungrow's Hefei campus and argues that compounding manufacturing engineering, not one breakthrough, is why clean energy keeps getting cheaper.</description>
-    </item>
-    <item>
-      <title>Sandy Munro Names His EV Brands, and Flags One BYD Motor Risk</title>
-      <link>https://nexusevnews.com/articles/tesla-impressions-sandy-munro-tesla-byd-geely-motor-teardown.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-impressions-sandy-munro-tesla-byd-geely-motor-teardown.html</guid>
-      <pubDate>Tue, 30 Jun 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Tesla Impressions</dc:creator>
-      <category>deep-dives</category>
-      <description>Teardown engineer Sandy Munro disputes a Tesla maintenance claim, raises a long-term concern about a BYD motor joint, and names the EV brands he would buy.</description>
-    </item>
-    <item>
-      <title>BYD's Blade 2.0 Battery Brings Flash Charging to the Atto 3</title>
-      <link>https://nexusevnews.com/articles/ben-alexxander-byd-blade-2-flash-charging-atto-3-evo.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ben-alexxander-byd-blade-2-flash-charging-atto-3-evo.html</guid>
-      <pubDate>Tue, 30 Jun 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Ben Alexxander</dc:creator>
-      <category>battery-tech</category>
-      <description>Ben Alexxander breaks down BYD's second-generation Blade battery and flash charging, and the updated Atto 3 Evo that brings the tech toward mainstream buyers.</description>
-    </item>
-    <item>
-      <title>A Peugeot Beat a Mercedes in This Seven-Seat EV Test</title>
-      <link>https://nexusevnews.com/articles/peugeot-e-5008-vs-mercedes-glb-electric-seven-seat-comparison.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/peugeot-e-5008-vs-mercedes-glb-electric-seven-seat-comparison.html</guid>
-      <pubDate>Mon, 29 Jun 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>reviews</category>
-      <description>Electrifying lines up the Peugeot E-5008 against the Mercedes GLB Electric. With more boot space and a 14,000-pound saving, the French seven-seater takes the win.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>

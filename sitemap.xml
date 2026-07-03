@@ -3,9 +3,45 @@
 
   <url>
     <loc>https://nexusevnews.com/daily-brief.html</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/abb-e-mobility-modular-megawatt-charging-plan.html</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/mclaren-w1-1200-hp-hybrid-tiny-ev-asterisk.html</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/rivian-r2-first-highway-range-test-results.html</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/utah-plug-in-solar-law-safety-standard-holdup.html</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/tesla-model-y-l-launches-in-america-specs-price.html</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/daily-brief-jul-03-2026.html</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://nexusevnews.com/articles/byd-blade-battery-2-0-lfp-five-minute-flash-charging.html</loc>
@@ -1564,7 +1600,7 @@
 
   <url>
     <loc>https://nexusevnews.com/</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-03</lastmod>
   </url>
   <url>
     <loc>https://nexusevnews.com/articles/zeekr-7-gt-first-drive-electric-estate-646hp.html</loc>
