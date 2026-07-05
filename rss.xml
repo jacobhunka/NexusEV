@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Wehrlein Wins in Shanghai as the Title Fight Narrows</title>
+      <link>https://nexusevnews.com/articles/wehrlein-wins-shanghai-as-title-fight-narrows.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/wehrlein-wins-shanghai-as-title-fight-narrows.html</guid>
+      <pubDate>Sun, 05 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Formula E</dc:creator>
+      <category>news</category>
+      <description>Pascal Wehrlein wins Round 12 in Shanghai for Porsche, and the broadcast leaves Mitch Evans with a championship lead of just about three points.</description>
+    </item>
+    <item>
+      <title>Inside Tesla's Semi Factory in Nevada</title>
+      <link>https://nexusevnews.com/articles/inside-teslas-semi-factory-in-nevada.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/inside-teslas-semi-factory-in-nevada.html</guid>
+      <pubDate>Sun, 05 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Core Memory Podcast</dc:creator>
+      <category>deep-dives</category>
+      <description>A Core Memory Podcast tour of Tesla's Semi plant near Reno shows a factory built for 50,000 electric trucks a year, with the lines being switched on.</description>
+    </item>
+    <item>
+      <title>A Detroit Startup Is Putting Tesla Power in a Tiny Kei Truck</title>
+      <link>https://nexusevnews.com/articles/detroit-startup-puts-tesla-power-in-a-kei-truck.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/detroit-startup-puts-tesla-power-in-a-kei-truck.html</guid>
+      <pubDate>Sun, 05 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Andy Didorosi</dc:creator>
+      <category>deep-dives</category>
+      <description>Andy Didorosi is building a twin-motor, Tesla-powered Kei truck as the halo for Mutiny, his new Detroit company, with a cheap open-source truck meant to follow.</description>
+    </item>
+    <item>
+      <title>Scout's Traveler Spirit of 26: A Closer Look</title>
+      <link>https://nexusevnews.com/articles/scout-traveler-spirit-of-26-walkaround.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/scout-traveler-spirit-of-26-walkaround.html</guid>
+      <pubDate>Sun, 05 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>EddieX</dc:creator>
+      <category>reviews</category>
+      <description>EddieX gets up close with the Scout Traveler Spirit of 26, and the range-extending Harvester keeps stealing the show from the pure electric version.</description>
+    </item>
+    <item>
+      <title>Why Polestar Can No Longer Sell New EVs in the US</title>
+      <link>https://nexusevnews.com/articles/why-polestar-can-no-longer-sell-new-evs-in-the-us.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/why-polestar-can-no-longer-sell-new-evs-in-the-us.html</guid>
+      <pubDate>Sun, 05 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>The Electric Viking</dc:creator>
+      <category>news</category>
+      <description>The Electric Viking reports Polestar will stop selling new cars in the US after the current model year, citing a rule on Chinese-linked connected-vehicle tech.</description>
+    </item>
     <item>
       <title>Why China's Performance EVs Keep Pulling Ahead</title>
       <link>https://nexusevnews.com/articles/why-chinese-performance-evs-keep-pulling-ahead.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Ziroth</dc:creator>
       <category>battery-tech</category>
       <description>Ziroth digs into BYD's new LFP pack, which the company says can add a 10 to 70 percent charge in about five minutes at its flash chargers.</description>
-    </item>
-    <item>
-      <title>XPENG's L03 Takes China's EV Price War to 63 Markets</title>
-      <link>https://nexusevnews.com/articles/xpeng-l03-china-price-war-heads-to-63-markets.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/xpeng-l03-china-price-war-heads-to-63-markets.html</guid>
-      <pubDate>Thu, 02 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Everything Electric APAC</dc:creator>
-      <category>reviews</category>
-      <description>Everything Electric APAC walks around XPENG's coupe styled electric SUV, expected under 25,000 dollars and aimed at buyers well beyond China.</description>
-    </item>
-    <item>
-      <title>Intersolar 2026: The Race to a 500 Watt Home Solar Panel</title>
-      <link>https://nexusevnews.com/articles/intersolar-2026-the-race-to-a-500-watt-home-solar-panel.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/intersolar-2026-the-race-to-a-500-watt-home-solar-panel.html</guid>
-      <pubDate>Thu, 02 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Artisan Electrics</dc:creator>
-      <category>solar</category>
-      <description>Artisan Electrics tours Munich's big solar show, where Aiko showed a 500 watt standard size panel and rivals are chasing the same mark.</description>
-    </item>
-    <item>
-      <title>XPENG's X9 REV Adds a Petrol Backup to a 1,600 km MPV</title>
-      <link>https://nexusevnews.com/articles/xpeng-x9-rev-a-range-extender-mpv-with-1600-km-of-range.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/xpeng-x9-rev-a-range-extender-mpv-with-1600-km-of-range.html</guid>
-      <pubDate>Thu, 02 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Everything Electric CARS</dc:creator>
-      <category>reviews</category>
-      <description>Everything Electric CARS drives XPENG's range extender MPV, which pairs a 63 kWh battery with a small petrol generator for long trips.</description>
-    </item>
-    <item>
-      <title>Why the R2 Is the Car Rivian Cannot Afford to Get Wrong</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-the-make-or-break-car-for-rivian.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-the-make-or-break-car-for-rivian.html</guid>
-      <pubDate>Thu, 02 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>deep-dives</category>
-      <description>On The Vergecast, editor Andy Hawkins and host David Pierce weigh whether Rivian's cheaper R2 can carry the company into the mainstream.</description>
-    </item>
-    <item>
-      <title>Porsche's Macan GTS EV Nails the Driving, Fights the Market</title>
-      <link>https://nexusevnews.com/articles/doug-demuro-2026-porsche-macan-gts-ev-review.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/doug-demuro-2026-porsche-macan-gts-ev-review.html</guid>
-      <pubDate>Wed, 01 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Doug DeMuro</dc:creator>
-      <category>reviews</category>
-      <description>Doug DeMuro reviews the 2026 Macan GTS electric, a roughly $125,000 SUV he rates among the sharpest-driving EVs he has tried, landing just as US electric demand cools.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
