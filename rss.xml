@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>An Electric Boat Saves a Fourth of July on Lake Gaston</title>
+      <link>https://nexusevnews.com/articles/scout-215-xsf-electric-boat-first-solo-outing.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/scout-215-xsf-electric-boat-first-solo-outing.html</guid>
+      <pubDate>Mon, 06 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>reviews</category>
+      <description>After a gas boat cracked its engine block, Out of Spec borrows a Scout 215 XSF with a Flux Marine electric outboard and takes it out solo for the first time.</description>
+    </item>
+    <item>
+      <title>The Model Y L Reaches America as Tesla Posts a Record Quarter</title>
+      <link>https://nexusevnews.com/articles/tesla-model-y-l-arrives-as-tesla-posts-record-q2.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-y-l-arrives-as-tesla-posts-record-q2.html</guid>
+      <pubDate>Mon, 06 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Kim Java</dc:creator>
+      <category>news</category>
+      <description>US orders open for the three-row Model Y L, Tesla reports its best-ever second quarter, and decompiled code hints at facial verification for Full Self-Driving.</description>
+    </item>
+    <item>
+      <title>Three Months In, Is the Model Y Performance Worth It?</title>
+      <link>https://nexusevnews.com/articles/three-months-with-the-tesla-model-y-performance.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/three-months-with-the-tesla-model-y-performance.html</guid>
+      <pubDate>Mon, 06 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Everyday Chris</dc:creator>
+      <category>reviews</category>
+      <description>Everyday Chris lives with the Model Y Performance and weighs the 8,000 dollar premium over a standard Model Y on driving, tire wear, and running costs.</description>
+    </item>
+    <item>
+      <title>The 2027 Chevy Bolt and What 28,000 Dollars Buys</title>
+      <link>https://nexusevnews.com/articles/2027-chevy-bolt-what-28000-dollars-gets-you.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/2027-chevy-bolt-what-28000-dollars-gets-you.html</guid>
+      <pubDate>Mon, 06 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Gjeebs</dc:creator>
+      <category>reviews</category>
+      <description>Gjeebs drives the new Bolt, an entry EV with a native NACS port and a 262 mile LFP battery, then runs a Supercharger charge test to see where it lands.</description>
+    </item>
+    <item>
+      <title>China's New Rule Says EV Batteries Cannot Catch Fire</title>
+      <link>https://nexusevnews.com/articles/china-new-rule-says-ev-batteries-cannot-catch-fire.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/china-new-rule-says-ev-batteries-cannot-catch-fire.html</guid>
+      <pubDate>Mon, 06 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Ben Alexxander</dc:creator>
+      <category>battery-tech</category>
+      <description>A new Chinese standard adds a two-hour no-ignition window after thermal runaway, and Chery answers with a lifetime battery guarantee across its brands.</description>
+    </item>
     <item>
       <title>Wehrlein Wins in Shanghai as the Title Fight Narrows</title>
       <link>https://nexusevnews.com/articles/wehrlein-wins-shanghai-as-title-fight-narrows.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Out of Spec Reviews</dc:creator>
       <category>charging</category>
       <description>Out of Spec Reviews tours ABB's A, M, and X charging families at ACT, where the plan is to size sites to real use and scale past the megawatt level.</description>
-    </item>
-    <item>
-      <title>The McLaren W1 Is 1,200 HP of Show, With a Tiny EV Asterisk</title>
-      <link>https://nexusevnews.com/articles/mclaren-w1-1200-hp-hybrid-tiny-ev-asterisk.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/mclaren-w1-1200-hp-hybrid-tiny-ev-asterisk.html</guid>
-      <pubDate>Fri, 03 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Auto Focus</dc:creator>
-      <category>reviews</category>
-      <description>Yes, it is a plug-in hybrid with a 1.4 kWh battery. There is an electric motor though, so we are counting it. Auto Focus drives McLaren's 1,200 horsepower W1.</description>
-    </item>
-    <item>
-      <title>The First Rivian R2 Highway Range Test Comes In at 259 Miles</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-first-highway-range-test-results.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-first-highway-range-test-results.html</guid>
-      <pubDate>Fri, 03 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>State Of Charge</dc:creator>
-      <category>reviews</category>
-      <description>State of Charge runs what Tom Moloughney calls the first independent R2 highway range test: 259 miles on all-terrain tires over a rough Colorado loop.</description>
-    </item>
-    <item>
-      <title>Utah Legalized Plug-In Solar. A Missing Standard Is Holding It Back</title>
-      <link>https://nexusevnews.com/articles/utah-plug-in-solar-law-safety-standard-holdup.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/utah-plug-in-solar-law-safety-standard-holdup.html</guid>
-      <pubDate>Fri, 03 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>KUTV 2 News</dc:creator>
-      <category>solar</category>
-      <description>KUTV 2 News reports Utah was first to legalize plug-in solar as a plug-and-play appliance, but a missing UL safety standard is keeping products off shelves.</description>
-    </item>
-    <item>
-      <title>Tesla's Model Y L Reaches America as a Six-Seat, Three-Row Stretch</title>
-      <link>https://nexusevnews.com/articles/tesla-model-y-l-launches-in-america-specs-price.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-y-l-launches-in-america-specs-price.html</guid>
-      <pubDate>Fri, 03 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec</dc:creator>
-      <category>news</category>
-      <description>Out of Spec digs through Tesla's spec sheet for the stretched three-row Model Y L: six seats, 325 miles, and a launch price near 63,000 dollars.</description>
-    </item>
-    <item>
-      <title>BYD's Blade Battery 2.0 Aims to Make Cheap LFP Charge in Minutes</title>
-      <link>https://nexusevnews.com/articles/byd-blade-battery-2-0-lfp-five-minute-flash-charging.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/byd-blade-battery-2-0-lfp-five-minute-flash-charging.html</guid>
-      <pubDate>Thu, 02 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Ziroth</dc:creator>
-      <category>battery-tech</category>
-      <description>Ziroth digs into BYD's new LFP pack, which the company says can add a 10 to 70 percent charge in about five minutes at its flash chargers.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
