@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Ferrari's EV Sells Out While Dacia Builds Britain's Cheapest Car</title>
+      <link>https://nexusevnews.com/articles/kilowatt-half-hour-ferrari-sellout-and-dacia-spring-price-cut.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/kilowatt-half-hour-ferrari-sellout-and-dacia-spring-price-cut.html</guid>
+      <pubDate>Tue, 07 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>news</category>
+      <description>Ferrari's first EV sells out its opening China allocation while Dacia cuts the Spring to under 12,000 pounds, plus bargain Fiskers and seven-seat EVs.</description>
+    </item>
+    <item>
+      <title>The Rivian R2 Charges Faster Than Rivian Promised</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-charges-10-to-80-percent-in-27-minutes.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-charges-10-to-80-percent-in-27-minutes.html</guid>
+      <pubDate>Tue, 07 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>State Of Charge</dc:creator>
+      <category>charging</category>
+      <description>State Of Charge runs what it calls the first independent 10 to 80 percent test on the R2 and beats Rivian's own claim by two minutes.</description>
+    </item>
+    <item>
+      <title>Inside the Factory Where Aptera Builds Its Solar Car</title>
+      <link>https://nexusevnews.com/articles/inside-apteras-factory-where-the-solar-car-gets-built.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/inside-apteras-factory-where-the-solar-car-gets-built.html</guid>
+      <pubDate>Tue, 07 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>ChargePozitive</dc:creator>
+      <category>deep-dives</category>
+      <description>A walk through Aptera's California line, from Italian-molded body panels to the marriage station, on a solar EV built entirely around efficiency.</description>
+    </item>
+    <item>
+      <title>Solar Grew Faster Than Any Other Power Source in 2025</title>
+      <link>https://nexusevnews.com/articles/solar-grew-faster-than-any-power-source-in-2025-reports.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/solar-grew-faster-than-any-power-source-in-2025-reports.html</guid>
+      <pubDate>Tue, 07 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>CBC News</dc:creator>
+      <category>solar</category>
+      <description>Two reports say solar outgrew every other power source in 2025, and renewables met all the new electricity demand, led by China and India.</description>
+    </item>
+    <item>
+      <title>Why GM Is Piling Up Chevy Bolts Before It Kills the Car</title>
+      <link>https://nexusevnews.com/articles/gm-is-stockpiling-the-chevy-bolt-before-it-ends.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/gm-is-stockpiling-the-chevy-bolt-before-it-ends.html</guid>
+      <pubDate>Tue, 07 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>The Electric Viking</dc:creator>
+      <category>news</category>
+      <description>The Electric Viking argues GM's swollen 2027 Bolt inventory is not a flop but a deliberate bridge before the automaker retools for its next EVs.</description>
+    </item>
     <item>
       <title>An Electric Boat Saves a Fourth of July on Lake Gaston</title>
       <link>https://nexusevnews.com/articles/scout-215-xsf-electric-boat-first-solo-outing.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Cars with Miles</dc:creator>
       <category>deep-dives</category>
       <description>Cars with Miles spends a week in China and finds the charging network, showrooms, and pace of new brands harder to dismiss than the horsepower figures.</description>
-    </item>
-    <item>
-      <title>A Full Engineering Breakdown of the Rivian R2 Before You Buy</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-engineering-breakdown-before-you-buy.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-engineering-breakdown-before-you-buy.html</guid>
-      <pubDate>Sat, 04 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Engineering Explained</dc:creator>
-      <category>reviews</category>
-      <description>Engineering Explained walks through the Rivian R2's range, 29-minute charging, battery cells, and door handles, and where Rivian cut to reach about 60,000 dollars.</description>
-    </item>
-    <item>
-      <title>Wehrlein Grabs Shanghai Pole as the Title Fight Tightens</title>
-      <link>https://nexusevnews.com/articles/wehrlein-takes-shanghai-pole-as-title-fight-tightens.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/wehrlein-takes-shanghai-pole-as-title-fight-tightens.html</guid>
-      <pubDate>Sat, 04 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Formula E</dc:creator>
-      <category>news</category>
-      <description>Pascal Wehrlein beats championship leader Mitch Evans to pole for Round 12 in Shanghai, cutting his title deficit to 24 points.</description>
-    </item>
-    <item>
-      <title>Four Used EVs Worth Buying for Under $25,000 in 2026</title>
-      <link>https://nexusevnews.com/articles/best-used-evs-under-25000-for-2026.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/best-used-evs-under-25000-for-2026.html</guid>
-      <pubDate>Sat, 04 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Ever</dc:creator>
-      <category>used-evs</category>
-      <description>Ever names four used EVs worth buying under $25,000: the Mustang Mach-E, Ioniq 5, Tesla Model 3, and Polestar 2, with the reliability catch for each.</description>
-    </item>
-    <item>
-      <title>EV or Plug-In Hybrid: Which One Actually Fits Your Driveway</title>
-      <link>https://nexusevnews.com/articles/ev-vs-phev-which-one-actually-fits-your-driveway.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ev-vs-phev-which-one-actually-fits-your-driveway.html</guid>
-      <pubDate>Sat, 04 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Edmunds Cars</dc:creator>
-      <category>deep-dives</category>
-      <description>Edmunds compares a RAV4 plug-in and a Toyota bZ EV of similar size and price, and finds the right answer depends on your driveway, not the cars.</description>
-    </item>
-    <item>
-      <title>ABB E-mobility Bets on Modular Charging Up to the Megawatt Level</title>
-      <link>https://nexusevnews.com/articles/abb-e-mobility-modular-megawatt-charging-plan.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/abb-e-mobility-modular-megawatt-charging-plan.html</guid>
-      <pubDate>Fri, 03 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>charging</category>
-      <description>Out of Spec Reviews tours ABB's A, M, and X charging families at ACT, where the plan is to size sites to real use and scale past the megawatt level.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
