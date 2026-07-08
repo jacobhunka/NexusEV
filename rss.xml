@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>The Flat-Pack Wind Turbine Betting on Vertical Blades</title>
+      <link>https://nexusevnews.com/articles/the-flat-pack-wind-turbine-betting-on-vertical-blades.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-flat-pack-wind-turbine-betting-on-vertical-blades.html</guid>
+      <pubDate>Wed, 08 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Undecided with Matt Ferrell</dc:creator>
+      <category>deep-dives</category>
+      <description>A Swedish firm floats a vertical-axis turbine into deep water where fixed towers cannot go. The design cuts maintenance but fights a century of horizontal-axis wins.</description>
+    </item>
+    <item>
+      <title>A Five-Year-Old Polestar 2 Still Holds Up, With Caveats</title>
+      <link>https://nexusevnews.com/articles/a-five-year-old-polestar-2-still-holds-up-with-caveats.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/a-five-year-old-polestar-2-still-holds-up-with-caveats.html</guid>
+      <pubDate>Wed, 08 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Mr. EV</dc:creator>
+      <category>used-evs</category>
+      <description>Google built-in navigation and one-pedal driving age well. The battery-hump rear seat and scratch-prone piano black do not. A used buyer's look.</description>
+    </item>
+    <item>
+      <title>Mercedes CLA: Big Range, Familiar Doubts About the Cabin</title>
+      <link>https://nexusevnews.com/articles/mercedes-cla-big-range-familiar-doubts-about-the-cabin.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/mercedes-cla-big-range-familiar-doubts-about-the-cabin.html</guid>
+      <pubDate>Wed, 08 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Everything Electric CARS</dc:creator>
+      <category>reviews</category>
+      <description>The new CLA claims a 484-mile WLTP figure and a European Car of the Year win. The hardware convinces. Whether the cabin feels like a Merc is the open question.</description>
+    </item>
+    <item>
+      <title>Tesla's Autobidder Turns a French Coal Site Into a Battery Trader</title>
+      <link>https://nexusevnews.com/articles/teslas-autobidder-turns-a-french-coal-site-into-a-battery-trader.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/teslas-autobidder-turns-a-french-coal-site-into-a-battery-trader.html</guid>
+      <pubDate>Wed, 08 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Tesla</dc:creator>
+      <category>battery-tech</category>
+      <description>At a former coal plant near Nantes, Tesla's Autobidder software bids Megapack capacity into wholesale and grid-service markets. A look at the trading layer.</description>
+    </item>
+    <item>
+      <title>An Electric Boat Runs Flat Out Until It Quits: 25 Miles</title>
+      <link>https://nexusevnews.com/articles/an-electric-boat-runs-flat-out-until-it-quits-25-miles.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/an-electric-boat-runs-flat-out-until-it-quits-25-miles.html</guid>
+      <pubDate>Wed, 08 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>reviews</category>
+      <description>A Flux Marine-powered Scout goes full throttle from full to empty on one lake. The thermal system holds. The range and charging math is the honest catch.</description>
+    </item>
     <item>
       <title>Ferrari's EV Sells Out While Dacia Builds Britain's Cheapest Car</title>
       <link>https://nexusevnews.com/articles/kilowatt-half-hour-ferrari-sellout-and-dacia-spring-price-cut.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Formula E</dc:creator>
       <category>news</category>
       <description>Pascal Wehrlein wins Round 12 in Shanghai for Porsche, and the broadcast leaves Mitch Evans with a championship lead of just about three points.</description>
-    </item>
-    <item>
-      <title>Inside Tesla's Semi Factory in Nevada</title>
-      <link>https://nexusevnews.com/articles/inside-teslas-semi-factory-in-nevada.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/inside-teslas-semi-factory-in-nevada.html</guid>
-      <pubDate>Sun, 05 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Core Memory Podcast</dc:creator>
-      <category>deep-dives</category>
-      <description>A Core Memory Podcast tour of Tesla's Semi plant near Reno shows a factory built for 50,000 electric trucks a year, with the lines being switched on.</description>
-    </item>
-    <item>
-      <title>A Detroit Startup Is Putting Tesla Power in a Tiny Kei Truck</title>
-      <link>https://nexusevnews.com/articles/detroit-startup-puts-tesla-power-in-a-kei-truck.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/detroit-startup-puts-tesla-power-in-a-kei-truck.html</guid>
-      <pubDate>Sun, 05 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Andy Didorosi</dc:creator>
-      <category>deep-dives</category>
-      <description>Andy Didorosi is building a twin-motor, Tesla-powered Kei truck as the halo for Mutiny, his new Detroit company, with a cheap open-source truck meant to follow.</description>
-    </item>
-    <item>
-      <title>Scout's Traveler Spirit of 26: A Closer Look</title>
-      <link>https://nexusevnews.com/articles/scout-traveler-spirit-of-26-walkaround.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/scout-traveler-spirit-of-26-walkaround.html</guid>
-      <pubDate>Sun, 05 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>EddieX</dc:creator>
-      <category>reviews</category>
-      <description>EddieX gets up close with the Scout Traveler Spirit of 26, and the range-extending Harvester keeps stealing the show from the pure electric version.</description>
-    </item>
-    <item>
-      <title>Why Polestar Can No Longer Sell New EVs in the US</title>
-      <link>https://nexusevnews.com/articles/why-polestar-can-no-longer-sell-new-evs-in-the-us.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/why-polestar-can-no-longer-sell-new-evs-in-the-us.html</guid>
-      <pubDate>Sun, 05 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>The Electric Viking</dc:creator>
-      <category>news</category>
-      <description>The Electric Viking reports Polestar will stop selling new cars in the US after the current model year, citing a rule on Chinese-linked connected-vehicle tech.</description>
-    </item>
-    <item>
-      <title>Why China's Performance EVs Keep Pulling Ahead</title>
-      <link>https://nexusevnews.com/articles/why-chinese-performance-evs-keep-pulling-ahead.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/why-chinese-performance-evs-keep-pulling-ahead.html</guid>
-      <pubDate>Sat, 04 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Cars with Miles</dc:creator>
-      <category>deep-dives</category>
-      <description>Cars with Miles spends a week in China and finds the charging network, showrooms, and pace of new brands harder to dismiss than the horsepower figures.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
