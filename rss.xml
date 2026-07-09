@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>The ID. Buzz Camper Volkswagen Will Not Sell You</title>
+      <link>https://nexusevnews.com/articles/the-id-buzz-camper-volkswagen-will-not-sell-you.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-id-buzz-camper-volkswagen-will-not-sell-you.html</guid>
+      <pubDate>Thu, 09 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>The Endless Adventure</dc:creator>
+      <category>reviews</category>
+      <description>A Seattle shop turns a 2025 ID. Buzz into a full camper with a pop top, induction cooktop and its own power bank. The bus fantasy, minus the breakdowns.</description>
+    </item>
+    <item>
+      <title>The Fiat Topolino Goes on Sale in the US for Under $15,000</title>
+      <link>https://nexusevnews.com/articles/fiat-topolino-goes-on-sale-in-the-us-for-under-15k.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/fiat-topolino-goes-on-sale-in-the-us-for-under-15k.html</guid>
+      <pubDate>Thu, 09 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>YOUCAR</dc:creator>
+      <category>news</category>
+      <description>Car and Driver reports the tiny Fiat is now on sale at $14,985, with 8 horsepower and 46 miles of range. It cannot legally use a public road until a free kit ships this fall.</description>
+    </item>
+    <item>
+      <title>Driving the Rivian R2: The Questions Owners Actually Ask</title>
+      <link>https://nexusevnews.com/articles/driving-the-rivian-r2-the-questions-owners-actually-ask.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/driving-the-rivian-r2-the-questions-owners-actually-ask.html</guid>
+      <pubDate>Thu, 09 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Mike Kantorski</dc:creator>
+      <category>reviews</category>
+      <description>An R1T and R1S owner drives the performance R2 and answers what buyers keep asking. Great packaging, sharper handling, a flimsy charge port door and laggy steering wheel dials.</description>
+    </item>
+    <item>
+      <title>What the UK Can Learn From Europe's Plug-In Solar Head Start</title>
+      <link>https://nexusevnews.com/articles/uk-plug-in-solar-what-europe-already-learned.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/uk-plug-in-solar-what-europe-already-learned.html</guid>
+      <pubDate>Thu, 09 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Artisan Electrics</dc:creator>
+      <category>solar</category>
+      <description>Germany has had it for years, Australia bans it, and the UK is about to legalize it with an 800 watt cap. Artisan Electrics asks four countries what happens after the rules change.</description>
+    </item>
+    <item>
+      <title>The Zeekr 7GT Won't Hit 450 kW, and It Hardly Matters</title>
+      <link>https://nexusevnews.com/articles/zeekr-7gt-golden-battery-wont-hit-450-kw-in-europe.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/zeekr-7gt-golden-battery-wont-hit-450-kw-in-europe.html</guid>
+      <pubDate>Thu, 09 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Roaming</dc:creator>
+      <category>charging</category>
+      <description>Three sessions, two chargers, one 460 amp ceiling. The advertised 450 kW peak never arrived, but 10 to 80 percent came in under 12 minutes against a claimed 13.</description>
+    </item>
     <item>
       <title>The Flat-Pack Wind Turbine Betting on Vertical Blades</title>
       <link>https://nexusevnews.com/articles/the-flat-pack-wind-turbine-betting-on-vertical-blades.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Out of Spec Reviews</dc:creator>
       <category>reviews</category>
       <description>After a gas boat cracked its engine block, Out of Spec borrows a Scout 215 XSF with a Flux Marine electric outboard and takes it out solo for the first time.</description>
-    </item>
-    <item>
-      <title>The Model Y L Reaches America as Tesla Posts a Record Quarter</title>
-      <link>https://nexusevnews.com/articles/tesla-model-y-l-arrives-as-tesla-posts-record-q2.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-model-y-l-arrives-as-tesla-posts-record-q2.html</guid>
-      <pubDate>Mon, 06 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Kim Java</dc:creator>
-      <category>news</category>
-      <description>US orders open for the three-row Model Y L, Tesla reports its best-ever second quarter, and decompiled code hints at facial verification for Full Self-Driving.</description>
-    </item>
-    <item>
-      <title>Three Months In, Is the Model Y Performance Worth It?</title>
-      <link>https://nexusevnews.com/articles/three-months-with-the-tesla-model-y-performance.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/three-months-with-the-tesla-model-y-performance.html</guid>
-      <pubDate>Mon, 06 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Everyday Chris</dc:creator>
-      <category>reviews</category>
-      <description>Everyday Chris lives with the Model Y Performance and weighs the 8,000 dollar premium over a standard Model Y on driving, tire wear, and running costs.</description>
-    </item>
-    <item>
-      <title>The 2027 Chevy Bolt and What 28,000 Dollars Buys</title>
-      <link>https://nexusevnews.com/articles/2027-chevy-bolt-what-28000-dollars-gets-you.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/2027-chevy-bolt-what-28000-dollars-gets-you.html</guid>
-      <pubDate>Mon, 06 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Gjeebs</dc:creator>
-      <category>reviews</category>
-      <description>Gjeebs drives the new Bolt, an entry EV with a native NACS port and a 262 mile LFP battery, then runs a Supercharger charge test to see where it lands.</description>
-    </item>
-    <item>
-      <title>China's New Rule Says EV Batteries Cannot Catch Fire</title>
-      <link>https://nexusevnews.com/articles/china-new-rule-says-ev-batteries-cannot-catch-fire.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/china-new-rule-says-ev-batteries-cannot-catch-fire.html</guid>
-      <pubDate>Mon, 06 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Ben Alexxander</dc:creator>
-      <category>battery-tech</category>
-      <description>A new Chinese standard adds a two-hour no-ignition window after thermal runaway, and Chery answers with a lifetime battery guarantee across its brands.</description>
-    </item>
-    <item>
-      <title>Wehrlein Wins in Shanghai as the Title Fight Narrows</title>
-      <link>https://nexusevnews.com/articles/wehrlein-wins-shanghai-as-title-fight-narrows.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/wehrlein-wins-shanghai-as-title-fight-narrows.html</guid>
-      <pubDate>Sun, 05 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Formula E</dc:creator>
-      <category>news</category>
-      <description>Pascal Wehrlein wins Round 12 in Shanghai for Porsche, and the broadcast leaves Mitch Evans with a championship lead of just about three points.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
