@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Slate&#x27;s $24,950 Electric Truck, Driven</title>
+      <link>https://nexusevnews.com/articles/slate-electric-truck-first-drive-under-25k.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-electric-truck-first-drive-under-25k.html</guid>
+      <pubDate>Fri, 10 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Gjeebs</dc:creator>
+      <category>reviews</category>
+      <description>Slate held its first drive event and held the line on price. A 65 kWh pack, 205 miles, crank windows and no screen, starting at $24,950 with the federal credit gone.</description>
+    </item>
+    <item>
+      <title>The Rivian R2 Lidar Debate Misses the Bigger Upgrade</title>
+      <link>https://nexusevnews.com/articles/rivian-r2-lidar-debate-misses-the-bigger-upgrade.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-lidar-debate-misses-the-bigger-upgrade.html</guid>
+      <pubDate>Fri, 10 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Travis Ketchum</dc:creator>
+      <category>deep-dives</category>
+      <description>Reservation holders are fixated on a lidar sensor. Travis Ketchum argues the autonomy computer nobody can see is the part that decides how the car ages.</description>
+    </item>
+    <item>
+      <title>Jaguar&#x27;s Gen4 Formula E Car Climbs the Goodwood Hill</title>
+      <link>https://nexusevnews.com/articles/jaguar-gen4-formula-e-car-climbs-the-goodwood-hill.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/jaguar-gen4-formula-e-car-climbs-the-goodwood-hill.html</guid>
+      <pubDate>Fri, 10 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Formula E</dc:creator>
+      <category>news</category>
+      <description>Fernando Barrichello took Jaguar TCS Racing&#x27;s Gen4 challenger up the Goodwood hill on Thursday, the first proper public look at the car that reshapes Formula E.</description>
+    </item>
+    <item>
+      <title>A $132,000 Macan GTS and the Cost of Every Box Ticked</title>
+      <link>https://nexusevnews.com/articles/macan-gts-and-the-cost-of-every-box-ticked.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/macan-gts-and-the-cost-of-every-box-ticked.html</guid>
+      <pubDate>Fri, 10 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec BITS</dc:creator>
+      <category>reviews</category>
+      <description>Out of Spec walks a 2026 Macan GTS window sticker line by line. Wheels at $3,010, stitching at $3,710, and a headrest crest at $390. The math is the review.</description>
+    </item>
+    <item>
+      <title>The Tesla Semi Faces Its First Fatal Crash Investigation</title>
+      <link>https://nexusevnews.com/articles/tesla-semi-first-fatal-crash-investigation.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-semi-first-fatal-crash-investigation.html</guid>
+      <pubDate>Fri, 10 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Kim Java</dc:creator>
+      <category>news</category>
+      <description>A June 28 crash near Reno is the first fatal incident involving a Tesla Semi. The podcast reports two deaths, a seized truck, and no answers on what was active.</description>
+    </item>
     <item>
       <title>The ID. Buzz Camper Volkswagen Will Not Sell You</title>
       <link>https://nexusevnews.com/articles/the-id-buzz-camper-volkswagen-will-not-sell-you.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Electrifying</dc:creator>
       <category>news</category>
       <description>Ferrari's first EV sells out its opening China allocation while Dacia cuts the Spring to under 12,000 pounds, plus bargain Fiskers and seven-seat EVs.</description>
-    </item>
-    <item>
-      <title>The Rivian R2 Charges Faster Than Rivian Promised</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-charges-10-to-80-percent-in-27-minutes.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-charges-10-to-80-percent-in-27-minutes.html</guid>
-      <pubDate>Tue, 07 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>State Of Charge</dc:creator>
-      <category>charging</category>
-      <description>State Of Charge runs what it calls the first independent 10 to 80 percent test on the R2 and beats Rivian's own claim by two minutes.</description>
-    </item>
-    <item>
-      <title>Inside the Factory Where Aptera Builds Its Solar Car</title>
-      <link>https://nexusevnews.com/articles/inside-apteras-factory-where-the-solar-car-gets-built.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/inside-apteras-factory-where-the-solar-car-gets-built.html</guid>
-      <pubDate>Tue, 07 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>ChargePozitive</dc:creator>
-      <category>deep-dives</category>
-      <description>A walk through Aptera's California line, from Italian-molded body panels to the marriage station, on a solar EV built entirely around efficiency.</description>
-    </item>
-    <item>
-      <title>Solar Grew Faster Than Any Other Power Source in 2025</title>
-      <link>https://nexusevnews.com/articles/solar-grew-faster-than-any-power-source-in-2025-reports.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/solar-grew-faster-than-any-power-source-in-2025-reports.html</guid>
-      <pubDate>Tue, 07 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>CBC News</dc:creator>
-      <category>solar</category>
-      <description>Two reports say solar outgrew every other power source in 2025, and renewables met all the new electricity demand, led by China and India.</description>
-    </item>
-    <item>
-      <title>Why GM Is Piling Up Chevy Bolts Before It Kills the Car</title>
-      <link>https://nexusevnews.com/articles/gm-is-stockpiling-the-chevy-bolt-before-it-ends.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/gm-is-stockpiling-the-chevy-bolt-before-it-ends.html</guid>
-      <pubDate>Tue, 07 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>The Electric Viking</dc:creator>
-      <category>news</category>
-      <description>The Electric Viking argues GM's swollen 2027 Bolt inventory is not a flop but a deliberate bridge before the automaker retools for its next EVs.</description>
-    </item>
-    <item>
-      <title>An Electric Boat Saves a Fourth of July on Lake Gaston</title>
-      <link>https://nexusevnews.com/articles/scout-215-xsf-electric-boat-first-solo-outing.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/scout-215-xsf-electric-boat-first-solo-outing.html</guid>
-      <pubDate>Mon, 06 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>reviews</category>
-      <description>After a gas boat cracked its engine block, Out of Spec borrows a Scout 215 XSF with a Flux Marine electric outboard and takes it out solo for the first time.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
