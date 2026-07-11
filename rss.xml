@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Slate&#x27;s Truck Is Built to Be Fixed in Your Driveway</title>
+      <link>https://nexusevnews.com/articles/slate-truck-built-to-be-fixed-at-home.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-truck-built-to-be-fixed-at-home.html</guid>
+      <pubDate>Sat, 11 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>JerryRigEverything</dc:creator>
+      <category>reviews</category>
+      <description>JerryRigEverything&#x27;s first drive focuses on repairability: unpainted panels on exposed screws, a 65 kWh pack rated at 205 miles, and a start price just under $25,000.</description>
+    </item>
+    <item>
+      <title>A Solar Three-Wheeler That Charges While It Drives</title>
+      <link>https://nexusevnews.com/articles/aptera-solar-three-wheeler-charges-while-driving.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/aptera-solar-three-wheeler-charges-while-driving.html</guid>
+      <pubDate>Sat, 11 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Tailosive EV</dc:creator>
+      <category>solar</category>
+      <description>Tailosive EV&#x27;s Aptera video is a comedy bit wrapped around a real look at solar charging, a yoke, camera mirrors, and a shape that stops traffic.</description>
+    </item>
+    <item>
+      <title>An Electric Hyundai Out-Laps a Tuned GT-R</title>
+      <link>https://nexusevnews.com/articles/ioniq-6-n-outlaps-tuned-nissan-gt-r-on-track.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ioniq-6-n-outlaps-tuned-nissan-gt-r-on-track.html</guid>
+      <pubDate>Sat, 11 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Driven+</dc:creator>
+      <category>reviews</category>
+      <description>Driven+ set a 2026 Ioniq 6 N against a 650 hp Lichfield-tuned GT-R. The EV won by six hundredths, 50.01 to 50.07, and the margin says a lot.</description>
+    </item>
+    <item>
+      <title>Denza&#x27;s Three-Motor Sports Car Bets on Charging Speed</title>
+      <link>https://nexusevnews.com/articles/denza-three-motor-sports-car-charging-bet.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/denza-three-motor-sports-car-charging-bet.html</guid>
+      <pubDate>Sat, 11 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>battery-tech</category>
+      <description>Electrifying&#x27;s early look at Denza&#x27;s 1,366 hp coupe pairs a small 76 kWh battery with BYD fast-charging claims the video puts at up to 1,500 kW.</description>
+    </item>
+    <item>
+      <title>Inside the Zeekr 7 GT, a Loaded Electric Wagon Near &#8364;60,000</title>
+      <link>https://nexusevnews.com/articles/zeekr-7-gt-privilege-awd-in-depth-tour.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/zeekr-7-gt-privilege-awd-in-depth-tour.html</guid>
+      <pubDate>Sat, 11 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Roaming</dc:creator>
+      <category>reviews</category>
+      <description>Out of Spec Roaming&#x27;s in-depth tour of the 646 hp Zeekr 7 GT Privilege AWD covers a 100 kWh pack, 16-minute charging, and where the tech impresses or annoys.</description>
+    </item>
     <item>
       <title>Slate&#x27;s $24,950 Electric Truck, Driven</title>
       <link>https://nexusevnews.com/articles/slate-electric-truck-first-drive-under-25k.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Undecided with Matt Ferrell</dc:creator>
       <category>deep-dives</category>
       <description>A Swedish firm floats a vertical-axis turbine into deep water where fixed towers cannot go. The design cuts maintenance but fights a century of horizontal-axis wins.</description>
-    </item>
-    <item>
-      <title>A Five-Year-Old Polestar 2 Still Holds Up, With Caveats</title>
-      <link>https://nexusevnews.com/articles/a-five-year-old-polestar-2-still-holds-up-with-caveats.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/a-five-year-old-polestar-2-still-holds-up-with-caveats.html</guid>
-      <pubDate>Wed, 08 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Mr. EV</dc:creator>
-      <category>used-evs</category>
-      <description>Google built-in navigation and one-pedal driving age well. The battery-hump rear seat and scratch-prone piano black do not. A used buyer's look.</description>
-    </item>
-    <item>
-      <title>Mercedes CLA: Big Range, Familiar Doubts About the Cabin</title>
-      <link>https://nexusevnews.com/articles/mercedes-cla-big-range-familiar-doubts-about-the-cabin.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/mercedes-cla-big-range-familiar-doubts-about-the-cabin.html</guid>
-      <pubDate>Wed, 08 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Everything Electric CARS</dc:creator>
-      <category>reviews</category>
-      <description>The new CLA claims a 484-mile WLTP figure and a European Car of the Year win. The hardware convinces. Whether the cabin feels like a Merc is the open question.</description>
-    </item>
-    <item>
-      <title>Tesla's Autobidder Turns a French Coal Site Into a Battery Trader</title>
-      <link>https://nexusevnews.com/articles/teslas-autobidder-turns-a-french-coal-site-into-a-battery-trader.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/teslas-autobidder-turns-a-french-coal-site-into-a-battery-trader.html</guid>
-      <pubDate>Wed, 08 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Tesla</dc:creator>
-      <category>battery-tech</category>
-      <description>At a former coal plant near Nantes, Tesla's Autobidder software bids Megapack capacity into wholesale and grid-service markets. A look at the trading layer.</description>
-    </item>
-    <item>
-      <title>An Electric Boat Runs Flat Out Until It Quits: 25 Miles</title>
-      <link>https://nexusevnews.com/articles/an-electric-boat-runs-flat-out-until-it-quits-25-miles.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/an-electric-boat-runs-flat-out-until-it-quits-25-miles.html</guid>
-      <pubDate>Wed, 08 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>reviews</category>
-      <description>A Flux Marine-powered Scout goes full throttle from full to empty on one lake. The thermal system holds. The range and charging math is the honest catch.</description>
-    </item>
-    <item>
-      <title>Ferrari's EV Sells Out While Dacia Builds Britain's Cheapest Car</title>
-      <link>https://nexusevnews.com/articles/kilowatt-half-hour-ferrari-sellout-and-dacia-spring-price-cut.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/kilowatt-half-hour-ferrari-sellout-and-dacia-spring-price-cut.html</guid>
-      <pubDate>Tue, 07 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>news</category>
-      <description>Ferrari's first EV sells out its opening China allocation while Dacia cuts the Spring to under 12,000 pounds, plus bargain Fiskers and seven-seat EVs.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
