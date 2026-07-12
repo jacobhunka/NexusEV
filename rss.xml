@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Bill McKibben on the Moment Clean Energy Became the Cheap Choice</title>
+      <link>https://nexusevnews.com/articles/clean-energy-is-cheaper-than-fossil-fuels-mckibben-makes-the-case.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/clean-energy-is-cheaper-than-fossil-fuels-mckibben-makes-the-case.html</guid>
+      <pubDate>Sun, 12 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>The Ezra Klein Show</dc:creator>
+      <category>deep-dives</category>
+      <description>On The Ezra Klein Show, author and 350.org founder Bill McKibben argues solar, wind, and batteries now undercut fossil fuels, and that the real bottleneck is politics.</description>
+    </item>
+    <item>
+      <title>Ferrari&#x27;s First EV, the Luce, Gets Its First UK Showing</title>
+      <link>https://nexusevnews.com/articles/ferrari-luce-first-look-the-brands-first-electric-car.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-luce-first-look-the-brands-first-electric-car.html</guid>
+      <pubDate>Sun, 12 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>reviews</category>
+      <description>Electrifying&#x27;s first look at Ferrari&#x27;s first fully electric car and first four-door five-seater, with 1,050 hp, a 122 kWh battery, and a design led by Jony Ive.</description>
+    </item>
+    <item>
+      <title>Dan Ticktum Runs Formula E&#x27;s GEN4 Car Up the Goodwood Hill</title>
+      <link>https://nexusevnews.com/articles/formula-e-gen4-runs-the-goodwood-hillclimb-with-dan-ticktum.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/formula-e-gen4-runs-the-goodwood-hillclimb-with-dan-ticktum.html</guid>
+      <pubDate>Sun, 12 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Formula E</dc:creator>
+      <category>news</category>
+      <description>Formula E&#x27;s onboard from Goodwood shows Dan Ticktum in the four-wheel-drive GEN4, a car the commentary calls more capable than anything the series has built before.</description>
+    </item>
+    <item>
+      <title>A Lightweight Solar Cell Built for Japan&#x27;s Snowy Coast</title>
+      <link>https://nexusevnews.com/articles/lightweight-solar-cells-aim-to-power-japans-snowy-coast.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/lightweight-solar-cells-aim-to-power-japans-snowy-coast.html</guid>
+      <pubDate>Sun, 12 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>NHK WORLD-JAPAN</dc:creator>
+      <category>solar</category>
+      <description>NHK reports on a Niigata pilot where PXP&#x27;s thin, flexible next-generation cells are tested on walls and roofs in a region long considered too snowy for solar.</description>
+    </item>
+    <item>
+      <title>Road-Tripping a 2012 Model S Signature Next to a New Model Y</title>
+      <link>https://nexusevnews.com/articles/living-with-a-2012-tesla-model-s-on-a-modern-road-trip.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/living-with-a-2012-tesla-model-s-on-a-modern-road-trip.html</guid>
+      <pubDate>Sun, 12 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Motoring</dc:creator>
+      <category>used-evs</category>
+      <description>Out of Spec Motoring runs one of the first Model S cars built against a current Model Y, and the gap in efficiency and charging speed after a decade is the whole story.</description>
+    </item>
     <item>
       <title>Slate&#x27;s Truck Is Built to Be Fixed in Your Driveway</title>
       <link>https://nexusevnews.com/articles/slate-truck-built-to-be-fixed-at-home.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>The Endless Adventure</dc:creator>
       <category>reviews</category>
       <description>A Seattle shop turns a 2025 ID. Buzz into a full camper with a pop top, induction cooktop and its own power bank. The bus fantasy, minus the breakdowns.</description>
-    </item>
-    <item>
-      <title>The Fiat Topolino Goes on Sale in the US for Under $15,000</title>
-      <link>https://nexusevnews.com/articles/fiat-topolino-goes-on-sale-in-the-us-for-under-15k.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/fiat-topolino-goes-on-sale-in-the-us-for-under-15k.html</guid>
-      <pubDate>Thu, 09 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>YOUCAR</dc:creator>
-      <category>news</category>
-      <description>Car and Driver reports the tiny Fiat is now on sale at $14,985, with 8 horsepower and 46 miles of range. It cannot legally use a public road until a free kit ships this fall.</description>
-    </item>
-    <item>
-      <title>Driving the Rivian R2: The Questions Owners Actually Ask</title>
-      <link>https://nexusevnews.com/articles/driving-the-rivian-r2-the-questions-owners-actually-ask.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/driving-the-rivian-r2-the-questions-owners-actually-ask.html</guid>
-      <pubDate>Thu, 09 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Mike Kantorski</dc:creator>
-      <category>reviews</category>
-      <description>An R1T and R1S owner drives the performance R2 and answers what buyers keep asking. Great packaging, sharper handling, a flimsy charge port door and laggy steering wheel dials.</description>
-    </item>
-    <item>
-      <title>What the UK Can Learn From Europe's Plug-In Solar Head Start</title>
-      <link>https://nexusevnews.com/articles/uk-plug-in-solar-what-europe-already-learned.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/uk-plug-in-solar-what-europe-already-learned.html</guid>
-      <pubDate>Thu, 09 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Artisan Electrics</dc:creator>
-      <category>solar</category>
-      <description>Germany has had it for years, Australia bans it, and the UK is about to legalize it with an 800 watt cap. Artisan Electrics asks four countries what happens after the rules change.</description>
-    </item>
-    <item>
-      <title>The Zeekr 7GT Won't Hit 450 kW, and It Hardly Matters</title>
-      <link>https://nexusevnews.com/articles/zeekr-7gt-golden-battery-wont-hit-450-kw-in-europe.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/zeekr-7gt-golden-battery-wont-hit-450-kw-in-europe.html</guid>
-      <pubDate>Thu, 09 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Roaming</dc:creator>
-      <category>charging</category>
-      <description>Three sessions, two chargers, one 460 amp ceiling. The advertised 450 kW peak never arrived, but 10 to 80 percent came in under 12 minutes against a claimed 13.</description>
-    </item>
-    <item>
-      <title>The Flat-Pack Wind Turbine Betting on Vertical Blades</title>
-      <link>https://nexusevnews.com/articles/the-flat-pack-wind-turbine-betting-on-vertical-blades.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-flat-pack-wind-turbine-betting-on-vertical-blades.html</guid>
-      <pubDate>Wed, 08 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Undecided with Matt Ferrell</dc:creator>
-      <category>deep-dives</category>
-      <description>A Swedish firm floats a vertical-axis turbine into deep water where fixed towers cannot go. The design cuts maintenance but fights a century of horizontal-axis wins.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
