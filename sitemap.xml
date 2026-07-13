@@ -3,9 +3,46 @@
 
   <url>
     <loc>https://nexusevnews.com/daily-brief.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/why-a-wave-of-off-lease-evs-is-about-to-reach-used-lots.html</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/astraux-al7-pro-an-8000-microcar-aimed-at-the-citroen-ami.html</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/how-better-batteries-put-vertical-aerospaces-electric-aircraft-within-reach.html</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/japans-chuo-maglev-clears-its-last-big-hurdle-in-shizuoka.html</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/volvo-ex30-cross-country-vs-subaru-uncharted-same-job-two-approaches.html</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/daily-brief-jul-13-2026.html</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://nexusevnews.com/articles/clean-energy-is-cheaper-than-fossil-fuels-mckibben-makes-the-case.html</loc>
@@ -1924,7 +1961,7 @@
 
   <url>
     <loc>https://nexusevnews.com/</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-13</lastmod>
   </url>
   <url>
     <loc>https://nexusevnews.com/articles/zeekr-7-gt-first-drive-electric-estate-646hp.html</loc>

@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Why a Wave of Off-Lease EVs Is About to Reach Used Lots</title>
+      <link>https://nexusevnews.com/articles/why-a-wave-of-off-lease-evs-is-about-to-reach-used-lots.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/why-a-wave-of-off-lease-evs-is-about-to-reach-used-lots.html</guid>
+      <pubDate>Mon, 13 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>MotorTrend</dc:creator>
+      <category>used-evs</category>
+      <description>MotorTrend&#x27;s The Inevitable talks to Plug Motors CEO Jimmy Douglas about the roughly 1.1 million EVs coming off lease and why used electric cars are about to get cheaper.</description>
+    </item>
+    <item>
+      <title>Astraux&#x27;s AL7 Pro Is an $8,000 Microcar Aimed at the Citroen Ami</title>
+      <link>https://nexusevnews.com/articles/astraux-al7-pro-an-8000-microcar-aimed-at-the-citroen-ami.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/astraux-al7-pro-an-8000-microcar-aimed-at-the-citroen-ami.html</guid>
+      <pubDate>Mon, 13 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric APAC</dc:creator>
+      <category>reviews</category>
+      <description>Everything Electric APAC drives the Astraux AL7 Pro, a two-seat electric microcar bound for Europe with air conditioning, 90 km/h, and range that beats the Citroen Ami.</description>
+    </item>
+    <item>
+      <title>How Better Batteries Put Vertical Aerospace&#x27;s Electric Aircraft Within Reach</title>
+      <link>https://nexusevnews.com/articles/how-better-batteries-put-vertical-aerospaces-electric-aircraft-within-reach.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/how-better-batteries-put-vertical-aerospaces-electric-aircraft-within-reach.html</guid>
+      <pubDate>Mon, 13 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Everything Electric TECH</dc:creator>
+      <category>deep-dives</category>
+      <description>Vertical Aerospace chief engineer David King explains how better batteries made the Bristol company&#x27;s Valo electric vertical-takeoff aircraft possible.</description>
+    </item>
+    <item>
+      <title>Japan&#x27;s Chuo Maglev Clears Its Last Big Hurdle in Shizuoka</title>
+      <link>https://nexusevnews.com/articles/japans-chuo-maglev-clears-its-last-big-hurdle-in-shizuoka.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/japans-chuo-maglev-clears-its-last-big-hurdle-in-shizuoka.html</guid>
+      <pubDate>Mon, 13 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>NHK WORLD-JAPAN</dc:creator>
+      <category>news</category>
+      <description>NHK reports Shizuoka&#x27;s governor approved the Chuo Shinkansen maglev&#x27;s local section, clearing the last hurdle for the 500 km/h Tokyo to Nagoya line.</description>
+    </item>
+    <item>
+      <title>Volvo EX30 Cross Country vs Subaru Uncharted: Same Job, Two Approaches</title>
+      <link>https://nexusevnews.com/articles/volvo-ex30-cross-country-vs-subaru-uncharted-same-job-two-approaches.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/volvo-ex30-cross-country-vs-subaru-uncharted-same-job-two-approaches.html</guid>
+      <pubDate>Mon, 13 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec BITS</dc:creator>
+      <category>reviews</category>
+      <description>Out of Spec BITS compares the 2026 Volvo EX30 Cross Country and Subaru Uncharted AWD, two small electric crossovers built for the same buyer, two different ways.</description>
+    </item>
     <item>
       <title>Bill McKibben on the Moment Clean Energy Became the Cheap Choice</title>
       <link>https://nexusevnews.com/articles/clean-energy-is-cheaper-than-fossil-fuels-mckibben-makes-the-case.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Gjeebs</dc:creator>
       <category>reviews</category>
       <description>Slate held its first drive event and held the line on price. A 65 kWh pack, 205 miles, crank windows and no screen, starting at $24,950 with the federal credit gone.</description>
-    </item>
-    <item>
-      <title>The Rivian R2 Lidar Debate Misses the Bigger Upgrade</title>
-      <link>https://nexusevnews.com/articles/rivian-r2-lidar-debate-misses-the-bigger-upgrade.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-lidar-debate-misses-the-bigger-upgrade.html</guid>
-      <pubDate>Fri, 10 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Travis Ketchum</dc:creator>
-      <category>deep-dives</category>
-      <description>Reservation holders are fixated on a lidar sensor. Travis Ketchum argues the autonomy computer nobody can see is the part that decides how the car ages.</description>
-    </item>
-    <item>
-      <title>Jaguar&#x27;s Gen4 Formula E Car Climbs the Goodwood Hill</title>
-      <link>https://nexusevnews.com/articles/jaguar-gen4-formula-e-car-climbs-the-goodwood-hill.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/jaguar-gen4-formula-e-car-climbs-the-goodwood-hill.html</guid>
-      <pubDate>Fri, 10 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Formula E</dc:creator>
-      <category>news</category>
-      <description>Fernando Barrichello took Jaguar TCS Racing&#x27;s Gen4 challenger up the Goodwood hill on Thursday, the first proper public look at the car that reshapes Formula E.</description>
-    </item>
-    <item>
-      <title>A $132,000 Macan GTS and the Cost of Every Box Ticked</title>
-      <link>https://nexusevnews.com/articles/macan-gts-and-the-cost-of-every-box-ticked.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/macan-gts-and-the-cost-of-every-box-ticked.html</guid>
-      <pubDate>Fri, 10 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec BITS</dc:creator>
-      <category>reviews</category>
-      <description>Out of Spec walks a 2026 Macan GTS window sticker line by line. Wheels at $3,010, stitching at $3,710, and a headrest crest at $390. The math is the review.</description>
-    </item>
-    <item>
-      <title>The Tesla Semi Faces Its First Fatal Crash Investigation</title>
-      <link>https://nexusevnews.com/articles/tesla-semi-first-fatal-crash-investigation.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-semi-first-fatal-crash-investigation.html</guid>
-      <pubDate>Fri, 10 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Kim Java</dc:creator>
-      <category>news</category>
-      <description>A June 28 crash near Reno is the first fatal incident involving a Tesla Semi. The podcast reports two deaths, a seized truck, and no answers on what was active.</description>
-    </item>
-    <item>
-      <title>The ID. Buzz Camper Volkswagen Will Not Sell You</title>
-      <link>https://nexusevnews.com/articles/the-id-buzz-camper-volkswagen-will-not-sell-you.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-id-buzz-camper-volkswagen-will-not-sell-you.html</guid>
-      <pubDate>Thu, 09 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>The Endless Adventure</dc:creator>
-      <category>reviews</category>
-      <description>A Seattle shop turns a 2025 ID. Buzz into a full camper with a pop top, induction cooktop and its own power bank. The bus fantasy, minus the breakdowns.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
