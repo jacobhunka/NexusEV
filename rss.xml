@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Porsche&#x27;s Electric Macan Turbo Costs $150,000 and Has to Prove It</title>
+      <link>https://nexusevnews.com/articles/porsche-macan-turbo-ev-costs-150000-and-has-to-prove-it.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/porsche-macan-turbo-ev-costs-150000-and-has-to-prove-it.html</guid>
+      <pubDate>Tue, 14 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Auto Focus</dc:creator>
+      <category>reviews</category>
+      <description>Auto Focus reviews the 630 hp electric Macan Turbo, a near $150,000 luxury crossover with a stellar cabin, no one-pedal mode, and a CCS port in a NACS world.</description>
+    </item>
+    <item>
+      <title>The Ford Mustang Mach-E Rally Is Built for Gravel, With Options That Add Up</title>
+      <link>https://nexusevnews.com/articles/ford-mustang-mach-e-rally-built-for-gravel-with-options-that-add-up.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ford-mustang-mach-e-rally-built-for-gravel-with-options-that-add-up.html</guid>
+      <pubDate>Tue, 14 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>TFLEV</dc:creator>
+      <category>reviews</category>
+      <description>TFLEV drives the 480 hp Mach-E Rally, a lifted, snow-tire-equipped EV that is fun to drive but charges extra for the frunk and still runs CCS.</description>
+    </item>
+    <item>
+      <title>How China Turned EV Tariffs Into a Global Factory Strategy</title>
+      <link>https://nexusevnews.com/articles/how-china-turned-ev-tariffs-into-a-global-factory-strategy.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/how-china-turned-ev-tariffs-into-a-global-factory-strategy.html</guid>
+      <pubDate>Tue, 14 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>CNBC</dc:creator>
+      <category>deep-dives</category>
+      <description>A CNBC explainer on how tariffs pushed Chinese automakers to build factories worldwide, citing Atlas Public Policy, Rhodium Group, and other analysts.</description>
+    </item>
+    <item>
+      <title>The Hyundai Ioniq 9 Bets on Fast Charging and a Six-Seat Cabin</title>
+      <link>https://nexusevnews.com/articles/hyundai-ioniq-9-bets-on-fast-charging-and-a-six-seat-cabin.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/hyundai-ioniq-9-bets-on-fast-charging-and-a-six-seat-cabin.html</guid>
+      <pubDate>Tue, 14 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Gjeebs</dc:creator>
+      <category>reviews</category>
+      <description>Gjeebs charge-tests the 800-volt Ioniq 9, a six-seat electric SUV with native NACS clocked from 10 to 80 percent in about 23 minutes.</description>
+    </item>
+    <item>
+      <title>Why EV Battery Recycling Does Not Always Pay, and How Colorado Is Responding</title>
+      <link>https://nexusevnews.com/articles/why-ev-battery-recycling-does-not-always-pay-colorado-law.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/why-ev-battery-recycling-does-not-always-pay-colorado-law.html</guid>
+      <pubDate>Tue, 14 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>NPR</dc:creator>
+      <category>battery-tech</category>
+      <description>NPR reports that salvage yards get stuck with EV batteries nobody wants, why cheaper LFP chemistry makes it worse, and how a new Colorado law responds.</description>
+    </item>
     <item>
       <title>Why a Wave of Off-Lease EVs Is About to Reach Used Lots</title>
       <link>https://nexusevnews.com/articles/why-a-wave-of-off-lease-evs-is-about-to-reach-used-lots.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>JerryRigEverything</dc:creator>
       <category>reviews</category>
       <description>JerryRigEverything&#x27;s first drive focuses on repairability: unpainted panels on exposed screws, a 65 kWh pack rated at 205 miles, and a start price just under $25,000.</description>
-    </item>
-    <item>
-      <title>A Solar Three-Wheeler That Charges While It Drives</title>
-      <link>https://nexusevnews.com/articles/aptera-solar-three-wheeler-charges-while-driving.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/aptera-solar-three-wheeler-charges-while-driving.html</guid>
-      <pubDate>Sat, 11 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Tailosive EV</dc:creator>
-      <category>solar</category>
-      <description>Tailosive EV&#x27;s Aptera video is a comedy bit wrapped around a real look at solar charging, a yoke, camera mirrors, and a shape that stops traffic.</description>
-    </item>
-    <item>
-      <title>An Electric Hyundai Out-Laps a Tuned GT-R</title>
-      <link>https://nexusevnews.com/articles/ioniq-6-n-outlaps-tuned-nissan-gt-r-on-track.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ioniq-6-n-outlaps-tuned-nissan-gt-r-on-track.html</guid>
-      <pubDate>Sat, 11 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Driven+</dc:creator>
-      <category>reviews</category>
-      <description>Driven+ set a 2026 Ioniq 6 N against a 650 hp Lichfield-tuned GT-R. The EV won by six hundredths, 50.01 to 50.07, and the margin says a lot.</description>
-    </item>
-    <item>
-      <title>Denza&#x27;s Three-Motor Sports Car Bets on Charging Speed</title>
-      <link>https://nexusevnews.com/articles/denza-three-motor-sports-car-charging-bet.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/denza-three-motor-sports-car-charging-bet.html</guid>
-      <pubDate>Sat, 11 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>battery-tech</category>
-      <description>Electrifying&#x27;s early look at Denza&#x27;s 1,366 hp coupe pairs a small 76 kWh battery with BYD fast-charging claims the video puts at up to 1,500 kW.</description>
-    </item>
-    <item>
-      <title>Inside the Zeekr 7 GT, a Loaded Electric Wagon Near &#8364;60,000</title>
-      <link>https://nexusevnews.com/articles/zeekr-7-gt-privilege-awd-in-depth-tour.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/zeekr-7-gt-privilege-awd-in-depth-tour.html</guid>
-      <pubDate>Sat, 11 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Roaming</dc:creator>
-      <category>reviews</category>
-      <description>Out of Spec Roaming&#x27;s in-depth tour of the 646 hp Zeekr 7 GT Privilege AWD covers a 100 kWh pack, 16-minute charging, and where the tech impresses or annoys.</description>
-    </item>
-    <item>
-      <title>Slate&#x27;s $24,950 Electric Truck, Driven</title>
-      <link>https://nexusevnews.com/articles/slate-electric-truck-first-drive-under-25k.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-electric-truck-first-drive-under-25k.html</guid>
-      <pubDate>Fri, 10 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Gjeebs</dc:creator>
-      <category>reviews</category>
-      <description>Slate held its first drive event and held the line on price. A 65 kWh pack, 205 miles, crank windows and no screen, starting at $24,950 with the federal credit gone.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
