@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Three EVs, Three Price Tiers, and What the Extra Money Buys</title>
+      <link>https://nexusevnews.com/articles/three-evs-three-price-tiers-and-what-the-extra-money-buys.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/three-evs-three-price-tiers-and-what-the-extra-money-buys.html</guid>
+      <pubDate>Wed, 15 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Gjeebs</dc:creator>
+      <category>reviews</category>
+      <description>Gjeebs lines up the $28,000 Chevy Bolt, the $45,000 Tesla Model Y Premium and a $76,000 Hyundai Ioniq 9 Calligraphy, and the money buys convenience, not capability.</description>
+    </item>
+    <item>
+      <title>A Solar Study Says Only Four US Cities Should Cut the Cord</title>
+      <link>https://nexusevnews.com/articles/a-solar-study-says-only-four-us-cities-should-cut-the-cord.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/a-solar-study-says-only-four-us-cities-should-cut-the-cord.html</guid>
+      <pubDate>Wed, 15 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Kolob Canyons Ranch</dc:creator>
+      <category>solar</category>
+      <description>A 2024 paper modelled off-grid solar against utility rates in 18 US locations. Only four beat the grid, and the deciding number is 25 cents per kilowatt hour.</description>
+    </item>
+    <item>
+      <title>Lucid Denies Bankruptcy Talk After Hiring a Restructuring Adviser</title>
+      <link>https://nexusevnews.com/articles/lucid-denies-bankruptcy-talk-after-hiring-a-restructuring-adviser.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/lucid-denies-bankruptcy-talk-after-hiring-a-restructuring-adviser.html</guid>
+      <pubDate>Wed, 15 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Bloomberg Television</dc:creator>
+      <category>news</category>
+      <description>Bloomberg reports Lucid engaged AlixPartners. Lucid confirms the hire, says it is about strengthening operations, and says bankruptcy has not been put to the board.</description>
+    </item>
+    <item>
+      <title>CATL Built a Grid Battery With No Lithium in It</title>
+      <link>https://nexusevnews.com/articles/catl-built-a-grid-battery-with-no-lithium-in-it.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/catl-built-a-grid-battery-with-no-lithium-in-it.html</guid>
+      <pubDate>Wed, 15 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Two Bit da Vinci</dc:creator>
+      <category>battery-tech</category>
+      <description>Over 30 MWh per unit, 15,000 cycles, no lithium, no cobalt, no nickel. Two Bit da Vinci on CATL&#x27;s sodium bet, and the awkward part about the price.</description>
+    </item>
+    <item>
+      <title>The Kia EV4 Is a Big, Efficient Sedan Americans Cannot Buy</title>
+      <link>https://nexusevnews.com/articles/the-kia-ev4-is-a-big-efficient-sedan-americans-cannot-buy.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-kia-ev4-is-a-big-efficient-sedan-americans-cannot-buy.html</guid>
+      <pubDate>Wed, 15 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec BITS</dc:creator>
+      <category>reviews</category>
+      <description>Out of Spec BITS drives the 2026 Kia EV4 GT-Line Limited in Canada: 400-volt E-GMP, up to 81.4 kWh, a factory J3400 port, and no US launch on the calendar.</description>
+    </item>
     <item>
       <title>Porsche&#x27;s Electric Macan Turbo Costs $150,000 and Has to Prove It</title>
       <link>https://nexusevnews.com/articles/porsche-macan-turbo-ev-costs-150000-and-has-to-prove-it.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>The Ezra Klein Show</dc:creator>
       <category>deep-dives</category>
       <description>On The Ezra Klein Show, author and 350.org founder Bill McKibben argues solar, wind, and batteries now undercut fossil fuels, and that the real bottleneck is politics.</description>
-    </item>
-    <item>
-      <title>Ferrari&#x27;s First EV, the Luce, Gets Its First UK Showing</title>
-      <link>https://nexusevnews.com/articles/ferrari-luce-first-look-the-brands-first-electric-car.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-luce-first-look-the-brands-first-electric-car.html</guid>
-      <pubDate>Sun, 12 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>reviews</category>
-      <description>Electrifying&#x27;s first look at Ferrari&#x27;s first fully electric car and first four-door five-seater, with 1,050 hp, a 122 kWh battery, and a design led by Jony Ive.</description>
-    </item>
-    <item>
-      <title>Dan Ticktum Runs Formula E&#x27;s GEN4 Car Up the Goodwood Hill</title>
-      <link>https://nexusevnews.com/articles/formula-e-gen4-runs-the-goodwood-hillclimb-with-dan-ticktum.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/formula-e-gen4-runs-the-goodwood-hillclimb-with-dan-ticktum.html</guid>
-      <pubDate>Sun, 12 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Formula E</dc:creator>
-      <category>news</category>
-      <description>Formula E&#x27;s onboard from Goodwood shows Dan Ticktum in the four-wheel-drive GEN4, a car the commentary calls more capable than anything the series has built before.</description>
-    </item>
-    <item>
-      <title>A Lightweight Solar Cell Built for Japan&#x27;s Snowy Coast</title>
-      <link>https://nexusevnews.com/articles/lightweight-solar-cells-aim-to-power-japans-snowy-coast.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/lightweight-solar-cells-aim-to-power-japans-snowy-coast.html</guid>
-      <pubDate>Sun, 12 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>NHK WORLD-JAPAN</dc:creator>
-      <category>solar</category>
-      <description>NHK reports on a Niigata pilot where PXP&#x27;s thin, flexible next-generation cells are tested on walls and roofs in a region long considered too snowy for solar.</description>
-    </item>
-    <item>
-      <title>Road-Tripping a 2012 Model S Signature Next to a New Model Y</title>
-      <link>https://nexusevnews.com/articles/living-with-a-2012-tesla-model-s-on-a-modern-road-trip.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/living-with-a-2012-tesla-model-s-on-a-modern-road-trip.html</guid>
-      <pubDate>Sun, 12 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Motoring</dc:creator>
-      <category>used-evs</category>
-      <description>Out of Spec Motoring runs one of the first Model S cars built against a current Model Y, and the gap in efficiency and charging speed after a decade is the whole story.</description>
-    </item>
-    <item>
-      <title>Slate&#x27;s Truck Is Built to Be Fixed in Your Driveway</title>
-      <link>https://nexusevnews.com/articles/slate-truck-built-to-be-fixed-at-home.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/slate-truck-built-to-be-fixed-at-home.html</guid>
-      <pubDate>Sat, 11 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>JerryRigEverything</dc:creator>
-      <category>reviews</category>
-      <description>JerryRigEverything&#x27;s first drive focuses on repairability: unpainted panels on exposed screws, a 65 kWh pack rated at 205 miles, and a start price just under $25,000.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
