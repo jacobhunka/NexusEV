@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Car and Driver Names the Chevrolet Bolt Its EV of the Year</title>
+      <link>https://nexusevnews.com/articles/car-and-driver-names-the-chevrolet-bolt-its-ev-of-the-year.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/car-and-driver-names-the-chevrolet-bolt-its-ev-of-the-year.html</guid>
+      <pubDate>Thu, 16 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Car and Driver</dc:creator>
+      <category>reviews</category>
+      <description>Twenty five EVs over the same roads, and the award went to the cheapest one: a $29,000 car with a 65 kWh LFP pack, 262 miles of EPA range and real buttons.</description>
+    </item>
+    <item>
+      <title>Japan Wants Its Rare Metals Back From Old EV Batteries</title>
+      <link>https://nexusevnews.com/articles/japan-wants-its-rare-metals-back-from-old-ev-batteries.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/japan-wants-its-rare-metals-back-from-old-ev-batteries.html</guid>
+      <pubDate>Thu, 16 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>NHK WORLD-JAPAN</dc:creator>
+      <category>battery-tech</category>
+      <description>NHK reports on black mass holding ten times the rare metal of mined ore, and on why roughly 80 percent of Japan's used EVs leave the country anyway.</description>
+    </item>
+    <item>
+      <title>Does the Model Y Performance Earn Its Badge on Track?</title>
+      <link>https://nexusevnews.com/articles/does-the-model-y-performance-earn-its-badge-on-track.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/does-the-model-y-performance-earn-its-badge-on-track.html</guid>
+      <pubDate>Thu, 16 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>reviews</category>
+      <description>Out of Spec finds no track mode, a new Panasonic pack, early thermal limiting, and a launch control that made the car slower than simply flooring it.</description>
+    </item>
+    <item>
+      <title>UK EV Sales Ran Nearly Ten to One Against Petrol, Report Says</title>
+      <link>https://nexusevnews.com/articles/uk-ev-sales-ran-nearly-ten-to-one-against-petrol-report-says.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/uk-ev-sales-ran-nearly-ten-to-one-against-petrol-report-says.html</guid>
+      <pubDate>Thu, 16 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric TECH</dc:creator>
+      <category>news</category>
+      <description>SMMT figures cited in the video put new battery EVs at 516,490 against 54,110 new petrol cars in the 12 months to May 2026, with petrol hybrids flat.</description>
+    </item>
+    <item>
+      <title>Polestar 4 Discounts Put a Luxury EV at Bolt Money</title>
+      <link>https://nexusevnews.com/articles/polestar-4-discounts-put-a-luxury-ev-at-bolt-money.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/polestar-4-discounts-put-a-luxury-ev-at-bolt-money.html</guid>
+      <pubDate>Thu, 16 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>The Electric Viking</dc:creator>
+      <category>news</category>
+      <description>$25,000 off a $56,400 car takes a 544 horsepower crossover to about $31,000, tied to what the video says is Polestar's planned US exit by 2027.</description>
+    </item>
     <item>
       <title>Three EVs, Three Price Tiers, and What the Extra Money Buys</title>
       <link>https://nexusevnews.com/articles/three-evs-three-price-tiers-and-what-the-extra-money-buys.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>MotorTrend</dc:creator>
       <category>used-evs</category>
       <description>MotorTrend&#x27;s The Inevitable talks to Plug Motors CEO Jimmy Douglas about the roughly 1.1 million EVs coming off lease and why used electric cars are about to get cheaper.</description>
-    </item>
-    <item>
-      <title>Astraux&#x27;s AL7 Pro Is an $8,000 Microcar Aimed at the Citroen Ami</title>
-      <link>https://nexusevnews.com/articles/astraux-al7-pro-an-8000-microcar-aimed-at-the-citroen-ami.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/astraux-al7-pro-an-8000-microcar-aimed-at-the-citroen-ami.html</guid>
-      <pubDate>Mon, 13 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Everything Electric APAC</dc:creator>
-      <category>reviews</category>
-      <description>Everything Electric APAC drives the Astraux AL7 Pro, a two-seat electric microcar bound for Europe with air conditioning, 90 km/h, and range that beats the Citroen Ami.</description>
-    </item>
-    <item>
-      <title>How Better Batteries Put Vertical Aerospace&#x27;s Electric Aircraft Within Reach</title>
-      <link>https://nexusevnews.com/articles/how-better-batteries-put-vertical-aerospaces-electric-aircraft-within-reach.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/how-better-batteries-put-vertical-aerospaces-electric-aircraft-within-reach.html</guid>
-      <pubDate>Mon, 13 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Everything Electric TECH</dc:creator>
-      <category>deep-dives</category>
-      <description>Vertical Aerospace chief engineer David King explains how better batteries made the Bristol company&#x27;s Valo electric vertical-takeoff aircraft possible.</description>
-    </item>
-    <item>
-      <title>Japan&#x27;s Chuo Maglev Clears Its Last Big Hurdle in Shizuoka</title>
-      <link>https://nexusevnews.com/articles/japans-chuo-maglev-clears-its-last-big-hurdle-in-shizuoka.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/japans-chuo-maglev-clears-its-last-big-hurdle-in-shizuoka.html</guid>
-      <pubDate>Mon, 13 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>NHK WORLD-JAPAN</dc:creator>
-      <category>news</category>
-      <description>NHK reports Shizuoka&#x27;s governor approved the Chuo Shinkansen maglev&#x27;s local section, clearing the last hurdle for the 500 km/h Tokyo to Nagoya line.</description>
-    </item>
-    <item>
-      <title>Volvo EX30 Cross Country vs Subaru Uncharted: Same Job, Two Approaches</title>
-      <link>https://nexusevnews.com/articles/volvo-ex30-cross-country-vs-subaru-uncharted-same-job-two-approaches.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/volvo-ex30-cross-country-vs-subaru-uncharted-same-job-two-approaches.html</guid>
-      <pubDate>Mon, 13 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec BITS</dc:creator>
-      <category>reviews</category>
-      <description>Out of Spec BITS compares the 2026 Volvo EX30 Cross Country and Subaru Uncharted AWD, two small electric crossovers built for the same buyer, two different ways.</description>
-    </item>
-    <item>
-      <title>Bill McKibben on the Moment Clean Energy Became the Cheap Choice</title>
-      <link>https://nexusevnews.com/articles/clean-energy-is-cheaper-than-fossil-fuels-mckibben-makes-the-case.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/clean-energy-is-cheaper-than-fossil-fuels-mckibben-makes-the-case.html</guid>
-      <pubDate>Sun, 12 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>The Ezra Klein Show</dc:creator>
-      <category>deep-dives</category>
-      <description>On The Ezra Klein Show, author and 350.org founder Bill McKibben argues solar, wind, and batteries now undercut fossil fuels, and that the real bottleneck is politics.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
