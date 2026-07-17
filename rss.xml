@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>XPENG's L03 Lands in Europe Undercutting VW's Smallest EVs</title>
+      <link>https://nexusevnews.com/articles/xpengs-l03-lands-in-europe-undercutting-vws-smallest-evs.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/xpengs-l03-lands-in-europe-undercutting-vws-smallest-evs.html</guid>
+      <pubDate>Fri, 17 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Autogef&#252;hl</dc:creator>
+      <category>Reviews</category>
+      <description>Just under 36,000 euros for a 4.65 metre crossover with around 450 km of claimed range, ventilated seats and Google Maps built in. Autogef&#252;hl thinks the price is most of the argument.</description>
+    </item>
+    <item>
+      <title>Atlanta's Fire Department Turned a Rivian R1T Into a First Responder</title>
+      <link>https://nexusevnews.com/articles/atlantas-fire-department-turned-a-rivian-r1t-into-a-first-responder.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/atlantas-fire-department-turned-a-rivian-r1t-into-a-first-responder.html</guid>
+      <pubDate>Fri, 17 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>EV Sportline</dc:creator>
+      <category>Deep Dives</category>
+      <description>Steel wheels, a Federal Signal light bar and a custom bed rack are the easy part. The interesting bit is the 12 volt box someone had to invent to make the siren work.</description>
+    </item>
+    <item>
+      <title>A Battery Financier Says Storage Now Beats Solar in Some Markets</title>
+      <link>https://nexusevnews.com/articles/a-battery-financier-says-storage-now-beats-solar-in-some-markets.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/a-battery-financier-says-storage-now-beats-solar-in-some-markets.html</guid>
+      <pubDate>Fri, 17 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Cleaning Up Podcast</dc:creator>
+      <category>Battery Tech</category>
+      <description>On one Santa Rosa project, adding batteries is worth about three times more than adding solar. Alex Shoer explains what changed, and why the cells were never the problem.</description>
+    </item>
+    <item>
+      <title>VW's ID. Cross Arrives With Real Buttons and a Bigger Boot</title>
+      <link>https://nexusevnews.com/articles/vws-id-cross-arrives-with-real-buttons-and-a-bigger-boot.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/vws-id-cross-arrives-with-real-buttons-and-a-bigger-boot.html</guid>
+      <pubDate>Fri, 17 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>Reviews</category>
+      <description>A 475 litre boot, 271 miles from the big battery, and window switches you can actually press. VW's small electric SUV lands the same week XPENG undercuts it.</description>
+    </item>
+    <item>
+      <title>Range Rover Sport EV First Drive: Four Years and 60,000 Hours Later</title>
+      <link>https://nexusevnews.com/articles/range-rover-sport-ev-first-drive-four-years-and-60000-hours-later.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/range-rover-sport-ev-first-drive-four-years-and-60000-hours-later.html</guid>
+      <pubDate>Fri, 17 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>Reviews</category>
+      <description>A 118 kWh battery, around 542 horsepower, and still a prototype with no price. Electrifying drives it at Goodwood and asks what four years of waiting actually bought.</description>
+    </item>
     <item>
       <title>Car and Driver Names the Chevrolet Bolt Its EV of the Year</title>
       <link>https://nexusevnews.com/articles/car-and-driver-names-the-chevrolet-bolt-its-ev-of-the-year.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Auto Focus</dc:creator>
       <category>reviews</category>
       <description>Auto Focus reviews the 630 hp electric Macan Turbo, a near $150,000 luxury crossover with a stellar cabin, no one-pedal mode, and a CCS port in a NACS world.</description>
-    </item>
-    <item>
-      <title>The Ford Mustang Mach-E Rally Is Built for Gravel, With Options That Add Up</title>
-      <link>https://nexusevnews.com/articles/ford-mustang-mach-e-rally-built-for-gravel-with-options-that-add-up.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ford-mustang-mach-e-rally-built-for-gravel-with-options-that-add-up.html</guid>
-      <pubDate>Tue, 14 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>TFLEV</dc:creator>
-      <category>reviews</category>
-      <description>TFLEV drives the 480 hp Mach-E Rally, a lifted, snow-tire-equipped EV that is fun to drive but charges extra for the frunk and still runs CCS.</description>
-    </item>
-    <item>
-      <title>How China Turned EV Tariffs Into a Global Factory Strategy</title>
-      <link>https://nexusevnews.com/articles/how-china-turned-ev-tariffs-into-a-global-factory-strategy.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/how-china-turned-ev-tariffs-into-a-global-factory-strategy.html</guid>
-      <pubDate>Tue, 14 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>CNBC</dc:creator>
-      <category>deep-dives</category>
-      <description>A CNBC explainer on how tariffs pushed Chinese automakers to build factories worldwide, citing Atlas Public Policy, Rhodium Group, and other analysts.</description>
-    </item>
-    <item>
-      <title>The Hyundai Ioniq 9 Bets on Fast Charging and a Six-Seat Cabin</title>
-      <link>https://nexusevnews.com/articles/hyundai-ioniq-9-bets-on-fast-charging-and-a-six-seat-cabin.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/hyundai-ioniq-9-bets-on-fast-charging-and-a-six-seat-cabin.html</guid>
-      <pubDate>Tue, 14 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Gjeebs</dc:creator>
-      <category>reviews</category>
-      <description>Gjeebs charge-tests the 800-volt Ioniq 9, a six-seat electric SUV with native NACS clocked from 10 to 80 percent in about 23 minutes.</description>
-    </item>
-    <item>
-      <title>Why EV Battery Recycling Does Not Always Pay, and How Colorado Is Responding</title>
-      <link>https://nexusevnews.com/articles/why-ev-battery-recycling-does-not-always-pay-colorado-law.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/why-ev-battery-recycling-does-not-always-pay-colorado-law.html</guid>
-      <pubDate>Tue, 14 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>NPR</dc:creator>
-      <category>battery-tech</category>
-      <description>NPR reports that salvage yards get stuck with EV batteries nobody wants, why cheaper LFP chemistry makes it worse, and how a new Colorado law responds.</description>
-    </item>
-    <item>
-      <title>Why a Wave of Off-Lease EVs Is About to Reach Used Lots</title>
-      <link>https://nexusevnews.com/articles/why-a-wave-of-off-lease-evs-is-about-to-reach-used-lots.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/why-a-wave-of-off-lease-evs-is-about-to-reach-used-lots.html</guid>
-      <pubDate>Mon, 13 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>MotorTrend</dc:creator>
-      <category>used-evs</category>
-      <description>MotorTrend&#x27;s The Inevitable talks to Plug Motors CEO Jimmy Douglas about the roughly 1.1 million EVs coming off lease and why used electric cars are about to get cheaper.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
