@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Out of Spec Gets the First US Cayenne EV and Heads for the Dirt</title>
+      <link>https://nexusevnews.com/articles/out-of-spec-gets-the-first-us-cayenne-ev-and-heads-for-the-dirt.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/out-of-spec-gets-the-first-us-cayenne-ev-and-heads-for-the-dirt.html</guid>
+      <pubDate>Sat, 18 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Reviews</category>
+      <description>The base Cayenne Electric was flown in from Germany. Out of Spec launches it, takes it off road, and lands near $122,000 with a smaller battery than several rivals and no lane centering on early US cars.</description>
+    </item>
+    <item>
+      <title>How Chinese EVs Took Nearly a Third of the UK Market in Seven Years</title>
+      <link>https://nexusevnews.com/articles/how-chinese-evs-took-nearly-a-third-of-the-uk-market-in-seven-years.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/how-chinese-evs-took-nearly-a-third-of-the-uk-market-in-seven-years.html</guid>
+      <pubDate>Sat, 18 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>CNBC</dc:creator>
+      <category>Deep Dives</category>
+      <description>From under 1% to more than 30% in seven years. CNBC credits technology and a big price gap, but the UK's decision to skip tariffs is doing quiet work too.</description>
+    </item>
+    <item>
+      <title>Could You Live Full Time in an Electric VW Camper Van?</title>
+      <link>https://nexusevnews.com/articles/could-you-live-full-time-in-an-electric-vw-camper-van.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/could-you-live-full-time-in-an-electric-vw-camper-van.html</guid>
+      <pubDate>Sat, 18 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>The Endless Adventure</dc:creator>
+      <category>Reviews</category>
+      <description>Lovely hardware, tiny space, and a 234 mile rating that runs the trip. Three days in a camper converted ID Buzz says weekend yes, full time maybe a week.</description>
+    </item>
+    <item>
+      <title>Polestar and Lucid Are Slashing Prices, for Very Different Reasons</title>
+      <link>https://nexusevnews.com/articles/polestar-and-lucid-are-slashing-prices-for-very-different-reasons.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/polestar-and-lucid-are-slashing-prices-for-very-different-reasons.html</guid>
+      <pubDate>Sat, 18 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>This Car Pod</dc:creator>
+      <category>News</category>
+      <description>Polestar is clearing stock before a 2027 US ban. Lucid is stacking 0% financing on the Gravity. One is regulation, one is soft demand, and both end at a lower sticker.</description>
+    </item>
+    <item>
+      <title>The Subaru Uncharted GT Missed Its Range Rating, but Not by Much</title>
+      <link>https://nexusevnews.com/articles/the-subaru-uncharted-gt-missed-its-range-rating-but-not-by-much.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-subaru-uncharted-gt-missed-its-range-rating-but-not-by-much.html</guid>
+      <pubDate>Sat, 18 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>State of Charge</dc:creator>
+      <category>Reviews</category>
+      <description>255 miles at a true 70 mph against a 273 mile combined rating, about 18 short. The GT is the wrong trim to judge the car by, and 150 kW charging is the real asterisk.</description>
+    </item>
     <item>
       <title>XPENG's L03 Lands in Europe Undercutting VW's Smallest EVs</title>
       <link>https://nexusevnews.com/articles/xpengs-l03-lands-in-europe-undercutting-vws-smallest-evs.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Gjeebs</dc:creator>
       <category>reviews</category>
       <description>Gjeebs lines up the $28,000 Chevy Bolt, the $45,000 Tesla Model Y Premium and a $76,000 Hyundai Ioniq 9 Calligraphy, and the money buys convenience, not capability.</description>
-    </item>
-    <item>
-      <title>A Solar Study Says Only Four US Cities Should Cut the Cord</title>
-      <link>https://nexusevnews.com/articles/a-solar-study-says-only-four-us-cities-should-cut-the-cord.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/a-solar-study-says-only-four-us-cities-should-cut-the-cord.html</guid>
-      <pubDate>Wed, 15 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Kolob Canyons Ranch</dc:creator>
-      <category>solar</category>
-      <description>A 2024 paper modelled off-grid solar against utility rates in 18 US locations. Only four beat the grid, and the deciding number is 25 cents per kilowatt hour.</description>
-    </item>
-    <item>
-      <title>Lucid Denies Bankruptcy Talk After Hiring a Restructuring Adviser</title>
-      <link>https://nexusevnews.com/articles/lucid-denies-bankruptcy-talk-after-hiring-a-restructuring-adviser.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/lucid-denies-bankruptcy-talk-after-hiring-a-restructuring-adviser.html</guid>
-      <pubDate>Wed, 15 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Bloomberg Television</dc:creator>
-      <category>news</category>
-      <description>Bloomberg reports Lucid engaged AlixPartners. Lucid confirms the hire, says it is about strengthening operations, and says bankruptcy has not been put to the board.</description>
-    </item>
-    <item>
-      <title>CATL Built a Grid Battery With No Lithium in It</title>
-      <link>https://nexusevnews.com/articles/catl-built-a-grid-battery-with-no-lithium-in-it.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/catl-built-a-grid-battery-with-no-lithium-in-it.html</guid>
-      <pubDate>Wed, 15 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Two Bit da Vinci</dc:creator>
-      <category>battery-tech</category>
-      <description>Over 30 MWh per unit, 15,000 cycles, no lithium, no cobalt, no nickel. Two Bit da Vinci on CATL&#x27;s sodium bet, and the awkward part about the price.</description>
-    </item>
-    <item>
-      <title>The Kia EV4 Is a Big, Efficient Sedan Americans Cannot Buy</title>
-      <link>https://nexusevnews.com/articles/the-kia-ev4-is-a-big-efficient-sedan-americans-cannot-buy.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-kia-ev4-is-a-big-efficient-sedan-americans-cannot-buy.html</guid>
-      <pubDate>Wed, 15 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec BITS</dc:creator>
-      <category>reviews</category>
-      <description>Out of Spec BITS drives the 2026 Kia EV4 GT-Line Limited in Canada: 400-volt E-GMP, up to 81.4 kWh, a factory J3400 port, and no US launch on the calendar.</description>
-    </item>
-    <item>
-      <title>Porsche&#x27;s Electric Macan Turbo Costs $150,000 and Has to Prove It</title>
-      <link>https://nexusevnews.com/articles/porsche-macan-turbo-ev-costs-150000-and-has-to-prove-it.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/porsche-macan-turbo-ev-costs-150000-and-has-to-prove-it.html</guid>
-      <pubDate>Tue, 14 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Auto Focus</dc:creator>
-      <category>reviews</category>
-      <description>Auto Focus reviews the 630 hp electric Macan Turbo, a near $150,000 luxury crossover with a stellar cabin, no one-pedal mode, and a CCS port in a NACS world.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
