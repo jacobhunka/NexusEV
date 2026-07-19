@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Rivian's Founder Lays Out the Bet Beyond Building Cars</title>
+      <link>https://nexusevnews.com/articles/rivian-founder-lays-out-the-bet-beyond-building-cars.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-founder-lays-out-the-bet-beyond-building-cars.html</guid>
+      <pubDate>Sun, 19 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Behind the Business</dc:creator>
+      <category>Deep Dives</category>
+      <description>RJ Scaringe on the R2 volume play, an in-house AI inference chip, a $5.8B Volkswagen software deal, robotics, and why he thinks self-driving matters more than electrification.</description>
+    </item>
+    <item>
+      <title>The $8,000 Solarky sunV Is a Solar EV Built for Hot Cities</title>
+      <link>https://nexusevnews.com/articles/the-8000-solarky-sunv-is-a-solar-ev-built-for-hot-cities.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-8000-solarky-sunv-is-a-solar-ev-built-for-hot-cities.html</guid>
+      <pubDate>Sun, 19 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric APAC</dc:creator>
+      <category>Solar</category>
+      <description>Everything Electric APAC drives a light 660 kg solar EV with an extending roof panel around Bangkok. Tiny battery, big idea for short trips in a hot climate.</description>
+    </item>
+    <item>
+      <title>The Rivian R2 Can Melt Older Charging Adapters</title>
+      <link>https://nexusevnews.com/articles/the-rivian-r2-can-melt-older-charging-adapters.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-rivian-r2-can-melt-older-charging-adapters.html</guid>
+      <pubDate>Sun, 19 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>State of Charge</dc:creator>
+      <category>Charging</category>
+      <description>State of Charge had a pin melt on an older Tesla-branded adapter while fast charging an R2 at over 600 amps, and explains what to buy instead.</description>
+    </item>
+    <item>
+      <title>BMW iX3 Hits 400 kW on a V4 Supercharger, but Runs Hot</title>
+      <link>https://nexusevnews.com/articles/bmw-ix3-hits-400-kw-on-a-v4-supercharger-but-runs-hot.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-hits-400-kw-on-a-v4-supercharger-but-runs-hot.html</guid>
+      <pubDate>Sun, 19 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Roaming</dc:creator>
+      <category>Charging</category>
+      <description>Out of Spec Roaming charges the 800V iX3 on a 1,000V-capable Tesla V4 Supercharger in Norway, hits 400 kW, and logs a battery that touches 59C.</description>
+    </item>
+    <item>
+      <title>Toyota bZ vs bZ4X: Cheaper, and a Lot Better</title>
+      <link>https://nexusevnews.com/articles/toyota-bz-vs-bz4x-cheaper-and-a-lot-better.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/toyota-bz-vs-bz4x-cheaper-and-a-lot-better.html</guid>
+      <pubDate>Sun, 19 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Ever</dc:creator>
+      <category>Reviews</category>
+      <description>Ever compares the outgoing bZ4X with the 2026 bZ: more range, faster charging, a native NACS port, and a lower starting price.</description>
+    </item>
     <item>
       <title>Out of Spec Gets the First US Cayenne EV and Heads for the Dirt</title>
       <link>https://nexusevnews.com/articles/out-of-spec-gets-the-first-us-cayenne-ev-and-heads-for-the-dirt.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Car and Driver</dc:creator>
       <category>reviews</category>
       <description>Twenty five EVs over the same roads, and the award went to the cheapest one: a $29,000 car with a 65 kWh LFP pack, 262 miles of EPA range and real buttons.</description>
-    </item>
-    <item>
-      <title>Japan Wants Its Rare Metals Back From Old EV Batteries</title>
-      <link>https://nexusevnews.com/articles/japan-wants-its-rare-metals-back-from-old-ev-batteries.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/japan-wants-its-rare-metals-back-from-old-ev-batteries.html</guid>
-      <pubDate>Thu, 16 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>NHK WORLD-JAPAN</dc:creator>
-      <category>battery-tech</category>
-      <description>NHK reports on black mass holding ten times the rare metal of mined ore, and on why roughly 80 percent of Japan's used EVs leave the country anyway.</description>
-    </item>
-    <item>
-      <title>Does the Model Y Performance Earn Its Badge on Track?</title>
-      <link>https://nexusevnews.com/articles/does-the-model-y-performance-earn-its-badge-on-track.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/does-the-model-y-performance-earn-its-badge-on-track.html</guid>
-      <pubDate>Thu, 16 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>reviews</category>
-      <description>Out of Spec finds no track mode, a new Panasonic pack, early thermal limiting, and a launch control that made the car slower than simply flooring it.</description>
-    </item>
-    <item>
-      <title>UK EV Sales Ran Nearly Ten to One Against Petrol, Report Says</title>
-      <link>https://nexusevnews.com/articles/uk-ev-sales-ran-nearly-ten-to-one-against-petrol-report-says.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/uk-ev-sales-ran-nearly-ten-to-one-against-petrol-report-says.html</guid>
-      <pubDate>Thu, 16 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Everything Electric TECH</dc:creator>
-      <category>news</category>
-      <description>SMMT figures cited in the video put new battery EVs at 516,490 against 54,110 new petrol cars in the 12 months to May 2026, with petrol hybrids flat.</description>
-    </item>
-    <item>
-      <title>Polestar 4 Discounts Put a Luxury EV at Bolt Money</title>
-      <link>https://nexusevnews.com/articles/polestar-4-discounts-put-a-luxury-ev-at-bolt-money.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/polestar-4-discounts-put-a-luxury-ev-at-bolt-money.html</guid>
-      <pubDate>Thu, 16 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>The Electric Viking</dc:creator>
-      <category>news</category>
-      <description>$25,000 off a $56,400 car takes a 544 horsepower crossover to about $31,000, tied to what the video says is Polestar's planned US exit by 2027.</description>
-    </item>
-    <item>
-      <title>Three EVs, Three Price Tiers, and What the Extra Money Buys</title>
-      <link>https://nexusevnews.com/articles/three-evs-three-price-tiers-and-what-the-extra-money-buys.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/three-evs-three-price-tiers-and-what-the-extra-money-buys.html</guid>
-      <pubDate>Wed, 15 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Gjeebs</dc:creator>
-      <category>reviews</category>
-      <description>Gjeebs lines up the $28,000 Chevy Bolt, the $45,000 Tesla Model Y Premium and a $76,000 Hyundai Ioniq 9 Calligraphy, and the money buys convenience, not capability.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
