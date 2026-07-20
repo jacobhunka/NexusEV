@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>The Chinese EV Talk the US Keeps Avoiding</title>
+      <link>https://nexusevnews.com/articles/the-chinese-ev-talk-the-us-keeps-avoiding.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-chinese-ev-talk-the-us-keeps-avoiding.html</guid>
+      <pubDate>Mon, 20 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Kim Java</dc:creator>
+      <category>Deep Dives</category>
+      <description>Kim Java, CleanTechnica's Larry Evans, and Rich Rebuilds on why the US market keeps shutting out the affordable Chinese EVs the rest of the world already buys.</description>
+    </item>
+    <item>
+      <title>The Geely EX2 Won a Skeptic Over</title>
+      <link>https://nexusevnews.com/articles/the-geely-ex2-won-a-skeptic-over.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-geely-ex2-won-a-skeptic-over.html</guid>
+      <pubDate>Mon, 20 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>Reviews</category>
+      <description>Electrifying's Nicola Hume reviews the Geely EX2, a cheap Chinese city EV headed to Europe with 214 miles of range and an 8-year, 125,000-mile warranty.</description>
+    </item>
+    <item>
+      <title>VW's ID Cross Goes After the Cheap Electric SUV</title>
+      <link>https://nexusevnews.com/articles/vws-id-cross-goes-after-the-cheap-electric-suv.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/vws-id-cross-goes-after-the-cheap-electric-suv.html</guid>
+      <pubDate>Mon, 20 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Autogefühl</dc:creator>
+      <category>Reviews</category>
+      <description>Autogefühl's Thomas details the production VW ID Cross: a 4.15m electric SUV, over 400km WLTP, a 475-litre boot, real buttons, and pricing from about 28,000 euros.</description>
+    </item>
+    <item>
+      <title>The Audi RS e-tron GT Is Now a Used Bargain</title>
+      <link>https://nexusevnews.com/articles/the-audi-rs-e-tron-gt-is-now-a-used-bargain.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-audi-rs-e-tron-gt-is-now-a-used-bargain.html</guid>
+      <pubDate>Mon, 20 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Gjeebs</dc:creator>
+      <category>Used EVs</category>
+      <description>Gjeebs on the depreciated Audi RS e-tron GT: near $147,000 new, now roughly $100,000 less used, with an 8-year battery warranty and the quirks of a used German GT.</description>
+    </item>
+    <item>
+      <title>GM Dealers Are Discounting Electric Trucks Hard</title>
+      <link>https://nexusevnews.com/articles/gm-dealers-are-discounting-electric-trucks-hard.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/gm-dealers-are-discounting-electric-trucks-hard.html</guid>
+      <pubDate>Mon, 20 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>The Electric Viking</dc:creator>
+      <category>News</category>
+      <description>The Electric Viking on GM's slow-selling electric pickups: Silverado EV sales down 32.5 percent and dealer discounts up to $21,400, bringing entry pricing near $53,950.</description>
+    </item>
     <item>
       <title>Rivian's Founder Lays Out the Bet Beyond Building Cars</title>
       <link>https://nexusevnews.com/articles/rivian-founder-lays-out-the-bet-beyond-building-cars.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Autogef&#252;hl</dc:creator>
       <category>Reviews</category>
       <description>Just under 36,000 euros for a 4.65 metre crossover with around 450 km of claimed range, ventilated seats and Google Maps built in. Autogef&#252;hl thinks the price is most of the argument.</description>
-    </item>
-    <item>
-      <title>Atlanta's Fire Department Turned a Rivian R1T Into a First Responder</title>
-      <link>https://nexusevnews.com/articles/atlantas-fire-department-turned-a-rivian-r1t-into-a-first-responder.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/atlantas-fire-department-turned-a-rivian-r1t-into-a-first-responder.html</guid>
-      <pubDate>Fri, 17 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>EV Sportline</dc:creator>
-      <category>Deep Dives</category>
-      <description>Steel wheels, a Federal Signal light bar and a custom bed rack are the easy part. The interesting bit is the 12 volt box someone had to invent to make the siren work.</description>
-    </item>
-    <item>
-      <title>A Battery Financier Says Storage Now Beats Solar in Some Markets</title>
-      <link>https://nexusevnews.com/articles/a-battery-financier-says-storage-now-beats-solar-in-some-markets.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/a-battery-financier-says-storage-now-beats-solar-in-some-markets.html</guid>
-      <pubDate>Fri, 17 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Cleaning Up Podcast</dc:creator>
-      <category>Battery Tech</category>
-      <description>On one Santa Rosa project, adding batteries is worth about three times more than adding solar. Alex Shoer explains what changed, and why the cells were never the problem.</description>
-    </item>
-    <item>
-      <title>VW's ID. Cross Arrives With Real Buttons and a Bigger Boot</title>
-      <link>https://nexusevnews.com/articles/vws-id-cross-arrives-with-real-buttons-and-a-bigger-boot.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/vws-id-cross-arrives-with-real-buttons-and-a-bigger-boot.html</guid>
-      <pubDate>Fri, 17 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>Reviews</category>
-      <description>A 475 litre boot, 271 miles from the big battery, and window switches you can actually press. VW's small electric SUV lands the same week XPENG undercuts it.</description>
-    </item>
-    <item>
-      <title>Range Rover Sport EV First Drive: Four Years and 60,000 Hours Later</title>
-      <link>https://nexusevnews.com/articles/range-rover-sport-ev-first-drive-four-years-and-60000-hours-later.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/range-rover-sport-ev-first-drive-four-years-and-60000-hours-later.html</guid>
-      <pubDate>Fri, 17 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>Reviews</category>
-      <description>A 118 kWh battery, around 542 horsepower, and still a prototype with no price. Electrifying drives it at Goodwood and asks what four years of waiting actually bought.</description>
-    </item>
-    <item>
-      <title>Car and Driver Names the Chevrolet Bolt Its EV of the Year</title>
-      <link>https://nexusevnews.com/articles/car-and-driver-names-the-chevrolet-bolt-its-ev-of-the-year.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/car-and-driver-names-the-chevrolet-bolt-its-ev-of-the-year.html</guid>
-      <pubDate>Thu, 16 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Car and Driver</dc:creator>
-      <category>reviews</category>
-      <description>Twenty five EVs over the same roads, and the award went to the cheapest one: a $29,000 car with a 65 kWh LFP pack, 262 miles of EPA range and real buttons.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
