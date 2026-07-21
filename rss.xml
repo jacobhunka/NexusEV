@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Renault's 5 Turbo 3E Is a 555hp Electric Throwback</title>
+      <link>https://nexusevnews.com/articles/renault-5-turbo-3e-is-a-555hp-electric-throwback.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/renault-5-turbo-3e-is-a-555hp-electric-throwback.html</guid>
+      <pubDate>Tue, 21 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Autotrader</dc:creator>
+      <category>Reviews</category>
+      <description>Autotrader rides shotgun in the Renault 5 Turbo 3E at Goodwood, a 555hp twin-hub-motor EV that revives the 1980 rally car as a limited run of 1,980.</description>
+    </item>
+    <item>
+      <title>China Built an Electric Society, Not Just an EV Industry</title>
+      <link>https://nexusevnews.com/articles/china-built-an-electric-society-not-just-an-ev-industry.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/china-built-an-electric-society-not-just-an-ev-industry.html</guid>
+      <pubDate>Tue, 21 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>ABC News (Australia)</dc:creator>
+      <category>Deep Dives</category>
+      <description>ABC correspondent Allison Horn reports from Beijing on battery swaps in minutes, the world's largest charging network, and a plan China set back in 2001.</description>
+    </item>
+    <item>
+      <title>Jay Leno Slides the Polestar 4 Arctic Circle</title>
+      <link>https://nexusevnews.com/articles/jay-leno-slides-the-polestar-4-arctic-circle.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/jay-leno-slides-the-polestar-4-arctic-circle.html</guid>
+      <pubDate>Tue, 21 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Jay Leno's Garage</dc:creator>
+      <category>Reviews</category>
+      <description>Jay Leno drives the 544hp Polestar 4 Arctic Circle, a rally build with raised suspension, Brembo brakes, and a hydraulic handbrake made for sliding.</description>
+    </item>
+    <item>
+      <title>German Startups Want Farmers to Harvest Crops and Sunlight</title>
+      <link>https://nexusevnews.com/articles/german-startups-want-farmers-to-harvest-crops-and-sunlight.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/german-startups-want-farmers-to-harvest-crops-and-sunlight.html</guid>
+      <pubDate>Tue, 21 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>euronews</dc:creator>
+      <category>Solar</category>
+      <description>euronews reports on Agri-PV in Bavaria, where solar panels sit over farmland so growers can harvest crops and electricity from the same field.</description>
+    </item>
+    <item>
+      <title>China's Robotaxis Are Betting on the Same EV Playbook</title>
+      <link>https://nexusevnews.com/articles/chinas-robotaxis-are-betting-on-the-same-ev-playbook.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/chinas-robotaxis-are-betting-on-the-same-ev-playbook.html</guid>
+      <pubDate>Tue, 21 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>BBC News</dc:creator>
+      <category>News</category>
+      <description>BBC News rides a driverless robotaxi in Beijing and reports how China's cheap EV supply chain is making lidar affordable enough to push autonomous driving.</description>
+    </item>
     <item>
       <title>The Chinese EV Talk the US Keeps Avoiding</title>
       <link>https://nexusevnews.com/articles/the-chinese-ev-talk-the-us-keeps-avoiding.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Out of Spec Reviews</dc:creator>
       <category>Reviews</category>
       <description>The base Cayenne Electric was flown in from Germany. Out of Spec launches it, takes it off road, and lands near $122,000 with a smaller battery than several rivals and no lane centering on early US cars.</description>
-    </item>
-    <item>
-      <title>How Chinese EVs Took Nearly a Third of the UK Market in Seven Years</title>
-      <link>https://nexusevnews.com/articles/how-chinese-evs-took-nearly-a-third-of-the-uk-market-in-seven-years.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/how-chinese-evs-took-nearly-a-third-of-the-uk-market-in-seven-years.html</guid>
-      <pubDate>Sat, 18 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>CNBC</dc:creator>
-      <category>Deep Dives</category>
-      <description>From under 1% to more than 30% in seven years. CNBC credits technology and a big price gap, but the UK's decision to skip tariffs is doing quiet work too.</description>
-    </item>
-    <item>
-      <title>Could You Live Full Time in an Electric VW Camper Van?</title>
-      <link>https://nexusevnews.com/articles/could-you-live-full-time-in-an-electric-vw-camper-van.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/could-you-live-full-time-in-an-electric-vw-camper-van.html</guid>
-      <pubDate>Sat, 18 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>The Endless Adventure</dc:creator>
-      <category>Reviews</category>
-      <description>Lovely hardware, tiny space, and a 234 mile rating that runs the trip. Three days in a camper converted ID Buzz says weekend yes, full time maybe a week.</description>
-    </item>
-    <item>
-      <title>Polestar and Lucid Are Slashing Prices, for Very Different Reasons</title>
-      <link>https://nexusevnews.com/articles/polestar-and-lucid-are-slashing-prices-for-very-different-reasons.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/polestar-and-lucid-are-slashing-prices-for-very-different-reasons.html</guid>
-      <pubDate>Sat, 18 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>This Car Pod</dc:creator>
-      <category>News</category>
-      <description>Polestar is clearing stock before a 2027 US ban. Lucid is stacking 0% financing on the Gravity. One is regulation, one is soft demand, and both end at a lower sticker.</description>
-    </item>
-    <item>
-      <title>The Subaru Uncharted GT Missed Its Range Rating, but Not by Much</title>
-      <link>https://nexusevnews.com/articles/the-subaru-uncharted-gt-missed-its-range-rating-but-not-by-much.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-subaru-uncharted-gt-missed-its-range-rating-but-not-by-much.html</guid>
-      <pubDate>Sat, 18 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>State of Charge</dc:creator>
-      <category>Reviews</category>
-      <description>255 miles at a true 70 mph against a 273 mile combined rating, about 18 short. The GT is the wrong trim to judge the car by, and 150 kW charging is the real asterisk.</description>
-    </item>
-    <item>
-      <title>XPENG's L03 Lands in Europe Undercutting VW's Smallest EVs</title>
-      <link>https://nexusevnews.com/articles/xpengs-l03-lands-in-europe-undercutting-vws-smallest-evs.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/xpengs-l03-lands-in-europe-undercutting-vws-smallest-evs.html</guid>
-      <pubDate>Fri, 17 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Autogef&#252;hl</dc:creator>
-      <category>Reviews</category>
-      <description>Just under 36,000 euros for a 4.65 metre crossover with around 450 km of claimed range, ventilated seats and Google Maps built in. Autogef&#252;hl thinks the price is most of the argument.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
