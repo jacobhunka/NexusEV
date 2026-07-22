@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Michael Dunne Says China's Lead Was Bought Thirty Years Ago</title>
+      <link>https://nexusevnews.com/articles/michael-dunne-says-chinas-lead-was-bought-thirty-years-ago.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/michael-dunne-says-chinas-lead-was-bought-thirty-years-ago.html</guid>
+      <pubDate>Wed, 22 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric TECH</dc:creator>
+      <category>Deep Dives</category>
+      <description>Michael Dunne tells the Everything Electric podcast that China's car industry lead was bought over thirty years in materials, state credit and cheap land, not won in the last five.</description>
+    </item>
+    <item>
+      <title>He Bought an Inverter to Make His Twizy Faster. It Already Had One.</title>
+      <link>https://nexusevnews.com/articles/he-bought-an-inverter-to-make-his-twizy-faster-it-already-had-one.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/he-bought-an-inverter-to-make-his-twizy-faster-it-already-had-one.html</guid>
+      <pubDate>Wed, 22 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Reviews</category>
+      <description>Out of Spec Reviews ordered a 450 amp inverter for their Renault Twizy, then found one already fitted. The aftermarket tune still cut 0 to 28 mph from 8.1 seconds to 4.9.</description>
+    </item>
+    <item>
+      <title>Solar Canopies Over Turlock's Canals Make Power and Save Water</title>
+      <link>https://nexusevnews.com/articles/solar-canopies-over-turlocks-canals-make-power-and-save-water.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/solar-canopies-over-turlocks-canals-make-power-and-save-water.html</guid>
+      <pubDate>Wed, 22 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>KPIX | CBS News Bay Area</dc:creator>
+      <category>Solar</category>
+      <description>KPIX visits Hickman, California, where more than 700 panels above a 110 foot irrigation canal produce about 800 kilowatts while cutting evaporation. UC Merced is still checking the economics.</description>
+    </item>
+    <item>
+      <title>The BMW iX3 50 xDrive Covered 238 km on a 15 Minute Charge</title>
+      <link>https://nexusevnews.com/articles/bmw-ix3-50-xdrive-covered-238-km-on-a-15-minute-charge.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-50-xdrive-covered-238-km-on-a-15-minute-charge.html</guid>
+      <pubDate>Wed, 22 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Roaming</dc:creator>
+      <category>Charging</category>
+      <description>Fifteen minutes took the BMW iX3 50 xDrive from 10 to 65 percent, peaking at 401 kW. It then covered 238 km at 120 km/h at 24.2 kWh per 100 km before returning to 10 percent.</description>
+    </item>
+    <item>
+      <title>XPENG Let European Media Test Its Urban Self-Driving in Munich</title>
+      <link>https://nexusevnews.com/articles/xpeng-let-european-media-test-its-urban-self-driving-in-munich.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/xpeng-let-european-media-test-its-urban-self-driving-in-munich.html</guid>
+      <pubDate>Wed, 22 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>XPENG</dc:creator>
+      <category>News</category>
+      <description>XPENG's own footage shows journalists riding hands off through Munich traffic in its VLA 2.0 NGP system. Forbes reports European regulatory approval is unlikely before 2027.</description>
+    </item>
     <item>
       <title>Renault's 5 Turbo 3E Is a 555hp Electric Throwback</title>
       <link>https://nexusevnews.com/articles/renault-5-turbo-3e-is-a-555hp-electric-throwback.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Behind the Business</dc:creator>
       <category>Deep Dives</category>
       <description>RJ Scaringe on the R2 volume play, an in-house AI inference chip, a $5.8B Volkswagen software deal, robotics, and why he thinks self-driving matters more than electrification.</description>
-    </item>
-    <item>
-      <title>The $8,000 Solarky sunV Is a Solar EV Built for Hot Cities</title>
-      <link>https://nexusevnews.com/articles/the-8000-solarky-sunv-is-a-solar-ev-built-for-hot-cities.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-8000-solarky-sunv-is-a-solar-ev-built-for-hot-cities.html</guid>
-      <pubDate>Sun, 19 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Everything Electric APAC</dc:creator>
-      <category>Solar</category>
-      <description>Everything Electric APAC drives a light 660 kg solar EV with an extending roof panel around Bangkok. Tiny battery, big idea for short trips in a hot climate.</description>
-    </item>
-    <item>
-      <title>The Rivian R2 Can Melt Older Charging Adapters</title>
-      <link>https://nexusevnews.com/articles/the-rivian-r2-can-melt-older-charging-adapters.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-rivian-r2-can-melt-older-charging-adapters.html</guid>
-      <pubDate>Sun, 19 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>State of Charge</dc:creator>
-      <category>Charging</category>
-      <description>State of Charge had a pin melt on an older Tesla-branded adapter while fast charging an R2 at over 600 amps, and explains what to buy instead.</description>
-    </item>
-    <item>
-      <title>BMW iX3 Hits 400 kW on a V4 Supercharger, but Runs Hot</title>
-      <link>https://nexusevnews.com/articles/bmw-ix3-hits-400-kw-on-a-v4-supercharger-but-runs-hot.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-hits-400-kw-on-a-v4-supercharger-but-runs-hot.html</guid>
-      <pubDate>Sun, 19 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Roaming</dc:creator>
-      <category>Charging</category>
-      <description>Out of Spec Roaming charges the 800V iX3 on a 1,000V-capable Tesla V4 Supercharger in Norway, hits 400 kW, and logs a battery that touches 59C.</description>
-    </item>
-    <item>
-      <title>Toyota bZ vs bZ4X: Cheaper, and a Lot Better</title>
-      <link>https://nexusevnews.com/articles/toyota-bz-vs-bz4x-cheaper-and-a-lot-better.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/toyota-bz-vs-bz4x-cheaper-and-a-lot-better.html</guid>
-      <pubDate>Sun, 19 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Ever</dc:creator>
-      <category>Reviews</category>
-      <description>Ever compares the outgoing bZ4X with the 2026 bZ: more range, faster charging, a native NACS port, and a lower starting price.</description>
-    </item>
-    <item>
-      <title>Out of Spec Gets the First US Cayenne EV and Heads for the Dirt</title>
-      <link>https://nexusevnews.com/articles/out-of-spec-gets-the-first-us-cayenne-ev-and-heads-for-the-dirt.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/out-of-spec-gets-the-first-us-cayenne-ev-and-heads-for-the-dirt.html</guid>
-      <pubDate>Sat, 18 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Reviews</category>
-      <description>The base Cayenne Electric was flown in from Germany. Out of Spec launches it, takes it off road, and lands near $122,000 with a smaller battery than several rivals and no lane centering on early US cars.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
