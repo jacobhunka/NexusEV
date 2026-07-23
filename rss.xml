@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>The New Lexus ES Is Quick, Quiet, and Quick to Scold You</title>
+      <link>https://nexusevnews.com/articles/the-new-lexus-es-is-quick-quiet-and-quick-to-scold-you.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-new-lexus-es-is-quick-quiet-and-quick-to-scold-you.html</guid>
+      <pubDate>Thu, 23 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Throttle House</dc:creator>
+      <category>Reviews</category>
+      <description>Throttle House takes the electric ES on a road trip. It is quiet, well calibrated and 340 hp, and it reported 47 driving incidents along the way.</description>
+    </item>
+    <item>
+      <title>Rivian Engineers Explain What the R2 Battery Pack Holds Up</title>
+      <link>https://nexusevnews.com/articles/rivian-engineers-explain-what-the-r2-battery-pack-holds-up.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-engineers-explain-what-the-r2-battery-pack-holds-up.html</guid>
+      <pubDate>Thu, 23 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Munro Live</dc:creator>
+      <category>Battery Tech</category>
+      <description>The R2 pack is the cabin floor, the seat mount and part of the crash structure. Rivian's engineers walk Munro Live through what that bought and what it cost.</description>
+    </item>
+    <item>
+      <title>Swift Solar's CEO Has a Test for Whether New Tech Is Real</title>
+      <link>https://nexusevnews.com/articles/swift-solars-ceo-has-a-test-for-whether-new-tech-is-real.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/swift-solars-ceo-has-a-test-for-whether-new-tech-is-real.html</guid>
+      <pubDate>Thu, 23 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Still TBD Podcast</dc:creator>
+      <category>Solar</category>
+      <description>Joel Jean counts tooth fairies: one magic step is solvable, three means wait. He uses it to explain why perovskite tandems are close and still years out.</description>
+    </item>
+    <item>
+      <title>Ferrari Explains Why Its Electric Car Still Has Paddle Shifters</title>
+      <link>https://nexusevnews.com/articles/ferrari-explains-why-its-electric-car-still-has-paddle-shifters.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-explains-why-its-electric-car-still-has-paddle-shifters.html</guid>
+      <pubDate>Thu, 23 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Ferrari</dc:creator>
+      <category>News</category>
+      <description>There is no gearbox in an EV, so Ferrari built paddles that shift torque instead. Its fifth Luce film explains the reasoning, including where the sound comes from.</description>
+    </item>
+    <item>
+      <title>ABC Reports From a Country Where the EV Argument Is Over</title>
+      <link>https://nexusevnews.com/articles/abc-reports-from-a-country-where-the-ev-argument-is-over.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/abc-reports-from-a-country-where-the-ev-argument-is-over.html</guid>
+      <pubDate>Thu, 23 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>ABC News In-depth</dc:creator>
+      <category>Deep Dives</category>
+      <description>Foreign Correspondent returns to Beijing after five years. Half of new cars sold are electric, a NIO plant builds one a minute, and a battery swap takes four minutes.</description>
+    </item>
     <item>
       <title>Michael Dunne Says China's Lead Was Bought Thirty Years Ago</title>
       <link>https://nexusevnews.com/articles/michael-dunne-says-chinas-lead-was-bought-thirty-years-ago.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Kim Java</dc:creator>
       <category>Deep Dives</category>
       <description>Kim Java, CleanTechnica's Larry Evans, and Rich Rebuilds on why the US market keeps shutting out the affordable Chinese EVs the rest of the world already buys.</description>
-    </item>
-    <item>
-      <title>The Geely EX2 Won a Skeptic Over</title>
-      <link>https://nexusevnews.com/articles/the-geely-ex2-won-a-skeptic-over.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-geely-ex2-won-a-skeptic-over.html</guid>
-      <pubDate>Mon, 20 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>Reviews</category>
-      <description>Electrifying's Nicola Hume reviews the Geely EX2, a cheap Chinese city EV headed to Europe with 214 miles of range and an 8-year, 125,000-mile warranty.</description>
-    </item>
-    <item>
-      <title>VW's ID Cross Goes After the Cheap Electric SUV</title>
-      <link>https://nexusevnews.com/articles/vws-id-cross-goes-after-the-cheap-electric-suv.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/vws-id-cross-goes-after-the-cheap-electric-suv.html</guid>
-      <pubDate>Mon, 20 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Autogefühl</dc:creator>
-      <category>Reviews</category>
-      <description>Autogefühl's Thomas details the production VW ID Cross: a 4.15m electric SUV, over 400km WLTP, a 475-litre boot, real buttons, and pricing from about 28,000 euros.</description>
-    </item>
-    <item>
-      <title>The Audi RS e-tron GT Is Now a Used Bargain</title>
-      <link>https://nexusevnews.com/articles/the-audi-rs-e-tron-gt-is-now-a-used-bargain.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-audi-rs-e-tron-gt-is-now-a-used-bargain.html</guid>
-      <pubDate>Mon, 20 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Gjeebs</dc:creator>
-      <category>Used EVs</category>
-      <description>Gjeebs on the depreciated Audi RS e-tron GT: near $147,000 new, now roughly $100,000 less used, with an 8-year battery warranty and the quirks of a used German GT.</description>
-    </item>
-    <item>
-      <title>GM Dealers Are Discounting Electric Trucks Hard</title>
-      <link>https://nexusevnews.com/articles/gm-dealers-are-discounting-electric-trucks-hard.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/gm-dealers-are-discounting-electric-trucks-hard.html</guid>
-      <pubDate>Mon, 20 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>The Electric Viking</dc:creator>
-      <category>News</category>
-      <description>The Electric Viking on GM's slow-selling electric pickups: Silverado EV sales down 32.5 percent and dealer discounts up to $21,400, bringing entry pricing near $53,950.</description>
-    </item>
-    <item>
-      <title>Rivian's Founder Lays Out the Bet Beyond Building Cars</title>
-      <link>https://nexusevnews.com/articles/rivian-founder-lays-out-the-bet-beyond-building-cars.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-founder-lays-out-the-bet-beyond-building-cars.html</guid>
-      <pubDate>Sun, 19 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Behind the Business</dc:creator>
-      <category>Deep Dives</category>
-      <description>RJ Scaringe on the R2 volume play, an in-house AI inference chip, a $5.8B Volkswagen software deal, robotics, and why he thinks self-driving matters more than electrification.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
