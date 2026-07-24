@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Seven Years On, the Kia e-Niro Still Does the Numbers That Matter</title>
+      <link>https://nexusevnews.com/articles/seven-years-on-the-kia-e-niro-still-does-the-numbers-that-matter.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/seven-years-on-the-kia-e-niro-still-does-the-numbers-that-matter.html</guid>
+      <pubDate>Fri, 24 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>Used EVs</category>
+      <description>Electrifying makes the case for the 64 kWh first-generation e-Niro: over 250 real world miles, a strong battery health record, and a price that reflects how it looks.</description>
+    </item>
+    <item>
+      <title>The EU Wants 46 Percent of Its Energy to Be Electric by 2040</title>
+      <link>https://nexusevnews.com/articles/the-eu-wants-46-percent-of-its-energy-to-be-electric-by-2040.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-eu-wants-46-percent-of-its-energy-to-be-electric-by-2040.html</guid>
+      <pubDate>Fri, 24 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>TLDR News EU</dc:creator>
+      <category>News</category>
+      <description>The Commission's electrification action plan doubles the target and leaves it non binding. TLDR News EU walks through the investment plan, then the arithmetic that makes it unlikely.</description>
+    </item>
+    <item>
+      <title>Tesla Brings v14 Lite to Hardware 3, and Out of Spec Put It Through Raleigh</title>
+      <link>https://nexusevnews.com/articles/tesla-brings-v14-lite-to-hardware-3-and-out-of-spec-put-it-through-raleigh.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-brings-v14-lite-to-hardware-3-and-out-of-spec-put-it-through-raleigh.html</guid>
+      <pubDate>Fri, 24 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Reviews</category>
+      <description>A 2019 Model 3 with 170,000 miles gains reversing, parking and the v14 driving character. The channel says the confidence is transformed and the phantom braking is not.</description>
+    </item>
+    <item>
+      <title>What 2,000 Miles in a Model Y Actually Costs: $221 and 15 Charging Stops</title>
+      <link>https://nexusevnews.com/articles/what-2000-miles-in-a-model-y-actually-costs-221-dollars-and-15-stops.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/what-2000-miles-in-a-model-y-actually-costs-221-dollars-and-15-stops.html</guid>
+      <pubDate>Fri, 24 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Gjeebs</dc:creator>
+      <category>Charging</category>
+      <description>Gjeebs drove Arizona to Pennsylvania with two toddlers and logged every stop. 284 watt hours per mile, 6 hours 40 minutes plugged in, and one reason he left the Rivian at home.</description>
+    </item>
+    <item>
+      <title>Honda's &#163;18,999 Super N Is Light, Efficient, and Short on Range</title>
+      <link>https://nexusevnews.com/articles/hondas-18999-super-n-is-light-efficient-and-short-on-range.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/hondas-18999-super-n-is-light-efficient-and-short-on-range.html</guid>
+      <pubDate>Fri, 24 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Everything Electric CARS</dc:creator>
+      <category>Reviews</category>
+      <description>Everything Electric CARS reports 5 miles per kilowatt hour on the motorway and around 200 kg less than a Renault Twingo. Claimed range is 128 miles, and that is the whole debate.</description>
+    </item>
     <item>
       <title>The New Lexus ES Is Quick, Quiet, and Quick to Scold You</title>
       <link>https://nexusevnews.com/articles/the-new-lexus-es-is-quick-quiet-and-quick-to-scold-you.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Autotrader</dc:creator>
       <category>Reviews</category>
       <description>Autotrader rides shotgun in the Renault 5 Turbo 3E at Goodwood, a 555hp twin-hub-motor EV that revives the 1980 rally car as a limited run of 1,980.</description>
-    </item>
-    <item>
-      <title>China Built an Electric Society, Not Just an EV Industry</title>
-      <link>https://nexusevnews.com/articles/china-built-an-electric-society-not-just-an-ev-industry.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/china-built-an-electric-society-not-just-an-ev-industry.html</guid>
-      <pubDate>Tue, 21 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>ABC News (Australia)</dc:creator>
-      <category>Deep Dives</category>
-      <description>ABC correspondent Allison Horn reports from Beijing on battery swaps in minutes, the world's largest charging network, and a plan China set back in 2001.</description>
-    </item>
-    <item>
-      <title>Jay Leno Slides the Polestar 4 Arctic Circle</title>
-      <link>https://nexusevnews.com/articles/jay-leno-slides-the-polestar-4-arctic-circle.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/jay-leno-slides-the-polestar-4-arctic-circle.html</guid>
-      <pubDate>Tue, 21 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Jay Leno's Garage</dc:creator>
-      <category>Reviews</category>
-      <description>Jay Leno drives the 544hp Polestar 4 Arctic Circle, a rally build with raised suspension, Brembo brakes, and a hydraulic handbrake made for sliding.</description>
-    </item>
-    <item>
-      <title>German Startups Want Farmers to Harvest Crops and Sunlight</title>
-      <link>https://nexusevnews.com/articles/german-startups-want-farmers-to-harvest-crops-and-sunlight.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/german-startups-want-farmers-to-harvest-crops-and-sunlight.html</guid>
-      <pubDate>Tue, 21 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>euronews</dc:creator>
-      <category>Solar</category>
-      <description>euronews reports on Agri-PV in Bavaria, where solar panels sit over farmland so growers can harvest crops and electricity from the same field.</description>
-    </item>
-    <item>
-      <title>China's Robotaxis Are Betting on the Same EV Playbook</title>
-      <link>https://nexusevnews.com/articles/chinas-robotaxis-are-betting-on-the-same-ev-playbook.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/chinas-robotaxis-are-betting-on-the-same-ev-playbook.html</guid>
-      <pubDate>Tue, 21 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>BBC News</dc:creator>
-      <category>News</category>
-      <description>BBC News rides a driverless robotaxi in Beijing and reports how China's cheap EV supply chain is making lidar affordable enough to push autonomous driving.</description>
-    </item>
-    <item>
-      <title>The Chinese EV Talk the US Keeps Avoiding</title>
-      <link>https://nexusevnews.com/articles/the-chinese-ev-talk-the-us-keeps-avoiding.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-chinese-ev-talk-the-us-keeps-avoiding.html</guid>
-      <pubDate>Mon, 20 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Kim Java</dc:creator>
-      <category>Deep Dives</category>
-      <description>Kim Java, CleanTechnica's Larry Evans, and Rich Rebuilds on why the US market keeps shutting out the affordable Chinese EVs the rest of the world already buys.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
