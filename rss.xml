@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>How Rivian Took Cost Out of the R2 Without Making It Feel Cheaper</title>
+      <link>https://nexusevnews.com/articles/how-rivian-took-cost-out-of-the-r2-without-making-it-feel-cheaper.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/how-rivian-took-cost-out-of-the-r2-without-making-it-feel-cheaper.html</guid>
+      <pubDate>Sat, 25 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Munro Live</dc:creator>
+      <category>Deep Dives</category>
+      <description>Rivian's chief design officer walks Munro Live through the R2 and calls the whole car an exercise in removing cost where buyers will never notice.</description>
+    </item>
+    <item>
+      <title>McMurtry's Sp&#233;irling PURE Reaches Production Form, Wider and Easier to Own</title>
+      <link>https://nexusevnews.com/articles/mcmurtry-speirling-pure-reaches-production-form-wider-and-easier-to-own.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/mcmurtry-speirling-pure-reaches-production-form-wider-and-easier-to-own.html</guid>
+      <pubDate>Sat, 25 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>McMurtry Automotive</dc:creator>
+      <category>Reviews</category>
+      <description>The first pre-production Sp&#233;irling PURE is wider, mostly tyre, and built to run without a Formula 1 support crew. Max Chilton gets his first look.</description>
+    </item>
+    <item>
+      <title>IONNA Is Converting Circle K's Charging Sites to 400 kW in Four Days</title>
+      <link>https://nexusevnews.com/articles/ionna-is-converting-circle-k-charging-sites-to-400-kw-in-four-days.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ionna-is-converting-circle-k-charging-sites-to-400-kw-in-four-days.html</guid>
+      <pubDate>Sat, 25 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Charging</category>
+      <description>IONNA CEO Seth Cutler tells Out of Spec Reviews the Circle K deal is landing months early, because the old sites were built with electrical headroom to spare.</description>
+    </item>
+    <item>
+      <title>Should You Wait for the LiDAR R2? One Owner Says the Chip Matters More</title>
+      <link>https://nexusevnews.com/articles/should-you-wait-for-the-lidar-r2-the-chip-matters-more-than-the-sensor.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/should-you-wait-for-the-lidar-r2-the-chip-matters-more-than-the-sensor.html</guid>
+      <pubDate>Sat, 25 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Tailosive EV</dc:creator>
+      <category>Deep Dives</category>
+      <description>On Tailosive EV, the host argues R2 buyers weighing the LiDAR version should care more about Rivian's custom silicon than the sensor, and lines it up with the cheaper trim.</description>
+    </item>
+    <item>
+      <title>The Anker SOLIX E10 Pitch: Start Small, Add Batteries, Scale Later</title>
+      <link>https://nexusevnews.com/articles/the-anker-solix-e10-pitch-start-small-add-batteries-scale-later.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-anker-solix-e10-pitch-start-small-add-batteries-scale-later.html</guid>
+      <pubDate>Sat, 25 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Everyday Chris</dc:creator>
+      <category>Solar</category>
+      <description>In a sponsored video, Everyday Chris explains the Anker SOLIX E10, a modular home battery that scales from 6 to 90 kWh. The figures are the manufacturer's.</description>
+    </item>
     <item>
       <title>Seven Years On, the Kia e-Niro Still Does the Numbers That Matter</title>
       <link>https://nexusevnews.com/articles/seven-years-on-the-kia-e-niro-still-does-the-numbers-that-matter.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Everything Electric TECH</dc:creator>
       <category>Deep Dives</category>
       <description>Michael Dunne tells the Everything Electric podcast that China's car industry lead was bought over thirty years in materials, state credit and cheap land, not won in the last five.</description>
-    </item>
-    <item>
-      <title>He Bought an Inverter to Make His Twizy Faster. It Already Had One.</title>
-      <link>https://nexusevnews.com/articles/he-bought-an-inverter-to-make-his-twizy-faster-it-already-had-one.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/he-bought-an-inverter-to-make-his-twizy-faster-it-already-had-one.html</guid>
-      <pubDate>Wed, 22 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Reviews</category>
-      <description>Out of Spec Reviews ordered a 450 amp inverter for their Renault Twizy, then found one already fitted. The aftermarket tune still cut 0 to 28 mph from 8.1 seconds to 4.9.</description>
-    </item>
-    <item>
-      <title>Solar Canopies Over Turlock's Canals Make Power and Save Water</title>
-      <link>https://nexusevnews.com/articles/solar-canopies-over-turlocks-canals-make-power-and-save-water.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/solar-canopies-over-turlocks-canals-make-power-and-save-water.html</guid>
-      <pubDate>Wed, 22 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>KPIX | CBS News Bay Area</dc:creator>
-      <category>Solar</category>
-      <description>KPIX visits Hickman, California, where more than 700 panels above a 110 foot irrigation canal produce about 800 kilowatts while cutting evaporation. UC Merced is still checking the economics.</description>
-    </item>
-    <item>
-      <title>The BMW iX3 50 xDrive Covered 238 km on a 15 Minute Charge</title>
-      <link>https://nexusevnews.com/articles/bmw-ix3-50-xdrive-covered-238-km-on-a-15-minute-charge.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/bmw-ix3-50-xdrive-covered-238-km-on-a-15-minute-charge.html</guid>
-      <pubDate>Wed, 22 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Roaming</dc:creator>
-      <category>Charging</category>
-      <description>Fifteen minutes took the BMW iX3 50 xDrive from 10 to 65 percent, peaking at 401 kW. It then covered 238 km at 120 km/h at 24.2 kWh per 100 km before returning to 10 percent.</description>
-    </item>
-    <item>
-      <title>XPENG Let European Media Test Its Urban Self-Driving in Munich</title>
-      <link>https://nexusevnews.com/articles/xpeng-let-european-media-test-its-urban-self-driving-in-munich.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/xpeng-let-european-media-test-its-urban-self-driving-in-munich.html</guid>
-      <pubDate>Wed, 22 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>XPENG</dc:creator>
-      <category>News</category>
-      <description>XPENG's own footage shows journalists riding hands off through Munich traffic in its VLA 2.0 NGP system. Forbes reports European regulatory approval is unlikely before 2027.</description>
-    </item>
-    <item>
-      <title>Renault's 5 Turbo 3E Is a 555hp Electric Throwback</title>
-      <link>https://nexusevnews.com/articles/renault-5-turbo-3e-is-a-555hp-electric-throwback.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/renault-5-turbo-3e-is-a-555hp-electric-throwback.html</guid>
-      <pubDate>Tue, 21 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Autotrader</dc:creator>
-      <category>Reviews</category>
-      <description>Autotrader rides shotgun in the Renault 5 Turbo 3E at Goodwood, a 555hp twin-hub-motor EV that revives the 1980 rally car as a limited run of 1,980.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
