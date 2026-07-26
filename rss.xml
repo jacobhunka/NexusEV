@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Electric Cayenne Beats a Purosangue and an Urus, Then Out-Brakes Both</title>
+      <link>https://nexusevnews.com/articles/electric-cayenne-beats-purosangue-and-urus-then-out-brakes-both.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/electric-cayenne-beats-purosangue-and-urus-then-out-brakes-both.html</guid>
+      <pubDate>Sun, 26 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>carwow</dc:creator>
+      <category>Reviews</category>
+      <description>carwow lined up a Porsche Cayenne Turbo EV against a Ferrari Purosangue and a Lamborghini Urus Performante. The Porsche took the quarter mile in 10 seconds, then out-braked both by half a tonne.</description>
+    </item>
+    <item>
+      <title>The Cupra Raval Is Fun. The Motorway Range Is the Catch.</title>
+      <link>https://nexusevnews.com/articles/the-cupra-raval-is-fun-the-motorway-range-is-the-catch.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-cupra-raval-is-fun-the-motorway-range-is-the-catch.html</guid>
+      <pubDate>Sun, 26 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Autogefühl</dc:creator>
+      <category>Reviews</category>
+      <description>Autogefühl ran the new Cupra Raval, mechanical twin of the VW ID. Polo, through motorway efficiency tests. About 280 km at 130 km/h, and a chassis good enough to make you forgive it.</description>
+    </item>
+    <item>
+      <title>The Ioniq 6 N's Real Nürburgring Trick Is Charging, Not Lap Time</title>
+      <link>https://nexusevnews.com/articles/the-ioniq-6-ns-real-nurburgring-trick-is-charging-not-lap-time.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-ioniq-6-ns-real-nurburgring-trick-is-charging-not-lap-time.html</guid>
+      <pubDate>Sun, 26 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Misha Charoudin</dc:creator>
+      <category>Reviews</category>
+      <description>Misha Charoudin timed the charge, not the lap. The Ioniq 6 N came in at 22 percent after two laps of the Nordschleife and read 81 percent 21 minutes later.</description>
+    </item>
+    <item>
+      <title>Stand After Stand at Intersolar 2026 Sold the Same Stackable Battery</title>
+      <link>https://nexusevnews.com/articles/stand-after-stand-at-intersolar-2026-sold-the-same-stackable-battery.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/stand-after-stand-at-intersolar-2026-sold-the-same-stackable-battery.html</guid>
+      <pubDate>Sun, 26 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>UpsideDownFork</dc:creator>
+      <category>Solar</category>
+      <description>UpsideDownFork walked the stands nobody makes a dedicated video about. Nearly all of them were selling the same thing: stackable plug-in solar storage you expand later.</description>
+    </item>
+    <item>
+      <title>The Rivian R2 Charges Far Better Than It Drives, and 92.8 Miles Proves It</title>
+      <link>https://nexusevnews.com/articles/the-rivian-r2-charges-far-better-than-it-drives-92-8-miles-proves-it.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-rivian-r2-charges-far-better-than-it-drives-92-8-miles-proves-it.html</guid>
+      <pubDate>Sun, 26 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Charging</category>
+      <description>Out of Spec charged an R2 for 15 minutes and drove it at 80 mph until empty. Excellent charging, 2.2 miles per kWh, and 92.8 miles on the board.</description>
+    </item>
     <item>
       <title>How Rivian Took Cost Out of the R2 Without Making It Feel Cheaper</title>
       <link>https://nexusevnews.com/articles/how-rivian-took-cost-out-of-the-r2-without-making-it-feel-cheaper.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Throttle House</dc:creator>
       <category>Reviews</category>
       <description>Throttle House takes the electric ES on a road trip. It is quiet, well calibrated and 340 hp, and it reported 47 driving incidents along the way.</description>
-    </item>
-    <item>
-      <title>Rivian Engineers Explain What the R2 Battery Pack Holds Up</title>
-      <link>https://nexusevnews.com/articles/rivian-engineers-explain-what-the-r2-battery-pack-holds-up.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-engineers-explain-what-the-r2-battery-pack-holds-up.html</guid>
-      <pubDate>Thu, 23 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Munro Live</dc:creator>
-      <category>Battery Tech</category>
-      <description>The R2 pack is the cabin floor, the seat mount and part of the crash structure. Rivian's engineers walk Munro Live through what that bought and what it cost.</description>
-    </item>
-    <item>
-      <title>Swift Solar's CEO Has a Test for Whether New Tech Is Real</title>
-      <link>https://nexusevnews.com/articles/swift-solars-ceo-has-a-test-for-whether-new-tech-is-real.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/swift-solars-ceo-has-a-test-for-whether-new-tech-is-real.html</guid>
-      <pubDate>Thu, 23 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Still TBD Podcast</dc:creator>
-      <category>Solar</category>
-      <description>Joel Jean counts tooth fairies: one magic step is solvable, three means wait. He uses it to explain why perovskite tandems are close and still years out.</description>
-    </item>
-    <item>
-      <title>Ferrari Explains Why Its Electric Car Still Has Paddle Shifters</title>
-      <link>https://nexusevnews.com/articles/ferrari-explains-why-its-electric-car-still-has-paddle-shifters.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ferrari-explains-why-its-electric-car-still-has-paddle-shifters.html</guid>
-      <pubDate>Thu, 23 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Ferrari</dc:creator>
-      <category>News</category>
-      <description>There is no gearbox in an EV, so Ferrari built paddles that shift torque instead. Its fifth Luce film explains the reasoning, including where the sound comes from.</description>
-    </item>
-    <item>
-      <title>ABC Reports From a Country Where the EV Argument Is Over</title>
-      <link>https://nexusevnews.com/articles/abc-reports-from-a-country-where-the-ev-argument-is-over.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/abc-reports-from-a-country-where-the-ev-argument-is-over.html</guid>
-      <pubDate>Thu, 23 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>ABC News In-depth</dc:creator>
-      <category>Deep Dives</category>
-      <description>Foreign Correspondent returns to Beijing after five years. Half of new cars sold are electric, a NIO plant builds one a minute, and a battery swap takes four minutes.</description>
-    </item>
-    <item>
-      <title>Michael Dunne Says China's Lead Was Bought Thirty Years Ago</title>
-      <link>https://nexusevnews.com/articles/michael-dunne-says-chinas-lead-was-bought-thirty-years-ago.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/michael-dunne-says-chinas-lead-was-bought-thirty-years-ago.html</guid>
-      <pubDate>Wed, 22 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Everything Electric TECH</dc:creator>
-      <category>Deep Dives</category>
-      <description>Michael Dunne tells the Everything Electric podcast that China's car industry lead was bought over thirty years in materials, state credit and cheap land, not won in the last five.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
