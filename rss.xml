@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>A $4,100 Salvage Lucid Air, and the Auction Prices Behind It</title>
+      <link>https://nexusevnews.com/articles/a-4100-salvage-lucid-air-and-the-auction-prices-behind-it.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/a-4100-salvage-lucid-air-and-the-auction-prices-behind-it.html</guid>
+      <pubDate>Mon, 27 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Rich Rebuilds</dc:creator>
+      <category>Used EVs</category>
+      <description>Rich Rebuilds paid $4,100 for a Lucid Air that will not run, charge or roll. The salvage auction listings he shows before touching it are the real story.</description>
+    </item>
+    <item>
+      <title>The Used Audi Q4 e-tron Badge Maze Is the Hard Part</title>
+      <link>https://nexusevnews.com/articles/the-used-audi-q4-e-tron-badge-maze-is-the-hard-part.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-used-audi-q4-e-tron-badge-maze-is-the-hard-part.html</guid>
+      <pubDate>Mon, 27 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>Used EVs</category>
+      <description>Electrifying says a team member bought a Q4 Sportback under a year old for just over half its new price. Working out which Q4 you are looking at is the hard part.</description>
+    </item>
+    <item>
+      <title>The Subaru Uncharted Is a Toyota Underneath, and Mostly Fine With It</title>
+      <link>https://nexusevnews.com/articles/the-subaru-uncharted-is-a-toyota-underneath-and-mostly-fine-with-it.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-subaru-uncharted-is-a-toyota-underneath-and-mostly-fine-with-it.html</guid>
+      <pubDate>Mon, 27 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Car Question</dc:creator>
+      <category>Reviews</category>
+      <description>Car Question took the Uncharted onto grass and sand to test X-Mode. The all wheel drive version makes 338 hp. The front wheel drive Subaru is the odd part.</description>
+    </item>
+    <item>
+      <title>De Vries Wins a Red Flagged Tokyo Round and Dennis Takes the Lead</title>
+      <link>https://nexusevnews.com/articles/de-vries-wins-a-red-flagged-tokyo-round-and-dennis-takes-the-lead.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/de-vries-wins-a-red-flagged-tokyo-round-and-dennis-takes-the-lead.html</guid>
+      <pubDate>Mon, 27 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Formula E</dc:creator>
+      <category>News</category>
+      <description>A wet to dry Tokyo round ended behind a red flag with two laps left. Nyck de Vries won it, and Jake Dennis leaves Japan with the championship lead.</description>
+    </item>
+    <item>
+      <title>Out of Spec Put the R2 and Model Y Side by Side at Four Speeds</title>
+      <link>https://nexusevnews.com/articles/out-of-spec-put-the-r2-and-model-y-side-by-side-at-four-speeds.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/out-of-spec-put-the-r2-and-model-y-side-by-side-at-four-speeds.html</guid>
+      <pubDate>Mon, 27 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Deep Dives</category>
+      <description>Out of Spec ran both cars at 50, 60, 70 and 80 mph plus a city loop on the same day. The R2 used roughly 18 to 26 percent more energy in every test.</description>
+    </item>
     <item>
       <title>Electric Cayenne Beats a Purosangue and an Urus, Then Out-Brakes Both</title>
       <link>https://nexusevnews.com/articles/electric-cayenne-beats-purosangue-and-urus-then-out-brakes-both.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Electrifying</dc:creator>
       <category>Used EVs</category>
       <description>Electrifying makes the case for the 64 kWh first-generation e-Niro: over 250 real world miles, a strong battery health record, and a price that reflects how it looks.</description>
-    </item>
-    <item>
-      <title>The EU Wants 46 Percent of Its Energy to Be Electric by 2040</title>
-      <link>https://nexusevnews.com/articles/the-eu-wants-46-percent-of-its-energy-to-be-electric-by-2040.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-eu-wants-46-percent-of-its-energy-to-be-electric-by-2040.html</guid>
-      <pubDate>Fri, 24 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>TLDR News EU</dc:creator>
-      <category>News</category>
-      <description>The Commission's electrification action plan doubles the target and leaves it non binding. TLDR News EU walks through the investment plan, then the arithmetic that makes it unlikely.</description>
-    </item>
-    <item>
-      <title>Tesla Brings v14 Lite to Hardware 3, and Out of Spec Put It Through Raleigh</title>
-      <link>https://nexusevnews.com/articles/tesla-brings-v14-lite-to-hardware-3-and-out-of-spec-put-it-through-raleigh.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/tesla-brings-v14-lite-to-hardware-3-and-out-of-spec-put-it-through-raleigh.html</guid>
-      <pubDate>Fri, 24 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Reviews</category>
-      <description>A 2019 Model 3 with 170,000 miles gains reversing, parking and the v14 driving character. The channel says the confidence is transformed and the phantom braking is not.</description>
-    </item>
-    <item>
-      <title>What 2,000 Miles in a Model Y Actually Costs: $221 and 15 Charging Stops</title>
-      <link>https://nexusevnews.com/articles/what-2000-miles-in-a-model-y-actually-costs-221-dollars-and-15-stops.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/what-2000-miles-in-a-model-y-actually-costs-221-dollars-and-15-stops.html</guid>
-      <pubDate>Fri, 24 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Gjeebs</dc:creator>
-      <category>Charging</category>
-      <description>Gjeebs drove Arizona to Pennsylvania with two toddlers and logged every stop. 284 watt hours per mile, 6 hours 40 minutes plugged in, and one reason he left the Rivian at home.</description>
-    </item>
-    <item>
-      <title>Honda's &#163;18,999 Super N Is Light, Efficient, and Short on Range</title>
-      <link>https://nexusevnews.com/articles/hondas-18999-super-n-is-light-efficient-and-short-on-range.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/hondas-18999-super-n-is-light-efficient-and-short-on-range.html</guid>
-      <pubDate>Fri, 24 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Everything Electric CARS</dc:creator>
-      <category>Reviews</category>
-      <description>Everything Electric CARS reports 5 miles per kilowatt hour on the motorway and around 200 kg less than a Renault Twingo. Claimed range is 128 miles, and that is the whole debate.</description>
-    </item>
-    <item>
-      <title>The New Lexus ES Is Quick, Quiet, and Quick to Scold You</title>
-      <link>https://nexusevnews.com/articles/the-new-lexus-es-is-quick-quiet-and-quick-to-scold-you.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-new-lexus-es-is-quick-quiet-and-quick-to-scold-you.html</guid>
-      <pubDate>Thu, 23 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Throttle House</dc:creator>
-      <category>Reviews</category>
-      <description>Throttle House takes the electric ES on a road trip. It is quiet, well calibrated and 340 hp, and it reported 47 driving incidents along the way.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
