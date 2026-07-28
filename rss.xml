@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Janus Swaps Truck Batteries in Four Minutes Instead of Charging Them</title>
+      <link>https://nexusevnews.com/articles/janus-swaps-truck-batteries-in-four-minutes-instead-of-charging-them.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/janus-swaps-truck-batteries-in-four-minutes-instead-of-charging-them.html</guid>
+      <pubDate>Tue, 28 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Engineering with Rosie</dc:creator>
+      <category>Deep Dives</category>
+      <description>Engineering with Rosie visited Janus Electric&#x27;s Gosford plant, where diesel prime movers are converted in about six days and drivers swap their own packs in four minutes.</description>
+    </item>
+    <item>
+      <title>The Electric C-Class Gives Up Very Little Range at 120 km/h</title>
+      <link>https://nexusevnews.com/articles/the-electric-c-class-gives-up-very-little-range-at-120-km-h.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-electric-c-class-gives-up-very-little-range-at-120-km-h.html</guid>
+      <pubDate>Tue, 28 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Autogefühl</dc:creator>
+      <category>Reviews</category>
+      <description>Autogefühl measured 15 kWh per 100 km at 100 km/h and only 16.5 at 120 km/h, helped by a two speed gearbox and air suspension that lowers the car.</description>
+    </item>
+    <item>
+      <title>What Actually Burned in This DIY Home EV Charger Install</title>
+      <link>https://nexusevnews.com/articles/what-actually-burned-in-this-diy-home-ev-charger-install.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/what-actually-burned-in-this-diy-home-ev-charger-install.html</guid>
+      <pubDate>Tue, 28 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>State of Charge</dc:creator>
+      <category>Charging</category>
+      <description>A homeowner on Bainbridge Island wired his own charger into an existing 80 amp circuit. State of Charge brought an electrician in to find out why the junction box caught fire.</description>
+    </item>
+    <item>
+      <title>Andy Palmer on What Ford Actually Gets From the Geely Deal</title>
+      <link>https://nexusevnews.com/articles/andy-palmer-on-what-ford-actually-gets-from-the-geely-deal.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/andy-palmer-on-what-ford-actually-gets-from-the-geely-deal.html</guid>
+      <pubDate>Tue, 28 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>News</category>
+      <description>Electrifying asked former Nissan COO Andy Palmer to unpick Ford&#x27;s new tie-up with Geely, including why cross badging is fast, cheap and rarely profitable.</description>
+    </item>
+    <item>
+      <title>The Ioniq 5 XRT Is Quick at Rallycross Until the Battery Drops Below 40 Percent</title>
+      <link>https://nexusevnews.com/articles/the-ioniq-5-xrt-is-quick-at-rallycross-until-the-battery-drops-below-40-percent.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-ioniq-5-xrt-is-quick-at-rallycross-until-the-battery-drops-below-40-percent.html</guid>
+      <pubDate>Tue, 28 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>TheTopher</dc:creator>
+      <category>Reviews</category>
+      <description>TheTopher ran a stock XRT at an SCCA rallycross and posted a best of 61.8 seconds. Power tapered noticeably once the pack dropped under 40 percent.</description>
+    </item>
     <item>
       <title>A $4,100 Salvage Lucid Air, and the Auction Prices Behind It</title>
       <link>https://nexusevnews.com/articles/a-4100-salvage-lucid-air-and-the-auction-prices-behind-it.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Munro Live</dc:creator>
       <category>Deep Dives</category>
       <description>Rivian's chief design officer walks Munro Live through the R2 and calls the whole car an exercise in removing cost where buyers will never notice.</description>
-    </item>
-    <item>
-      <title>McMurtry's Sp&#233;irling PURE Reaches Production Form, Wider and Easier to Own</title>
-      <link>https://nexusevnews.com/articles/mcmurtry-speirling-pure-reaches-production-form-wider-and-easier-to-own.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/mcmurtry-speirling-pure-reaches-production-form-wider-and-easier-to-own.html</guid>
-      <pubDate>Sat, 25 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>McMurtry Automotive</dc:creator>
-      <category>Reviews</category>
-      <description>The first pre-production Sp&#233;irling PURE is wider, mostly tyre, and built to run without a Formula 1 support crew. Max Chilton gets his first look.</description>
-    </item>
-    <item>
-      <title>IONNA Is Converting Circle K's Charging Sites to 400 kW in Four Days</title>
-      <link>https://nexusevnews.com/articles/ionna-is-converting-circle-k-charging-sites-to-400-kw-in-four-days.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ionna-is-converting-circle-k-charging-sites-to-400-kw-in-four-days.html</guid>
-      <pubDate>Sat, 25 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Charging</category>
-      <description>IONNA CEO Seth Cutler tells Out of Spec Reviews the Circle K deal is landing months early, because the old sites were built with electrical headroom to spare.</description>
-    </item>
-    <item>
-      <title>Should You Wait for the LiDAR R2? One Owner Says the Chip Matters More</title>
-      <link>https://nexusevnews.com/articles/should-you-wait-for-the-lidar-r2-the-chip-matters-more-than-the-sensor.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/should-you-wait-for-the-lidar-r2-the-chip-matters-more-than-the-sensor.html</guid>
-      <pubDate>Sat, 25 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Tailosive EV</dc:creator>
-      <category>Deep Dives</category>
-      <description>On Tailosive EV, the host argues R2 buyers weighing the LiDAR version should care more about Rivian's custom silicon than the sensor, and lines it up with the cheaper trim.</description>
-    </item>
-    <item>
-      <title>The Anker SOLIX E10 Pitch: Start Small, Add Batteries, Scale Later</title>
-      <link>https://nexusevnews.com/articles/the-anker-solix-e10-pitch-start-small-add-batteries-scale-later.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-anker-solix-e10-pitch-start-small-add-batteries-scale-later.html</guid>
-      <pubDate>Sat, 25 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Everyday Chris</dc:creator>
-      <category>Solar</category>
-      <description>In a sponsored video, Everyday Chris explains the Anker SOLIX E10, a modular home battery that scales from 6 to 90 kWh. The figures are the manufacturer's.</description>
-    </item>
-    <item>
-      <title>Seven Years On, the Kia e-Niro Still Does the Numbers That Matter</title>
-      <link>https://nexusevnews.com/articles/seven-years-on-the-kia-e-niro-still-does-the-numbers-that-matter.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/seven-years-on-the-kia-e-niro-still-does-the-numbers-that-matter.html</guid>
-      <pubDate>Fri, 24 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>Used EVs</category>
-      <description>Electrifying makes the case for the 64 kWh first-generation e-Niro: over 250 real world miles, a strong battery health record, and a price that reflects how it looks.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
