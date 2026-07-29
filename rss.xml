@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>The Around the World E-Truck Is a Stock eActros 600, on Purpose</title>
+      <link>https://nexusevnews.com/articles/the-around-the-world-e-truck-is-a-stock-eactros-600-on-purpose.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-around-the-world-e-truck-is-a-stock-eactros-600-on-purpose.html</guid>
+      <pubDate>Wed, 29 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Electric Trucker</dc:creator>
+      <category>Deep Dives</category>
+      <description>Electric Trucker picked a production 621 kWh eActros 600 over a modified expedition build, keeping the 4x2 layout and factory air suspension so viewers can order the same truck.</description>
+    </item>
+    <item>
+      <title>The Rivian R2 Tows Better Than Its 4,400 Pound Rating Suggests</title>
+      <link>https://nexusevnews.com/articles/the-rivian-r2-tows-better-than-its-4400-pound-rating-suggests.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-rivian-r2-tows-better-than-its-4400-pound-rating-suggests.html</guid>
+      <pubDate>Wed, 29 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Reviews</category>
+      <description>Out of Spec loaded an R2 Performance to its maximum tow rating and measured an inch of rear squat, with efficiency falling under 1 mile per kWh at 70 mph.</description>
+    </item>
+    <item>
+      <title>What Car? Says the Mazda 6e Is Undone by Its Body Control</title>
+      <link>https://nexusevnews.com/articles/what-car-says-the-mazda-6e-is-undone-by-its-body-control.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/what-car-says-the-mazda-6e-is-undone-by-its-body-control.html</guid>
+      <pubDate>Wed, 29 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>What Car?</dc:creator>
+      <category>Reviews</category>
+      <description>The £39,000 6e wins on cabin quality, frunk space and warranty, but What Car? reports poor body control on undulating roads and rates every direct rival higher to drive.</description>
+    </item>
+    <item>
+      <title>Range Rover's Electric GT Goes Almost Button Free</title>
+      <link>https://nexusevnews.com/articles/range-rovers-electric-gt-goes-almost-button-free.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/range-rovers-electric-gt-goes-almost-button-free.html</guid>
+      <pubDate>Wed, 29 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>News</category>
+      <description>Electrifying saw the interior of the fifth Range Rover model, an electric GT on JLR's EMA platform. The episode also picks apart why EV servicing quotes keep catching owners out.</description>
+    </item>
+    <item>
+      <title>The R2 Went 8 Miles Past Zero Before Turtle Mode Arrived</title>
+      <link>https://nexusevnews.com/articles/the-r2-went-8-miles-past-zero-before-turtle-mode-arrived.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-r2-went-8-miles-past-zero-before-turtle-mode-arrived.html</guid>
+      <pubDate>Wed, 29 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Testing</dc:creator>
+      <category>Battery Technology</category>
+      <description>Out of Spec Testing drove an R2 Performance from 5 percent to a dead stop on a closed track, and reports the reduced power warning arrived with almost no usable range left.</description>
+    </item>
     <item>
       <title>Janus Swaps Truck Batteries in Four Minutes Instead of Charging Them</title>
       <link>https://nexusevnews.com/articles/janus-swaps-truck-batteries-in-four-minutes-instead-of-charging-them.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>carwow</dc:creator>
       <category>Reviews</category>
       <description>carwow lined up a Porsche Cayenne Turbo EV against a Ferrari Purosangue and a Lamborghini Urus Performante. The Porsche took the quarter mile in 10 seconds, then out-braked both by half a tonne.</description>
-    </item>
-    <item>
-      <title>The Cupra Raval Is Fun. The Motorway Range Is the Catch.</title>
-      <link>https://nexusevnews.com/articles/the-cupra-raval-is-fun-the-motorway-range-is-the-catch.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-cupra-raval-is-fun-the-motorway-range-is-the-catch.html</guid>
-      <pubDate>Sun, 26 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Autogefühl</dc:creator>
-      <category>Reviews</category>
-      <description>Autogefühl ran the new Cupra Raval, mechanical twin of the VW ID. Polo, through motorway efficiency tests. About 280 km at 130 km/h, and a chassis good enough to make you forgive it.</description>
-    </item>
-    <item>
-      <title>The Ioniq 6 N's Real Nürburgring Trick Is Charging, Not Lap Time</title>
-      <link>https://nexusevnews.com/articles/the-ioniq-6-ns-real-nurburgring-trick-is-charging-not-lap-time.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-ioniq-6-ns-real-nurburgring-trick-is-charging-not-lap-time.html</guid>
-      <pubDate>Sun, 26 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Misha Charoudin</dc:creator>
-      <category>Reviews</category>
-      <description>Misha Charoudin timed the charge, not the lap. The Ioniq 6 N came in at 22 percent after two laps of the Nordschleife and read 81 percent 21 minutes later.</description>
-    </item>
-    <item>
-      <title>Stand After Stand at Intersolar 2026 Sold the Same Stackable Battery</title>
-      <link>https://nexusevnews.com/articles/stand-after-stand-at-intersolar-2026-sold-the-same-stackable-battery.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/stand-after-stand-at-intersolar-2026-sold-the-same-stackable-battery.html</guid>
-      <pubDate>Sun, 26 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>UpsideDownFork</dc:creator>
-      <category>Solar</category>
-      <description>UpsideDownFork walked the stands nobody makes a dedicated video about. Nearly all of them were selling the same thing: stackable plug-in solar storage you expand later.</description>
-    </item>
-    <item>
-      <title>The Rivian R2 Charges Far Better Than It Drives, and 92.8 Miles Proves It</title>
-      <link>https://nexusevnews.com/articles/the-rivian-r2-charges-far-better-than-it-drives-92-8-miles-proves-it.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-rivian-r2-charges-far-better-than-it-drives-92-8-miles-proves-it.html</guid>
-      <pubDate>Sun, 26 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Charging</category>
-      <description>Out of Spec charged an R2 for 15 minutes and drove it at 80 mph until empty. Excellent charging, 2.2 miles per kWh, and 92.8 miles on the board.</description>
-    </item>
-    <item>
-      <title>How Rivian Took Cost Out of the R2 Without Making It Feel Cheaper</title>
-      <link>https://nexusevnews.com/articles/how-rivian-took-cost-out-of-the-r2-without-making-it-feel-cheaper.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/how-rivian-took-cost-out-of-the-r2-without-making-it-feel-cheaper.html</guid>
-      <pubDate>Sat, 25 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Munro Live</dc:creator>
-      <category>Deep Dives</category>
-      <description>Rivian's chief design officer walks Munro Live through the R2 and calls the whole car an exercise in removing cost where buyers will never notice.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
