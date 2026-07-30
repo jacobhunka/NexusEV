@@ -3,9 +3,46 @@
 
   <url>
     <loc>https://nexusevnews.com/daily-brief.html</loc>
-    <lastmod>2026-07-29</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://nexusevnews.com/articles/ferraris-ev-splits-its-power-three-ways-from-320-kw-to-725-kw.html</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/the-electric-mercedes-gla-starts-at-45400-with-800-volt-charging.html</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/top-gear-drove-the-luce-and-found-a-ferrari-under-the-styling.html</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/eleven-energy-says-its-sodium-battery-held-85-percent-after-13000-cycles.html</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/the-r2-hit-77-percent-of-its-epa-range-while-the-model-y-beat-its-own.html</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusevnews.com/articles/daily-brief-jul-30-2026.html</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <url>
@@ -2474,7 +2511,7 @@
 
   <url>
     <loc>https://nexusevnews.com/</loc>
-    <lastmod>2026-07-29</lastmod>
+    <lastmod>2026-07-30</lastmod>
   </url>
 
 

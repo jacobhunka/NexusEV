@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,51 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+      <title>Ferrari&#x27;s EV Splits Its Power Three Ways, From 320 kW to 725 kW</title>
+      <link>https://nexusevnews.com/articles/ferraris-ev-splits-its-power-three-ways-from-320-kw-to-725-kw.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/ferraris-ev-splits-its-power-three-ways-from-320-kw-to-725-kw.html</guid>
+      <pubDate>Thu, 30 Jul 2026 22:00:00 +0000</pubDate>
+      <dc:creator>Auto Focus</dc:creator>
+      <category>Reviews</category>
+      <description>Auto Focus drove a camouflaged Luce prototype on a private track. Range mode is rear-drive and capped at 320 kW, tour mode adds the front axle at 460 kW, and performance mode releases 725 kW.</description>
+    </item>
+    <item>
+      <title>The Electric Mercedes GLA Starts at £45,400 With 800-Volt Charging</title>
+      <link>https://nexusevnews.com/articles/the-electric-mercedes-gla-starts-at-45400-with-800-volt-charging.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-electric-mercedes-gla-starts-at-45400-with-800-volt-charging.html</guid>
+      <pubDate>Thu, 30 Jul 2026 21:00:00 +0000</pubDate>
+      <dc:creator>Electrifying</dc:creator>
+      <category>News</category>
+      <description>Electrifying reports UK prices from £45,400, a dedicated EV platform, 800 volt architecture allowing 320 kW DC charging, and up to 408 miles quoted on the larger battery.</description>
+    </item>
+    <item>
+      <title>Top Gear Drove the Luce and Found a Ferrari Under the Styling</title>
+      <link>https://nexusevnews.com/articles/top-gear-drove-the-luce-and-found-a-ferrari-under-the-styling.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/top-gear-drove-the-luce-and-found-a-ferrari-under-the-styling.html</guid>
+      <pubDate>Thu, 30 Jul 2026 20:30:00 +0000</pubDate>
+      <dc:creator>Top Gear</dc:creator>
+      <category>Reviews</category>
+      <description>A pre-production Luce on track: 1,035 bhp from four motors, 2,260 kg, a 0.25 drag coefficient, and torque delivery split into five steps to mimic engine braking.</description>
+    </item>
+    <item>
+      <title>Eleven Energy Says Its Sodium Battery Held 85 Percent After 13,000 Cycles</title>
+      <link>https://nexusevnews.com/articles/eleven-energy-says-its-sodium-battery-held-85-percent-after-13000-cycles.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/eleven-energy-says-its-sodium-battery-held-85-percent-after-13000-cycles.html</guid>
+      <pubDate>Thu, 30 Jul 2026 20:00:00 +0000</pubDate>
+      <dc:creator>Everything Electric TECH</dc:creator>
+      <category>Battery Technology</category>
+      <description>Everything Electric visits two UK homes running Eleven Energy sodium-ion packs, with 13,000 test cycles at 85 percent retention and real tariff numbers from a solar installer.</description>
+    </item>
+    <item>
+      <title>The R2 Hit 77 Percent of Its EPA Range While the Model Y Beat Its Own</title>
+      <link>https://nexusevnews.com/articles/the-r2-hit-77-percent-of-its-epa-range-while-the-model-y-beat-its-own.html</link>
+      <guid isPermaLink="true">https://nexusevnews.com/articles/the-r2-hit-77-percent-of-its-epa-range-while-the-model-y-beat-its-own.html</guid>
+      <pubDate>Thu, 30 Jul 2026 19:30:00 +0000</pubDate>
+      <dc:creator>Out of Spec Reviews</dc:creator>
+      <category>Deep Dives</category>
+      <description>Rated at 330 miles, the R2 managed 253 at a measured 70 mph. The Model Y, rated at 306, went 310 on the same road in the same heat.</description>
+    </item>
     <item>
       <title>The Around the World E-Truck Is a Stock eActros 600, on Purpose</title>
       <link>https://nexusevnews.com/articles/the-around-the-world-e-truck-is-a-stock-eactros-600-on-purpose.html</link>
@@ -114,51 +159,6 @@
       <dc:creator>Rich Rebuilds</dc:creator>
       <category>Used EVs</category>
       <description>Rich Rebuilds paid $4,100 for a Lucid Air that will not run, charge or roll. The salvage auction listings he shows before touching it are the real story.</description>
-    </item>
-    <item>
-      <title>The Used Audi Q4 e-tron Badge Maze Is the Hard Part</title>
-      <link>https://nexusevnews.com/articles/the-used-audi-q4-e-tron-badge-maze-is-the-hard-part.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-used-audi-q4-e-tron-badge-maze-is-the-hard-part.html</guid>
-      <pubDate>Mon, 27 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>Used EVs</category>
-      <description>Electrifying says a team member bought a Q4 Sportback under a year old for just over half its new price. Working out which Q4 you are looking at is the hard part.</description>
-    </item>
-    <item>
-      <title>The Subaru Uncharted Is a Toyota Underneath, and Mostly Fine With It</title>
-      <link>https://nexusevnews.com/articles/the-subaru-uncharted-is-a-toyota-underneath-and-mostly-fine-with-it.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-subaru-uncharted-is-a-toyota-underneath-and-mostly-fine-with-it.html</guid>
-      <pubDate>Mon, 27 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Car Question</dc:creator>
-      <category>Reviews</category>
-      <description>Car Question took the Uncharted onto grass and sand to test X-Mode. The all wheel drive version makes 338 hp. The front wheel drive Subaru is the odd part.</description>
-    </item>
-    <item>
-      <title>De Vries Wins a Red Flagged Tokyo Round and Dennis Takes the Lead</title>
-      <link>https://nexusevnews.com/articles/de-vries-wins-a-red-flagged-tokyo-round-and-dennis-takes-the-lead.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/de-vries-wins-a-red-flagged-tokyo-round-and-dennis-takes-the-lead.html</guid>
-      <pubDate>Mon, 27 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Formula E</dc:creator>
-      <category>News</category>
-      <description>A wet to dry Tokyo round ended behind a red flag with two laps left. Nyck de Vries won it, and Jake Dennis leaves Japan with the championship lead.</description>
-    </item>
-    <item>
-      <title>Out of Spec Put the R2 and Model Y Side by Side at Four Speeds</title>
-      <link>https://nexusevnews.com/articles/out-of-spec-put-the-r2-and-model-y-side-by-side-at-four-speeds.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/out-of-spec-put-the-r2-and-model-y-side-by-side-at-four-speeds.html</guid>
-      <pubDate>Mon, 27 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Deep Dives</category>
-      <description>Out of Spec ran both cars at 50, 60, 70 and 80 mph plus a city loop on the same day. The R2 used roughly 18 to 26 percent more energy in every test.</description>
-    </item>
-    <item>
-      <title>Electric Cayenne Beats a Purosangue and an Urus, Then Out-Brakes Both</title>
-      <link>https://nexusevnews.com/articles/electric-cayenne-beats-purosangue-and-urus-then-out-brakes-both.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/electric-cayenne-beats-purosangue-and-urus-then-out-brakes-both.html</guid>
-      <pubDate>Sun, 26 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>carwow</dc:creator>
-      <category>Reviews</category>
-      <description>carwow lined up a Porsche Cayenne Turbo EV against a Ferrari Purosangue and a Lamborghini Urus Performante. The Porsche took the quarter mile in 10 seconds, then out-braked both by half a tonne.</description>
     </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
