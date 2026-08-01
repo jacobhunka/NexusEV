@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -17,6 +17,51 @@
     <category>Solar</category>
     <category>Battery Technology</category>
     <item>
+  <title>The Premium Electric SUV Fight Now Comes Down to Seats and Suspension</title>
+  <link>https://nexusevnews.com/articles/autogefuhl-bmw-ix3-mercedes-glc-volvo-ex60-audi-q6-electric-suv-comparison.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/autogefuhl-bmw-ix3-mercedes-glc-volvo-ex60-audi-q6-electric-suv-comparison.html</guid>
+  <pubDate>Sat, 01 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>Autogefühl</dc:creator>
+  <category>Deep Dives</category>
+  <description>Autogefühl ran the BMW iX3, Mercedes GLC electric, Volvo EX60 and Audi Q6 e-tron through consumption tests and a 550 km road trip. The iX3 posted the best efficiency. The Mercedes still took the win.</description>
+</item>
+<item>
+  <title>Lexus Finally Built an Electric ES, and the Numbers Arrived Late</title>
+  <link>https://nexusevnews.com/articles/electrifying-lexus-es-350e-review-price-charging-uk.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/electrifying-lexus-es-350e-review-price-charging-uk.html</guid>
+  <pubDate>Sat, 01 Aug 2026 21:00:00 +0000</pubDate>
+  <dc:creator>Electrifying</dc:creator>
+  <category>Reviews</category>
+  <description>The eighth-generation ES is electric only in the UK, with a 517 litre boot and 22 kW AC charging. Electrifying found the DC charging speed and the asking price much harder to defend.</description>
+</item>
+<item>
+  <title>A $4,100 Lucid and a Question About Who Actually Controls Your Car</title>
+  <link>https://nexusevnews.com/articles/rich-rebuilds-lucid-salvage-repair-reshell-right-to-repair.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/rich-rebuilds-lucid-salvage-repair-reshell-right-to-repair.html</guid>
+  <pubDate>Sat, 01 Aug 2026 20:30:00 +0000</pubDate>
+  <dc:creator>Rich Rebuilds</dc:creator>
+  <category>Deep Dives</category>
+  <description>Rich Rebuilds bought a salvage Lucid Air for $4,100, then visited another owner whose lightly damaged car sits limited to 5 mph. The video reports Lucid told him a full re-shell is mandatory.</description>
+</item>
+<item>
+  <title>Rivian R2: Zero to 80 Percent in 30 Minutes, and 46 Minutes for the Last Five</title>
+  <link>https://nexusevnews.com/articles/state-of-charge-rivian-r2-full-charging-curve-0-to-100.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/state-of-charge-rivian-r2-full-charging-curve-0-to-100.html</guid>
+  <pubDate>Sat, 01 Aug 2026 20:00:00 +0000</pubDate>
+  <dc:creator>State of Charge</dc:creator>
+  <category>Charging</category>
+  <description>State of Charge mapped the R2 from empty to full on a 600 amp charger. The useful part of the curve ends early, and the top of the pack is where road trip time disappears.</description>
+</item>
+<item>
+  <title>Tesla&#x27;s Model Y L Reaches North America With Six Seats and One Awkward Row</title>
+  <link>https://nexusevnews.com/articles/out-of-spec-tesla-model-y-l-north-america-tour-specs.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/out-of-spec-tesla-model-y-l-north-america-tour-specs.html</guid>
+  <pubDate>Sat, 01 Aug 2026 19:30:00 +0000</pubDate>
+  <dc:creator>Out of Spec Reviews</dc:creator>
+  <category>Reviews</category>
+  <description>Seven inches longer, a bigger pack and a claimed 325 plus miles. Out of Spec toured the North American Model Y L and found the third row easier to sit in than to climb into.</description>
+</item>
+<item>
       <title>The Electric C-Class Costs Almost £10,000 More Than a Tesla Model 3</title>
       <link>https://nexusevnews.com/articles/the-electric-c-class-costs-almost-10000-more-than-a-tesla-model-3.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/the-electric-c-class-costs-almost-10000-more-than-a-tesla-model-3.html</guid>
@@ -115,52 +160,7 @@
       <category>Deep Dives</category>
       <description>Electric Trucker picked a production 621 kWh eActros 600 over a modified expedition build, keeping the 4x2 layout and factory air suspension so viewers can order the same truck.</description>
     </item>
-    <item>
-      <title>The Rivian R2 Tows Better Than Its 4,400 Pound Rating Suggests</title>
-      <link>https://nexusevnews.com/articles/the-rivian-r2-tows-better-than-its-4400-pound-rating-suggests.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-rivian-r2-tows-better-than-its-4400-pound-rating-suggests.html</guid>
-      <pubDate>Wed, 29 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Reviews</category>
-      <description>Out of Spec loaded an R2 Performance to its maximum tow rating and measured an inch of rear squat, with efficiency falling under 1 mile per kWh at 70 mph.</description>
-    </item>
-    <item>
-      <title>What Car? Says the Mazda 6e Is Undone by Its Body Control</title>
-      <link>https://nexusevnews.com/articles/what-car-says-the-mazda-6e-is-undone-by-its-body-control.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/what-car-says-the-mazda-6e-is-undone-by-its-body-control.html</guid>
-      <pubDate>Wed, 29 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>What Car?</dc:creator>
-      <category>Reviews</category>
-      <description>The £39,000 6e wins on cabin quality, frunk space and warranty, but What Car? reports poor body control on undulating roads and rates every direct rival higher to drive.</description>
-    </item>
-    <item>
-      <title>Range Rover's Electric GT Goes Almost Button Free</title>
-      <link>https://nexusevnews.com/articles/range-rovers-electric-gt-goes-almost-button-free.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/range-rovers-electric-gt-goes-almost-button-free.html</guid>
-      <pubDate>Wed, 29 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>News</category>
-      <description>Electrifying saw the interior of the fifth Range Rover model, an electric GT on JLR's EMA platform. The episode also picks apart why EV servicing quotes keep catching owners out.</description>
-    </item>
-    <item>
-      <title>The R2 Went 8 Miles Past Zero Before Turtle Mode Arrived</title>
-      <link>https://nexusevnews.com/articles/the-r2-went-8-miles-past-zero-before-turtle-mode-arrived.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-r2-went-8-miles-past-zero-before-turtle-mode-arrived.html</guid>
-      <pubDate>Wed, 29 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Testing</dc:creator>
-      <category>Battery Technology</category>
-      <description>Out of Spec Testing drove an R2 Performance from 5 percent to a dead stop on a closed track, and reports the reduced power warning arrived with almost no usable range left.</description>
-    </item>
-    <item>
-      <title>Janus Swaps Truck Batteries in Four Minutes Instead of Charging Them</title>
-      <link>https://nexusevnews.com/articles/janus-swaps-truck-batteries-in-four-minutes-instead-of-charging-them.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/janus-swaps-truck-batteries-in-four-minutes-instead-of-charging-them.html</guid>
-      <pubDate>Tue, 28 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Engineering with Rosie</dc:creator>
-      <category>Deep Dives</category>
-      <description>Engineering with Rosie visited Janus Electric&#x27;s Gosford plant, where diesel prime movers are converted in about six days and drivers swap their own packs in four minutes.</description>
-    </item>
-    <item>
+                        <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
       <link>https://nexusevnews.com/opinion-self-driving-disability-independence.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-self-driving-disability-independence.html</guid>
