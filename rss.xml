@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -17,6 +17,42 @@
     <category>Solar</category>
     <category>Battery Technology</category>
     <item>
+  <title>Five Minute Charging, Sodium Home Batteries, and the Slow Road to Battery Planes</title>
+  <link>https://nexusevnews.com/articles/five-minute-charging-sodium-home-batteries-and-the-slow-road-to-battery-planes.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/five-minute-charging-sodium-home-batteries-and-the-slow-road-to-battery-planes.html</guid>
+  <pubDate>Mon, 03 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>Everything Electric</dc:creator>
+  <category>Battery Tech</category>
+  <description>Robert Llewellyn and Oxford chemist Saiful Islam on 1.5 MW flash charging, sodium ion home storage and why solid state is still five to ten years out. Recorded on stage at Latitude.</description>
+</item>
+<item>
+  <title>China Did Not Win Batteries on Cheap Labour. It Won on Compound Interest.</title>
+  <link>https://nexusevnews.com/articles/china-did-not-win-batteries-on-cheap-labour-it-won-on-compound-interest.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/china-did-not-win-batteries-on-cheap-labour-it-won-on-compound-interest.html</guid>
+  <pubDate>Mon, 03 Aug 2026 21:00:00 +0000</pubDate>
+  <dc:creator>Just Have a Think</dc:creator>
+  <category>Deep Dives</category>
+  <description>Analyst Hans Eric Melin argues the story is not subsidies but decades of accumulated factory expertise, built around cities like Yichang. Europe can buy the plant, not the practice.</description>
+</item>
+<item>
+  <title>The Model Y L Reaches America With a Climate System That Buys Back Range</title>
+  <link>https://nexusevnews.com/articles/the-model-y-l-reaches-america-with-a-climate-system-that-buys-back-range.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/the-model-y-l-reaches-america-with-a-climate-system-that-buys-back-range.html</guid>
+  <pubDate>Mon, 03 Aug 2026 20:30:00 +0000</pubDate>
+  <dc:creator>Kim Java</dc:creator>
+  <category>News</category>
+  <description>Per row climate control, a cabin Tesla says cools 15 percent faster, and a thermal efficiency gain the video reports returns seven miles of range. Powershare arrives, the wireless pad does not.</description>
+</item>
+<item>
+  <title>The $125,000 Cayenne Keeps Its Full Power Locked Behind Launch Control</title>
+  <link>https://nexusevnews.com/articles/the-125000-cayenne-keeps-its-full-power-locked-behind-launch-control.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/the-125000-cayenne-keeps-its-full-power-locked-behind-launch-control.html</guid>
+  <pubDate>Mon, 03 Aug 2026 20:00:00 +0000</pubDate>
+  <dc:creator>Out of Spec Testing</dc:creator>
+  <category>Reviews</category>
+  <description>Out of Spec benchmarks the base Cayenne Electric at 4.33 seconds to 60 mph with launch control and 4.7 without, then stops it from 75 mph in 192 feet on a range tyre.</description>
+</item>
+<item>
   <title>Hungary Leads Europe on Solar, and the Grid Is Now the Bottleneck</title>
   <link>https://nexusevnews.com/articles/hungary-leads-europe-on-solar-and-the-grid-is-now-the-bottleneck.html</link>
   <guid isPermaLink="true">https://nexusevnews.com/articles/hungary-leads-europe-on-solar-and-the-grid-is-now-the-bottleneck.html</guid>
@@ -115,7 +151,7 @@
       <category>Reviews</category>
       <description>Electrifying drove the C400 4MATIC in Finland. It starts at £57,995, tops near £71,000, and lands well above a Model 3 Long Range, with a cheaper long-range version due later.</description>
     </item>
-    <item>
+<item>
       <title>Xiaomi's First Hybrid SUV Is Designed Around the Back Seats</title>
       <link>https://nexusevnews.com/articles/xiaomis-first-hybrid-suv-is-designed-around-the-back-seats.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/articles/xiaomis-first-hybrid-suv-is-designed-around-the-back-seats.html</guid>
@@ -124,43 +160,7 @@
       <category>Reviews</category>
       <description>Everything Electric APAC tours the Sky Nomad N90, a large three-row hybrid with a rotating-seat lounge mode, a fridge, and 1,700 km of combined range on the CLTC cycle.</description>
     </item>
-    <item>
-      <title>Out of Spec's Lucid Gravity Tester Stickers at $121,150</title>
-      <link>https://nexusevnews.com/articles/out-of-specs-lucid-gravity-tester-stickers-at-121150.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/out-of-specs-lucid-gravity-tester-stickers-at-121150.html</guid>
-      <pubDate>Fri, 31 Jul 2026 20:30:00 +0000</pubDate>
-      <dc:creator>Out of Spec Reviews</dc:creator>
-      <category>Deep Dives</category>
-      <description>A 2027 Gravity Grand Touring loaner specced by the host, said to hold around 225 kW on a Supercharger through boost, and rated the better buy over a pricier Cayenne.</description>
-    </item>
-    <item>
-      <title>EcoFlow's New Stream Doubles Solar Input to 5,000 Watts</title>
-      <link>https://nexusevnews.com/articles/ecoflows-new-stream-doubles-solar-input-to-5000-watts.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ecoflows-new-stream-doubles-solar-input-to-5000-watts.html</guid>
-      <pubDate>Fri, 31 Jul 2026 20:00:00 +0000</pubDate>
-      <dc:creator>UpsideDownFork</dc:creator>
-      <category>Solar</category>
-      <description>UpsideDownFork covers the second-gen Stream: PV input up to 5,000 watts, a full aluminum case, stackable batteries, and an early-bird start on August 12 ahead of a September 15 launch.</description>
-    </item>
-    <item>
-      <title>2,500 Miles in the Rivian R2 Turned Up One Real Defect</title>
-      <link>https://nexusevnews.com/articles/2500-miles-in-the-rivian-r2-turned-up-one-real-defect.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/2500-miles-in-the-rivian-r2-turned-up-one-real-defect.html</guid>
-      <pubDate>Fri, 31 Jul 2026 19:30:00 +0000</pubDate>
-      <dc:creator>RivianTrackr</dc:creator>
-      <category>Reviews</category>
-      <description>RivianTrackr drove a new R2 Performance from Illinois to Florida. Hands-free impressed, the software threw minor bugs, and one rear door trim piece kept popping loose.</description>
-    </item>
-    <item>
-      <title>Ferrari&#x27;s EV Splits Its Power Three Ways, From 320 kW to 725 kW</title>
-      <link>https://nexusevnews.com/articles/ferraris-ev-splits-its-power-three-ways-from-320-kw-to-725-kw.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/ferraris-ev-splits-its-power-three-ways-from-320-kw-to-725-kw.html</guid>
-      <pubDate>Thu, 30 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Auto Focus</dc:creator>
-      <category>Reviews</category>
-      <description>Auto Focus drove a camouflaged Luce prototype on a private track. Range mode is rear-drive and capped at 320 kW, tour mode adds the front axle at 460 kW, and performance mode releases 725 kW.</description>
-    </item>
-                                            <item>
+<item>
       <title>The Self-Driving Story Nobody Is Telling</title>
       <link>https://nexusevnews.com/opinion-self-driving-disability-independence.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-self-driving-disability-independence.html</guid>
@@ -169,7 +169,7 @@
       <category>Opinion</category>
       <description>The autonomy debate is all horse race. But for millions of people who cannot drive, a car that drives itself is the keys, handed back. Why Rivian's road to Level 4 matters more than the spec sheet, and the one thing it still has to get right.</description>
     </item>
-    <item>
+<item>
       <title>We Built the Tracker We Wish Existed When We Were Waiting for Our R1s</title>
       <link>https://nexusevnews.com/opinion-r2-tracker.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-r2-tracker.html</guid>
@@ -178,7 +178,7 @@
       <category>Opinion</category>
       <description>People were reading website source code to find out when their Rivian was coming. Forum signatures listed Guide contact dates like military service records. We are not doing that again for the R2. The Rivian R2 Delivery Tracker is live.</description>
     </item>
-    <item>
+<item>
       <title>Two Batteries, One Hitch, and the Case for All-Electric Glamping</title>
       <link>https://nexusevnews.com/opinion-rivian-lightship-glamping.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-rivian-lightship-glamping.html</guid>
@@ -187,7 +187,7 @@
       <category>Opinion</category>
       <description>The Lightship AE1 carries its own 69 kWh battery and 80 kW motor to neutralize trailer drag on the tow vehicle. Paired with a Rivian, the real-world efficiency numbers are hard to argue with. This is what all-electric glamping looks like when the hardware actually works.</description>
     </item>
-    <item>
+<item>
       <title>Atlanta, Rivian, and the Quiet Coincidence</title>
       <link>https://nexusevnews.com/opinion-atlanta-rivian-quiet-coincidence.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-atlanta-rivian-quiet-coincidence.html</guid>
