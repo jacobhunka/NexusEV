@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -17,6 +17,51 @@
     <category>Solar</category>
     <category>Battery Technology</category>
     <item>
+  <title>Lexus Built an Electric ES That Behaves Like the Gas One</title>
+  <link>https://nexusevnews.com/articles/lexus-built-an-electric-es-that-behaves-like-the-gas-one.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/lexus-built-an-electric-es-that-behaves-like-the-gas-one.html</guid>
+  <pubDate>Tue, 04 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>Auto Focus</dc:creator>
+  <category>Reviews</category>
+  <description>Auto Focus drove a late prototype and reports a single motor, around 220 horsepower and a rear floor tunnel that has no reason to exist in a front wheel drive electric car.</description>
+</item>
+<item>
+  <title>Audi Brought Back the A2 by Chasing Efficiency Instead of Battery Size</title>
+  <link>https://nexusevnews.com/articles/audi-brought-back-the-a2-by-chasing-efficiency-instead-of-battery-size.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/audi-brought-back-the-a2-by-chasing-efficiency-instead-of-battery-size.html</guid>
+  <pubDate>Tue, 04 Aug 2026 21:00:00 +0000</pubDate>
+  <dc:creator>Electrifying</dc:creator>
+  <category>Reviews</category>
+  <description>A camouflaged prototype driven in Sweden with a 58 kWh usable pack, 190 horsepower and a 0.24 drag coefficient. Electrifying reports 4.4 miles per kWh, with a support car managing 5.55.</description>
+</item>
+<item>
+  <title>Five Pounds of Fuel Against Five Pounds of Charge, on the Same Road</title>
+  <link>https://nexusevnews.com/articles/five-pounds-of-fuel-against-five-pounds-of-charge-on-the-same-road.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/five-pounds-of-fuel-against-five-pounds-of-charge-on-the-same-road.html</guid>
+  <pubDate>Tue, 04 Aug 2026 20:30:00 +0000</pubDate>
+  <dc:creator>Andersen EV</dc:creator>
+  <category>Charging</category>
+  <description>Five pounds of petrol showed about 40 miles on the gauge. Five pounds of overnight home charging filled a Renault 5 to 100 percent and 215 indicated miles. The result rests entirely on the tariff.</description>
+</item>
+<item>
+  <title>A Silverado EV Range Test Run the Way Families Actually Drive</title>
+  <link>https://nexusevnews.com/articles/a-silverado-ev-range-test-run-the-way-families-actually-drive.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/a-silverado-ev-range-test-run-the-way-families-actually-drive.html</guid>
+  <pubDate>Tue, 04 Aug 2026 20:00:00 +0000</pubDate>
+  <dc:creator>Outsider Reviews</dc:creator>
+  <category>Reviews</category>
+  <description>Two adults, a child, two dogs, cargo and climate control running front and rear. The video reports 642.7 km covered with 5 percent remaining, and a gauge that disagreed with the navigation.</description>
+</item>
+<item>
+  <title>Australia Wants EV Drivers to Pay by the Kilometre</title>
+  <link>https://nexusevnews.com/articles/australia-wants-ev-drivers-to-pay-by-the-kilometre.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/australia-wants-ev-drivers-to-pay-by-the-kilometre.html</guid>
+  <pubDate>Tue, 04 Aug 2026 19:30:00 +0000</pubDate>
+  <dc:creator>ABC News In-depth</dc:creator>
+  <category>News</category>
+  <description>From July next year, New South Wales EV drivers face a charge of almost 3 cents per kilometre. ABC 7.30 reports fuel excise raises around $15 billion a year and the base is shrinking fast.</description>
+</item>
+<item>
   <title>Five Minute Charging, Sodium Home Batteries, and the Slow Road to Battery Planes</title>
   <link>https://nexusevnews.com/articles/five-minute-charging-sodium-home-batteries-and-the-slow-road-to-battery-planes.html</link>
   <guid isPermaLink="true">https://nexusevnews.com/articles/five-minute-charging-sodium-home-batteries-and-the-slow-road-to-battery-planes.html</guid>
@@ -115,51 +160,6 @@
   <category>Reviews</category>
   <description>The eighth-generation ES is electric only in the UK, with a 517 litre boot and 22 kW AC charging. Electrifying found the DC charging speed and the asking price much harder to defend.</description>
 </item>
-<item>
-  <title>A $4,100 Lucid and a Question About Who Actually Controls Your Car</title>
-  <link>https://nexusevnews.com/articles/rich-rebuilds-lucid-salvage-repair-reshell-right-to-repair.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/rich-rebuilds-lucid-salvage-repair-reshell-right-to-repair.html</guid>
-  <pubDate>Sat, 01 Aug 2026 20:30:00 +0000</pubDate>
-  <dc:creator>Rich Rebuilds</dc:creator>
-  <category>Deep Dives</category>
-  <description>Rich Rebuilds bought a salvage Lucid Air for $4,100, then visited another owner whose lightly damaged car sits limited to 5 mph. The video reports Lucid told him a full re-shell is mandatory.</description>
-</item>
-<item>
-  <title>Rivian R2: Zero to 80 Percent in 30 Minutes, and 46 Minutes for the Last Five</title>
-  <link>https://nexusevnews.com/articles/state-of-charge-rivian-r2-full-charging-curve-0-to-100.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/state-of-charge-rivian-r2-full-charging-curve-0-to-100.html</guid>
-  <pubDate>Sat, 01 Aug 2026 20:00:00 +0000</pubDate>
-  <dc:creator>State of Charge</dc:creator>
-  <category>Charging</category>
-  <description>State of Charge mapped the R2 from empty to full on a 600 amp charger. The useful part of the curve ends early, and the top of the pack is where road trip time disappears.</description>
-</item>
-<item>
-  <title>Tesla&#x27;s Model Y L Reaches North America With Six Seats and One Awkward Row</title>
-  <link>https://nexusevnews.com/articles/out-of-spec-tesla-model-y-l-north-america-tour-specs.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/out-of-spec-tesla-model-y-l-north-america-tour-specs.html</guid>
-  <pubDate>Sat, 01 Aug 2026 19:30:00 +0000</pubDate>
-  <dc:creator>Out of Spec Reviews</dc:creator>
-  <category>Reviews</category>
-  <description>Seven inches longer, a bigger pack and a claimed 325 plus miles. Out of Spec toured the North American Model Y L and found the third row easier to sit in than to climb into.</description>
-</item>
-<item>
-      <title>The Electric C-Class Costs Almost £10,000 More Than a Tesla Model 3</title>
-      <link>https://nexusevnews.com/articles/the-electric-c-class-costs-almost-10000-more-than-a-tesla-model-3.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/the-electric-c-class-costs-almost-10000-more-than-a-tesla-model-3.html</guid>
-      <pubDate>Fri, 31 Jul 2026 22:00:00 +0000</pubDate>
-      <dc:creator>Electrifying</dc:creator>
-      <category>Reviews</category>
-      <description>Electrifying drove the C400 4MATIC in Finland. It starts at £57,995, tops near £71,000, and lands well above a Model 3 Long Range, with a cheaper long-range version due later.</description>
-    </item>
-<item>
-      <title>Xiaomi's First Hybrid SUV Is Designed Around the Back Seats</title>
-      <link>https://nexusevnews.com/articles/xiaomis-first-hybrid-suv-is-designed-around-the-back-seats.html</link>
-      <guid isPermaLink="true">https://nexusevnews.com/articles/xiaomis-first-hybrid-suv-is-designed-around-the-back-seats.html</guid>
-      <pubDate>Fri, 31 Jul 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Everything Electric APAC</dc:creator>
-      <category>Reviews</category>
-      <description>Everything Electric APAC tours the Sky Nomad N90, a large three-row hybrid with a rotating-seat lounge mode, a fridge, and 1,700 km of combined range on the CLTC cycle.</description>
-    </item>
 <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
       <link>https://nexusevnews.com/opinion-self-driving-disability-independence.html</link>
