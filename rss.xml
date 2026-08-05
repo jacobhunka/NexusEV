@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -17,6 +17,51 @@
     <category>Solar</category>
     <category>Battery Technology</category>
     <item>
+  <title>The bZ Woodland Is Toyota's First EV Worth Cross-Shopping</title>
+  <link>https://nexusevnews.com/articles/toyota-bz-woodland-is-toyotas-first-ev-worth-cross-shopping.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/toyota-bz-woodland-is-toyotas-first-ev-worth-cross-shopping.html</guid>
+  <pubDate>Wed, 05 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>Doug DeMuro</dc:creator>
+  <category>Reviews</category>
+  <description>Doug DeMuro reports around $47,000, 375 horsepower and 280 miles of range on a wagon shaped electric SUV developed with Subaru and sold there as the Trail Seeker.</description>
+</item>
+<item>
+  <title>The Denza Z Drifts and Parks Itself, at a Fraction of Hypercar Money</title>
+  <link>https://nexusevnews.com/articles/denza-z-parks-itself-drifts-itself-and-undercuts-hypercar-money.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/denza-z-parks-itself-drifts-itself-and-undercuts-hypercar-money.html</guid>
+  <pubDate>Wed, 05 Aug 2026 21:00:00 +0000</pubDate>
+  <dc:creator>Supercar Blondie</dc:creator>
+  <category>Reviews</category>
+  <description>Three motors and just over 1,600 horsepower, priced at roughly 150,000 to 200,000 euros. The party trick is a car that drifts and parks itself while nobody is inside.</description>
+</item>
+<item>
+  <title>A NEVI Site Actually Opened, and Two EV Drivers Built It</title>
+  <link>https://nexusevnews.com/articles/a-nevi-site-actually-opened-and-it-was-built-by-two-ev-drivers.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/a-nevi-site-actually-opened-and-it-was-built-by-two-ev-drivers.html</guid>
+  <pubDate>Wed, 05 Aug 2026 20:30:00 +0000</pubDate>
+  <dc:creator>State Of Charge</dc:creator>
+  <category>Charging</category>
+  <description>State of Charge visits PowerUp America's first site in rural Kentucky: a canopy, pull through stalls, tap to pay and both connectors on all four ports.</description>
+</item>
+<item>
+  <title>Replacing an Ioniq 5 Drive Motor Means Dropping the Whole Subframe</title>
+  <link>https://nexusevnews.com/articles/replacing-an-ioniq-5-drive-motor-means-dropping-the-whole-subframe.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/replacing-an-ioniq-5-drive-motor-means-dropping-the-whole-subframe.html</guid>
+  <pubDate>Wed, 05 Aug 2026 20:00:00 +0000</pubDate>
+  <dc:creator>Out of Spec Renew</dc:creator>
+  <category>Deep Dives</category>
+  <description>A 153,000 mile Ioniq 5 with an intermittent shutdown, an $8,000 dealer quote, and a used drive unit fitted instead. Two brackets are all that stand between this job and a simple one.</description>
+</item>
+<item>
+  <title>Waymo's Safety Numbers Look Great. Comparing Them Is the Hard Part.</title>
+  <link>https://nexusevnews.com/articles/waymo-safety-numbers-look-great-comparing-them-is-the-hard-part.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/waymo-safety-numbers-look-great-comparing-them-is-the-hard-part.html</guid>
+  <pubDate>Wed, 05 Aug 2026 19:30:00 +0000</pubDate>
+  <dc:creator>InsideEVs</dc:creator>
+  <category>News</category>
+  <description>An IIHS study puts Waymo in 68 percent fewer crashes than human drivers. The InsideEVs podcast digs into why that comparison is much harder to make than it sounds.</description>
+</item>
+<item>
   <title>Lexus Built an Electric ES That Behaves Like the Gas One</title>
   <link>https://nexusevnews.com/articles/lexus-built-an-electric-es-that-behaves-like-the-gas-one.html</link>
   <guid isPermaLink="true">https://nexusevnews.com/articles/lexus-built-an-electric-es-that-behaves-like-the-gas-one.html</guid>
@@ -114,51 +159,6 @@
   <dc:creator>Out of Spec Reviews</dc:creator>
   <category>Charging</category>
   <description>Out of Spec ran the base Cayenne Electric through its 10 percent challenge in 91 degree heat. It charged from 10 to 78 percent in a quarter of an hour, then held 80 mph for 186 miles.</description>
-</item>
-<item>
-  <title>TELO Raises the MT1's Tow Rating to 8,000 Pounds</title>
-  <link>https://nexusevnews.com/articles/telo-raises-the-mt1s-tow-rating-to-8000-pounds.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/telo-raises-the-mt1s-tow-rating-to-8000-pounds.html</guid>
-  <pubDate>Sun, 02 Aug 2026 20:30:00 +0000</pubDate>
-  <dc:creator>TELO Trucks</dc:creator>
-  <category>News</category>
-  <description>Co-founder Forest North says the compact electric pickup is now rated for 8,000 lb, up from an original target of 6,000. He credits regen braking and a hitch mounted close to the rear axle.</description>
-</item>
-<item>
-  <title>The Ioniq 6 N Is Quicker Than the 5 N. The Driver Preferred the 5 N.</title>
-  <link>https://nexusevnews.com/articles/the-ioniq-6-n-is-quicker-than-the-5-n-the-driver-preferred-the-5-n.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/the-ioniq-6-n-is-quicker-than-the-5-n-the-driver-preferred-the-5-n.html</guid>
-  <pubDate>Sun, 02 Aug 2026 20:00:00 +0000</pubDate>
-  <dc:creator>Driven+</dc:creator>
-  <category>Reviews</category>
-  <description>Driven+ ran both N cars on the same lap with racing driver Sam at the wheel. The 6 N won by under three tenths and entered the channel's top ten. It also demanded a lot more from him.</description>
-</item>
-<item>
-  <title>Farms, Reservoirs, Orbit: Where the Next Solar Panels Actually Go</title>
-  <link>https://nexusevnews.com/articles/farms-reservoirs-orbit-where-the-next-solar-panels-actually-go.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/farms-reservoirs-orbit-where-the-next-solar-panels-actually-go.html</guid>
-  <pubDate>Sun, 02 Aug 2026 19:30:00 +0000</pubDate>
-  <dc:creator>DW Planet A</dc:creator>
-  <category>Solar</category>
-  <description>DW Planet A weighs three answers to solar's land problem. Two are already being built at scale. The third is a satellite roughly 1.7 km across, beaming power down by microwave.</description>
-</item>
-<item>
-  <title>The Premium Electric SUV Fight Now Comes Down to Seats and Suspension</title>
-  <link>https://nexusevnews.com/articles/autogefuhl-bmw-ix3-mercedes-glc-volvo-ex60-audi-q6-electric-suv-comparison.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/autogefuhl-bmw-ix3-mercedes-glc-volvo-ex60-audi-q6-electric-suv-comparison.html</guid>
-  <pubDate>Sat, 01 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>Autogefühl</dc:creator>
-  <category>Deep Dives</category>
-  <description>Autogefühl ran the BMW iX3, Mercedes GLC electric, Volvo EX60 and Audi Q6 e-tron through consumption tests and a 550 km road trip. The iX3 posted the best efficiency. The Mercedes still took the win.</description>
-</item>
-<item>
-  <title>Lexus Finally Built an Electric ES, and the Numbers Arrived Late</title>
-  <link>https://nexusevnews.com/articles/electrifying-lexus-es-350e-review-price-charging-uk.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/electrifying-lexus-es-350e-review-price-charging-uk.html</guid>
-  <pubDate>Sat, 01 Aug 2026 21:00:00 +0000</pubDate>
-  <dc:creator>Electrifying</dc:creator>
-  <category>Reviews</category>
-  <description>The eighth-generation ES is electric only in the UK, with a 517 litre boot and 22 kW AC charging. Electrifying found the DC charging speed and the asking price much harder to defend.</description>
 </item>
 <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
