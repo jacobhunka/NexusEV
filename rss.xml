@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -17,6 +17,15 @@
     <category>Solar</category>
     <category>Battery Technology</category>
     <item>
+  <title>The Fuel Went Free. The Bottleneck Moved.</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-08-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-08-2026.html</guid>
+  <pubDate>Sat, 08 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Sunlight is now the cheapest power on Earth. Everything downstream of it, the hardware, the factories, the tariffs and the rulebooks, is still scarce.</description>
+</item>
+<item>
   <title>The Rivian R2 Launch Edition Costs $68,332 Out the Door</title>
   <link>https://nexusevnews.com/articles/rivian-r2-launch-edition-costs-68332-out-the-door.html</link>
   <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-launch-edition-costs-68332-out-the-door.html</guid>
@@ -150,15 +159,6 @@
   <dc:creator>InsideEVs</dc:creator>
   <category>News</category>
   <description>An IIHS study puts Waymo in 68 percent fewer crashes than human drivers. The InsideEVs podcast digs into why that comparison is much harder to make than it sounds.</description>
-</item>
-<item>
-  <title>Lexus Built an Electric ES That Behaves Like the Gas One</title>
-  <link>https://nexusevnews.com/articles/lexus-built-an-electric-es-that-behaves-like-the-gas-one.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/lexus-built-an-electric-es-that-behaves-like-the-gas-one.html</guid>
-  <pubDate>Tue, 04 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>Auto Focus</dc:creator>
-  <category>Reviews</category>
-  <description>Auto Focus drove a late prototype and reports a single motor, around 220 horsepower and a rear floor tunnel that has no reason to exist in a front wheel drive electric car.</description>
 </item>
 <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
