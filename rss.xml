@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -17,6 +17,15 @@
     <category>Solar</category>
     <category>Battery Technology</category>
     <item>
+  <title>The Headline Number Is the Least Interesting Number</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-09-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-09-2026.html</guid>
+  <pubDate>Sun, 09 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A 400 kW charger no car can fill, an EPA rating 25 miles short, and a price a dealership can move. Five stories that live in the gap between rated and real.</description>
+</item>
+<item>
   <title>The Fuel Went Free. The Bottleneck Moved.</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-08-2026.html</link>
   <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-08-2026.html</guid>
@@ -150,15 +159,6 @@
   <dc:creator>Out of Spec Renew</dc:creator>
   <category>Deep Dives</category>
   <description>A 153,000 mile Ioniq 5 with an intermittent shutdown, an $8,000 dealer quote, and a used drive unit fitted instead. Two brackets are all that stand between this job and a simple one.</description>
-</item>
-<item>
-  <title>Waymo's Safety Numbers Look Great. Comparing Them Is the Hard Part.</title>
-  <link>https://nexusevnews.com/articles/waymo-safety-numbers-look-great-comparing-them-is-the-hard-part.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/waymo-safety-numbers-look-great-comparing-them-is-the-hard-part.html</guid>
-  <pubDate>Wed, 05 Aug 2026 19:30:00 +0000</pubDate>
-  <dc:creator>InsideEVs</dc:creator>
-  <category>News</category>
-  <description>An IIHS study puts Waymo in 68 percent fewer crashes than human drivers. The InsideEVs podcast digs into why that comparison is much harder to make than it sounds.</description>
 </item>
 <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
