@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -17,6 +17,15 @@
     <category>Solar</category>
     <category>Battery Technology</category>
     <item>
+  <title>The Asset Was Already There</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-10-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-10-2026.html</guid>
+  <pubDate>Mon, 10 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Solar over canals, chargers in lots Walmart already owns, and a used ID.3 with its bugs already fixed. Five stories about value built on existing ground.</description>
+</item>
+<item>
   <title>The Headline Number Is the Least Interesting Number</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-09-2026.html</link>
   <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-09-2026.html</guid>
@@ -150,15 +159,6 @@
   <dc:creator>State Of Charge</dc:creator>
   <category>Charging</category>
   <description>State of Charge visits PowerUp America's first site in rural Kentucky: a canopy, pull through stalls, tap to pay and both connectors on all four ports.</description>
-</item>
-<item>
-  <title>Replacing an Ioniq 5 Drive Motor Means Dropping the Whole Subframe</title>
-  <link>https://nexusevnews.com/articles/replacing-an-ioniq-5-drive-motor-means-dropping-the-whole-subframe.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/replacing-an-ioniq-5-drive-motor-means-dropping-the-whole-subframe.html</guid>
-  <pubDate>Wed, 05 Aug 2026 20:00:00 +0000</pubDate>
-  <dc:creator>Out of Spec Renew</dc:creator>
-  <category>Deep Dives</category>
-  <description>A 153,000 mile Ioniq 5 with an intermittent shutdown, an $8,000 dealer quote, and a used drive unit fitted instead. Two brackets are all that stand between this job and a simple one.</description>
 </item>
 <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
