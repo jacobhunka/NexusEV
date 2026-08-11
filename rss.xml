@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -17,6 +17,15 @@
     <category>Solar</category>
     <category>Battery Technology</category>
     <item>
+  <title>Everything Except the Cells</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-11-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-11-2026.html</guid>
+  <pubDate>Tue, 11 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Two shop conversions on the same 40 kWh pack land nearly 90 miles apart. Five stories on where EV differentiation actually lives now.</description>
+</item>
+<item>
   <title>The Asset Was Already There</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-10-2026.html</link>
   <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-10-2026.html</guid>
@@ -150,15 +159,6 @@
   <dc:creator>Supercar Blondie</dc:creator>
   <category>Reviews</category>
   <description>Three motors and just over 1,600 horsepower, priced at roughly 150,000 to 200,000 euros. The party trick is a car that drifts and parks itself while nobody is inside.</description>
-</item>
-<item>
-  <title>A NEVI Site Actually Opened, and Two EV Drivers Built It</title>
-  <link>https://nexusevnews.com/articles/a-nevi-site-actually-opened-and-it-was-built-by-two-ev-drivers.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/a-nevi-site-actually-opened-and-it-was-built-by-two-ev-drivers.html</guid>
-  <pubDate>Wed, 05 Aug 2026 20:30:00 +0000</pubDate>
-  <dc:creator>State Of Charge</dc:creator>
-  <category>Charging</category>
-  <description>State of Charge visits PowerUp America's first site in rural Kentucky: a canopy, pull through stalls, tap to pay and both connectors on all four ports.</description>
 </item>
 <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
