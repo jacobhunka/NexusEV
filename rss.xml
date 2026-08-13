@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>Who Holds the Override</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-13-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-13-2026.html</guid>
+  <pubDate>Thu, 13 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A dead Amazon van, a home battery that trades on its own, and three products where the limit is set in software. Five stories on who actually controls the hardware.</description>
+</item>
     <item>
   <title>Everything Except the Cells</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-11-2026.html</link>
@@ -151,15 +160,7 @@
   <category>Reviews</category>
   <description>Doug DeMuro reports around $47,000, 375 horsepower and 280 miles of range on a wagon shaped electric SUV developed with Subaru and sold there as the Trail Seeker.</description>
 </item>
-<item>
-  <title>The Denza Z Drifts and Parks Itself, at a Fraction of Hypercar Money</title>
-  <link>https://nexusevnews.com/articles/denza-z-parks-itself-drifts-itself-and-undercuts-hypercar-money.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/denza-z-parks-itself-drifts-itself-and-undercuts-hypercar-money.html</guid>
-  <pubDate>Wed, 05 Aug 2026 21:00:00 +0000</pubDate>
-  <dc:creator>Supercar Blondie</dc:creator>
-  <category>Reviews</category>
-  <description>Three motors and just over 1,600 horsepower, priced at roughly 150,000 to 200,000 euros. The party trick is a car that drifts and parks itself while nobody is inside.</description>
-</item>
+
 <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
       <link>https://nexusevnews.com/opinion-self-driving-disability-independence.html</link>
