@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>Every Omission Was a Decision</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-14-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-14-2026.html</guid>
+  <pubDate>Fri, 14 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Two electric SUVs land 100 miles and 200 kilowatts apart, and only one of them explains what it gave up. Five stories on what got left out on purpose.</description>
+</item>
     <item>
   <title>Who Holds the Override</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-13-2026.html</link>
@@ -151,15 +160,7 @@
   <category>Reviews</category>
   <description>All wheel drive, 5.02 seconds to 100 km/h and one of the best rides in the class. CarSauce could not better 20.3 kWh per 100 km, and that changes the maths.</description>
 </item>
-<item>
-  <title>The bZ Woodland Is Toyota's First EV Worth Cross-Shopping</title>
-  <link>https://nexusevnews.com/articles/toyota-bz-woodland-is-toyotas-first-ev-worth-cross-shopping.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/toyota-bz-woodland-is-toyotas-first-ev-worth-cross-shopping.html</guid>
-  <pubDate>Wed, 05 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>Doug DeMuro</dc:creator>
-  <category>Reviews</category>
-  <description>Doug DeMuro reports around $47,000, 375 horsepower and 280 miles of range on a wagon shaped electric SUV developed with Subaru and sold there as the Trail Seeker.</description>
-</item>
+
 
 <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
