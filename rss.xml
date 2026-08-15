@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>The Cable Is the Ceiling Now</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-15-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-15-2026.html</guid>
+  <pubDate>Sat, 15 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A pack that can take more current than any public charger will hand it, a data centre firm building its own grid, and three more stories about the wire.</description>
+</item>
     <item>
   <title>Every Omission Was a Decision</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-14-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>Gjeebs</dc:creator>
   <category>Reviews</category>
   <description>A 205 kWh battery, a 478 mile rating and a $95,000 as tested price. Gjeebs charged it from 10 to 80 percent in 46 minutes and recommends the trim below it.</description>
-</item>
-<item>
-  <title>The Subaru Uncharted Nails the Drive and Misses on Efficiency</title>
-  <link>https://nexusevnews.com/articles/subaru-uncharted-nails-the-drive-and-misses-on-efficiency.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/subaru-uncharted-nails-the-drive-and-misses-on-efficiency.html</guid>
-  <pubDate>Thu, 06 Aug 2026 19:30:00 +0000</pubDate>
-  <dc:creator>CarSauce</dc:creator>
-  <category>Reviews</category>
-  <description>All wheel drive, 5.02 seconds to 100 km/h and one of the best rides in the class. CarSauce could not better 20.3 kWh per 100 km, and that changes the maths.</description>
 </item>
 
 
