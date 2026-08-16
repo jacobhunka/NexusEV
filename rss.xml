@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>The Best Version Is the One You Freeze</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-16-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-16-2026.html</guid>
+  <pubDate>Sun, 16 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A cherry farm paying seven cents a kilowatt hour, a Tesla owner who wants to stop updating, and three more stories about when a machine stops being good.</description>
+</item>
     <item>
   <title>The Cable Is the Ceiling Now</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-15-2026.html</link>
@@ -42,15 +51,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>A dead Amazon van, a home battery that trades on its own, and three products where the limit is set in software. Five stories on who actually controls the hardware.</description>
-</item>
-    <item>
-  <title>Everything Except the Cells</title>
-  <link>https://nexusevnews.com/articles/daily-edition-august-11-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-11-2026.html</guid>
-  <pubDate>Tue, 11 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>Two shop conversions on the same 40 kWh pack land nearly 90 miles apart. Five stories on where EV differentiation actually lives now.</description>
 </item>
 <item>
   <title>The Asset Was Already There</title>
