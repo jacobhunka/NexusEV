@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>Nobody Updated the Label</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-17-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-17-2026.html</guid>
+  <pubDate>Mon, 17 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A home battery Britain will let you charge but not discharge, a 400 volt car that beat its own charging spec, and three more stories where the paperwork lags the hardware.</description>
+</item>
     <item>
   <title>The Best Version Is the One You Freeze</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-16-2026.html</link>
@@ -151,17 +160,6 @@
   <category>Deep Dives</category>
   <description>Out of Spec ran both cars to a stop at 70 mph. The Cayenne managed 344.7 miles on 108 kWh, against roughly 356 miles from a Rivian carrying about 30 kWh more.</description>
 </item>
-<item>
-  <title>The Silverado EV Max Range Adds 323 Miles in 46 Minutes</title>
-  <link>https://nexusevnews.com/articles/silverado-ev-max-range-adds-323-miles-in-46-minutes.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/silverado-ev-max-range-adds-323-miles-in-46-minutes.html</guid>
-  <pubDate>Thu, 06 Aug 2026 20:00:00 +0000</pubDate>
-  <dc:creator>Gjeebs</dc:creator>
-  <category>Reviews</category>
-  <description>A 205 kWh battery, a 478 mile rating and a $95,000 as tested price. Gjeebs charged it from 10 to 80 percent in 46 minutes and recommends the trim below it.</description>
-</item>
-
-
 <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
       <link>https://nexusevnews.com/opinion-self-driving-disability-independence.html</link>
