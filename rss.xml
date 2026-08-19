@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>Every Spec Has a Second Number</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-19-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-19-2026.html</guid>
+  <pubDate>Wed, 19 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A 377 kilowatt charging peak, a 12,000 watt hour battery headline and a 1,200 watt solar kit, and what each of them actually delivered under load.</description>
+</item>
     <item>
   <title>Everything Except the Hard Part</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-18-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>carwow</dc:creator>
   <category>Reviews</category>
   <description>Carwow times the Cayenne Electric Turbo at 2.46 seconds to 60 mph and 9.98 over the quarter mile, then argues the entry level car is the one worth buying.</description>
-</item>
-<item>
-  <title>Denza's 1,604 HP Supercar Has Four Seats and a Fridge</title>
-  <link>https://nexusevnews.com/articles/denzas-1604-hp-supercar-has-four-seats-and-a-fridge.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/denzas-1604-hp-supercar-has-four-seats-and-a-fridge.html</guid>
-  <pubDate>Thu, 06 Aug 2026 21:00:00 +0000</pubDate>
-  <dc:creator>Electrifying</dc:creator>
-  <category>Reviews</category>
-  <description>Three motors, 1,604 horsepower and a cool box that runs to minus six. Electrifying drives the Z at Goodwood and confirms UK pricing from just under 143,000 pounds.</description>
 </item>
 <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
