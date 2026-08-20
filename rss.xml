@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>The Part You Cannot Update</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-20-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-20-2026.html</guid>
+  <pubDate>Thu, 20 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A Volvo rebuilt one year in, a Tesla owner who swapped in AI4 himself, and three more stories about which upgrades software can actually reach.</description>
+</item>
     <item>
   <title>Every Spec Has a Second Number</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-19-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>Autogef&#252;hl</dc:creator>
   <category>Reviews</category>
   <description>Autogef&#252;hl drives the 4xe all wheel drive against the Summit plug-in hybrid. The EV is smoother and quicker, and the price gap is smaller than expected.</description>
-</item>
-<item>
-  <title>Porsche's Quickest Cayenne Ever, and the Case for Buying the Cheap One</title>
-  <link>https://nexusevnews.com/articles/porsches-quickest-cayenne-ever-and-the-case-for-buying-the-cheap-one.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/porsches-quickest-cayenne-ever-and-the-case-for-buying-the-cheap-one.html</guid>
-  <pubDate>Thu, 06 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>carwow</dc:creator>
-  <category>Reviews</category>
-  <description>Carwow times the Cayenne Electric Turbo at 2.46 seconds to 60 mph and 9.98 over the quarter mile, then argues the entry level car is the one worth buying.</description>
 </item>
 <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
