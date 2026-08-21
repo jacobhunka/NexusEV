@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>One Is the Easy Part</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-21-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-21-2026.html</guid>
+  <pubDate>Fri, 21 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>An electric airliner flew, a shop finished a one-off 300ZX, and Aptera bought its way to a production line. Building one thing and building thousands are different jobs.</description>
+</item>
     <item>
   <title>The Part You Cannot Update</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-20-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>CBS Austin</dc:creator>
   <category>Charging</category>
   <description>CBS Austin reports on a bill that would let any Texan sell battery power back to their utility, as the state adds roughly 1,500 electric vehicles a week.</description>
-</item>
-<item>
-  <title>Jeep&#x27;s Electric Compass Makes the Plug-In Hybrid Hard to Justify</title>
-  <link>https://nexusevnews.com/articles/jeeps-electric-compass-makes-the-plug-in-hybrid-hard-to-justify.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/jeeps-electric-compass-makes-the-plug-in-hybrid-hard-to-justify.html</guid>
-  <pubDate>Fri, 07 Aug 2026 19:30:00 +0000</pubDate>
-  <dc:creator>Autogef&#252;hl</dc:creator>
-  <category>Reviews</category>
-  <description>Autogef&#252;hl drives the 4xe all wheel drive against the Summit plug-in hybrid. The EV is smoother and quicker, and the price gap is smaller than expected.</description>
 </item>
 <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
