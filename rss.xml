@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>Count the Heat</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-22-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-22-2026.html</guid>
+  <pubDate>Sat, 22 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Five stories where the gain is not more energy but less of it wasted: gasoline, grid transformers, sodium cells, a Porsche rear motor, and a truck record measured in stops.</description>
+</item>
     <item>
   <title>One Is the Easy Part</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-21-2026.html</link>
@@ -151,16 +160,7 @@
   <category>News</category>
   <description>State of Charge gets the details on Ford&#x27;s midsize electric truck: $29,945 with destination, reservations in early 2027, and a battery size still unconfirmed.</description>
 </item>
-<item>
-  <title>Texas Wants to Buy Power Back From Your EV</title>
-  <link>https://nexusevnews.com/articles/texas-wants-to-buy-power-back-from-your-ev.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/texas-wants-to-buy-power-back-from-your-ev.html</guid>
-  <pubDate>Fri, 07 Aug 2026 20:00:00 +0000</pubDate>
-  <dc:creator>CBS Austin</dc:creator>
-  <category>Charging</category>
-  <description>CBS Austin reports on a bill that would let any Texan sell battery power back to their utility, as the state adds roughly 1,500 electric vehicles a week.</description>
-</item>
-<item>
+    <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
       <link>https://nexusevnews.com/opinion-self-driving-disability-independence.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-self-driving-disability-independence.html</guid>
