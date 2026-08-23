@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>The Last Two Feet</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-23-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-23-2026.html</guid>
+  <pubDate>Sun, 23 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Rooftop solar with no grid behind it, a NACS port that only fast charges, a charger graded on first try, and a folding panel that beat its rating.</description>
+</item>
     <item>
   <title>Count the Heat</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-22-2026.html</link>
@@ -152,15 +161,6 @@
   <description>Ever runs a 1,020 hp Model S Plaid against a 1,234 hp Lucid Air Sapphire. The straight line gap is small. The steering, ride and price gaps are not.</description>
 </item>
 <item>
-  <title>Ford&#x27;s $28,350 Electric Pickup Has a Name: Fathom</title>
-  <link>https://nexusevnews.com/articles/fords-28350-electric-pickup-has-a-name-fathom.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/fords-28350-electric-pickup-has-a-name-fathom.html</guid>
-  <pubDate>Fri, 07 Aug 2026 20:30:00 +0000</pubDate>
-  <dc:creator>State of Charge</dc:creator>
-  <category>News</category>
-  <description>State of Charge gets the details on Ford&#x27;s midsize electric truck: $29,945 with destination, reservations in early 2027, and a battery size still unconfirmed.</description>
-</item>
-    <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
       <link>https://nexusevnews.com/opinion-self-driving-disability-independence.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-self-driving-disability-independence.html</guid>
