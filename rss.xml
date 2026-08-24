@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>Nobody Checks It For You</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-24-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-24-2026.html</guid>
+  <pubDate>Mon, 24 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A buyer with a flashlight, a used car whose dashboard hides its own wear, a race lost on the last lap, and a truck week replanned by the hour.</description>
+</item>
     <item>
   <title>The Last Two Feet</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-23-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>Gjeebs</dc:creator>
   <category>Reviews</category>
   <description>Gjeebs takes delivery of a launch green R2 Performance and reads out the paperwork: $57,990 to start, $2,000 for the paint, and $68,332 once tax and fees land.</description>
-</item>
-<item>
-  <title>Plaid vs Sapphire: What the Extra $139,000 Buys</title>
-  <link>https://nexusevnews.com/articles/plaid-vs-sapphire-what-the-extra-139000-buys.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/plaid-vs-sapphire-what-the-extra-139000-buys.html</guid>
-  <pubDate>Fri, 07 Aug 2026 21:00:00 +0000</pubDate>
-  <dc:creator>Ever</dc:creator>
-  <category>Deep Dives</category>
-  <description>Ever runs a 1,020 hp Model S Plaid against a 1,234 hp Lucid Air Sapphire. The straight line gap is small. The steering, ride and price gaps are not.</description>
 </item>
 <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
