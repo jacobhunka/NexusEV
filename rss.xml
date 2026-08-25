@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>The Backup Does the Real Work</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-25-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-25-2026.html</guid>
+  <pubDate>Tue, 25 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Coolant under the magnets, batteries in the evening gap, and a driver who is now the failsafe rather than the operator. Today's stories are about reserve systems.</description>
+</item>
     <item>
   <title>Nobody Checks It For You</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-24-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>Sunlight is now the cheapest power on Earth. Everything downstream of it, the hardware, the factories, the tariffs and the rulebooks, is still scarce.</description>
-</item>
-<item>
-  <title>The Rivian R2 Launch Edition Costs $68,332 Out the Door</title>
-  <link>https://nexusevnews.com/articles/rivian-r2-launch-edition-costs-68332-out-the-door.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/rivian-r2-launch-edition-costs-68332-out-the-door.html</guid>
-  <pubDate>Fri, 07 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>Gjeebs</dc:creator>
-  <category>Reviews</category>
-  <description>Gjeebs takes delivery of a launch green R2 Performance and reads out the paperwork: $57,990 to start, $2,000 for the paint, and $68,332 once tax and fees land.</description>
 </item>
 <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
