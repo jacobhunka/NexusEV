@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>The Permission Layer</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-26-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-26-2026.html</guid>
+  <pubDate>Wed, 26 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Solar soft costs, a UL certification number, diagnostic software a repairer cannot get, and a charger's amperage limit. Five stories where approval sets the pace.</description>
+</item>
     <item>
   <title>The Backup Does the Real Work</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-25-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>A 400 kW charger no car can fill, an EPA rating 25 miles short, and a price a dealership can move. Five stories that live in the gap between rated and real.</description>
-</item>
-<item>
-  <title>The Fuel Went Free. The Bottleneck Moved.</title>
-  <link>https://nexusevnews.com/articles/daily-edition-august-08-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-08-2026.html</guid>
-  <pubDate>Sat, 08 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>Sunlight is now the cheapest power on Earth. Everything downstream of it, the hardware, the factories, the tariffs and the rulebooks, is still scarce.</description>
 </item>
 <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
