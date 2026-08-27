@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>Somebody Pays for the Headroom</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-27-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-27-2026.html</guid>
+  <pubDate>Thu, 27 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>An 800 volt Mercedes that will not charge on 400 volt cabinets, a Lucid capped short of its request, and panels wired past their inverter on purpose.</description>
+</item>
     <item>
   <title>The Permission Layer</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-26-2026.html</link>
@@ -151,15 +160,7 @@
   <category>Daily Edition</category>
   <description>Solar over canals, chargers in lots Walmart already owns, and a used ID.3 with its bugs already fixed. Five stories about value built on existing ground.</description>
 </item>
-<item>
-  <title>The Headline Number Is the Least Interesting Number</title>
-  <link>https://nexusevnews.com/articles/daily-edition-august-09-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-09-2026.html</guid>
-  <pubDate>Sun, 09 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>A 400 kW charger no car can fill, an EPA rating 25 miles short, and a price a dealership can move. Five stories that live in the gap between rated and real.</description>
-</item>
+
 <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
       <link>https://nexusevnews.com/opinion-self-driving-disability-independence.html</link>
