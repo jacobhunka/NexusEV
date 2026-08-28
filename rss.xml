@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>The Gap Between Two Owners</title>
+  <link>https://nexusevnews.com/articles/daily-edition-august-28-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-28-2026.html</guid>
+  <pubDate>Fri, 28 Aug 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A plug-in hybrid study where the driver moves the emissions figure, three days of measured solar on one parked car, and two home batteries waiting on Britain.</description>
+</item>
     <item>
   <title>Somebody Pays for the Headroom</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-27-2026.html</link>
@@ -141,15 +150,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>Two electric SUVs land 100 miles and 200 kilowatts apart, and only one of them explains what it gave up. Five stories on what got left out on purpose.</description>
-</item>
-    <item>
-  <title>Who Holds the Override</title>
-  <link>https://nexusevnews.com/articles/daily-edition-august-13-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-13-2026.html</guid>
-  <pubDate>Thu, 13 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>A dead Amazon van, a home battery that trades on its own, and three products where the limit is set in software. Five stories on who actually controls the hardware.</description>
 </item>
 <item>
   <title>The Asset Was Already There</title>
