@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,42 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>Delivered, Then Measured</title>
+  <link>https://nexusevnews.com/articles/daily-edition-september-07-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-07-2026.html</guid>
+  <pubDate>Mon, 07 Sep 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A two-seat robotaxi on its first public days, a Model Y L that beats its own EPA figure, and an R2 owner running a fifth below rated efficiency three weeks in.</description>
+</item>
+    <item>
+  <title>The Price of a Mile Is Coming Apart</title>
+  <link>https://nexusevnews.com/articles/daily-edition-september-06-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-06-2026.html</guid>
+  <pubDate>Sun, 06 Sep 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A £154,000 Range Rover, a $37,500 Fiat with 149 miles of range, and a sodium cell reported at about $51 a kilowatt hour, all in the same week.</description>
+</item>
+    <item>
+  <title>Built to Be Corrected</title>
+  <link>https://nexusevnews.com/articles/daily-edition-september-05-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-05-2026.html</guid>
+  <pubDate>Sat, 05 Sep 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Wind turbine blades that leave the factory already carrying repairs, a Polestar that gets its rear window back, and three premium EVs throttled by the chargers rather than by the cars.</description>
+</item>
+    <item>
+  <title>Nobody Was Argued Into It</title>
+  <link>https://nexusevnews.com/articles/daily-edition-september-04-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-04-2026.html</guid>
+  <pubDate>Fri, 04 Sep 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Kenyan petrol up 50 percent, Thai showrooms filling with duty-free Chinese imports, Japan with almost no chargers, and a $29,990 Chevrolet that went 243 miles.</description>
+</item>
     <item>
   <title>The Gap Between Two Owners</title>
   <link>https://nexusevnews.com/articles/daily-edition-august-28-2026.html</link>
@@ -124,43 +160,6 @@
   <category>Daily Edition</category>
   <description>A home battery Britain will let you charge but not discharge, a 400 volt car that beat its own charging spec, and three more stories where the paperwork lags the hardware.</description>
 </item>
-    <item>
-  <title>The Best Version Is the One You Freeze</title>
-  <link>https://nexusevnews.com/articles/daily-edition-august-16-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-16-2026.html</guid>
-  <pubDate>Sun, 16 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>A cherry farm paying seven cents a kilowatt hour, a Tesla owner who wants to stop updating, and three more stories about when a machine stops being good.</description>
-</item>
-    <item>
-  <title>The Cable Is the Ceiling Now</title>
-  <link>https://nexusevnews.com/articles/daily-edition-august-15-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-15-2026.html</guid>
-  <pubDate>Sat, 15 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>A pack that can take more current than any public charger will hand it, a data centre firm building its own grid, and three more stories about the wire.</description>
-</item>
-    <item>
-  <title>Every Omission Was a Decision</title>
-  <link>https://nexusevnews.com/articles/daily-edition-august-14-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-14-2026.html</guid>
-  <pubDate>Fri, 14 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>Two electric SUVs land 100 miles and 200 kilowatts apart, and only one of them explains what it gave up. Five stories on what got left out on purpose.</description>
-</item>
-<item>
-  <title>The Asset Was Already There</title>
-  <link>https://nexusevnews.com/articles/daily-edition-august-10-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-10-2026.html</guid>
-  <pubDate>Mon, 10 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>Solar over canals, chargers in lots Walmart already owns, and a used ID.3 with its bugs already fixed. Five stories about value built on existing ground.</description>
-</item>
-
 <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
       <link>https://nexusevnews.com/opinion-self-driving-disability-independence.html</link>
