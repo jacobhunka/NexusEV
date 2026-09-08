@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>Shape Beats Capacity</title>
+  <link>https://nexusevnews.com/articles/daily-edition-september-08-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-08-2026.html</guid>
+  <pubDate>Tue, 08 Sep 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Audi kept the ID.3's battery and spent its engineering on drag instead. A house with 30 kilowatt hours of storage outlasted one with 68. The same lesson, twice.</description>
+</item>
     <item>
   <title>Delivered, Then Measured</title>
   <link>https://nexusevnews.com/articles/daily-edition-september-07-2026.html</link>
@@ -152,15 +161,6 @@
   <description>A licensed Audi badge, a lithium refinery that cannot beat China on cost, and three more stories about the piece nobody can buy off the shelf.</description>
 </item>
     <item>
-  <title>Nobody Updated the Label</title>
-  <link>https://nexusevnews.com/articles/daily-edition-august-17-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-17-2026.html</guid>
-  <pubDate>Mon, 17 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>A home battery Britain will let you charge but not discharge, a 400 volt car that beat its own charging spec, and three more stories where the paperwork lags the hardware.</description>
-</item>
-<item>
       <title>The Self-Driving Story Nobody Is Telling</title>
       <link>https://nexusevnews.com/opinion-self-driving-disability-independence.html</link>
       <guid isPermaLink="true">https://nexusevnews.com/opinion-self-driving-disability-independence.html</guid>
