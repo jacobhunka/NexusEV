@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>The Barrier Was Never the Battery</title>
+  <link>https://nexusevnews.com/articles/daily-edition-september-09-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-09-2026.html</guid>
+  <pubDate>Wed, 09 Sep 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Oslo makes charging cheaper than parking, CATL drops its minimum order to 600 cells, and a 98 year old buys a Model Y to stop watching intersections.</description>
+</item>
     <item>
   <title>Shape Beats Capacity</title>
   <link>https://nexusevnews.com/articles/daily-edition-september-08-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>A 377 kilowatt charging peak, a 12,000 watt hour battery headline and a 1,200 watt solar kit, and what each of them actually delivered under load.</description>
-</item>
-    <item>
-  <title>Everything Except the Hard Part</title>
-  <link>https://nexusevnews.com/articles/daily-edition-august-18-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-18-2026.html</guid>
-  <pubDate>Tue, 18 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>A licensed Audi badge, a lithium refinery that cannot beat China on cost, and three more stories about the piece nobody can buy off the shelf.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
