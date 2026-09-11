@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>The Self-Starter Test</title>
+  <link>https://nexusevnews.com/articles/daily-edition-september-11-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-11-2026.html</guid>
+  <pubDate>Fri, 11 Sep 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A starter motor ended the electric car's easiest sales pitch in 1912, and today's videos test which EV advantages could vanish as quickly.</description>
+</item>
     <item>
   <title>The Repeat Is the Review</title>
   <link>https://nexusevnews.com/articles/daily-edition-september-10-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>An electric airliner flew, a shop finished a one-off 300ZX, and Aptera bought its way to a production line. Building one thing and building thousands are different jobs.</description>
-</item>
-    <item>
-  <title>The Part You Cannot Update</title>
-  <link>https://nexusevnews.com/articles/daily-edition-august-20-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-20-2026.html</guid>
-  <pubDate>Thu, 20 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>A Volvo rebuilt one year in, a Tesla owner who swapped in AI4 himself, and three more stories about which upgrades software can actually reach.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
