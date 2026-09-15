@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>The Best EV Numbers This Week Belong to Cars You Can't Buy</title>
+  <link>https://nexusevnews.com/articles/daily-edition-september-15-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-15-2026.html</guid>
+  <pubDate>Tue, 15 Sep 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Volkswagen claims a drag coefficient world record, a student solar racer already beats it, and this week's Volvo and Skoda reviews show the showroom gap.</description>
+</item>
     <item>
   <title>Nobody Agrees What Counts as a Chinese Car. The Price Does.</title>
   <link>https://nexusevnews.com/articles/daily-edition-september-14-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>Coolant under the magnets, batteries in the evening gap, and a driver who is now the failsafe rather than the operator. Today's stories are about reserve systems.</description>
-</item>
-    <item>
-  <title>Nobody Checks It For You</title>
-  <link>https://nexusevnews.com/articles/daily-edition-august-24-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-24-2026.html</guid>
-  <pubDate>Mon, 24 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>A buyer with a flashlight, a used car whose dashboard hides its own wear, a race lost on the last lap, and a truck week replanned by the hour.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
