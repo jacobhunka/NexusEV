@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>Build It First, or Sell a Backup Plan</title>
+  <link>https://nexusevnews.com/articles/daily-edition-september-16-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-16-2026.html</guid>
+  <pubDate>Wed, 16 Sep 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>China built EV infrastructure before demand. Long Beach wants to do the same for floating wind, while Volvo sells a big-battery hedge to doubtful drivers.</description>
+</item>
     <item>
   <title>The Best EV Numbers This Week Belong to Cars You Can't Buy</title>
   <link>https://nexusevnews.com/articles/daily-edition-september-15-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>Solar soft costs, a UL certification number, diagnostic software a repairer cannot get, and a charger's amperage limit. Five stories where approval sets the pace.</description>
-</item>
-    <item>
-  <title>The Backup Does the Real Work</title>
-  <link>https://nexusevnews.com/articles/daily-edition-august-25-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-25-2026.html</guid>
-  <pubDate>Tue, 25 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>Coolant under the magnets, batteries in the evening gap, and a driver who is now the failsafe rather than the operator. Today's stories are about reserve systems.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
