@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>Same Forecourt, Different Fuel</title>
+  <link>https://nexusevnews.com/articles/daily-edition-september-17-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-17-2026.html</guid>
+  <pubDate>Thu, 17 Sep 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Norway&#x27;s fuel stations are turning into charging stops. A rear-drive GTI, a hydrogen X5, a Mach-E past zero and India&#x27;s solar push follow the same pattern.</description>
+</item>
     <item>
   <title>Build It First, or Sell a Backup Plan</title>
   <link>https://nexusevnews.com/articles/daily-edition-september-16-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>An 800 volt Mercedes that will not charge on 400 volt cabinets, a Lucid capped short of its request, and panels wired past their inverter on purpose.</description>
-</item>
-    <item>
-  <title>The Permission Layer</title>
-  <link>https://nexusevnews.com/articles/daily-edition-august-26-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-26-2026.html</guid>
-  <pubDate>Wed, 26 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>Solar soft costs, a UL certification number, diagnostic software a repairer cannot get, and a charger's amperage limit. Five stories where approval sets the pace.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
