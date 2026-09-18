@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>What the Options List Leaves Out</title>
+  <link>https://nexusevnews.com/articles/daily-edition-september-18-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-18-2026.html</guid>
+  <pubDate>Fri, 18 Sep 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Two BMW X3 reports, the most powerful Golf GTI yet, Tesla&#x27;s October Roadster event and a desert Rivian charging stop show what no order form covers.</description>
+</item>
     <item>
   <title>Same Forecourt, Different Fuel</title>
   <link>https://nexusevnews.com/articles/daily-edition-september-17-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>A plug-in hybrid study where the driver moves the emissions figure, three days of measured solar on one parked car, and two home batteries waiting on Britain.</description>
-</item>
-    <item>
-  <title>Somebody Pays for the Headroom</title>
-  <link>https://nexusevnews.com/articles/daily-edition-august-27-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-august-27-2026.html</guid>
-  <pubDate>Thu, 27 Aug 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>An 800 volt Mercedes that will not charge on 400 volt cabinets, a Lucid capped short of its request, and panels wired past their inverter on purpose.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
