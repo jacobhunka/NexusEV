@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>The Product Got Bigger Than the Machine</title>
+  <link>https://nexusevnews.com/articles/daily-edition-september-20-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-20-2026.html</guid>
+  <pubDate>Sun, 20 Sep 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A truck designed around its own factory, a charging network that won on canopies, and a home battery that restarts its own generator. The hardware is no longer the whole offer.</description>
+</item>
     <item>
   <title>Everything Worked. Something Else Went Wrong.</title>
   <link>https://nexusevnews.com/articles/daily-edition-september-19-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>Wind turbine blades that leave the factory already carrying repairs, a Polestar that gets its rear window back, and three premium EVs throttled by the chargers rather than by the cars.</description>
-</item>
-    <item>
-  <title>Nobody Was Argued Into It</title>
-  <link>https://nexusevnews.com/articles/daily-edition-september-04-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-04-2026.html</guid>
-  <pubDate>Fri, 04 Sep 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>Kenyan petrol up 50 percent, Thai showrooms filling with duty-free Chinese imports, Japan with almost no chargers, and a $29,990 Chevrolet that went 243 miles.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
