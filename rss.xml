@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>The Badge Goes On Last</title>
+  <link>https://nexusevnews.com/articles/daily-edition-september-23-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-23-2026.html</guid>
+  <pubDate>Wed, 23 Sep 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Most of today's cars share their bones with something else. What separates them now is the badge, the price and the monthly software bill.</description>
+</item>
     <item>
   <title>The Car You Buy Is Not the Car You Keep</title>
   <link>https://nexusevnews.com/articles/daily-edition-september-22-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>Audi kept the ID.3's battery and spent its engineering on drag instead. A house with 30 kilowatt hours of storage outlasted one with 68. The same lesson, twice.</description>
-</item>
-    <item>
-  <title>Delivered, Then Measured</title>
-  <link>https://nexusevnews.com/articles/daily-edition-september-07-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-07-2026.html</guid>
-  <pubDate>Mon, 07 Sep 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>A two-seat robotaxi on its first public days, a Model Y L that beats its own EPA figure, and an R2 owner running a fifth below rated efficiency three weeks in.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
