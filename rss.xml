@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>The Battery Was Never the Limit</title>
+  <link>https://nexusevnews.com/articles/daily-edition-september-24-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-24-2026.html</guid>
+  <pubDate>Thu, 24 Sep 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A trailer ran short of water before power, a truck stops when its driver does, and Bentley spent its effort on sound. Range is not the story.</description>
+</item>
     <item>
   <title>The Badge Goes On Last</title>
   <link>https://nexusevnews.com/articles/daily-edition-september-23-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>Oslo makes charging cheaper than parking, CATL drops its minimum order to 600 cells, and a 98 year old buys a Model Y to stop watching intersections.</description>
-</item>
-    <item>
-  <title>Shape Beats Capacity</title>
-  <link>https://nexusevnews.com/articles/daily-edition-september-08-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-08-2026.html</guid>
-  <pubDate>Tue, 08 Sep 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>Audi kept the ID.3's battery and spent its engineering on drag instead. A house with 30 kilowatt hours of storage outlasted one with 68. The same lesson, twice.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
