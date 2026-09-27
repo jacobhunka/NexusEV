@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>Somebody Else Has to Check the Number</title>
+  <link>https://nexusevnews.com/articles/daily-edition-september-26-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-26-2026.html</guid>
+  <pubDate>Sat, 26 Sep 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A German lab reran BYD's five-minute charge, another verified a 500 Wh/kg cell, and an R2 owner did Rivian's bookkeeping by hand. Trust follows whoever measured.</description>
+</item>
     <item>
   <title>Build It Like You Have to Fix It</title>
   <link>https://nexusevnews.com/articles/daily-edition-september-25-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>A starter motor ended the electric car's easiest sales pitch in 1912, and today's videos test which EV advantages could vanish as quickly.</description>
-</item>
-    <item>
-  <title>The Repeat Is the Review</title>
-  <link>https://nexusevnews.com/articles/daily-edition-september-10-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-10-2026.html</guid>
-  <pubDate>Thu, 10 Sep 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>Most car verdicts rest on one drive or one run, and today's videos show how often a second measurement changes the answer.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
