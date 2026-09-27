@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>Most of the Price Is Optional</title>
+  <link>https://nexusevnews.com/articles/daily-edition-september-27-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-27-2026.html</guid>
+  <pubDate>Sun, 27 Sep 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A &euro;200,000 i7 that its reviewer says is not worth double the base car, a Lucid built on smaller wheels, and a Bentley calling 875 hp sufficient.</description>
+</item>
     <item>
   <title>Somebody Else Has to Check the Number</title>
   <link>https://nexusevnews.com/articles/daily-edition-september-26-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>The longest-range SUV in Edmunds' eight-car test came eighth, and four other videos show where the argument moved.</description>
-</item>
-    <item>
-  <title>The Self-Starter Test</title>
-  <link>https://nexusevnews.com/articles/daily-edition-september-11-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-11-2026.html</guid>
-  <pubDate>Fri, 11 Sep 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>A starter motor ended the electric car's easiest sales pitch in 1912, and today's videos test which EV advantages could vanish as quickly.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
