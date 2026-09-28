@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>The Distance Is in the Price</title>
+  <link>https://nexusevnews.com/articles/daily-edition-september-28-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-28-2026.html</guid>
+  <pubDate>Mon, 28 Sep 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A Semi plant that stamps its own panels, lithium pumped from beneath German farmland, and a Geely priced in yuan at home and in pounds here.</description>
+</item>
     <item>
   <title>Most of the Price Is Optional</title>
   <link>https://nexusevnews.com/articles/daily-edition-september-27-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>A 25 year solar warranty is only worth the installer still being in business, and four other videos ask the same question of a battery plant and a discontinued SUV.</description>
-</item>
-    <item>
-  <title>The Most Range Finished Last</title>
-  <link>https://nexusevnews.com/articles/daily-edition-september-12-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-12-2026.html</guid>
-  <pubDate>Sat, 12 Sep 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>The longest-range SUV in Edmunds' eight-car test came eighth, and four other videos show where the argument moved.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
