@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>The Fine Print Picks the Car</title>
+  <link>https://nexusevnews.com/articles/daily-edition-september-30-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-30-2026.html</guid>
+  <pubDate>Wed, 30 Sep 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>An insurance quote picked an Ioniq 5, British wiring rules split Hoymiles' solar from its battery, and US policy shrank GM's Bolt run to a fraction.</description>
+</item>
     <item>
   <title>Keep the Buttons, Lose the Full Tank</title>
   <link>https://nexusevnews.com/articles/daily-edition-september-29-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>Volkswagen claims a drag coefficient world record, a student solar racer already beats it, and this week's Volvo and Skoda reviews show the showroom gap.</description>
-</item>
-    <item>
-  <title>Nobody Agrees What Counts as a Chinese Car. The Price Does.</title>
-  <link>https://nexusevnews.com/articles/daily-edition-september-14-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-14-2026.html</guid>
-  <pubDate>Mon, 14 Sep 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>Electrifying's podcast asked listeners where a car stops being Chinese. Today's Twingo, Mazda and Volkswagen reviews show the answer already has a number attached to it.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
