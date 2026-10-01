@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>Repetition Is the Product</title>
+  <link>https://nexusevnews.com/articles/daily-edition-october-01-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-october-01-2026.html</guid>
+  <pubDate>Thu, 01 Oct 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A battery plant counts defects per billion, small reactors still wait for a second identical build, and BMW's new platform repeats its flaws along with its savings.</description>
+</item>
     <item>
   <title>The Fine Print Picks the Car</title>
   <link>https://nexusevnews.com/articles/daily-edition-september-30-2026.html</link>
@@ -150,15 +159,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>China built EV infrastructure before demand. Long Beach wants to do the same for floating wind, while Volvo sells a big-battery hedge to doubtful drivers.</description>
-</item>
-    <item>
-  <title>The Best EV Numbers This Week Belong to Cars You Can't Buy</title>
-  <link>https://nexusevnews.com/articles/daily-edition-september-15-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-15-2026.html</guid>
-  <pubDate>Tue, 15 Sep 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>Volkswagen claims a drag coefficient world record, a student solar racer already beats it, and this week's Volvo and Skoda reviews show the showroom gap.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
