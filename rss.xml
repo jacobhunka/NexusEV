@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>Installed Is Not Delivered</title>
+  <link>https://nexusevnews.com/articles/daily-edition-october-13-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-october-13-2026.html</guid>
+  <pubDate>Tue, 13 Oct 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>China switches off wind and solar it already built, a Love&#x27;s charging site holds 1,200 kW but gives one car 200, and Scout buyers want a generator anyway.</description>
+</item>
     <item>
   <title>Proof Arrives in Stages</title>
   <link>https://nexusevnews.com/articles/daily-edition-october-12-2026.html</link>
@@ -159,15 +168,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>Two BMW X3 reports, the most powerful Golf GTI yet, Tesla&#x27;s October Roadster event and a desert Rivian charging stop show what no order form covers.</description>
-</item>
-    <item>
-  <title>Same Forecourt, Different Fuel</title>
-  <link>https://nexusevnews.com/articles/daily-edition-september-17-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-17-2026.html</guid>
-  <pubDate>Thu, 17 Sep 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>Norway&#x27;s fuel stations are turning into charging stops. A rear-drive GTI, a hydrogen X5, a Mach-E past zero and India&#x27;s solar push follow the same pattern.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
