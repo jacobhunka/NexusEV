@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>Compared to What?</title>
+  <link>https://nexusevnews.com/articles/daily-edition-october-14-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-october-14-2026.html</guid>
+  <pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A solar panel that wins against a weak baseline, home batteries that win on storage and lose on power, and a used Ioniq 6 measured against $25,000.</description>
+</item>
     <item>
   <title>Installed Is Not Delivered</title>
   <link>https://nexusevnews.com/articles/daily-edition-october-13-2026.html</link>
@@ -159,15 +168,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>Eight small EVs driven to empty, two SUVs on the Outer Banks, a bison ranch, an electric plane and an Australian exit interview. The battery was rarely the limit.</description>
-</item>
-    <item>
-  <title>What the Options List Leaves Out</title>
-  <link>https://nexusevnews.com/articles/daily-edition-september-18-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-18-2026.html</guid>
-  <pubDate>Fri, 18 Sep 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>Two BMW X3 reports, the most powerful Golf GTI yet, Tesla&#x27;s October Roadster event and a desert Rivian charging stop show what no order form covers.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
