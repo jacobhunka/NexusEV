@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>Which One Did They Test?</title>
+  <link>https://nexusevnews.com/articles/daily-edition-october-20-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-october-20-2026.html</guid>
+  <pubDate>Tue, 20 Oct 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A Donut Lab cell, a Zeekr battery and an R2 on all-terrain tires: each headline number belongs to one version, and it may not be the one you buy.</description>
+</item>
     <item>
   <title>The Old One Is Still in the Room</title>
   <link>https://nexusevnews.com/articles/daily-edition-october-19-2026.html</link>
@@ -159,15 +168,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>A battery firm that keeps what it installs, a builder who rebuilt his car three times, and a concept nobody will service. Who fixes it shapes the design.</description>
-</item>
-    <item>
-  <title>The Battery Was Never the Limit</title>
-  <link>https://nexusevnews.com/articles/daily-edition-september-24-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-24-2026.html</guid>
-  <pubDate>Thu, 24 Sep 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>A trailer ran short of water before power, a truck stops when its driver does, and Bentley spent its effort on sound. Range is not the story.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
