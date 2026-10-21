@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>The Catch Was Somewhere Else</title>
+  <link>https://nexusevnews.com/articles/daily-edition-october-21-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-october-21-2026.html</guid>
+  <pubDate>Wed, 21 Oct 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>A Polestar 2 sold as damaged, an electric Range Rover that tows less and an iX3 that drops lane centering: the real catch is rarely the advertised one.</description>
+</item>
     <item>
   <title>Which One Did They Test?</title>
   <link>https://nexusevnews.com/articles/daily-edition-october-20-2026.html</link>
@@ -159,15 +168,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>A German lab reran BYD's five-minute charge, another verified a 500 Wh/kg cell, and an R2 owner did Rivian's bookkeeping by hand. Trust follows whoever measured.</description>
-</item>
-    <item>
-  <title>Build It Like You Have to Fix It</title>
-  <link>https://nexusevnews.com/articles/daily-edition-september-25-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-25-2026.html</guid>
-  <pubDate>Fri, 25 Sep 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>A battery firm that keeps what it installs, a builder who rebuilt his car three times, and a concept nobody will service. Who fixes it shapes the design.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
