@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>The Battery Gets the Free Lunch</title>
+  <link>https://nexusevnews.com/articles/daily-edition-october-22-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-october-22-2026.html</guid>
+  <pubDate>Thu, 22 Oct 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Australia's free midday power mostly rewards homes that can store it, which is also the quiet argument behind Porsche's floor-mounted charging pad.</description>
+</item>
     <item>
   <title>The Catch Was Somewhere Else</title>
   <link>https://nexusevnews.com/articles/daily-edition-october-21-2026.html</link>
@@ -159,15 +168,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>A &#8364;200,000 i7 that its reviewer says is not worth double the base car, a Lucid built on smaller wheels, and a Bentley calling 875 hp sufficient.</description>
-</item>
-    <item>
-  <title>Somebody Else Has to Check the Number</title>
-  <link>https://nexusevnews.com/articles/daily-edition-september-26-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-26-2026.html</guid>
-  <pubDate>Sat, 26 Sep 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>A German lab reran BYD's five-minute charge, another verified a 500 Wh/kg cell, and an R2 owner did Rivian's bookkeeping by hand. Trust follows whoever measured.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
