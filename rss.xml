@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,24 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>The Physics Is the Easy Part</title>
+  <link>https://nexusevnews.com/articles/daily-edition-october-25-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-october-25-2026.html</guid>
+  <pubDate>Sun, 25 Oct 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Tesla&#x27;s Roadster stunts survive an engineer&#x27;s math and a solid-state line starts up, but shipping dates, energy density and Mississippi&#x27;s chargers are harder to fix.</description>
+</item>
+    <item>
+  <title>The Work Is Where Nobody Looks</title>
+  <link>https://nexusevnews.com/articles/daily-edition-october-24-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-october-24-2026.html</guid>
+  <pubDate>Sat, 24 Oct 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>An ID.3 and a Range Rover that barely change outside, an iX3 seen from below, and winter damage that starts where few owners ever check.</description>
+</item>
     <item>
   <title>The Cells Will Outlast the Cabin</title>
   <link>https://nexusevnews.com/articles/daily-edition-october-23-2026.html</link>
@@ -150,24 +168,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>An insurance quote picked an Ioniq 5, British wiring rules split Hoymiles' solar from its battery, and US policy shrank GM's Bolt run to a fraction.</description>
-</item>
-    <item>
-  <title>Keep the Buttons, Lose the Full Tank</title>
-  <link>https://nexusevnews.com/articles/daily-edition-september-29-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-29-2026.html</guid>
-  <pubDate>Tue, 29 Sep 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>Volkswagen puts real dials back in its electric Tiguan, Polestar gives the 4 a rear window, and a veteran EV driver asks people to stop filling to the top.</description>
-</item>
-    <item>
-  <title>The Distance Is in the Price</title>
-  <link>https://nexusevnews.com/articles/daily-edition-september-28-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-september-28-2026.html</guid>
-  <pubDate>Mon, 28 Sep 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>A Semi plant that stamps its own panels, lithium pumped from beneath German farmland, and a Geely priced in yuan at home and in pounds here.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
