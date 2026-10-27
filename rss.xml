@@ -5,7 +5,7 @@
     <link>https://nexusevnews.com/</link>
     <description>Independent EV and renewable energy news, curated daily. Electric vehicles, solar, battery tech, and charging infrastructure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://nexusevnews.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://nexusevnews.com/og-image.jpg</url>
@@ -16,6 +16,15 @@
     <category>Renewable Energy</category>
     <category>Solar</category>
     <category>Battery Technology</category>
+    <item>
+  <title>Every Number Needs a Witness</title>
+  <link>https://nexusevnews.com/articles/daily-edition-october-27-2026.html</link>
+  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-october-27-2026.html</guid>
+  <pubDate>Tue, 27 Oct 2026 22:00:00 +0000</pubDate>
+  <dc:creator>nexusEVnews</dc:creator>
+  <category>Daily Edition</category>
+  <description>Out of Spec&#x27;s Lucid Gravity falls 93 miles short of its EPA rating, What Car?&#x27;s Polo nearly matches WLTP, and Subaru&#x27;s lighter battery awaits any outside test.</description>
+</item>
     <item>
   <title>Boring Is Winning</title>
   <link>https://nexusevnews.com/articles/daily-edition-october-26-2026.html</link>
@@ -159,15 +168,6 @@
   <dc:creator>nexusEVnews</dc:creator>
   <category>Daily Edition</category>
   <description>A buyer who chose slow charging over buggy software, a Tesla motor built around weaker magnets, and a truck battery that charges during the driver's mandatory break.</description>
-</item>
-    <item>
-  <title>Repetition Is the Product</title>
-  <link>https://nexusevnews.com/articles/daily-edition-october-01-2026.html</link>
-  <guid isPermaLink="true">https://nexusevnews.com/articles/daily-edition-october-01-2026.html</guid>
-  <pubDate>Thu, 01 Oct 2026 22:00:00 +0000</pubDate>
-  <dc:creator>nexusEVnews</dc:creator>
-  <category>Daily Edition</category>
-  <description>A battery plant counts defects per billion, small reactors still wait for a second identical build, and BMW's new platform repeats its flaws along with its savings.</description>
 </item>
     <item>
       <title>The Self-Driving Story Nobody Is Telling</title>
